@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+anki_ocr/__init__.py
+anki_ocr/__main__.py
+anki_ocr/anki_connect.py
+anki_ocr/cli.py
+anki_ocr/core.py
+anki_ocr/desktop.py
+anki_ocr/enrich.py
+anki_ocr/ocr.py
+anki_ocr/py.typed
+anki_ocr_answer.egg-info/PKG-INFO
+anki_ocr_answer.egg-info/SOURCES.txt
+anki_ocr_answer.egg-info/dependency_links.txt
+anki_ocr_answer.egg-info/entry_points.txt
+anki_ocr_answer.egg-info/requires.txt
+anki_ocr_answer.egg-info/top_level.txt

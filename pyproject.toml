@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "anki-ocr-answer"
+version = "0.1.0"
+description = "OCR images from an Anki deck and generate romaji, translations, and grammar notes"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "requests>=2.31.0",
+  "pillow>=10.0.0",
+  "pytesseract>=0.3.10",
+  "typer>=0.12.0",
+  "rich>=13.7.0",
+  "openai>=1.40.0",
+]
+
+[project.scripts]
+anki-ocr = "anki_ocr.cli:app"
+anki-ocr-gui = "anki_ocr.desktop:main"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+include = ["anki_ocr*"]

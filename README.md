@@ -1,0 +1,75 @@
+# Anki OCR Answer
+
+CLI Python để:
+
+- lấy notes từ một deck Anki qua AnkiConnect
+- OCR các ảnh xuất hiện trong field của note
+- dùng LLM để sinh:
+  - romaji của câu hỏi
+  - dịch nghĩa tiếng Việt
+  - đáp án / nội dung nhận dạng từ ảnh
+  - giải thích ngữ pháp ngắn
+- ghi phần kết quả vào mặt sau của note hoặc xuất report Markdown
+
+## Yêu cầu
+
+- Anki đang mở
+- Cài add-on AnkiConnect
+- Tesseract OCR đã cài trên máy Windows, có dữ liệu `eng` và `jpn`
+- `GEMINI_API_KEY` hoặc `OPENAI_API_KEY` để tạo phần romaji / dịch / ngữ pháp
+
+Nếu chưa có API key, tool vẫn chạy OCR-only và sẽ ghi chú rằng phần romaji/dịch/ngữ pháp chưa được sinh tự động. Với Gemini, tool tự đọc thêm `GEMINI_API_KEY_1` đến `GEMINI_API_KEY_9` và thử key kế tiếp nếu key trước bị lỗi.
+
+AnkiConnect có mã add-on là `2055492159`.
+
+## Cài đặt
+
+```bash
+pip install -e .
+```
+
+## Chạy thử
+
+```bash
+anki-ocr process --deck "Moji goi mondai 3" --front-field Front --back-field Back --target-field Back
+```
+
+Mở giao diện desktop:
+
+```bash
+anki-ocr-gui
+```
+
+Nếu muốn chỉ tạo báo cáo, không ghi vào Anki:
+
+```bash
+anki-ocr process --deck "Moji goi mondai 3" --dry-run --report-path output/report.md
+```
+
+Deck lớn có thể chạy lâu vì mỗi note cần OCR và gọi LLM. Nên thử trước vài note:
+
+```bash
+anki-ocr process --deck "Moji goi mondai 3" --dry-run --limit 5
+```
+
+## Ghi chú cấu hình
+
+- `--front-field` là field chứa câu hỏi / ảnh
+- `--back-field` là field đang chứa đáp án gốc
+- `--target-field` là field sẽ được cập nhật; mặc định là `Back`
+- `--ocr-lang` mặc định là `jpn+eng`
+- `--model` mặc định lấy từ `GEMINI_MODEL`, sau đó `OPENAI_MODEL`; nếu không có thì dùng `gemini-2.5-flash`
+- `--base-url` chỉ cần dùng khi bạn muốn trỏ sang endpoint OpenAI-compatible khác
+- `--skip-existing` bỏ qua note đã có block `anki-ocr-answer`, hữu ích khi muốn chạy tiếp sau khi dừng giữa chừng
+- Giao diện desktop có sẵn form nhập deck, API key Gemini/OpenAI, field name, đường dẫn report và nút chạy trực tiếp.
+
+Ví dụ cấu hình Gemini trong PowerShell:
+
+```powershell
+[Environment]::SetEnvironmentVariable('GEMINI_MODEL', 'gemini-2.5-flash', 'User')
+[Environment]::SetEnvironmentVariable('GEMINI_API_KEY', '<key-cua-ban>', 'User')
+```
+
+Nếu Tesseract không thấy tiếng Nhật, đặt `TESSDATA_PREFIX` tới thư mục `tessdata` có `jpn.traineddata`.
+
+Nếu note type của bạn dùng field khác, hãy đổi `--front-field` và `--target-field` cho đúng.
