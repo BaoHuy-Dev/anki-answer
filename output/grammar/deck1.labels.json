@@ -1,0 +1,2354 @@
+[
+  {
+    "id": 1779899194520,
+    "label": "〜って",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899195047,
+    "label": "語:どちらかというと",
+    "romaji": "go:dochira ka to iu to",
+    "vi": "Nói chung là, nghiêng về phía"
+  },
+  {
+    "id": 1779899195576,
+    "label": "〜うちに",
+    "romaji": "~uchi ni",
+    "vi": "Trong khi còn, ngay khi còn"
+  },
+  {
+    "id": 1779899196105,
+    "label": "〜たばかり",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899196664,
+    "label": "Vたくて",
+    "romaji": "Vtakute",
+    "vi": "Vì muốn V"
+  },
+  {
+    "id": 1779899197214,
+    "label": "Vたら",
+    "romaji": "Vtara",
+    "vi": "Nếu V thì"
+  },
+  {
+    "id": 1779899197765,
+    "label": "語:持って行く",
+    "romaji": "go:motte iku",
+    "vi": "Mang đi, mang theo"
+  },
+  {
+    "id": 1779899198292,
+    "label": "〜といい",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899198829,
+    "label": "敬語: ご〜になる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899199381,
+    "label": "Vなくなってしまう",
+    "romaji": "Vnakunatte shimau",
+    "vi": "Đã không còn V được nữa (tiếc nuối)"
+  },
+  {
+    "id": 1779899199918,
+    "label": "Vたほうがいい",
+    "romaji": "Vta hou ga ii",
+    "vi": "Nên V thì hơn"
+  },
+  {
+    "id": 1779899200445,
+    "label": "語:何度(も)",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899200988,
+    "label": "〜なんか",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899201543,
+    "label": "Nでなら",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899202107,
+    "label": "語:あまりに",
+    "romaji": "go: amarini",
+    "vi": "quá, quá mức"
+  },
+  {
+    "id": 1779899202648,
+    "label": "Vる/Nにしたがって",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899203190,
+    "label": "Vたら",
+    "romaji": "Vたら",
+    "vi": "nếu/khi V thì"
+  },
+  {
+    "id": 1779899203718,
+    "label": "Vてしまう前に",
+    "romaji": "Vてしまう前に",
+    "vi": "trước khi lỡ/hoàn thành V"
+  },
+  {
+    "id": 1779899204254,
+    "label": "Vたのは",
+    "romaji": "Vたのは",
+    "vi": "việc V đã làm là"
+  },
+  {
+    "id": 1779899204788,
+    "label": "〜みたいだ",
+    "romaji": "〜みたいだ",
+    "vi": "có vẻ như, giống như"
+  },
+  {
+    "id": 1779899205316,
+    "label": "Vてほしいんですが",
+    "romaji": "Vてほしいんですが",
+    "vi": "tôi muốn bạn V cho tôi (lịch sự)"
+  },
+  {
+    "id": 1779899205870,
+    "label": "〜はずがない",
+    "romaji": "〜はずがない",
+    "vi": "không thể nào, chắc chắn không"
+  },
+  {
+    "id": 1779899206427,
+    "label": "Vてくれる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899206956,
+    "label": "Vれるそうだ",
+    "romaji": "Vreru souda",
+    "vi": "có vẻ như có thể V"
+  },
+  {
+    "id": 1779875652111,
+    "label": "Vてよかった",
+    "romaji": "Vte yokatta",
+    "vi": "Thật tốt vì đã V"
+  },
+  {
+    "id": 1779875652634,
+    "label": "おVいただけませんか",
+    "romaji": "oV itadakemasen ka",
+    "vi": "Bạn có thể V cho tôi được không? (lịch sự)"
+  },
+  {
+    "id": 1779875653175,
+    "label": "Vてあげようか",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875653695,
+    "label": "Vるところだ",
+    "romaji": "Vru tokoro da",
+    "vi": "Sắp sửa V"
+  },
+  {
+    "id": 1779875654226,
+    "label": "助詞:を",
+    "romaji": "joshi: o",
+    "vi": "Trợ từ: tân ngữ trực tiếp"
+  },
+  {
+    "id": 1779875654773,
+    "label": "どちらへも",
+    "romaji": "dochira e mo",
+    "vi": "Đến cả hai/cái nào cũng được"
+  },
+  {
+    "id": 1779875655323,
+    "label": "Nとして",
+    "romaji": "N to shite",
+    "vi": "Với tư cách là N"
+  },
+  {
+    "id": 1779875655859,
+    "label": "語:結局",
+    "romaji": "go: kekkyoku",
+    "vi": "Cuối cùng, rốt cuộc"
+  },
+  {
+    "id": 1779875656385,
+    "label": "Vるたびに",
+    "romaji": "Vru tabi ni",
+    "vi": "Mỗi lần V"
+  },
+  {
+    "id": 1779875656934,
+    "label": "Vるか は",
+    "romaji": "Vru ka wa",
+    "vi": "Việc có V hay không thì"
+  },
+  {
+    "id": 1779875657495,
+    "label": "Vてみると",
+    "romaji": "Vte miru to",
+    "vi": "Khi thử V thì"
+  },
+  {
+    "id": 1779875658039,
+    "label": "Vないといけないのに",
+    "romaji": "Vnai to ikenai noni",
+    "vi": "Mặc dù phải V"
+  },
+  {
+    "id": 1779875658608,
+    "label": "NによってV-られる",
+    "romaji": "N ni yotte V-rareru",
+    "vi": "Được V bởi N / Bị V bởi N"
+  },
+  {
+    "id": 1779875659168,
+    "label": "V-たの",
+    "romaji": "V-ta no",
+    "vi": "Đã V à? / Đã V ở đâu/khi nào?"
+  },
+  {
+    "id": 1779875659709,
+    "label": "Vておく",
+    "romaji": "Vte oku",
+    "vi": "Làm V trước / Giữ nguyên trạng thái V"
+  },
+  {
+    "id": 1779875660244,
+    "label": "必ずしも〜ではない",
+    "romaji": "kanarazushimo ~ dewa nai",
+    "vi": "Không nhất thiết là / Không hẳn là"
+  },
+  {
+    "id": 1779875660785,
+    "label": "尊敬語:なさる",
+    "romaji": "sonkeigo: nasaru",
+    "vi": "Kính ngữ: làm (của する)"
+  },
+  {
+    "id": 1779875661327,
+    "label": "NからのN",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875661876,
+    "label": "〜にまで",
+    "romaji": "~ ni made",
+    "vi": "Đến tận / Thậm chí đến mức"
+  },
+  {
+    "id": 1779875662434,
+    "label": "Nによって",
+    "romaji": "N ni yotte",
+    "vi": "Tùy thuộc vào N / Do N / Bởi N"
+  },
+  {
+    "id": 1779875662993,
+    "label": "語:ついに",
+    "romaji": "go: tsuini",
+    "vi": "Cuối cùng / Rốt cuộc"
+  },
+  {
+    "id": 1779875663531,
+    "label": "V-ないうちに",
+    "romaji": "V-nai uchi ni",
+    "vi": "Trong khi chưa V / Trước khi V"
+  },
+  {
+    "id": 1779875664069,
+    "label": "Vて (接続)",
+    "romaji": "Vte (setsuzoku)",
+    "vi": "V rồi / Vì V nên / Bằng cách V"
+  },
+  {
+    "id": 1779875664603,
+    "label": "V-そうにない",
+    "romaji": "V-sou ni nai",
+    "vi": "Có vẻ không V / Khó mà V"
+  },
+  {
+    "id": 1779875665130,
+    "label": "Vたい + て",
+    "romaji": "Vtai + te",
+    "vi": "Muốn V (và/vì/để)"
+  },
+  {
+    "id": 1779875665667,
+    "label": "Vるようになる + のに",
+    "romaji": "Vru you ni naru + noni",
+    "vi": "Để trở nên có thể V"
+  },
+  {
+    "id": 1779875666202,
+    "label": "Vたがる",
+    "romaji": "Vtagaru",
+    "vi": "Có vẻ muốn V (ngôi 3)"
+  },
+  {
+    "id": 1779875666733,
+    "label": "Nでございます",
+    "romaji": "N de gozaimasu",
+    "vi": "Là N (lịch sự)"
+  },
+  {
+    "id": 1779875667294,
+    "label": "Vます bỏ ます + に + 行く/来る",
+    "romaji": "Vmasu bou masu + ni + iku/kuru",
+    "vi": "Đi/đến để V rồi về"
+  },
+  {
+    "id": 1779875667824,
+    "label": "Vようと + 思っていたところだ",
+    "romaji": "Vyou to + omotte ita tokoro da",
+    "vi": "Vừa định V"
+  },
+  {
+    "id": 1779875668354,
+    "label": "Nを中心に",
+    "romaji": "N o chūshin ni",
+    "vi": "Lấy N làm trung tâm"
+  },
+  {
+    "id": 1779875668887,
+    "label": "N/Vる + にしたがって",
+    "romaji": "N/Vru + ni shitagatte",
+    "vi": "Cùng với, theo như, càng...càng..."
+  },
+  {
+    "id": 1779875669418,
+    "label": "Nとしか + Vない",
+    "romaji": "N to shika + Vnai",
+    "vi": "Chỉ có N, ngoài N ra thì không"
+  },
+  {
+    "id": 1779875669945,
+    "label": "語:できれば",
+    "romaji": "go:dekireba",
+    "vi": "Nếu có thể"
+  },
+  {
+    "id": 1779875670477,
+    "label": "Vます bỏ ます + だす",
+    "romaji": "Vmasu bou masu + dasu",
+    "vi": "Bắt đầu V đột ngột"
+  },
+  {
+    "id": 1779875671012,
+    "label": "Vられる + まで",
+    "romaji": "Vrareru + made",
+    "vi": "Cho đến khi được V"
+  },
+  {
+    "id": 1779875671542,
+    "label": "Vる/Nの/Aい/Aな + せいで",
+    "romaji": "Vru/N no/Ai/Ana + sei de",
+    "vi": "Tại vì, do (kết quả tiêu cực)"
+  },
+  {
+    "id": 1779875672078,
+    "label": "Vておく + なければならない",
+    "romaji": "Vte oku + nakereba naranai",
+    "vi": "Phải làm V trước"
+  },
+  {
+    "id": 1779875672639,
+    "label": "Vれる (thể khả năng)",
+    "romaji": "Vreru (tai kanou)",
+    "vi": "Có thể V"
+  },
+  {
+    "id": 1779875673162,
+    "label": "Vる + ことだ",
+    "romaji": "Vru + koto da",
+    "vi": "Là việc V"
+  },
+  {
+    "id": 1779875673701,
+    "label": "Vます + そうにない",
+    "romaji": "Vmasu + sou ni nai",
+    "vi": "Không có vẻ sẽ V"
+  },
+  {
+    "id": 1779875674229,
+    "label": "Vる/N/Aい/Aな + らしい",
+    "romaji": "Vru/N/Ai/Ana + rashii",
+    "vi": "Có vẻ như, nghe nói là"
+  },
+  {
+    "id": 1779875674758,
+    "label": "Vて + もらえますか",
+    "romaji": "Vte + moraemasu ka",
+    "vi": "Bạn có thể làm V cho tôi không?"
+  },
+  {
+    "id": 1779875675292,
+    "label": "N + で",
+    "romaji": "N + de",
+    "vi": "Với N thì..."
+  },
+  {
+    "id": 1779875675826,
+    "label": "N + において",
+    "romaji": "N + ni oite",
+    "vi": "Tại, ở (trang trọng)"
+  },
+  {
+    "id": 1779875676358,
+    "label": "疑問詞 + にでも",
+    "romaji": "Gimonshi + ni demo",
+    "vi": "Với bất cứ (ai/cái gì)"
+  },
+  {
+    "id": 1779875676893,
+    "label": "語:必ず",
+    "romaji": "Go:kanarazu",
+    "vi": "Nhất định, chắc chắn"
+  },
+  {
+    "id": 1779875677423,
+    "label": "語:どうしても",
+    "romaji": "Go:doushitemo",
+    "vi": "Dù thế nào cũng không thể, nhất định không thể"
+  },
+  {
+    "id": 1779875677953,
+    "label": "〜ために",
+    "romaji": "~tame ni",
+    "vi": "vì, do (nguyên nhân)"
+  },
+  {
+    "id": 1779875678485,
+    "label": "Vずに",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875679018,
+    "label": "Vるところ",
+    "romaji": "Vru tokoro",
+    "vi": "sắp sửa làm gì đó"
+  },
+  {
+    "id": 1779875679553,
+    "label": "〜と",
+    "romaji": "~to",
+    "vi": "Nếu/Khi V thì..."
+  },
+  {
+    "id": 1779875680091,
+    "label": "Vている",
+    "romaji": "Vte iru",
+    "vi": "Đang làm gì đó / Trạng thái"
+  },
+  {
+    "id": 1779875680647,
+    "label": "謙譲語",
+    "romaji": "Kenjougo",
+    "vi": "Khiêm nhường ngữ"
+  },
+  {
+    "id": 1779875681179,
+    "label": "Vたことはない",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875681717,
+    "label": "Vてもいいですか",
+    "romaji": "Vte mo ii desu ka",
+    "vi": "Tôi có thể làm V được không?"
+  },
+  {
+    "id": 1779875682274,
+    "label": "Nには",
+    "romaji": "N ni wa",
+    "vi": "Đối với N, thì N"
+  },
+  {
+    "id": 1779875682809,
+    "label": "Nって",
+    "romaji": "N tte",
+    "vi": "Dùng để giới thiệu chủ đề/tên gọi (thân mật)"
+  },
+  {
+    "id": 1779875683337,
+    "label": "語:ちっとも",
+    "romaji": "go: chittomo",
+    "vi": "Hoàn toàn không, một chút cũng không"
+  },
+  {
+    "id": 1779875683898,
+    "label": "Nのほかに",
+    "romaji": "N no hoka ni",
+    "vi": "Ngoài N ra thì còn..."
+  },
+  {
+    "id": 1779875684429,
+    "label": "〜一方で",
+    "romaji": "~ippou de",
+    "vi": "Một mặt thì... mặt khác thì... / Đồng thời..."
+  },
+  {
+    "id": 1779875684965,
+    "label": "Vる/Nの前に",
+    "romaji": "Vru/N no mae ni",
+    "vi": "Trước khi V / Trước N"
+  },
+  {
+    "id": 1779875685497,
+    "label": "Nぐらいしか〜ない",
+    "romaji": "N gurai shika ~nai",
+    "vi": "Chỉ khoảng N mà thôi"
+  },
+  {
+    "id": 1779875686031,
+    "label": "Vる/Nのことがある",
+    "romaji": "Vru/N no koto ga aru",
+    "vi": "Có khi V / Có trường hợp V / Có thể V"
+  },
+  {
+    "id": 1779875686586,
+    "label": "Nのおかげで",
+    "romaji": "N no okage de",
+    "vi": "Nhờ có N"
+  },
+  {
+    "id": 1779875687137,
+    "label": "V-直す",
+    "romaji": "V-naosu",
+    "vi": "Làm lại V, sửa lại V"
+  },
+  {
+    "id": 1779875687681,
+    "label": "Vてくれないか",
+    "romaji": "Vte kurenai ka",
+    "vi": "Làm V cho tôi được không?"
+  },
+  {
+    "id": 1779875688218,
+    "label": "Vることにする",
+    "romaji": "Vru koto ni suru",
+    "vi": "Quyết định làm V"
+  },
+  {
+    "id": 1779875688773,
+    "label": "Vないようにする",
+    "romaji": "V nai you ni suru",
+    "vi": "Cố gắng không V / Đảm bảo không V"
+  },
+  {
+    "id": 1779875689337,
+    "label": "助詞:を",
+    "romaji": "Joshi: o",
+    "vi": "Trợ từ: を (chỉ tân ngữ)"
+  },
+  {
+    "id": 1779875689893,
+    "label": "語:ついに",
+    "romaji": "Go: tsuini",
+    "vi": "Cuối cùng thì, rốt cuộc thì"
+  },
+  {
+    "id": 1779875690449,
+    "label": "Nからなら",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875691011,
+    "label": "Nにおいて",
+    "romaji": "N ni oite",
+    "vi": "tại, ở, trong"
+  },
+  {
+    "id": 1779875691578,
+    "label": "Vるたびに",
+    "romaji": "Vru tabi ni",
+    "vi": "mỗi khi, mỗi lần"
+  },
+  {
+    "id": 1779875692135,
+    "label": "Vます続ける",
+    "romaji": "V-masu tsuzukeru",
+    "vi": "tiếp tục làm V"
+  },
+  {
+    "id": 1779875692695,
+    "label": "Vてくる",
+    "romaji": "Vte kuru",
+    "vi": "làm V đến"
+  },
+  {
+    "id": 1779875693246,
+    "label": "Vるように",
+    "romaji": "Vru you ni",
+    "vi": "để có thể làm V"
+  },
+  {
+    "id": 1779875693773,
+    "label": "Vていない",
+    "romaji": "Vte inai",
+    "vi": "không còn làm V"
+  },
+  {
+    "id": 1779875694347,
+    "label": "Vますそうです",
+    "romaji": "V-masu sou desu",
+    "vi": "có vẻ sắp làm V"
+  },
+  {
+    "id": 1779875694889,
+    "label": "〜みたいだ",
+    "romaji": "~ mitai da",
+    "vi": "dường như, có vẻ như"
+  },
+  {
+    "id": 1779875695425,
+    "label": "V-すぎる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875698055,
+    "label": "Vていただけないでしょうか",
+    "romaji": "Vte itadakenai deshou ka",
+    "vi": "liệu có thể làm V giúp tôi không?"
+  },
+  {
+    "id": 1779875698598,
+    "label": "Nで (phương tiện/cách thức)",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875699159,
+    "label": "語:いつのまにか",
+    "romaji": "itsunomanika",
+    "vi": "không biết từ lúc nào"
+  },
+  {
+    "id": 1779875699693,
+    "label": "Nにとって",
+    "romaji": "N ni totte",
+    "vi": "Đối với N"
+  },
+  {
+    "id": 1779875700251,
+    "label": "〜しか〜ない",
+    "romaji": "〜shika〜nai",
+    "vi": "Chỉ có ~; Ngoại trừ ~ thì không"
+  },
+  {
+    "id": 1779875700782,
+    "label": "N/Vる/Vているときでも",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875701326,
+    "label": "なんて (cảm thán)",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875701881,
+    "label": "Vようかと思う",
+    "romaji": "V you ka to omou",
+    "vi": "Suy nghĩ về việc sẽ làm gì đó"
+  },
+  {
+    "id": 1779875702431,
+    "label": "V-やすい",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875702964,
+    "label": "Vられてしまう",
+    "romaji": "V rarete shimau",
+    "vi": "Lỡ bị làm gì (ngoài ý muốn, tiếc nuối)"
+  },
+  {
+    "id": 1779899193960,
+    "label": "Nによって",
+    "romaji": "N ni yotte",
+    "vi": "Tùy theo, bởi vì, do"
+  },
+  {
+    "id": 1779899193393,
+    "label": "助詞:から",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779875649393,
+    "label": "Vたまま",
+    "romaji": "V ta mama",
+    "vi": "Giữ nguyên trạng thái V; trong khi vẫn đang ở trạng thái V"
+  },
+  {
+    "id": 1779875206333,
+    "label": "NにVてほしい",
+    "romaji": "N ni V te hoshii",
+    "vi": "Muốn N làm V"
+  },
+  {
+    "id": 1779875388731,
+    "label": "Nのことで",
+    "romaji": "N no koto de",
+    "vi": "Về việc N, liên quan đến N"
+  },
+  {
+    "id": 1779875648331,
+    "label": "〜ぐらいで",
+    "romaji": "~gurai de",
+    "vi": "trong khoảng (thời gian/số lượng)"
+  },
+  {
+    "id": 1779875648862,
+    "label": "語:さっき",
+    "romaji": "go: sakki",
+    "vi": "vừa nãy, lúc nãy"
+  },
+  {
+    "id": 1779875649954,
+    "label": "Vたって",
+    "romaji": "V tatte",
+    "vi": "dù có V thì cũng"
+  },
+  {
+    "id": 1779875651552,
+    "label": "Vてくる",
+    "romaji": "V te kuru",
+    "vi": "đã/đang... đến nay; trở nên... đến nay"
+  },
+  {
+    "id": 1779875650487,
+    "label": "Vてみてから",
+    "romaji": "V te mite kara",
+    "vi": "sau khi thử V thì"
+  },
+  {
+    "id": 1779875651007,
+    "label": "尊敬語:めしあがる",
+    "romaji": "sonkeigo: meshiagaru",
+    "vi": "kính ngữ: ăn/uống"
+  },
+  {
+    "id": 1779898629253,
+    "label": "Vてみたことがある",
+    "romaji": "V te mita koto ga aru",
+    "vi": "đã từng thử V"
+  },
+  {
+    "id": 1779898629810,
+    "label": "Vたいと思っていた",
+    "romaji": "V tai to omotte ita",
+    "vi": "đã từng muốn V"
+  },
+  {
+    "id": 1779898630342,
+    "label": "助詞:も",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898630893,
+    "label": "Nを中心に",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898631423,
+    "label": "どうしても〜ない",
+    "romaji": "doushitemo ~nai",
+    "vi": "dù thế nào cũng không thể"
+  },
+  {
+    "id": 1779898631971,
+    "label": "Nのほかに",
+    "romaji": "N no hoka ni",
+    "vi": "ngoài N ra, bên cạnh N"
+  },
+  {
+    "id": 1779898632508,
+    "label": "〜うちに",
+    "romaji": "~uchi ni",
+    "vi": "trong khi, trước khi"
+  },
+  {
+    "id": 1779898633052,
+    "label": "敬語:くださる (ください)",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898633613,
+    "label": "Vてしまう (〜ちゃう)",
+    "romaji": "Vte shimau (~chau)",
+    "vi": "làm mất, lỡ làm, hoàn thành (bất ngờ/tiếc nuối)"
+  },
+  {
+    "id": 1779898634154,
+    "label": "V/N/Aい/Aなはずがない",
+    "romaji": "V/N/A-i/A-na hazu ga nai",
+    "vi": "không thể nào không, chắc chắn là có"
+  },
+  {
+    "id": 1779898634688,
+    "label": "語:どちらからでも",
+    "romaji": "go: dochira kara demo",
+    "vi": "từ bất kỳ cái nào trong hai cái"
+  },
+  {
+    "id": 1779898635241,
+    "label": "〜まで",
+    "romaji": "~made",
+    "vi": "cho đến khi"
+  },
+  {
+    "id": 1779898635796,
+    "label": "〜のに",
+    "romaji": "~noni",
+    "vi": "mặc dù, vậy mà"
+  },
+  {
+    "id": 1779898636339,
+    "label": "Vたことがある",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898636872,
+    "label": "〜そうだ (様態)",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898637406,
+    "label": "助詞: も",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898637940,
+    "label": "〜とか〜とか",
+    "romaji": "~toka ~toka",
+    "vi": "nào là... nào là..., hoặc là... hoặc là..."
+  },
+  {
+    "id": 1779898638488,
+    "label": "語:あまりにも",
+    "romaji": "go: amari ni mo",
+    "vi": "quá, quá mức"
+  },
+  {
+    "id": 1779898639036,
+    "label": "〜にくらべて",
+    "romaji": "ni kurabete",
+    "vi": "so với"
+  },
+  {
+    "id": 1779898639596,
+    "label": "Vます直す",
+    "romaji": "Vmasu naosu",
+    "vi": "làm lại V"
+  },
+  {
+    "id": 1779898640150,
+    "label": "〜おかげで",
+    "romaji": "okage de",
+    "vi": "nhờ có"
+  },
+  {
+    "id": 1779898640684,
+    "label": "Vている",
+    "romaji": "Vte iru",
+    "vi": "đang V, V tiếp diễn"
+  },
+  {
+    "id": 1779898641226,
+    "label": "謙譲語: 〜いたします",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898641752,
+    "label": "Nにも (phủ định)",
+    "romaji": "N ni mo (futei)",
+    "vi": "không N nào cũng"
+  },
+  {
+    "id": 1779898642285,
+    "label": "〜には (目的)",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898642816,
+    "label": "Vようと思ってから",
+    "romaji": "Vyou to omotte kara",
+    "vi": "sau khi nghĩ sẽ V"
+  },
+  {
+    "id": 1779898643369,
+    "label": "Vてもらってもいいですか",
+    "romaji": "Vte moratte mo ii desu ka",
+    "vi": "tôi có thể nhờ V không?"
+  },
+  {
+    "id": 1779898643902,
+    "label": "〜なければならない + んです",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898644453,
+    "label": "助詞:を",
+    "romaji": "joshi: o",
+    "vi": "trợ từ を"
+  },
+  {
+    "id": 1779898644980,
+    "label": "〜に対して",
+    "romaji": "ni taishite",
+    "vi": "đối với, cho (đối tượng)"
+  },
+  {
+    "id": 1779898645532,
+    "label": "せっかく〜のに",
+    "romaji": "sekkaku〜noni",
+    "vi": "mặc dù đã cố công/có dịp, thế mà..."
+  },
+  {
+    "id": 1779898646060,
+    "label": "〜だけではなく",
+    "romaji": "〜dake de wa naku",
+    "vi": "không chỉ... mà còn..."
+  },
+  {
+    "id": 1779898646587,
+    "label": "Vようか",
+    "romaji": "Vyou ka",
+    "vi": "có lẽ nên V nhỉ? / V không? (hỏi ý kiến)"
+  },
+  {
+    "id": 1779898647120,
+    "label": "必ずしも〜ない",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898647655,
+    "label": "尊敬語: なさいます",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898648183,
+    "label": "Vさせていただけませんか",
+    "romaji": "Vsasete itadakemasen ka",
+    "vi": "xin vui lòng cho phép tôi V / anh/chị có thể V giúp tôi không?"
+  },
+  {
+    "id": 1779898648718,
+    "label": "〜までなら",
+    "romaji": "〜made nara",
+    "vi": "nếu chỉ đến/trong giới hạn..."
+  },
+  {
+    "id": 1779898649265,
+    "label": "Vてみないか",
+    "romaji": "Vte minai ka",
+    "vi": "thử V không? / sao không thử V? (lời mời)"
+  },
+  {
+    "id": 1779898649790,
+    "label": "Vてしまう",
+    "romaji": "Vte shimau",
+    "vi": "lỡ V mất rồi / V xong rồi (tiếc nuối, hoàn thành)"
+  },
+  {
+    "id": 1779898650325,
+    "label": "〜のに",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898650855,
+    "label": "〜ないといけない",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898651381,
+    "label": "NからのN",
+    "romaji": "N kara no N",
+    "vi": "N từ N (chỉ nguồn gốc)"
+  },
+  {
+    "id": 1779898651917,
+    "label": "〜ため",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898652472,
+    "label": "語:あと",
+    "romaji": "go:ato",
+    "vi": "sau, nữa (thời gian còn lại)"
+  },
+  {
+    "id": 1779898652996,
+    "label": "Vてみる",
+    "romaji": "Vte miru",
+    "vi": "thử làm thì thấy"
+  },
+  {
+    "id": 1779898653547,
+    "label": "いただく",
+    "romaji": "itadaku",
+    "vi": "nhận (khiêm nhường ngữ)"
+  },
+  {
+    "id": 1779898654082,
+    "label": "〜なんだろう",
+    "romaji": "~nandarou",
+    "vi": "không biết là gì nhỉ / chắc là gì nhỉ"
+  },
+  {
+    "id": 1779898654616,
+    "label": "でございます",
+    "romaji": "de gozaimasu",
+    "vi": "là (kính ngữ trang trọng)"
+  },
+  {
+    "id": 1779898655145,
+    "label": "V/Aい/Aなそう",
+    "romaji": "V/A-i/A-na sou",
+    "vi": "trông có vẻ, dường như"
+  },
+  {
+    "id": 1779898655697,
+    "label": "〜でしか〜ない",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898656229,
+    "label": "〜にしても",
+    "romaji": "~ni shitemo",
+    "vi": "ngay cả, cho dù"
+  },
+  {
+    "id": 1779898656757,
+    "label": "Vたまま",
+    "romaji": "Vta mama",
+    "vi": "giữ nguyên trạng thái"
+  },
+  {
+    "id": 1779898657314,
+    "label": "Vやすい",
+    "romaji": "V yasui",
+    "vi": "dễ làm gì"
+  },
+  {
+    "id": 1779898657860,
+    "label": "Vたところだ",
+    "romaji": "Vta tokoro da",
+    "vi": "vừa mới làm gì xong"
+  },
+  {
+    "id": 1779898658410,
+    "label": "〜ばかりでなく",
+    "romaji": "~bakari de naku",
+    "vi": "không chỉ ~ mà còn ~"
+  },
+  {
+    "id": 1779898658959,
+    "label": "〜にしたがって",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898659509,
+    "label": "語:ようやく",
+    "romaji": "go:yoyaku",
+    "vi": "cuối cùng thì, rốt cuộc thì"
+  },
+  {
+    "id": 1779898660063,
+    "label": "〜一方で",
+    "romaji": "~ippou de",
+    "vi": "mặt khác, một mặt thì... mặt khác thì..."
+  },
+  {
+    "id": 1779898660592,
+    "label": "Vたがる",
+    "romaji": "Vtagaru",
+    "vi": "muốn (người khác)"
+  },
+  {
+    "id": 1779898661129,
+    "label": "Vそうにない",
+    "romaji": "Vsou ni nai",
+    "vi": "có vẻ không"
+  },
+  {
+    "id": 1779898661677,
+    "label": "Vるな",
+    "romaji": "Vru na",
+    "vi": "cấm, đừng"
+  },
+  {
+    "id": 1779898662225,
+    "label": "Vてしまう",
+    "romaji": "Vte shimau",
+    "vi": "lỡ làm, hoàn thành"
+  },
+  {
+    "id": 1779898662774,
+    "label": "〜だけでも",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898663327,
+    "label": "〜ないで",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898663859,
+    "label": "Vてからの方が",
+    "romaji": "Vte kara no hou ga",
+    "vi": "sau khi làm gì thì... hơn"
+  },
+  {
+    "id": 1779898664424,
+    "label": "Vてくる",
+    "romaji": "Vte kuru",
+    "vi": "bắt đầu, đến, trở nên"
+  },
+  {
+    "id": 1779898664953,
+    "label": "〜てしまいたい",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898665480,
+    "label": "Nとして",
+    "romaji": "N toshite",
+    "vi": "với tư cách là, như là"
+  },
+  {
+    "id": 1779898666010,
+    "label": "〜としたら",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898666545,
+    "label": "語:どうしても",
+    "romaji": "go:doushitemo",
+    "vi": "dù thế nào đi nữa, nhất định"
+  },
+  {
+    "id": 1779898667073,
+    "label": "〜だけだ",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898667621,
+    "label": "Vられる",
+    "romaji": "Vrareru",
+    "vi": "bị, được (thể bị động)"
+  },
+  {
+    "id": 1779898614230,
+    "label": "〜ても不思議ではない",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898615838,
+    "label": "Vたほうがいい",
+    "romaji": "Vta hou ga ii",
+    "vi": "nên làm gì đó"
+  },
+  {
+    "id": 1779898616364,
+    "label": "〜ほど〜ない",
+    "romaji": "hodo nai",
+    "vi": "không... bằng"
+  },
+  {
+    "id": 1779898614757,
+    "label": "Vてしまう",
+    "romaji": "Vte shimau",
+    "vi": "lỡ làm, làm xong"
+  },
+  {
+    "id": 1779898615288,
+    "label": "いただく",
+    "romaji": "itadaku",
+    "vi": "nhận (khiêm nhường ngữ)"
+  },
+  {
+    "id": 1779898616914,
+    "label": "〜か〜か",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898618525,
+    "label": "Nのおかげで",
+    "romaji": "N no okage de",
+    "vi": "nhờ vào N"
+  },
+  {
+    "id": 1779898617447,
+    "label": "だけどなら",
+    "romaji": "dakedo nara",
+    "vi": "nhưng nếu là... thì..."
+  },
+  {
+    "id": 1779898617981,
+    "label": "語:ちっとも",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898619590,
+    "label": "〜ている",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898619048,
+    "label": "Vたとしても",
+    "romaji": "Vta to shitemo",
+    "vi": "ngay cả khi V, dù cho V"
+  },
+  {
+    "id": 1779898620128,
+    "label": "Vてもらう",
+    "romaji": "Vte morau",
+    "vi": "được ai đó làm V cho"
+  },
+  {
+    "id": 1779898620665,
+    "label": "Vてくる",
+    "romaji": "Vte kuru",
+    "vi": "bắt đầu V, V dần"
+  },
+  {
+    "id": 1779898621728,
+    "label": "敬語:いらっしゃる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898621199,
+    "label": "Vさせる (使役形)",
+    "romaji": "V saseru (shieki kei)",
+    "vi": "cho V, bắt V (thể sai khiến)"
+  },
+  {
+    "id": 1779898624414,
+    "label": "語:いつのまにか",
+    "romaji": "go: itsunomanika",
+    "vi": "lúc nào không hay"
+  },
+  {
+    "id": 1779898622282,
+    "label": "Vてばかりいる",
+    "romaji": "Vte bakari iru",
+    "vi": "cứ mãi V"
+  },
+  {
+    "id": 1779898623342,
+    "label": "NをV (他動詞)",
+    "romaji": "N o V (tadoushi)",
+    "vi": "V N (tân ngữ trực tiếp)"
+  },
+  {
+    "id": 1779898622811,
+    "label": "Vなければならなくなる",
+    "romaji": "Vnakereba naranaku naru",
+    "vi": "trở nên phải làm"
+  },
+  {
+    "id": 1779898623876,
+    "label": "〜って",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898624953,
+    "label": "語:いくつか",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898625486,
+    "label": "V終わる",
+    "romaji": "Vowaru",
+    "vi": "làm xong V"
+  },
+  {
+    "id": 1779898626027,
+    "label": "〜ことにする",
+    "romaji": "~koto ni suru",
+    "vi": "quyết định làm gì / tạo thói quen"
+  },
+  {
+    "id": 1779898626560,
+    "label": "Vてよかった",
+    "romaji": "Vte yokatta",
+    "vi": "thật tốt vì V"
+  },
+  {
+    "id": 1779898627627,
+    "label": "〜までしか〜ない",
+    "romaji": "~made shika ~nai",
+    "vi": "chỉ đến... (và không hơn)"
+  },
+  {
+    "id": 1779898627095,
+    "label": "敬語: おっしゃる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898628194,
+    "label": "Vようと思う",
+    "romaji": "Vyou to omou",
+    "vi": "định làm V"
+  },
+  {
+    "id": 1779898628723,
+    "label": "Vてからでも",
+    "romaji": "Vte kara demo",
+    "vi": "ngay cả sau khi V"
+  },
+  {
+    "id": 1779898925916,
+    "label": "おVください",
+    "romaji": "oV kudasai",
+    "vi": "xin hãy V (lịch sự)"
+  },
+  {
+    "id": 1779898926445,
+    "label": "敬語: 申す",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898926972,
+    "label": "Vることになっている",
+    "romaji": "Vru koto ni natte iru",
+    "vi": "Đã được quy định là"
+  },
+  {
+    "id": 1779898927515,
+    "label": "Vないと",
+    "romaji": "Vnai to",
+    "vi": "Nếu không V thì"
+  },
+  {
+    "id": 1779898928044,
+    "label": "Vたくても",
+    "romaji": "Vtakutemo",
+    "vi": "Dù có muốn V"
+  },
+  {
+    "id": 1779898928574,
+    "label": "〜ておく",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898929110,
+    "label": "Vてもよさそうだ",
+    "romaji": "Vtemo yosasou da",
+    "vi": "Trông có vẻ V được"
+  },
+  {
+    "id": 1779898929649,
+    "label": "Vてしまう",
+    "romaji": "Vte shimau",
+    "vi": "V mất, V luôn (hoàn thành/tiếc nuối)"
+  },
+  {
+    "id": 1779898930211,
+    "label": "Nに〜てほしい",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898930765,
+    "label": "Nに対して",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898931324,
+    "label": "語:少しも",
+    "romaji": "Go: sukoshimo",
+    "vi": "Một chút cũng không"
+  },
+  {
+    "id": 1779898931852,
+    "label": "語:そう",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898932395,
+    "label": "語:かけ直す",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898932926,
+    "label": "Vても不思議ではない",
+    "romaji": "Vtemo fushigi dewa nai",
+    "vi": "V cũng không có gì lạ"
+  },
+  {
+    "id": 1779898933472,
+    "label": "敬語:おっしゃる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898934024,
+    "label": "Vさせていだだく",
+    "romaji": "V sasete itadaku",
+    "vi": "xin phép được làm V"
+  },
+  {
+    "id": 1779898934585,
+    "label": "Nからしか〜ない",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898935109,
+    "label": "Vることにする",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898935724,
+    "label": "Vる/Nのほうがいい + ば",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898936260,
+    "label": "Vやすくなる",
+    "romaji": "V yasuku naru",
+    "vi": "trở nên dễ làm V"
+  },
+  {
+    "id": 1779898936791,
+    "label": "Vておく + 依頼形",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898937343,
+    "label": "Nのほかに",
+    "romaji": "N no hoka ni",
+    "vi": "ngoài N ra còn có"
+  },
+  {
+    "id": 1779898937869,
+    "label": "Nって",
+    "romaji": "N tte",
+    "vi": "cái gọi là N / về N"
+  },
+  {
+    "id": 1779898938412,
+    "label": "どれだけ〜か",
+    "romaji": "dore dake ~ ka",
+    "vi": "mức độ ~ như thế nào"
+  },
+  {
+    "id": 1779898938972,
+    "label": "〜せいで",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898939535,
+    "label": "〜んだったら",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898940088,
+    "label": "V-はじめる",
+    "romaji": "V-hajimeru",
+    "vi": "bắt đầu làm V"
+  },
+  {
+    "id": 1779898940619,
+    "label": "ございます",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898941169,
+    "label": "Vないように",
+    "romaji": "Vnai you ni",
+    "vi": "để không làm V / đừng làm V"
+  },
+  {
+    "id": 1779898941699,
+    "label": "〜ぐらいしか〜ない",
+    "romaji": "~gurai shika ~nai",
+    "vi": "chỉ khoảng/chừng ~"
+  },
+  {
+    "id": 1779898942225,
+    "label": "〜まで",
+    "romaji": "~made",
+    "vi": "cho đến khi"
+  },
+  {
+    "id": 1779898942770,
+    "label": "誰からも",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898943293,
+    "label": "Vてみる",
+    "romaji": "Vte miru",
+    "vi": "thử làm V"
+  },
+  {
+    "id": 1779898943823,
+    "label": "〜てしまいそうだ",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898944368,
+    "label": "Nには",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898944951,
+    "label": "語:ついに",
+    "romaji": "Go:tsuini",
+    "vi": "cuối cùng thì"
+  },
+  {
+    "id": 1779898945507,
+    "label": "Nにより",
+    "romaji": "N ni yori",
+    "vi": "do N, bởi N"
+  },
+  {
+    "id": 1779898946066,
+    "label": "〜うちに",
+    "romaji": "~uchi ni",
+    "vi": "trong lúc, khi còn"
+  },
+  {
+    "id": 1779898946600,
+    "label": "〜ようとする",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898947139,
+    "label": "Vてくれ",
+    "romaji": "Vte kure",
+    "vi": "Hãy làm ~ cho tôi (mệnh lệnh thân mật)"
+  },
+  {
+    "id": 1779898947669,
+    "label": "Vさせてください",
+    "romaji": "V sasete kudasai",
+    "vi": "Xin hãy cho phép tôi làm ~"
+  },
+  {
+    "id": 1779898948205,
+    "label": "敬語: いらっしゃる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898948771,
+    "label": "Nになら",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898949301,
+    "label": "Vたいように",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898949866,
+    "label": "Vることができるのか",
+    "romaji": "Vru koto ga dekiru no ka",
+    "vi": "Có thể làm gì đó hay không"
+  },
+  {
+    "id": 1779898950403,
+    "label": "Vたことがある",
+    "romaji": "Vta koto ga aru",
+    "vi": "Đã từng làm ~"
+  },
+  {
+    "id": 1779898950943,
+    "label": "〜てもかまいません",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898951485,
+    "label": "NをVしている",
+    "romaji": "N o V shite iru",
+    "vi": "Có đặc điểm/tính chất N"
+  },
+  {
+    "id": 1779898952037,
+    "label": "Nにくらべて",
+    "romaji": "N ni kurabete",
+    "vi": "So với N"
+  },
+  {
+    "id": 1779898952586,
+    "label": "Vたばかり",
+    "romaji": "Vta bakari",
+    "vi": "Vừa mới làm ~"
+  },
+  {
+    "id": 1779898953135,
+    "label": "語:ああ",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898953680,
+    "label": "語:次第に",
+    "romaji": "go:shidai ni",
+    "vi": "dần dần, từng chút một"
+  },
+  {
+    "id": 1779898954233,
+    "label": "Vた + のではなくて",
+    "romaji": "Vta + no de wa nakute",
+    "vi": "không phải là V mà là"
+  },
+  {
+    "id": 1779898954770,
+    "label": "ご存じです",
+    "romaji": "gozonji desu",
+    "vi": "biết (kính ngữ)"
+  },
+  {
+    "id": 1779898955320,
+    "label": "〜てほしい",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898955866,
+    "label": "〜しか〜ない",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898956414,
+    "label": "Nでも何でも",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898956947,
+    "label": "〜か不安だ",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898957481,
+    "label": "Vすぎる + てしまう",
+    "romaji": "V sugiru + te shimau",
+    "vi": "lỡ V quá nhiều"
+  },
+  {
+    "id": 1779898958011,
+    "label": "Vてあげられない",
+    "romaji": "Vte agerarenai",
+    "vi": "không thể V giúp ai đó"
+  },
+  {
+    "id": 1779898958559,
+    "label": "Nによって",
+    "romaji": "N ni yotte",
+    "vi": "tùy thuộc vào N"
+  },
+  {
+    "id": 1779898959100,
+    "label": "語:もちろん",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898959628,
+    "label": "〜たり〜たりする",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898960177,
+    "label": "Vろ / Vなさい",
+    "romaji": "Vro / Vnasai",
+    "vi": "hãy V (mệnh lệnh)"
+  },
+  {
+    "id": 1779898960700,
+    "label": "〜らしい",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898961231,
+    "label": "Vていない (quá khứ)",
+    "romaji": "Vte inai (kakyo)",
+    "vi": "đã không V (tiếp diễn)"
+  },
+  {
+    "id": 1779898961772,
+    "label": "Nでございます",
+    "romaji": "N de gozaimasu",
+    "vi": "là N (kính ngữ)"
+  },
+  {
+    "id": 1779898962324,
+    "label": "謙譲語: 〜いたします",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898962857,
+    "label": "〜ためなら",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898963384,
+    "label": "Nぐらいまで",
+    "romaji": "N gurai made",
+    "vi": "cho đến khoảng N"
+  },
+  {
+    "id": 1779898963947,
+    "label": "〜させられる (受身使役)",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898964498,
+    "label": "Vなくてよければ",
+    "romaji": "Vnakute yokereba",
+    "vi": "nếu không V cũng được"
+  },
+  {
+    "id": 1779898965026,
+    "label": "Vてしまわないように",
+    "romaji": "Vte shimawanai you ni",
+    "vi": "để không lỡ V"
+  },
+  {
+    "id": 1779898965565,
+    "label": "〜という点",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898966115,
+    "label": "NへのN",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898966664,
+    "label": "Nに比べて",
+    "romaji": "N ni kurabete",
+    "vi": "so với N"
+  },
+  {
+    "id": 1779898967217,
+    "label": "Vたら",
+    "romaji": "V tara",
+    "vi": "nếu V / sau khi V (kết quả bất ngờ)"
+  },
+  {
+    "id": 1779898967749,
+    "label": "〜のだから",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898968371,
+    "label": "語:あんなに",
+    "romaji": "go:anna ni",
+    "vi": "đến vậy, nhiều đến thế"
+  },
+  {
+    "id": 1779898968926,
+    "label": "Vがる",
+    "romaji": "V garu",
+    "vi": "tỏ ra V (cảm xúc người thứ ba)"
+  },
+  {
+    "id": 1779898969462,
+    "label": "Vさせていただけませんか",
+    "romaji": "V sasete itadakemasen ka",
+    "vi": "Tôi có thể xin phép làm V được không?"
+  },
+  {
+    "id": 1779898969992,
+    "label": "Nの近くに",
+    "romaji": "N no chikaku ni",
+    "vi": "ở gần N"
+  },
+  {
+    "id": 1779898970546,
+    "label": "Vなくなってから",
+    "romaji": "V naku natte kara",
+    "vi": "sau khi không còn V nữa"
+  },
+  {
+    "id": 1779898971073,
+    "label": "Vるには",
+    "romaji": "V ru ni wa",
+    "vi": "để làm V thì"
+  },
+  {
+    "id": 1779898971629,
+    "label": "N/Vてもおかしくない",
+    "romaji": "N/V te mo okashikunai",
+    "vi": "dù N/V cũng không lạ"
+  },
+  {
+    "id": 1779898972186,
+    "label": "Vてもいいんじゃない",
+    "romaji": "V te mo ii n janai",
+    "vi": "có lẽ nên V (đề xuất nhẹ nhàng)"
+  },
+  {
+    "id": 1779898972723,
+    "label": "NをV (thời gian)",
+    "romaji": "N o V (jikan)",
+    "vi": "Trợ từ を (chỉ thời gian)"
+  },
+  {
+    "id": 1779898973263,
+    "label": "語:必ず",
+    "romaji": "go:kanarazu",
+    "vi": "nhất định, chắc chắn"
+  },
+  {
+    "id": 1779898973827,
+    "label": "語:あの",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898974360,
+    "label": "〜にとって",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898974920,
+    "label": "〜したら",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898975487,
+    "label": "Vさせてあげる",
+    "romaji": "V sasete ageru",
+    "vi": "cho phép ai đó làm V"
+  },
+  {
+    "id": 1779898976026,
+    "label": "Vないといけない",
+    "romaji": "V nai to ikenai",
+    "vi": "phải V"
+  },
+  {
+    "id": 1779898976579,
+    "label": "謙譲語:伺う",
+    "romaji": "kenjougo:ukagau",
+    "vi": "khiêm nhường ngữ: hỏi/nghe/đến thăm"
+  },
+  {
+    "id": 1779898977122,
+    "label": "語:どこからでも",
+    "romaji": "go:dokokarademo",
+    "vi": "từ bất cứ đâu"
+  },
+  {
+    "id": 1779898977689,
+    "label": "Vにくい",
+    "romaji": "V nikui",
+    "vi": "khó V"
+  },
+  {
+    "id": 1779898978287,
+    "label": "Vないうちに",
+    "romaji": "V nai uchi ni",
+    "vi": "trước khi V"
+  },
+  {
+    "id": 1779898978875,
+    "label": "Vれるてくる",
+    "romaji": "V reru te kuru",
+    "vi": "được V đến (hướng về người nói)"
+  },
+  {
+    "id": 1779898979434,
+    "label": "〜すぎる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779898980059,
+    "label": "Nを中心(に)",
+    "romaji": "N o chūshin (ni)",
+    "vi": "lấy N làm trung tâm"
+  },
+  {
+    "id": 1779899157554,
+    "label": "語:たしかに",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899158088,
+    "label": "Vている",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899158630,
+    "label": "Vたらいいのか",
+    "romaji": "V tara ii no ka",
+    "vi": "phải làm thế nào cho tốt / không biết nên làm gì"
+  },
+  {
+    "id": 1779899159179,
+    "label": "Vてほしい",
+    "romaji": "V te hoshii",
+    "vi": "mong muốn ai đó làm gì đó cho mình"
+  },
+  {
+    "id": 1779899159732,
+    "label": "語:だけ",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899160259,
+    "label": "Vていただく",
+    "romaji": "V te itadaku",
+    "vi": "nhận được sự giúp đỡ từ ai đó (kính ngữ)"
+  },
+  {
+    "id": 1779899160786,
+    "label": "尊敬語:ご覧になる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899161315,
+    "label": "Vたばかりなのに",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899161868,
+    "label": "Nのためにも",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899162405,
+    "label": "Vてもらえませんか",
+    "romaji": "V te moraemasen ka",
+    "vi": "anh/chị có thể làm gì đó cho tôi được không? (nhờ vả lịch sự)"
+  },
+  {
+    "id": 1779899162958,
+    "label": "Vれる + かもしれない",
+    "romaji": "Vreru + kamoshirenai",
+    "vi": "Có lẽ có thể V"
+  },
+  {
+    "id": 1779899163484,
+    "label": "Vてもらう",
+    "romaji": "Vtemorau",
+    "vi": "Nhận được sự giúp đỡ (yêu cầu)"
+  },
+  {
+    "id": 1779899164010,
+    "label": "Vれる + かもしれない",
+    "romaji": "Vreru + kamoshirenai",
+    "vi": "Có lẽ có thể V"
+  },
+  {
+    "id": 1779899164541,
+    "label": "Vてくるはず",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899165077,
+    "label": "Nにとって",
+    "romaji": "N ni totte",
+    "vi": "Đối với N"
+  },
+  {
+    "id": 1779899165610,
+    "label": "Nでも",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899166164,
+    "label": "Vるだろう",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899166711,
+    "label": "Vるとしても",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899167251,
+    "label": "語:こんなに",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899167817,
+    "label": "NにNに",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899168374,
+    "label": "V/Aい/Aな/N + ば + V/Aい/Aな/N + ほど",
+    "romaji": "V/A-i/A-na/N + ba + V/A-i/A-na/N + hodo",
+    "vi": "Càng...càng..."
+  },
+  {
+    "id": 1779899168900,
+    "label": "Vれない + て",
+    "romaji": "Vrenai + te",
+    "vi": "Không thể V và..."
+  },
+  {
+    "id": 1779899169445,
+    "label": "Vられる (可能形)",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899169983,
+    "label": "Nにまで",
+    "romaji": "N ni made",
+    "vi": "đến cả N"
+  },
+  {
+    "id": 1779899170512,
+    "label": "語:つけたり消して",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899171043,
+    "label": "〜ないあいだに",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899171598,
+    "label": "Vるところ",
+    "romaji": "V ru tokoro",
+    "vi": "sắp V"
+  },
+  {
+    "id": 1779899172150,
+    "label": "Nとして",
+    "romaji": "N to shite",
+    "vi": "với tư cách là N"
+  },
+  {
+    "id": 1779899172686,
+    "label": "NをVしている",
+    "romaji": "N o V shite iru",
+    "vi": "có N (trạng thái/đặc điểm)"
+  },
+  {
+    "id": 1779899173219,
+    "label": "Nをいう",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899173761,
+    "label": "Vるなら",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899174316,
+    "label": "Nにくらべて",
+    "romaji": "N ni kurabete",
+    "vi": "so với N"
+  },
+  {
+    "id": 1779899174870,
+    "label": "持って行く",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899175398,
+    "label": "Vさせてください",
+    "romaji": "V sasete kudasai",
+    "vi": "xin hãy cho phép tôi V"
+  },
+  {
+    "id": 1779899175941,
+    "label": "Vるな",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899176497,
+    "label": "敬語: さしあげる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899177023,
+    "label": "〜ようなこと",
+    "romaji": "~youna koto",
+    "vi": "những điều như thế"
+  },
+  {
+    "id": 1779899177560,
+    "label": "〜だけでよければ",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899178097,
+    "label": "敬語: お目にかかる",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899178649,
+    "label": "Vるようになる",
+    "romaji": "Vru you ni naru",
+    "vi": "đã trở nên (thay đổi trạng thái)"
+  },
+  {
+    "id": 1779899179177,
+    "label": "〜ように",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899179729,
+    "label": "Vます形 + そうもない",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899180268,
+    "label": "Nのことで",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899180798,
+    "label": "〜って",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899181328,
+    "label": "語:いつか",
+    "romaji": "go:itsuka",
+    "vi": "một ngày nào đó, vào lúc nào đó"
+  },
+  {
+    "id": 1779899181866,
+    "label": "語:なんか",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899182415,
+    "label": "Vたがる / Aいがる",
+    "romaji": "Vtagaru / Aigaru",
+    "vi": "Diễn tả mong muốn, cảm xúc của người khác"
+  },
+  {
+    "id": 1779899182949,
+    "label": "語:うかがう",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899183495,
+    "label": "Vたらどうですか",
+    "romaji": "Vtara dou desu ka",
+    "vi": "Bạn ~ thì thế nào? (gợi ý)"
+  },
+  {
+    "id": 1779899184034,
+    "label": "Nだけで",
+    "romaji": "N dake de",
+    "vi": "chỉ với, chỉ bằng"
+  },
+  {
+    "id": 1779899184594,
+    "label": "Nまでには",
+    "romaji": "N made ni wa",
+    "vi": "trước khi, vào lúc"
+  },
+  {
+    "id": 1779899185183,
+    "label": "〜ようなら",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899185720,
+    "label": "〜ないほうがよさそう",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899186268,
+    "label": "〜って",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899186819,
+    "label": "Vるたびに / Nのたびに",
+    "romaji": "Vru tabi ni / N no tabi ni",
+    "vi": "Mỗi khi, mỗi lần"
+  },
+  {
+    "id": 1779899187382,
+    "label": "語:いつの間にか",
+    "romaji": "itsu no ma ni ka",
+    "vi": "lúc nào không biết, không ngờ"
+  },
+  {
+    "id": 1779899187934,
+    "label": "〜ことになっている",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899188475,
+    "label": "Vるように言われている",
+    "romaji": "Vru you ni iwarete iru",
+    "vi": "Được khuyên là ~ / Được nói là ~"
+  },
+  {
+    "id": 1779899189021,
+    "label": "Nのあいだ",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899189576,
+    "label": "語:ございます",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899190111,
+    "label": "Nだけに",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899190667,
+    "label": "Vるようになる / Vないようになる + てから",
+    "romaji": "Vru you ni naru / Vnai you ni naru + te kara",
+    "vi": "sau khi trở nên"
+  },
+  {
+    "id": 1779899191209,
+    "label": "〜のかについて",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899191772,
+    "label": "Vます / Aい / Aな + すぎる",
+    "romaji": "Vmasu / Ai / Ana + sugiru",
+    "vi": "quá, quá mức"
+  },
+  {
+    "id": 1779899192313,
+    "label": "Vさせないでください",
+    "romaji": "",
+    "vi": ""
+  },
+  {
+    "id": 1779899192851,
+    "label": "〜ばいい",
+    "romaji": "",
+    "vi": ""
+  }
+]

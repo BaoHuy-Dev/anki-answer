@@ -1,3706 +1,721 @@
-# OCR report: Moji goi mondai 3
+# OCR report: moji goi mondai 5::Tổng ôn 150 câu Mondai 5 JLPT N3 Phần Moji - Goi
 
-## Note 1780068962716
+## Note 1780075397476
 
-- OCR files: image_import_019ff6dd035c_slide_0043.png
-- OCR text: ES
-
-144 風や太陽の( )を利用して電気を作ることができる。
-
-ヒント                @ 。 エネルギー       ry
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-144 風や太陽の( )を利用して電気を作ることができる。
-
-ヒント                @ 。 エネルギー       ry</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 29.508141729s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068963247
-
-- OCR files: image_import_0e2db9018a8b_slide_0044.png
-- OCR text: ES
-
-145 20年後、私たちはどんな生活をしているか( )
-してみた。
-
-IO ee |還@6 mg
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-145 20年後、私たちはどんな生活をしているか( )
-してみた。
-
-IO ee |還@6 mg</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 506.45131ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068963778
-
-- OCR files: image_import_4e1b504b07c1_slide_0045.png
-- OCR text: ES
-
-146 友人と駅で( )から、一緒に食事
-
- a
-
-a
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-146 友人と駅で( )から、一緒に食事
-
- a
-
-a</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 31.403846355s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068964319
-
-- OCR files: image_import_7626874bf215_slide_0046.png
-- OCR text: oe
-
-147 講演会の会場はあまり大きくないので、 参加でき
-る人数は50人までという( )がある。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> oe
-
-147 講演会の会場はあまり大きくないので、 参加でき
-る人数は50人までという( )がある。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 2.186161081s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068964844
-
-- OCR files: image_import_ef409812a6b1_slide_0047.png
-- OCR text: as
-
-148 森さんはおとなしい人だと思ってし
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> as
-
-148 森さんはおとなしい人だと思ってし</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 31.402475169s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068965376
-
-- OCR files: image_import_609e9019dba7_slide_0048.png
-- OCR text: でと
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> でと</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 59.587364905s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068965907
-
-- OCR files: image_import_f86e8f33c581_slide_0049.png
-- OCR text: KEY
-
-150 最近太ったから、ズボンが( )なった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> KEY
-
-150 最近太ったから、ズボンが( )なった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 29.292035333s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068966434
-
-- OCR files: image_import_7eb5f96e7471_slide_0050.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 57.901866277s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '57s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068966966
-
-- OCR files: image_import_4e3144fad520_slide_0051.png
-- OCR text: ES
-
-、バターやチーズを作るための( )
-として使われる。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-、バターやチーズを作るための( )
-として使われる。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 29.698541793s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068967494
-
-- OCR files: image_import_a8fe21357c01_slide_0052.png
-- OCR text: ES
-
-迷子にならないように、子どもの手を
-( )撮った。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-迷子にならないように、子どもの手を
-( )撮った。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 1.339608639s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068968024
-
-- OCR files: image_import_964feca15ea0_slide_0053.png
-- OCR text: と
-
-( )作ったので、
-
-とてもおいしい。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> と
-
-( )作ったので、
-
-とてもおいしい。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 33.210283392s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068968556
-
-- OCR files: image_import_6025998ba346_slide_0054.png
-- OCR text: ES
-
-155 今から行うインタビューの( )は、授業に対する
-希望を聞くことです。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-155 今から行うインタビューの( )は、授業に対する
-希望を聞くことです。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 3.881723038s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068969090
-
-- OCR files: image_import_48555d056c5e_slide_0055.png
-- OCR text: ES
-
-156 食事中、コップを( )に落として割ってしまった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-156 食事中、コップを( )に落として割ってしまった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 34.087562184s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068969619
-
-- OCR files: image_import_5870f1a621eb_slide_0056.png
-- OCR text: ES
-
-157 駅前に建設中の立派なマンションが、
-来月ついに( )するらしい。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-157 駅前に建設中の立派なマンションが、
-来月ついに( )するらしい。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 5.591045671s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068970151
-
-- OCR files: image_import_7bd9f4e6fe6f_slide_0057.png
-- OCR text: Sey
-
-158 この店の料理は安くておいしいので、店の前に
-はいつも長い( )ができている。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-158 この店の料理は安くておいしいので、店の前に
-はいつも長い( )ができている。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 37.200108343s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068970683
-
-- OCR files: image_import_491a21575afa_slide_0058.png
-- OCR text: ES
-
-159 最近太ったので、ズボンがきつくて、 はくとすぐに
-
-( )なってしまう。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-159 最近太ったので、ズボンがきつくて、 はくとすぐに
-
-( )なってしまう。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 9.343438141s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068971241
-
-- OCR files: image_import_edecefcb8c81_slide_0059.png
-- OCR text: EN
-
-160 この小説の中に( )する人たちは、皆大きな夢
-
-を持っている。
-BE           @      登場
-発生           回      同席
-ac)
-< 4
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-160 この小説の中に( )する人たちは、皆大きな夢
-
-を持っている。
-BE           @      登場
-発生           回      同席
-ac)
-&lt; 4</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 41.08568393s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068971772
-
-- OCR files: image_import_e7160665f829_slide_0060.png
-- OCR text: ME
-
-161 薬を飲んでゆっくり休んだら( ) 良くなったので、
-明日は会社に行けそうです。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ME
-
-161 薬を飲んでゆっくり休んだら( ) 良くなったので、
-明日は会社に行けそうです。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 13.212232744s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '13s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068972302
-
-- OCR files: image_import_23439c745b5d_slide_0061.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 45.366016792s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068972833
-
-- OCR files: image_import_d2b6b9d624ad_slide_0062.png
-- OCR text: CES
-
-163 パスポートを( )するため、必要な書類を持って
-窓口へ行った。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> CES
-
-163 パスポートを( )するため、必要な書類を持って
-窓口へ行った。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 17.498994722s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068973380
-
-- OCR files: image_import_f0da0d690506_slide_0063.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 49.279538827s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068973906
-
-- OCR files: image_import_bce89353c613_slide_0064.png
-- OCR text: ES
-
-165 あの兄弟は双子みたいに顔が( )で、区別
-
-できないね。
-
-そっくり                 @       すっかり
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-165 あの兄弟は双子みたいに顔が( )で、区別
-
-できないね。
-
-そっくり                 @       すっかり</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 20.042860635s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068974432
-
-- OCR files: image_import_3c6d42c4fcfa_slide_0065.png
-- OCR text: EN
-
-166 この町は、50年前と( )して、人口が10万人も
-増加している,
-
-    の EH
-[3
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-166 この町は、50年前と( )して、人口が10万人も
-増加している,
-
-    の EH
-[3</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 52.026596092s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068974959
-
-- OCR files: image_import_1820866795dd_slide_0066.png
-- OCR text: ES
-
-167 店のアルバイトが足りないので広告を出したら、
-学生が何人か( )してきた。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-167 店のアルバイトが足りないので広告を出したら、
-学生が何人か( )してきた。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 23.992662994s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068975487
-
-- OCR files: image_import_88bf0e0e25bb_slide_0067.png
-- OCR text: CE
-
-168 池の( )に大きな石が沈んでいる。
-
-|
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> CE
-
-168 池の( )に大きな石が沈んでいる。
-
-|</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 56.453137554s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '56s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068976032
-
-- OCR files: image_import_358d5412e353_slide_0068.png
-- OCR text: RES
-
-169 出張は、多い月も少ない月もありますが、
-わたしは( )一か月6
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> RES
-
-169 出張は、多い月も少ない月もありますが、
-わたしは( )一か月6</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 28.68370468s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780068976559
-
-- OCR files: image_import_be9f3dd740b8_slide_0069.png
-- OCR text: ES
-
-170 駅前道路の渋滞問題を( )するために、
-道路を広くする工事が行われている。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-170 駅前道路の渋滞問題を( )するために、
-道路を広くする工事が行われている。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 957.715158ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069057791
-
-- OCR files: image_import_69ded0d99b9b_slide_0001.png
-- OCR text: wa
-
-171 電車やバスの中では、騒いだりしないで、
-( )を守りましょう。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> wa
-
-171 電車やバスの中では、騒いだりしないで、
-( )を守りましょう。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 33.101709181s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069058347
-
-- OCR files: image_import_9c828efb6e86_slide_0002.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 5.38640721s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069058898
-
-- OCR files: image_import_f32f82573ece_slide_0003.png
-- OCR text: ES
-
-173 このタオルで、      た手をしっかり( )ください。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-173 このタオルで、      た手をしっかり( )ください。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 37.762851503s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069059441
-
-- OCR files: image_import_b4951fe2c352_slide_0004.png
-- OCR text: ES
-
-174 さっきのリーさんのスピーチは本当に素晴らし
-
-かったから、リーさんが優勝するのは( )だ。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-174 さっきのリーさんのスピーチは本当に素晴らし
-
-かったから、リーさんが優勝するのは( )だ。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 9.919706448s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069059971
-
-- OCR files: image_import_396f0dc62d22_slide_0005.png
-- OCR text: RE
-
-175 子どもが寝ているので、音をたてないように、
-
-ドアを( )閉めた。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> RE
-
-175 子どもが寝ているので、音をたてないように、
-
-ドアを( )閉めた。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 41.767452776s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069060499
-
-- OCR files: image_import_47b17eac156d_slide_0006.png
-- OCR text: 8
-
-176 ポスターを作って、みんな|
-
-参加を(
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> 8
-
-176 ポスターを作って、みんな|
-
-参加を(</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14.042645079s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '14s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069061032
-
-- OCR files: image_import_62aafc2b3554_slide_0007.png
-- OCR text: Sey
-
-177 この紙は、ぬれても破れにくいという( )があります。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-177 この紙は、ぬれても破れにくいという( )があります。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 46.648211471s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069061562
-
-- OCR files: image_import_0c242af71bda_slide_0008.png
-- OCR text: xe
-
-178 佐藤さんには、おとなしい( )があるが、
-本当は活動的な人らしい。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> xe
-
-178 佐藤さんには、おとなしい( )があるが、
-本当は活動的な人らしい。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 18.963542554s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069062091
-
-- OCR files: image_import_e2e9e38cec33_slide_0009.png
-- OCR text: ES
-
-179 正月には親戚が集まって、みんなでテーブル
-を( ) 、楽しく食事をした。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-179 正月には親戚が集まって、みんなでテーブル
-を( ) 、楽しく食事をした。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 50.81381568s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069062621
-
-- OCR files: image_import_cad3d75c3228_slide_0010.png
-- OCR text: ES
-
-181 高田さんが引っ越すという( )を聞いた
-本当かどうか気になる。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-181 高田さんが引っ越すという( )を聞いた
-本当かどうか気になる。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 22.932345869s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '22s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069063152
-
-- OCR files: image_import_3083f310605b_slide_0011.png
-- OCR text: ES
-
-182 父から借りた本をなくしてしまったの
-に( )くれた。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-182 父から借りた本をなくしてしまったの
-に( )くれた。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 54.435781784s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '54s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069063677
-
-- OCR files: image_import_888ebbbd82a8_slide_0012.png
-- OCR text: ES
-
-183 パソコンの前でずっと同じ( )でいた
-体が痛くなった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-183 パソコンの前でずっと同じ( )でいた
-体が痛くなった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 26.30322445s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '26s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069064205
-
-- OCR files: image_import_959a26c19aa4_slide_0013.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 58.877145005s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '58s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069064735
-
-- OCR files: image_import_e1fc22828701_slide_0014.png
-- OCR text: na
-
-185 わたしのふるさとは( )が盛んで、米や野菜を
-
-たくさん作っています。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> na
-
-185 わたしのふるさとは( )が盛んで、米や野菜を
-
-たくさん作っています。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 30.718475025s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069065268
-
-- OCR files: image_import_4fdd33638fd1_slide_0015.png
-- OCR text: ars
-
-186 水に浮いていた木の葉が、しばらくすると水の
-
-③ たおれて
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ars
-
-186 水に浮いていた木の葉が、しばらくすると水の
-
-③ たおれて</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 3.24645409s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '3s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069065798
-
-- OCR files: image_import_36f4d36f8383_slide_0016.png
-- OCR text: >
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> &gt;</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 35.431934658s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '35s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069066360
-
-- OCR files: image_import_04eed4a6b9f1_slide_0017.png
-- OCR text: Sey
-
-188 初めて海   行く弟に、気をつけ
-
-ことを(        )してあげた。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-188 初めて海   行く弟に、気をつけ
-
-ことを(        )してあげた。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 8.113729051s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '8s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069066893
-
-- OCR files: image_import_062a4593658f_slide_0018.png
-- OCR text: ES
-
-189 鈴木さんは本当に歌が(  )ので
-
-思われることもあるらしい。
-
-le
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-189 鈴木さんは本当に歌が(  )ので
-
-思われることもあるらしい。
-
-le</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 39.825532289s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '39s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069067456
-
-- OCR files: image_import_1f524bb4c0c9_slide_0019.png
-- OCR text: ES
-
-190 わたしはたくさん練習したので、 今度のカラオケ
-
-会では優勝する(  )があります。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-190 わたしはたくさん練習したので、 今度のカラオケ
-
-会では優勝する(  )があります。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 11.495818552s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '11s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069067986
-
-- OCR files: image_import_343b9b7e3d12_slide_0020.png
-- OCR text: ES
-
-191 昨日病院で目の( )をしてもらったら、
-目が少し悪くなっていることがわかった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-191 昨日病院で目の( )をしてもらったら、
-目が少し悪くなっていることがわかった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 42.879940735s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069068539
-
-- OCR files: image_import_b5a23d32ad9b_slide_0021.png
-- OCR text: ES
-
-192 就職が決まったら、苦手だった外国語の勉強
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-192 就職が決まったら、苦手だった外国語の勉強</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14.531943663s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '14s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069069069
-
-- OCR files: image_import_61af5f4270db_slide_0022.png
-- OCR text: ES
-
-193 最近風邪が(  )ようで、学校を休む生徒が多い。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-193 最近風邪が(  )ようで、学校を休む生徒が多い。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 45.857193433s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069069603
-
-- OCR files: image_import_36e7daeb6d19_slide_0023.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 17.52335209s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069070135
-
-- OCR files: image_import_14b5f28683c3_slide_0024.png
-- OCR text: EE
-
-195 あともう少しで優勝できたのに、 1点差で負けて
-
-しまって、本当に(  )ですね。
-
-@ まずしかった   ® 。 おしかった  e
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EE
-
-195 あともう少しで優勝できたのに、 1点差で負けて
-
-しまって、本当に(  )ですね。
-
-@ まずしかった   ® 。 おしかった  e</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 48.634526476s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069070663
-
-- OCR files: image_import_24581415a0ac_slide_0025.png
-- OCR text: ES
-
-きに足にできた(  )に、
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-きに足にできた(  )に、</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 20.337754657s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069071195
-
-- OCR files: image_import_60668cf467c9_slide_0026.png
-- OCR text: EN
-
-197 この国は石油などの資源がないので、他の国
-から輸入に(  )いる。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-197 この国は石油などの資源がないので、他の国
-から輸入に(  )いる。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 51.557486133s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '51s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069071723
-
-- OCR files: image_import_6b0d7c715da5_slide_0027.png
-- OCR text: ES
-
-198 寝坊して、慌てて家を出たので、(  )部屋
-の窓を閉めるのを忘れてしまった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-198 寝坊して、慌てて家を出たので、(  )部屋
-の窓を閉めるのを忘れてしまった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 23.190576207s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069072270
-
-- OCR files: image_import_f0fcd5c2b1b4_slide_0028.png
-- OCR text: Sey
-
-199 重い本をたくさん入れたら、紙の袋が(  )、
-
-中身が落ちてしまった。
-
-汚れて                 @        破れて
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-199 重い本をたくさん入れたら、紙の袋が(  )、
-
-中身が落ちてしまった。
-
-汚れて                 @        破れて</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 55.247959042s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069072801
-
-- OCR files: image_import_3b7b62851984_slide_0029.png
-- OCR text: Ey
-
-200 この遊園地は、子どもは大人の半分の(  )
-
-ょできるそうだ。
-
-Hite
-
-Fa
-®
-回
-=
-Bg
-:
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Ey
-
-200 この遊園地は、子どもは大人の半分の(  )
-
-ょできるそうだ。
-
-Hite
-
-Fa
-®
-回
-=
-Bg
-:</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 26.823036101s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '26s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069073333
-
-- OCR files: image_import_3d5f0c44c42f_slide_0030.png
-- OCR text: CES
-
-202 次の試合で(  )相手は、去年の優勝者
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> CES
-
-202 次の試合で(  )相手は、去年の優勝者</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 58.434775026s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '58s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069073866
-
-- OCR files: image_import_1caf6041d71a_slide_0031.png
-- OCR text: ES
-
-203 わたしは建築を勉強しているので、 日本の家の
-建て方に( )があります。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-203 わたしは建築を勉強しているので、 日本の家の
-建て方に( )があります。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 29.992350293s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069074408
-
-- OCR files: image_import_9e11b56295fa_slide_0032.png
-- OCR text: ES
-
-204 喫茶店のドアを開けたら、コーヒーのいい
-(
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-204 喫茶店のドアを開けたら、コーヒーのいい
-(</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 1.432122351s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069074959
-
-- OCR files: image_import_de93837a2815_slide_0033.png
-- OCR text: ES
-
-205 今日のコンサートでピアノを(  )するのは、
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-205 今日のコンサートでピアノを(  )するのは、</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 33.214598303s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069075506
-
-- OCR files: image_import_31449c7b9749_slide_0034.png
-- OCR text: ES
-
-206 交通事故を( )ために、横断歩道に信号が
-付けられました。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-206 交通事故を( )ために、横断歩道に信号が
-付けられました。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 5.17800086s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069076053
-
-- OCR files: image_import_7610e22dbf48_slide_0035.png
-- OCR text: ex
-
-207 この靴は、わたしの足に(  )合っているので、
-歩きやすいです。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ex
-
-207 この靴は、わたしの足に(  )合っているので、
-歩きやすいです。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 37.536237088s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069076583
-
-- OCR files: image_import_9c284f530acb_slide_0036.png
-- OCR text: CES
-
-208 缶やペットボトルなども捨てないで(  )すれば、
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> CES
-
-208 缶やペットボトルなども捨てないで(  )すれば、</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 9.337835817s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069077130
-
-- OCR files: image_import_f9b4edf91bf5_slide_0037.png
-- OCR text: +e
-
-209 この国は米の生産が(  )で、海外にもたくさん
-米を輸出している。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> +e
-
-209 この国は米の生産が(  )で、海外にもたくさん
-米を輸出している。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 40.855460004s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '40s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069077675
-
-- OCR files: image_import_3de84d28abf0_slide_0038.png
-- OCR text: te
-
-降ってきましたが、私の家は近いので、
-傘がなくても(  )です。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> te
-
-降ってきましたが、私の家は近いので、
-傘がなくても(  )です。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 12.80644695s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069078221
-
-- OCR files: image_import_09d59e1980c9_slide_0039.png
-- OCR text: CEY
-
-211 仕事で疲れているときは、 夕飯を作るのが(
-
-(0)    だらしない          @ めんどう5くさい
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> CEY
-
-211 仕事で疲れているときは、 夕飯を作るのが(
-
-(0)    だらしない          @ めんどう5くさい</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 44.073874462s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069078758
-
-- OCR files: image_import_ed802046ff6c_slide_0040.png
-- OCR text: ES
-
-212 ゆうべはほとんど寝ていないので、今日は眠くて
-何度も( 。)が出てしまう。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-212 ゆうべはほとんど寝ていないので、今日は眠くて
-何度も( 。)が出てしまう。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 15.859119537s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069079287
-
-- OCR files: image_import_83c212ca6beb_slide_0041.png
-- OCR text: eX
-
-213 「私の国の社会問題」という(  )で、レポートを
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> eX
-
-213 「私の国の社会問題」という(  )で、レポートを</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 47.555221302s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069079828
-
-- OCR files: image_import_e4dc160ad840_slide_0042.png
-- OCR text: 2015年07月
-
-)が大きい。
-
-214 この季節は、昼と夜の気温の(
-
-fo
-
-に3
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> 2015年07月
-
-)が大きい。
-
-214 この季節は、昼と夜の気温の(
-
-fo
-
-に3</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 19.415769648s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069080382
-
-- OCR files: image_import_aa2c01e318d2_slide_0043.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 50.920257636s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069080914
-
-- OCR files: image_import_f239d7ab2670_slide_0044.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 22.721600042s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '22s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069081447
-
-- OCR files: image_import_6e04f56dd46e_slide_0045.png
-- OCR text: 2015年07月
-
-§
-fi
-bal
-ny
-n
-N
-re
-Ss
-#
-.
-a
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> 2015年07月
-
-§
-fi
-bal
-ny
-n
-N
-re
-Ss
-#
-.
-a</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 54.664767314s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '54s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069082018
-
-- OCR files: image_import_6aef2a7a36a4_slide_0046.png
-- OCR text: ES
-
-218 来週の説明会は、今日の12時が申し込みの
-(De
-回
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-218 来週の説明会は、今日の12時が申し込みの
-(De
-回</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 25.836618575s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069082572
-
-- OCR files: image_import_e94b6b000775_slide_0047.png
-- OCR text: ES
-
-219 外国で生活するのは楽しいが、ときどき国の料理
-が(  )なる。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-219 外国で生活するのは楽しいが、ときどき国の料理
-が(  )なる。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 57.424219233s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '57s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069083113
-
-- OCR files: image_import_de5c322feb9c_slide_0048.png
-- OCR text: KT
-
-220 夫とは、3年間(  )から結婚しました。
-
- の
-
--
-
-il                                レレ。 1
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> KT
-
-220 夫とは、3年間(  )から結婚しました。
-
- の
-
--
-
-il                                レレ。 1</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 29.0006453s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069083647
-
-- OCR files: image_import_1f6b2dfe2f40_slide_0049.png
-- OCR text: Ex
-
-221 私たちの(  )は、今度の大会
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Ex
-
-221 私たちの(  )は、今度の大会</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 736.705841ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069084200
-
-- OCR files: image_import_68cd84bbc91f_slide_0050.png
-- OCR text: ES
-
-)。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-)。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 32.896059697s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069084731
-
-- OCR files: image_import_cacb8a58ef94_slide_0051.png
-- OCR text: ES
-
-223 今度のレポートは、環境問題という(  )で
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-223 今度のレポートは、環境問題という(  )で</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 1.680113042s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069085265
-
-- OCR files: image_import_9639eb70d763_slide_0052.png
-- OCR text: ES
-
-224 袋の底に(  )があいていたので、入れたお菓
-子がいくつか落ちてしまった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-224 袋の底に(  )があいていたので、入れたお菓
-子がいくつか落ちてしまった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 33.340456958s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '33s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069085818
-
-- OCR files: image_import_8beeb793fa18_slide_0053.png
-- OCR text: EX
-
-225 今度の旅行は、交通費が5,000円
-10,000円なので、(  )15,000円かかりま
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EX
-
-225 今度の旅行は、交通費が5,000円
-10,000円なので、(  )15,000円かかりま</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 5.48645796s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069086360
-
-- OCR files: image_import_12233d64bd09_slide_0054.png
-- OCR text: oe
-
-2)       うるさい
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> oe
-
-2)       うるさい</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 36.997912079s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '36s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069086911
-
-- OCR files: image_import_dbedb3d1ef1b_slide_0055.png
-- OCR text: Sey
-
-227 さっき机の角に手を( LEVY
-今も少し痛い
-
-@
-&
-2
-ミ
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-227 さっき机の角に手を( LEVY
-今も少し痛い
-
-@
-&amp;
-2
-ミ</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 8.86617672s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '8s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069087440
-
-- OCR files: image_import_09ac1eb4ecfe_slide_0056.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 40.899617249s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '40s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069087971
-
-- OCR files: image_import_c9b6ef0e8525_slide_0057.png
-- OCR text: EN
-
-229 わたしは、みんなの前で意見を言うときに上緊張
-すると、 つい鼻を触ってしまう(  )があります。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-229 わたしは、みんなの前で意見を言うときに上緊張
-すると、 つい鼻を触ってしまう(  )があります。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 12.447912033s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069088503
-
-- OCR files: image_import_5d473ff8313a_slide_0058.png
-- OCR text: ES
-
-230 風邪をひいて、高い熱があるので、体が( )します。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-230 風邪をひいて、高い熱があるので、体が( )します。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 43.938905923s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069089033
-
-- OCR files: image_import_aaf11023a979_slide_0059.png
-- OCR text: ES
-
-231 来週の日曜日はスピーチ大会です。 大会の
-)は、朝10時に会場に来てく
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-231 来週の日曜日はスピーチ大会です。 大会の
-)は、朝10時に会場に来てく</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 15.312097597s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069089564
-
-- OCR files: image_import_5f8d2a889903_slide_0060.png
-- OCR text: Ley
-
-232 お菓子は6個あるから、3人で(  )と
-一人2個になる。
-
-bid
-キ
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Ley
-
-232 お菓子は6個あるから、3人で(  )と
-一人2個になる。
-
-bid
-キ</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 47.338306104s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069090091
-
-- OCR files: image_import_fdff641f251f_slide_0061.png
-- OCR text: ES
-
-233 友人に子どもが生まれたので、(
-
-贈りたいと思っています。
- ーー
-
-+
-=
-
-6
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-233 友人に子どもが生まれたので、(
-
-贈りたいと思っています。
- ーー
-
-+
-=
-
-6</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 18.643329772s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '18s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069090621
-
-- OCR files: image_import_d53906a2ffa0_slide_0062.png
-- OCR text: RES
-
-234 パソコンの調子が悪いんですが、自分で原因を
-調べる(  )はありませんか。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> RES
-
-234 パソコンの調子が悪いんですが、自分で原因を
-調べる(  )はありませんか。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 49.294568795s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069091153
-
-- OCR files: image_import_4aae8b36057c_slide_0063.png
-- OCR text: ES
-
-235 田中さんは、何でも自分からやってみようとする
-(  )な人だ。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-235 田中さんは、何でも自分からやってみようとする
-(  )な人だ。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 20.654512896s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069091679
-
-- OCR files: image_import_d6ef5c8dc501_slide_0064.png
-- OCR text: EN
-
-236 日本には石油や金なごの(  )はあまりない。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-236 日本には石油や金なごの(  )はあまりない。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 52.398527108s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069092214
-
-- OCR files: image_import_96074d0934d3_slide_0065.png
-- OCR text: CES
-
-237 初めて森さんに会ったときには、 おとなしい人
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> CES
-
-237 初めて森さんに会ったときには、 おとなしい人</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 23.971901795s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069092743
-
-- OCR files: image_import_2d060d357370_slide_0066.png
-- OCR text: MES
-
-238 昨日の夜から歯が痛くて(  )できなくなったので、
-今朝歯医者に行った。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> MES
-
-238 昨日の夜から歯が痛くて(  )できなくなったので、
-今朝歯医者に行った。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 55.413876144s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069093274
-
-- OCR files: image_import_1138b03c3ddf_slide_0067.png
-- OCR text: EN
-
-239 旅行の(  )に絵はがきを買った。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-239 旅行の(  )に絵はがきを買った。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 27.043705341s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069093806
-
-- OCR files: image_import_e83bc6c11dc6_slide_0068.png
-- OCR text: でES
-
-240 今月から駐車場の使用(  )が高くなった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> でES
-
-240 今月から駐車場の使用(  )が高くなった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 58.828745871s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '58s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069231583
-
-- OCR files: image_import_0a2aa0249c4f_slide_0001.png
-- OCR text: ES
-
-241 このゲーム、 初めはおもしろいと思ったけど、
-何度もやったので、もう(  )しまった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-241 このゲーム、 初めはおもしろいと思ったけど、
-何度もやったので、もう(  )しまった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 30.122113386s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069232110
-
-- OCR files: image_import_b137e4d1eb20_slide_0002.png
-- OCR text: ES
-
-242 旅行会社に行ったら、海外旅行の(  )が
-
-たくさん置いてあった。
-
-@   "
-
-パンフレット         2
-
-Sd
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-242 旅行会社に行ったら、海外旅行の(  )が
-
-たくさん置いてあった。
-
-@   "
-
-パンフレット         2
-
-Sd</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 1.246177439s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '1s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069232637
-
-- OCR files: image_import_2af4ced59325_slide_0003.png
-- OCR text: ES
-
-243 風邪をひいて、のどの( )が悪いで
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-243 風邪をひいて、のどの( )が悪いで</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 32.852049847s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069233172
-
-- OCR files: image_import_f1138f9056b4_slide_0004.png
-- OCR text: ES
-
-244 このズボンは( )ので、もう少し小さいサイズの
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-244 このズボンは( )ので、もう少し小さいサイズの</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 4.70903023s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '4s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069233702
-
-- OCR files: image_import_2ffe7519296b_slide_0005.png
-- OCR text: Ley
-
-245 日本に来てから、もう3年( )。
-
-®      WOELE
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Ley
-
-245 日本に来てから、もう3年( )。
-
-®      WOELE</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 36.855112083s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '36s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069234234
-
-- OCR files: image_import_48383afa32f2_slide_0006.png
-- OCR text: ES
-
-246 ついさっきまでいい天気だったのに、
-
-降ってきてぬれてしまいました。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-246 ついさっきまでいい天気だったのに、
-
-降ってきてぬれてしまいました。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 8.484079362s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '8s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069234765
-
-- OCR files: image_import_82ad1f392485_slide_0007.png
-- OCR text: 2013年12月
-
-活が大変です。
-
-シセ
-重
-&
-回
-cz
-iS
-J
-x
-
-物価
-
-@
-
-経済
-
-消費
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> 2013年12月
-
-活が大変です。
-
-シセ
-重
-&amp;
-回
-cz
-iS
-J
-x
-
-物価
-
-@
-
-経済
-
-消費</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 40.523779746s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '40s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069235297
-
-- OCR files: image_import_2d2ef08ce8e3_slide_0008.png
-- OCR text: EN
-
-248 先に家を出た
-
-① 問に合いました             ぶつかりました
-
-追いつきました
-
-駅の近くでやっと( )。
-
-lj
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-248 先に家を出た
-
-① 問に合いました             ぶつかりました
-
-追いつきました
-
-駅の近くでやっと( )。
-
-lj</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 11.970697145s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '11s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069235824
-
-- OCR files: image_import_bba227d28cfd_slide_0009.png
-- OCR text: ES
-
-249 わたしは泳
-
-になりました。
-  回
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-249 わたしは泳
-
-になりました。
-  回</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 43.055983483s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '43s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069236353
-
-- OCR files: image_import_6e3ac81d5c8a_slide_0010.png
-- OCR text: ES
-
-250 友人の家で食べたケーキがおいしかったので、
-( )と作り方を教えてもらった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-250 友人の家で食べたケーキがおいしかったので、
-( )と作り方を教えてもらった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 15.237483717s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '15s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069236887
-
-- OCR files: image_import_de12b3fcca28_slide_0011.png
-- OCR text: ES
-
-251 あの兄弟はいつも一緒に学校に来るのに、今日
-は( )来た。
-
-O 別に
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-251 あの兄弟はいつも一緒に学校に来るのに、今日
-は( )来た。
-
-O 別に</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 47.065701275s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '47s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069237416
-
-- OCR files: image_import_405205803636_slide_0012.png
-- OCR text: ES
-
-252 佐藤さんに仕事をお願いしたら、( )くれました。
-
-① 叶受けて         ② alate
-
-引っ張って         ④ 引っかけて     >
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-252 佐藤さんに仕事をお願いしたら、( )くれました。
-
-① 叶受けて         ② alate
-
-引っ張って         ④ 引っかけて     &gt;</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 19.112011573s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '19s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069237956
-
-- OCR files: image_import_08f57a389ef1_slide_0013.png
-- OCR text: Ey
-
-253 森さんはいつも、自分の飼っているべペ、
-かわいいとみんなに( )いる。
-
-番
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Ey
-
-253 森さんはいつも、自分の飼っているべペ、
-かわいいとみんなに( )いる。
-
-番</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 51.19659154s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '51s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069238484
-
-- OCR files: image_import_de0fbc57db99_slide_0014.png
-- OCR text: ES
-
-( ) 、何か飲みたい。
-
-7
-
-\7
-
-&
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-( ) 、何か飲みたい。
-
-7
-
-\7
-
-&amp;</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 23.113801332s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069239018
-
-- OCR files: image_import_b52ed33038ba_slide_0015.png
-- OCR text: EN
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 55.121255732s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069239572
-
-- OCR files: image_import_aad9bb41167c_slide_0016.png
-- OCR text: ES
-
-の音が( )ので、修理をお願いした。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-の音が( )ので、修理をお願いした。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 27.357809531s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069240119
-
-- OCR files: image_import_389c257516a2_slide_0017.png
-- OCR text: ES
-
-257 時計が止まってしまったので、新しい電池に( )
-
-した。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-257 時計が止まってしまったので、新しい電池に( )
-
-した。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 59.358765769s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069240653
-
-- OCR files: image_import_e0090b0cdca2_slide_0018.png
-- OCR text: NES
-
-258 缶やペットド   も捨てないで( )すれば、ごみは
-
-少なくなる。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> NES
-
-258 缶やペットド   も捨てないで( )すれば、ごみは
-
-少なくなる。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 31.056679165s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069241182
-
-- OCR files: image_import_fe7f9b580949_slide_0019.png
-- OCR text: Ley
-
-259 林さんが結婚するという( )を聞いたが、本当
-かどうかはわからない。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Ley
-
-259 林さんが結婚するという( )を聞いたが、本当
-かどうかはわからない。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 2.892480067s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069241714
-
-- OCR files: image_import_af95c3d2d9c8_slide_0020.png
-- OCR text: CER
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> CER</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 34.9937359s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069242245
-
-- OCR files: image_import_403061a88799_slide_0021.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 6.664352942s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '6s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069242775
-
-- OCR files: image_import_c23d5b4852b9_slide_0022.png
-- OCR text: ES
-
-262 都合が悪くなったときは、( )早く連絡して
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-262 都合が悪くなったときは、( )早く連絡して</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 38.581756965s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '38s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069243305
-
-- OCR files: image_import_fd0265663e88_slide_0023.png
-- OCR text: <
-
-263 会議の間、山田さんは目を( )いたので、
-
-寝ているのかと思った。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> &lt;
-
-263 会議の間、山田さんは目を( )いたので、
-
-寝ているのかと思った。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 10.334771234s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069243838
-
-- OCR files: image_import_6bc85e8387ca_slide_0024.png
-- OCR text: EN
-
-264 セーターをきちんと( ) 、たんすの引き出しに
-
-しまった。
-たたんで            @     むすんで
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-264 セーターをきちんと( ) 、たんすの引き出しに
-
-しまった。
-たたんで            @     むすんで</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 41.709358671s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069244379
-
-- OCR files: image_import_795201d26b5a_slide_0025.png
-- OCR text: Sey
-
-265 30年後の自分が何をやっているか、( )してみ
-ください。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-265 30年後の自分が何をやっているか、( )してみ
-ください。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 13.212071672s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '13s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069244927
-
-- OCR files: image_import_acbaf0f125df_slide_0026.png
-- OCR text: Sey
-
-266 皮を( )りんごを食べました。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-266 皮を( )りんごを食べました。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 44.753010436s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069245463
-
-- OCR files: image_import_69dc3ad2c5b6_slide_0027.png
-- OCR text: ES
-
-267 水をやるのを忘れていたので、花が( )しまった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-267 水をやるのを忘れていたので、花が( )しまった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 16.722819891s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '16s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069245997
-
-- OCR files: image_import_69798e5f445c_slide_0028.png
-- OCR text: 2012年12月
-
-268 この映画は( )した
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> 2012年12月
-
-268 この映画は( )した</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 48.278188511s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069246528
-
-- OCR files: image_import_1cc6adc905ca_slide_0029.png
-- OCR text: 8%
-
-269 楽しみにしていたコンサートが中止になって( )した。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> 8%
-
-269 楽しみにしていたコンサートが中止になって( )した。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 20.262037974s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '20s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069247063
-
-- OCR files: image_import_b09f39ec27c1_slide_0030.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 52.199789884s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '52s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069247595
-
-- OCR files: image_import_af975e38eb76_slide_0031.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 23.557403073s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '23s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069248128
-
-- OCR files: image_import_85f18a1d03a1_slide_0032.png
-- OCR text: ES
-
-272 商品の( )は、     間以内に銀行でお支払い
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-272 商品の( )は、     間以内に銀行でお支払い</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 54.6329836s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '54s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069248656
-
-- OCR files: image_import_7ebdd976d8cd_slide_0033.png
-- OCR text: ES
-
-273 何度もことわっているのに、彼に( )頼まれて
-困っています。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-273 何度もことわっているのに、彼に( )頼まれて
-困っています。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 26.434336952s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '26s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069249189
-
-- OCR files: image_import_9413d2e83fce_slide_0034.png
-- OCR text: ES
-
-274 廊下の電気は、スイッチを押さなくても、人が通る
-
-と( )につきます。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-274 廊下の電気は、スイッチを押さなくても、人が通る
-
-と( )につきます。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 58.169773255s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '58s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069249721
-
-- OCR files: image_import_bc14ad8902eb_slide_0035.png
-- OCR text: ES
-
-275 いくら探しても、手袋が( )しか見つからない。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-275 いくら探しても、手袋が( )しか見つからない。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 29.049877898s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '29s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069250268
-
-- OCR files: image_import_ee4ec1c1c1c7_slide_0036.png
-- OCR text: EN
-
-276 今日は川の( )が速いから、泳いではいけません。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-276 今日は川の( )が速いから、泳いではいけません。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 273.994547ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069250795
-
-- OCR files: image_import_c544d73b8d6e_slide_0037.png
-- OCR text: ES
-
-277 ( )はお金がかかるので、いつも家でご飯を
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-277 ( )はお金がかかるので、いつも家でご飯を</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 32.075096529s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069251332
-
-- OCR files: image_import_9be474c5dc69_slide_0038.png
-- OCR text: ES
-
-278 きのうの試合は一点( )で勝つことができた。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-278 きのうの試合は一点( )で勝つことができた。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 4.524986513s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '4s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069251889
-
-- OCR files: image_import_e2a671e9bbee_slide_0039.png
-- OCR text: RES
-
-279 寝坊しないように、きのうは目覚まし時計を二つ
-( )して寝ました。
-
-—| —,",
-
->
-Pr                                                                                                         き
-|                                                                                                               <
-
-J                                   Ne
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> RES
-
-279 寝坊しないように、きのうは目覚まし時計を二つ
-( )して寝ました。
-
-—| —,",
-
-&gt;
-Pr                                                                                                         き
-|                                                                                                               &lt;
-
-J                                   Ne</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 36.308791986s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '36s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069252424
-
-- OCR files: image_import_7d4a1c521ba2_slide_0040.png
-- OCR text: ES
-
-280 佐藤さんは( )の強い人で、何度失敗しても
-あきらめなかった。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-280 佐藤さんは( )の強い人で、何度失敗しても
-あきらめなかった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 7.494505995s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '7s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069252981
-
-- OCR files: image_import_30e25edbf9fe_slide_0041.png
-- OCR text: ES
-
-こなったときは、
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-こなったときは、</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 38.888897317s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '38s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069253511
-
-- OCR files: image_import_65cfb0c37cee_slide_0042.png
-- OCR text: Ley
-
-282 仕事のやり方を変えたら、大きな問題は( )。
-
-OD 立たなくなった   ② 起きなくなった
-③ 始まらなくなった    ④ 開かなくなった  y
-
-の
-
-W
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Ley
-
-282 仕事のやり方を変えたら、大きな問題は( )。
-
-OD 立たなくなった   ② 起きなくなった
-③ 始まらなくなった    ④ 開かなくなった  y
-
-の
-
-W</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 10.65225468s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '10s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069254041
-
-- OCR files: image_import_a3457a810eb4_slide_0043.png
-- OCR text: ES
-
-283 今日は先輩がサッカーの試合に出るので、友達と
-一緒に( )に行った。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-283 今日は先輩がサッカーの試合に出るので、友達と
-一緒に( )に行った。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 42.182938711s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069254575
-
-- OCR files: image_import_ff4e23cf7cdd_slide_0044.png
-- OCR text: ES
-
-284 先生に頼んでレポートの締め切りを1日だけ( )
-
-もらった。
-① Bt               @ のばして
-やり直しで
-Ly
-4
-ア
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-284 先生に頼んでレポートの締め切りを1日だけ( )
-
-もらった。
-① Bt               @ のばして
-やり直しで
-Ly
-4
-ア</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 13.845455017s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '13s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069255105
-
-- OCR files: image_import_9f32bf72ea5b_slide_0045.png
-- OCR text: EN
-
-285 孫たちの乗った車が見えなくなるまで、 大きく手を
-( )見送った。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-285 孫たちの乗った車が見えなくなるまで、 大きく手を
-( )見送った。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 45.597349704s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069255632
-
-- OCR files: image_import_fd65290756fb_slide_0046.png
-- OCR text: ES
-
-286 今夜は雨が降るそうなので、家の外に止めて
-バイクに( )をかけた
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-286 今夜は雨が降るそうなので、家の外に止めて
-バイクに( )をかけた</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 17.511021625s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069256161
-
-- OCR files: image_import_115c0f4f7fd7_slide_0047.png
-- OCR text: 2011年12月
-
-&
-FS
-ヌメ
-
-この病気に
-
-287
-
-かかる
-
-9
-&
-BS
-
-はいる
-
-@
-
-あたる
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> 2011年12月
-
-&amp;
-FS
-ヌメ
-
-この病気に
-
-287
-
-かかる
-
-9
-&amp;
-BS
-
-はいる
-
-@
-
-あたる</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 50.240163204s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '50s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069256695
-
-- OCR files: image_import_205e4a1bc059_slide_0048.png
-- OCR text: ES
-
-288 このホテルの部屋は、いつもきちんと掃除されて
-いて( )だ。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-288 このホテルの部屋は、いつもきちんと掃除されて
-いて( )だ。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 21.857399309s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '21s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069257223
-
-- OCR files: image_import_af14b33918c0_slide_0049.png
-- OCR text: Ley
-
-289 今度の試合はみんなで力を( )頑        。
-
-®       PERT                ②  dSbeec
-@
-
-くわえて           @     ちやして
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Ley
-
-289 今度の試合はみんなで力を( )頑        。
-
-®       PERT                ②  dSbeec
-@
-
-くわえて           @     ちやして</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 53.364655903s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069257754
-
-- OCR files: image_import_820ff2a05167_slide_0050.png
-- OCR text: Sey
-
-290 会議のためあしたから一週間、部長とアメリカ
-へ( )する。
-
-E
-ES
-®
-E
-3
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-290 会議のためあしたから一週間、部長とアメリカ
-へ( )する。
-
-E
-ES
-®
-E
-3</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 25.274563095s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '25s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069258287
-
-- OCR files: image_import_4f5ce055d418_slide_0051.png
-- OCR text: ey
-
-291 山田さんは、よく( )を言う面白い人で
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ey
-
-291 山田さんは、よく( )を言う面白い人で</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 57.155874907s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '57s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069258814
-
-- OCR files: image_import_4265e8f5df9b_slide_0052.png
-- OCR text: ES
-
-292 ビザのおいしい店を友達が教えてくれたので、
-
-( )食べに行ってみた。
-
-①      せっかく       @      にcxっ3
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-292 ビザのおいしい店を友達が教えてくれたので、
-
-( )食べに行ってみた。
-
-①      せっかく       @      にcxっ3</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 28.934438232s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069259343
-
-- OCR files: image_import_ac9f50ecc507_slide_0053.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 515.392883ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069259874
-
-- OCR files: image_import_687e0db5017a_slide_0054.png
-- OCR text: ES
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 31.866013014s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069260406
-
-- OCR files: image_import_2b64ee30243c_slide_0055.png
-- OCR text: EN
-
-295 この商品は毎日1000個( )売れるらしい。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> EN
-
-295 この商品は毎日1000個( )売れるらしい。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 2.993786509s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069260940
-
-- OCR files: image_import_1081584ff81f_slide_0056.png
-- OCR text: 2011年12月
-
-296 台風の( )で飛
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> 2011年12月
-
-296 台風の( )で飛</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 34.390125756s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069261472
-
-- OCR files: image_import_144d37c0e6cd_slide_0057.png
-- OCR text: ES
-
-297 中身がこぼれないよう、ふたを( )しめてください。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-297 中身がこぼれないよう、ふたを( )しめてください。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 5.917725992s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '5s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069262003
-
-- OCR files: image_import_ddd28e7ce8bc_slide_0058.png
-- OCR text: wee
-
-話はボタンが押しにくいという( )を
-持つ利用者もいる。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> wee
-
-話はボタンが押しにくいという( )を
-持つ利用者もいる。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 37.050681261s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069262534
-
-- OCR files: image_import_621e3fe4ab39_slide_0059.png
-- OCR text: ES
-
-299 街を( )していたら、山本さんに会った。
-
-®      ばらばら
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-299 街を( )していたら、山本さんに会った。
-
-®      ばらばら</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 8.338406861s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '8s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069263065
-
-- OCR files: image_import_1c750ccb183a_slide_0060.png
-- OCR text: Sey
-
-300 セミナーに参加したい人は、( )に住所、氏名、
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-300 セミナーに参加したい人は、( )に住所、氏名、</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 39.451711683s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '39s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069263625
-
-- OCR files: image_import_2af4fa327c35_slide_0061.png
-- OCR text: ES
-
-301 この計算は( )なので、コンピューターを使っても
-時間がかかる。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> ES
-
-301 この計算は( )なので、コンピューターを使っても
-時間がかかる。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 11.167805478s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '11s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069264157
-
-- OCR files: image_import_6f255836a78f_slide_0062.png
-- OCR text: Sey
-
-302 この町には大きな川が( )います。
-- Question: 
-- Answer: 
-
-<div class="anki-ocr-answer">
-<hr>
-<p><b>Đáp án:</b> Sey
-
-302 この町には大きな川が( )います。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 42.744625621s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '42s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
-</div>
-
-## Note 1780069264687
-
-- OCR files: image_import_83b016c8a85a_slide_0063.png
-- OCR text: ES
-- Question: 
+- OCR files: image_import_b13d855a6a31_slide_0118.png
+- OCR text: none
+- Question: OCR lựa chọn: ① この二つの洗剤を混ぜると危険なガスが発生するので、気をつけてください。 ② この大学からは、有名な研究者がたくさん発生している。 ③ 駅の周りには、この2、3年の間に発生した店がたくさんあります。 ④ 春になると、この木には白い花がたくさん発生します。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 14.677448043s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '14s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ① この二つの洗剤を混ぜると危険なガスが発生するので、気をつけてください。</p>
+<p><b>Câu hỏi:</b> 発生</p>
+<p><b>Romaji câu hỏi:</b> Hassei</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ "発生" một cách tự nhiên nhất.</p>
+<p><b>Romaji đáp án:</b> Kono futatsu no senzai o mazeru to kiken na gasu ga hassei suru node, ki o tsukete kudasai.</p>
+<p><b>Dịch đáp án:</b> Nếu trộn hai loại chất tẩy rửa này lại với nhau, khí độc sẽ phát sinh, nên hãy cẩn thận.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① この二つの洗剤を混ぜると危険なガスが発生するので、気をつけてください。</b> (<i>Đúng</i>) - Romaji: Kono futatsu no senzai o mazeru to kiken na gasu ga hassei suru node, ki o tsukete kudasai. | Dịch: Nếu trộn hai loại chất tẩy rửa này lại với nhau, khí độc sẽ phát sinh, nên hãy cẩn thận. | Ghi chú: 発生 (phát sinh) dùng tự nhiên với "khí độc" (危険なガス).</li>
+<li><b>② この大学からは、有名な研究者がたくさん発生している。</b> (<i>Sai</i>) - Romaji: Kono daigaku kara wa, yūmei na kenkyūsha ga takusan hassei shite iru. | Dịch: Từ trường đại học này, nhiều nhà nghiên cứu nổi tiếng đã phát sinh. | Ghi chú: Không dùng 発生 cho việc "sản sinh" ra người (nhà nghiên cứu). Nên dùng 輩出する (haishutsu suru) hoặc 育つ (sodatsu).</li>
+<li><b>③ 駅の周りには、この2、3年の間に発生した店がたくさんあります。</b> (<i>Sai</i>) - Romaji: Eki no mawari ni wa, kono ni, san-nen no aida ni hassei shita mise ga takusan arimasu. | Dịch: Xung quanh nhà ga, có rất nhiều cửa hàng đã phát sinh trong 2, 3 năm gần đây. | Ghi chú: Không dùng 発生 cho việc "mở" hoặc "xuất hiện" cửa hàng. Nên dùng できた (dekita) hoặc 開店した (kaiten shita).</li>
+<li><b>④ 春になると、この木には白い花がたくさん発生します。</b> (<i>Sai</i>) - Romaji: Haru ni naru to, kono ki ni wa shiroi hana ga takusan hassei shimasu. | Dịch: Khi mùa xuân đến, trên cây này sẽ phát sinh rất nhiều hoa trắng. | Ghi chú: Không dùng 発生 cho việc "nở" hoa. Nên dùng 咲く (saku).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 発生 (はっせい) có nghĩa là "xảy ra, phát sinh, tạo ra". Nó thường được dùng cho các hiện tượng tự nhiên, sự cố, vấn đề, hoặc sự tạo ra của vật chất (như khí, nhiệt). Nó không dùng cho sự xuất hiện của người, vật thể cụ thể như cửa hàng, hay sự nở của hoa.</p>
 </div>
 
-## Note 1780069265213
+## Note 1780075398006
 
-- OCR files: image_import_f855227fded1_slide_0064.png
-- OCR text: cer
-
-304 優勝した選手に( )をして記事を書いた。
-- Question: 
+- OCR files: image_import_5e915adbdcf5_slide_0119.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 袋がひもで固くにぎってあったので、なかなか開かなかった。 ② ロープを強くにぎっていたせいで、手が赤くなってしまった。 ③ この料理は、はしを使うとにぎりにくいので、スプーンで食べよう。 ④ 資料がばらばらにならないようにクリップでにぎった。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> cer
-
-304 優勝した選手に( )をして記事を書いた。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 46.418850197s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ② ロープを強くにぎっていたせいで、手が赤くなってしまった。</p>
+<p><b>Câu hỏi:</b> にぎる</p>
+<p><b>Romaji câu hỏi:</b> nigiru</p>
+<p><b>Dịch câu hỏi:</b> Cách dùng từ にぎる nào là đúng?</p>
+<p><b>Romaji đáp án:</b> Rōpu o tsuyoku nigitteita sei de, te ga akaku natte shimatta.</p>
+<p><b>Dịch đáp án:</b> Vì đã nắm chặt sợi dây thừng nên tay tôi bị đỏ.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 袋がひもで固くにぎってあったので、なかなか開かなかった。</b> (<i>Sai</i>) - Romaji: Fukuro ga himo de kataku nigitte atta node, nakanaka akanakatta. | Dịch: Vì cái túi được buộc chặt bằng dây nên mãi không mở ra được. | Ghi chú: にぎる không dùng để diễn tả việc buộc dây. Nên dùng 結ぶ (musubu) hoặc 縛る (shibaru).</li>
+<li><b>② ロープを強くにぎっていたせいで、手が赤くなってしまった。</b> (<i>Đúng</i>) - Romaji: Rōpu o tsuyoku nigitteita sei de, te ga akaku natte shimatta. | Dịch: Vì đã nắm chặt sợi dây thừng nên tay tôi bị đỏ. | Ghi chú: にぎる (nắm, cầm chặt) dùng đúng trong ngữ cảnh nắm dây thừng.</li>
+<li><b>③ この料理は、はしを使うとにぎりにくいので、スプーンで食べよう。</b> (<i>Sai</i>) - Romaji: Kono ryōri wa, hashi o tsukau to nigirinikui node, supūn de tabeyō. | Dịch: Món ăn này khó cầm bằng đũa nên hãy ăn bằng thìa. | Ghi chú: にぎる không dùng để diễn tả việc gắp/kẹp thức ăn bằng đũa. Nên dùng 挟む (hasamu) hoặc 掴む (tsukamu).</li>
+<li><b>④ 資料がばらばらにならないようにクリップでにぎった。</b> (<i>Sai</i>) - Romaji: Shiryō ga barabara ni naranai yō ni kurippu de nigitta. | Dịch: Tôi kẹp tài liệu bằng kẹp để chúng không bị rời rạc. | Ghi chú: にぎる không dùng để diễn tả việc kẹp bằng kẹp. Nên dùng 挟む (hasamu) hoặc 留める (tomeru).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> にぎる (握る) có nghĩa là nắm, cầm chặt bằng tay hoặc nắm giữ (quyền lực, bí mật). Nó không dùng để diễn tả hành động buộc dây, kẹp bằng đũa hay kẹp bằng kẹp giấy.</p>
 </div>
 
-## Note 1780069265744
+## Note 1780075398539
 
-- OCR files: image_import_89942b674c7b_slide_0065.png
-- OCR text: MS
-
-305 全員が自分の意見を( )したので、 会議が
-
-なかなか終わらなかった。
-- Question: 
+- OCR files: image_import_cf295386b318_slide_0120.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 楽しみにしていたコンサートが中止になってだるかったです。 ② 空がだるそうだから、雨が降らないうちに家に帰りましょう。 ③ 朝から熱があって体がだるかったので、 会社を休みました。 ④ 旅行の間、窓を全部閉めておいたせいで、部屋がだるい。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> MS
-
-305 全員が自分の意見を( )したので、 会議が
-
-なかなか終わらなかった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 17.86054171s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '17s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ③ 朝から熱があって体がだるかったので、会社を休みました。</p>
+<p><b>Câu hỏi:</b> だるい</p>
+<p><b>Romaji câu hỏi:</b> darui</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ "だるい" một cách tự nhiên nhất.</p>
+<p><b>Romaji đáp án:</b> Asa kara netsu ga atte karada ga darukatta node, kaisha o yasumimashita.</p>
+<p><b>Dịch đáp án:</b> Vì bị sốt từ sáng và cơ thể mệt mỏi, uể oải nên tôi đã nghỉ làm.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 楽しみにしていたコンサートが中止になってだるかったです。</b> (<i>Sai</i>) - Romaji: Tanoshimi ni shiteita konsāto ga chūshi ni natte darukatta desu. | Dịch: Buổi hòa nhạc mà tôi mong đợi đã bị hủy nên tôi cảm thấy uể oải. | Ghi chú: だるい không dùng để diễn tả cảm giác thất vọng hay chán nản về tinh thần.</li>
+<li><b>② 空がだるそうだから、雨が降らないうちに家に帰りましょう。</b> (<i>Sai</i>) - Romaji: Sora ga darusō dakara, ame ga furanai uchi ni ie ni kaerimashō. | Dịch: Vì bầu trời trông có vẻ uể oải nên hãy về nhà trước khi trời mưa. | Ghi chú: だるい không dùng để miêu tả bầu trời. Có thể dùng どんよりしている (u ám) hoặc 重い (nặng nề).</li>
+<li><b>③ 朝から熱があって体がだるかったので、会社を休みました。</b> (<i>Đúng</i>) - Romaji: Asa kara netsu ga atte karada ga darukatta node, kaisha o yasumimashita. | Dịch: Vì bị sốt từ sáng và cơ thể mệt mỏi, uể oải nên tôi đã nghỉ làm. | Ghi chú: Cách dùng chính xác. 「体がだるい」 diễn tả cơ thể mệt mỏi, uể oải, không có sức.</li>
+<li><b>④ 旅行の間、窓を全部閉めておいたせいで、部屋がだるい。</b> (<i>Sai</i>) - Romaji: Ryokō no aida, mado o zenbu shimete oita sei de, heya ga darui. | Dịch: Trong suốt chuyến đi, vì đã đóng tất cả cửa sổ nên căn phòng trở nên uể oải. | Ghi chú: だるい không dùng để miêu tả căn phòng. Có thể dùng 蒸し暑い (oi bức) hoặc 空気がこもっている (bí bách).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「だるい」 là một tính từ đuôi -i dùng để diễn tả trạng thái cơ thể mệt mỏi, uể oải, không có sức lực, thường là do bệnh tật, thiếu ngủ hoặc làm việc quá sức. Nó không dùng để diễn tả cảm xúc tinh thần (như thất vọng, chán nản) hay miêu tả vật thể, môi trường.</p>
 </div>
 
-## Note 1780069266274
+## Note 1780075399082
 
-- OCR files: image_import_03ac1e9c063a_slide_0066.png
-- OCR text: Se
-
-306 書類や本がきちんと( )されていて、
-きれいな部屋ですね。
-
-1
-- Question: 
+- OCR files: image_import_747a9a60d9a8_slide_0121.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 授業の説明のために、新入生を1番教室に募集した。 ② わたしの趣味は、いろいろな国のコインを募集することです。 ③ スピーチ大会の参加者を募集しています。 ④ この市では週2回、ごみを募集しています。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> Se
-
-306 書類や本がきちんと( )されていて、
-きれいな部屋ですね。
-
-1</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 49.585386628s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '49s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ③ スピーチ大会の参加者を募集しています。</p>
+<p><b>Câu hỏi:</b> 募集</p>
+<p><b>Romaji câu hỏi:</b> Boshū</p>
+<p><b>Dịch câu hỏi:</b> Tuyển mộ, chiêu mộ</p>
+<p><b>Romaji đáp án:</b> Supīchi taikai no sankasha o boshū shiteimasu.</p>
+<p><b>Dịch đáp án:</b> Chúng tôi đang tuyển mộ người tham gia cuộc thi hùng biện.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 授業の説明のために、新入生を1番教室に募集した。</b> (<i>Sai</i>) - Romaji: Jugyō no setsumei no tame ni, shinnyūsei o ichiban kyōshitsu ni boshū shita. | Dịch: Để giải thích về buổi học, chúng tôi đã tuyển mộ tân sinh viên vào phòng học số 1. | Ghi chú: 「募集」 không dùng để 'tuyển' học sinh vào phòng học. Thường dùng 「集める」(tập hợp) hoặc 「案内する」(hướng dẫn).</li>
+<li><b>② わたしの趣味は、いろいろな国のコインを募集することです。</b> (<i>Sai</i>) - Romaji: Watashi no shumi wa, iroirona kuni no koin o boshū suru koto desu. | Dịch: Sở thích của tôi là sưu tầm tiền xu từ nhiều quốc gia khác nhau. | Ghi chú: 「募集」 không dùng cho sở thích cá nhân như 'sưu tầm' tiền xu. Dùng 「集める」 hoặc 「コレクションする」.</li>
+<li><b>③ スピーチ大会の参加者を募集しています。</b> (<i>Đúng</i>) - Romaji: Supīchi taikai no sankasha o boshū shiteimasu. | Dịch: Chúng tôi đang tuyển mộ người tham gia cuộc thi hùng biện. | Ghi chú: 「募集」 dùng đúng để 'tuyển mộ' người tham gia cuộc thi.</li>
+<li><b>④ この市では週2回、ごみを募集しています。</b> (<i>Sai</i>) - Romaji: Kono shi de wa shū nikai, gomi o boshū shiteimasu. | Dịch: Ở thành phố này, rác được thu gom hai lần một tuần. | Ghi chú: 「募集」 không dùng để 'thu gom' rác. Dùng 「収集」(しゅうしゅう) hoặc 「回収」(かいしゅう).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「募集 (ぼしゅう)」 có nghĩa là tuyển mộ, chiêu mộ, kêu gọi, hoặc thu thập (người, đơn đăng ký, bài dự thi, quyên góp, v.v.) cho một mục đích hoặc sự kiện cụ thể. Nó ngụ ý việc chủ động tìm kiếm và tập hợp.</p>
 </div>
 
-## Note 1780069266804
+## Note 1780075399624
 
-- OCR files: image_import_01202a647f19_slide_0067.png
-- OCR text: ES
-- Question: 
+- OCR files: image_import_9b0200d2bceb_slide_0122.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 来週は忙しくて、空の日が一日もない。 ② あの人の話は内容が空なので、聞いてもつまらない。 ③ 林さんは忙しいみたいで、いつ行っても家が空だ。 ④ 飲み終わって空になったビンはここに置いてください。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 21.142984129s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '21s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ④ 飲み終わって空になったビンはここに置いてください。</p>
+<p><b>Câu hỏi:</b> 空</p>
+<p><b>Romaji câu hỏi:</b> kara</p>
+<p><b>Dịch câu hỏi:</b> Từ 「空」 được sử dụng đúng trong câu nào?</p>
+<p><b>Romaji đáp án:</b> Nomiowatte kara ni natta bin wa koko ni oite kudasai.</p>
+<p><b>Dịch đáp án:</b> Vui lòng đặt những chai đã uống hết và trở nên rỗng ở đây.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 来週は忙しくて、空の日が一日もない。</b> (<i>Sai</i>) - Romaji: Raishū wa isogashikute, kara no hi ga ichinichi mo nai. | Dịch: Tuần tới tôi bận nên không có một ngày rảnh nào. | Ghi chú: 「空の日」(kara no hi) có nghĩa là "ngày trống, ngày rảnh". Cách dùng này không sai nhưng 「空き日」(akibi) hoặc 「空いている日」(aiteiru hi) thường phổ biến hơn.</li>
+<li><b>② あの人の話は内容が空なので、聞いてもつまらない。</b> (<i>Sai</i>) - Romaji: Ano hito no hanashi wa naiyō ga kara nanode, kiitemo tsumaranai. | Dịch: Câu chuyện của người đó nội dung trống rỗng nên nghe cũng chán. | Ghi chú: 「内容が空」(naiyō ga kara) có nghĩa là "nội dung trống rỗng, không có gì". Đây là cách dùng đúng, chỉ sự trống rỗng trừu tượng.</li>
+<li><b>③ 林さんは忙しいみたいで、いつ行っても家が空だ。</b> (<i>Sai</i>) - Romaji: Hayashi-san wa isogashii mitaide, itsu ittemo ie ga kara da. | Dịch: Anh Hayashi có vẻ bận rộn, lúc nào đến nhà cũng trống không (không có ai ở nhà). | Ghi chú: 「家が空だ」(ie ga kara da) có nghĩa là "nhà trống, không có ai ở nhà". Đây là cách dùng đúng, chỉ sự trống vắng về người.</li>
+<li><b>④ 飲み終わって空になったビンはここに置いてください。</b> (<i>Đúng</i>) - Romaji: Nomiowatte kara ni natta bin wa koko ni oite kudasai. | Dịch: Vui lòng đặt những chai đã uống hết và trở nên rỗng ở đây. | Ghi chú: 「空になったビン」(kara ni natta bin) có nghĩa là "chai đã trở nên rỗng". Đây là cách dùng rất tự nhiên và phổ biến, chỉ sự trống rỗng về vật chất (không còn chứa gì bên trong).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Từ 「空」(kara) có nhiều nghĩa liên quan đến sự "trống rỗng" hoặc "không có gì".
+- 「空の日」(kara no hi): ngày rảnh, ngày trống lịch.
+- 「内容が空」(naiyō ga kara): nội dung trống rỗng, không có giá trị.
+- 「家が空」(ie ga kara): nhà trống, không có người ở.
+- 「空になった」(kara ni natta): trở nên rỗng, hết sạch (thường dùng cho vật chứa).
+Trong các lựa chọn, câu ④ là cách dùng 「空」 để chỉ sự trống rỗng về vật chất một cách trực tiếp và phổ biến nhất.</p>
 </div>
 
-## Note 1780069267335
+## Note 1780075400162
 
-- OCR files: image_import_d0fc45fe7512_slide_0068.png
-- OCR text: Sey
-
-308 将来のために、お金を( )います。
-- Question: 
+- OCR files: image_import_e56f76cd88e9_slide_0123.png
+- OCR text: none
+- Question: OCR lựa chọn: ① この団体は、日本文化を紹介するために、文化教室を開くなどの活動をしている。 ② 休みの日は、息子たちが掃除や洗濯などの活動を手伝ってくれる。 ③ 修理が終わったようで、エレベーターの活動がまた始まった。 ④ 近所でビルの建設工事が行われているので、トラックの活動が激しくなった。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> Sey
+<p><b>Đáp án:</b> ① この団体は、日本文化を紹介するために、文化教室を開くなどの活動をしている。</p>
+<p><b>Câu hỏi:</b> 活動</p>
+<p><b>Romaji câu hỏi:</b> Katsudō</p>
+<p><b>Dịch câu hỏi:</b> Hoạt động</p>
+<p><b>Romaji đáp án:</b> Kono dantai wa, Nihon bunka o shōkai suru tame ni, bunka kyōshitsu o hiraku nado no katsudō o shite iru.</p>
+<p><b>Dịch đáp án:</b> Tổ chức này đang thực hiện các hoạt động như mở các lớp học văn hóa để giới thiệu văn hóa Nhật Bản.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① この団体は、日本文化を紹介するために、文化教室を開くなどの活動をしている。</b> (<i>Đúng</i>) - Romaji: Kono dantai wa, Nihon bunka o shōkai suru tame ni, bunka kyōshitsu o hiraku nado no katsudō o shite iru. | Dịch: Tổ chức này đang thực hiện các hoạt động như mở các lớp học văn hóa để giới thiệu văn hóa Nhật Bản. | Ghi chú: Sử dụng đúng. '活動' dùng cho các hoạt động có mục đích, có tổ chức của người hoặc tổ chức.</li>
+<li><b>② 休みの日は、息子たちが掃除や洗濯などの活動を手伝ってくれる。</b> (<i>Sai</i>) - Romaji: Yasumi no hi wa, musukotachi ga sōji ya sentaku nado no katsudō o tetsudatte kureru. | Dịch: Vào ngày nghỉ, các con trai giúp tôi các hoạt động như dọn dẹp và giặt giũ. | Ghi chú: Không tự nhiên. '掃除や洗濯' (dọn dẹp, giặt giũ) là '家事 (kaji - việc nhà)' chứ không phải '活動' theo nghĩa rộng.</li>
+<li><b>③ 修理が終わったようで、エレベーターの活動がまた始まった。</b> (<i>Sai</i>) - Romaji: Shūri ga owatta yō de, erebētā no katsudō ga mata hajimatta. | Dịch: Có vẻ như việc sửa chữa đã xong, và hoạt động của thang máy lại bắt đầu. | Ghi chú: Không tự nhiên. Đối với máy móc, thường dùng '運転 (unten - vận hành)' hoặc '作動 (sadō - hoạt động)' thay vì '活動'.</li>
+<li><b>④ 近所でビルの建設工事が行われているので、トラックの活動が激しくなった。</b> (<i>Sai</i>) - Romaji: Kinjo de biru no kensetsu kōji ga okonawarete iru node, torakku no katsudō ga hageshiku natta. | Dịch: Vì công trình xây dựng tòa nhà đang diễn ra gần đó, hoạt động của xe tải trở nên dữ dội. | Ghi chú: Không tự nhiên. Đối với xe cộ, thường dùng '往来 (ōrai - đi lại)' hoặc '交通量 (kōtsūryō - lưu lượng giao thông)' thay vì '活動'.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Từ '活動 (katsudō)' có nghĩa là 'hoạt động, hành động, sự vận động'. Nó thường được dùng để chỉ các hoạt động có mục đích, có tổ chức của con người, các nhóm, tổ chức, hoặc sự vận động của các bộ phận cơ thể, các hiện tượng tự nhiên. 
 
-308 将来のために、お金を( )います。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 53.150336677s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+- Lựa chọn ① sử dụng '活動' một cách chính xác để chỉ các hoạt động có tổ đích của một tổ chức. 
+- Các lựa chọn ②, ③, ④ sử dụng '活動' không tự nhiên. Đối với việc nhà (②), nên dùng '家事 (kaji)'. Đối với máy móc (③), nên dùng '運転 (unten)' hoặc '作動 (sadō)'. Đối với sự di chuyển của xe cộ (④), nên dùng '往来 (ōrai)' hoặc '交通量 (kōtsūryō)'.</p>
 </div>
-
-## Note 1780069267868
 
-- OCR files: image_import_169b5f88a87d_slide_0069.png
-- OCR text: CEY
+## Note 1780075401804
 
-309 新しい車を買うために、店で( )をもらってきた。
-- Question: 
+- OCR files: image_import_9959b79095d4_slide_0126.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 初めて雪を見て、うれしくて胸が緊張した。 ② 夏休みは、あそびの計画がとても緊張している。 ③ 新しいパソコンは使い方が緊張していて、うまく使えない人が多い。 ④ テレビのインタビューを受けて、とても緊張した。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> CEY
-
-309 新しい車を買うために、店で( )をもらってきた。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 24.445020543s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '24s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ④ テレビのインタビューを受けて、とても緊張した。</p>
+<p><b>Câu hỏi:</b> 緊張</p>
+<p><b>Romaji câu hỏi:</b> Kinchou</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ "緊張" (kinchou) một cách tự nhiên nhất.</p>
+<p><b>Romaji đáp án:</b> Terebi no intabyuu o ukete, totemo kinchou shita.</p>
+<p><b>Dịch đáp án:</b> Tôi đã rất căng thẳng khi nhận lời phỏng vấn trên TV.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 初めて雪を見て、うれしくて胸が緊張した。</b> (<i>Sai</i>) - Romaji: Hajimete yuki o mite, ureshikute mune ga kinchou shita. | Dịch: Lần đầu tiên nhìn thấy tuyết, tôi vui đến mức lồng ngực căng thẳng. | Ghi chú: Không tự nhiên. 'Vui' thường không dẫn đến 'căng thẳng' ở lồng ngực theo nghĩa này. Có thể dùng '胸が高鳴った' (mune ga takanatta - lồng ngực đập thình thịch vì phấn khích).</li>
+<li><b>② 夏休みは、あそびの計画がとても緊張している。</b> (<i>Sai</i>) - Romaji: Natsuyasumi wa, asobi no keikaku ga totemo kinchou shite iru. | Dịch: Kế hoạch vui chơi trong kỳ nghỉ hè rất căng thẳng. | Ghi chú: Không tự nhiên. 'Kế hoạch' không thể 'căng thẳng' theo nghĩa cảm xúc của con người. Có thể dùng '計画がぎっしり詰まっている' (keikaku ga gisshiri tsumatte iru - kế hoạch dày đặc) hoặc '計画が大変だ' (keikaku ga taihen da - kế hoạch vất vả).</li>
+<li><b>③ 新しいパソコンは使い方が緊張していて、うまく使えない人が多い。</b> (<i>Sai</i>) - Romaji: Atarashii pasokon wa tsukaikata ga kinchou shite ite, umaku tsukaenai hito ga ooi. | Dịch: Cách sử dụng máy tính mới rất căng thẳng, nên nhiều người không thể sử dụng tốt. | Ghi chú: Không tự nhiên. 'Cách sử dụng' không thể 'căng thẳng'. Có thể dùng '使い方が複雑で' (tsukaikata ga fukuzatsu de - cách sử dụng phức tạp) hoặc '使い方が難しくて' (tsukaikata ga muzukashikute - cách sử dụng khó).</li>
+<li><b>④ テレビのインタビューを受けて、とても緊張した。</b> (<i>Đúng</i>) - Romaji: Terebi no intabyuu o ukete, totemo kinchou shita. | Dịch: Tôi đã rất căng thẳng khi nhận lời phỏng vấn trên TV. | Ghi chú: Sử dụng tự nhiên. '緊張する' thường dùng để diễn tả cảm giác lo lắng, hồi hộp trước một sự kiện quan trọng hoặc trong một tình huống áp lực.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Từ "緊張 (kinchou)" có nghĩa là 'căng thẳng', 'hồi hộp', 'lo lắng'. Nó thường được dùng để diễn tả trạng thái tinh thần hoặc thể chất khi đối mặt với một tình huống quan trọng, áp lực, hoặc không quen thuộc. Ví dụ, khi đứng trước đám đông, tham gia phỏng vấn, hoặc thi cử, người ta thường cảm thấy 緊張. Các lựa chọn khác sử dụng từ này không phù hợp với ngữ cảnh, vì 'kế hoạch', 'cách sử dụng' hay cảm giác 'vui mừng' không thể 'căng thẳng' theo nghĩa của 緊張.</p>
 </div>
-
-## Note 1780069268396
 
-- OCR files: image_import_1f8a13113c2c_slide_0070.png
-- OCR text: EN
+## Note 1780075403437
 
-310 田中さんの服装はとても上品な( )
-- Question: 
+- OCR files: image_import_6c1226c37417_slide_0129.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 就職活動のために、先輩の会社を訪問しました。 ② 友人から結婚式の招待の手紙が訪問しました。 ③ 週末はいつも家族で海を訪問しています。 ④ 突然海外旅行のチャンスが訪問しました。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> EN
-
-310 田中さんの服装はとても上品な( )</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 55.671900714s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '55s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ① 就職活動のために、先輩の会社を訪問しました。</p>
+<p><b>Câu hỏi:</b> 訪問</p>
+<p><b>Romaji câu hỏi:</b> houmon</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ "訪問" (thăm viếng) một cách tự nhiên nhất.</p>
+<p><b>Romaji đáp án:</b> Shuushoku katsudou no tame ni, senpai no kaisha o houmon shimashita.</p>
+<p><b>Dịch đáp án:</b> Để tìm việc, tôi đã đến thăm công ty của tiền bối.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 就職活動のために、先輩の会社を訪問しました。</b> (<i>Đúng</i>) - Romaji: Shuushoku katsudou no tame ni, senpai no kaisha o houmon shimashita. | Dịch: Để tìm việc, tôi đã đến thăm công ty của tiền bối. | Ghi chú: Sử dụng đúng: 訪問 (thăm viếng) dùng để chỉ việc đến thăm một người, một nơi (nhà, công ty, cơ quan) với mục đích cụ thể.</li>
+<li><b>② 友人から結婚式の招待の手紙が訪問しました。</b> (<i>Sai</i>) - Romaji: Yuujin kara kekkonshiki no shoutai no tegami ga houmon shimashita. | Dịch: Lá thư mời đám cưới từ bạn bè đã đến thăm. | Ghi chú: Sai: Thư không "thăm viếng"; nó "đến" (届く - todoku) hoặc "được gửi đến".</li>
+<li><b>③ 週末はいつも家族で海を訪問しています。</b> (<i>Sai</i>) - Romaji: Shuumatsu wa itsumo kazoku de umi o houmon shiteimasu. | Dịch: Cuối tuần, gia đình tôi luôn đến thăm biển. | Ghi chú: Sai: 訪問 (thăm viếng) thường dùng cho việc thăm người hoặc địa điểm cụ thể (nhà, công ty). Đối với địa điểm tự nhiên như biển, dùng 行く (iku) hoặc 遊びに行く (asobi ni iku) tự nhiên hơn.</li>
+<li><b>④ 突然海外旅行のチャンスが訪問しました。</b> (<i>Sai</i>) - Romaji: Totsuzen kaigai ryokou no chansu ga houmon shimashita. | Dịch: Đột nhiên cơ hội du lịch nước ngoài đã đến thăm. | Ghi chú: Sai: Cơ hội không "thăm viếng"; nó "đến" (訪れる - otozureru) hoặc "xuất hiện".</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Từ 訪問 (ほうもん - houmon) có nghĩa là "thăm viếng", "ghé thăm". Nó thường được dùng khi một người đến thăm một người khác, một công ty, một tổ chức, hoặc một địa điểm cụ thể với một mục đích nhất định, thường mang tính trang trọng hoặc có sự sắp đặt. Nó không dùng cho vật thể (như thư, cơ hội) hay những chuyến đi chơi giải trí thông thường đến các địa điểm tự nhiên (như biển).</p>
 </div>
-
-## Note 1780069268927
 
-- OCR files: image_import_9b369bcf76ce_slide_0071.png
-- OCR text: EN
+## Note 1780075403970
 
-311 このあたりでアパートを借りるには、毎月の( )
-ELTHA AYE,
-- Question: 
+- OCR files: image_import_3373a2849598_slide_0130.png
+- OCR text: none
+- Question: OCR lựa chọn: ① この漢字をひらがなに翻訳してください。 ② 長い文章を短くわかりやすい文章に翻訳するのは難しい。 ③ この小説は十以上の言語に翻訳されている。 ④ 「生産」はほかのことばに翻訳すれば「物を作る」ということです。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> EN
-
-311 このあたりでアパートを借りるには、毎月の( )
-ELTHA AYE,</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 27.551395175s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '27s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ① この漢字をひらがなに翻訳してください。</p>
+<p><b>Câu hỏi:</b> 翻訳</p>
+<p><b>Romaji câu hỏi:</b> hon'yaku</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ "翻訳" (dịch) không chính xác.</p>
+<p><b>Romaji đáp án:</b> Kono kanji o hiragana ni hon'yaku shite kudasai.</p>
+<p><b>Dịch đáp án:</b> Xin hãy dịch chữ Hán này sang hiragana.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① この漢字をひらがなに翻訳してください。</b> (<i>Đúng</i>) - Romaji: Kono kanji o hiragana ni hon'yaku shite kudasai. | Dịch: Xin hãy dịch chữ Hán này sang hiragana. | Ghi chú: Sử dụng sai. 翻訳 (dịch) dùng để chuyển đổi ngôn ngữ, không phải chuyển đổi chữ viết trong cùng một ngôn ngữ.</li>
+<li><b>② 長い文章を短くわかりやすい文章に翻訳するのは難しい。</b> (<i>Sai</i>) - Romaji: Nagai bunshō o mijikaku wakariyasui bunshō ni hon'yaku suru no wa muzukashii. | Dịch: Việc dịch một đoạn văn dài thành một đoạn văn ngắn gọn, dễ hiểu là khó. | Ghi chú: Sử dụng đúng. Có thể hiểu là dịch từ ngôn ngữ này sang ngôn ngữ khác và làm cho nó ngắn gọn, dễ hiểu.</li>
+<li><b>③ この小説は十以上の言語に翻訳されている。</b> (<i>Sai</i>) - Romaji: Kono shōsetsu wa jū ijō no gengo ni hon'yaku sarete iru. | Dịch: Cuốn tiểu thuyết này đã được dịch sang hơn mười ngôn ngữ. | Ghi chú: Sử dụng đúng. Dịch từ ngôn ngữ này sang ngôn ngữ khác.</li>
+<li><b>④ 「生産」はほかのことばに翻訳すれば「物を作る」ということです。</b> (<i>Sai</i>) - Romaji: 「Seisan」wa hoka no kotoba ni hon'yaku sureba 「mono o tsukuru」to iu koto desu. | Dịch: Nếu dịch từ "sản xuất" sang từ khác thì có nghĩa là "làm ra vật gì đó". | Ghi chú: Sử dụng đúng. Giải thích nghĩa của một từ bằng cách dùng từ khác, cũng là một dạng "dịch" nghĩa.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Từ 翻訳 (hon'yaku) có nghĩa là "dịch", dùng để chuyển đổi văn bản hoặc lời nói từ một ngôn ngữ sang một ngôn ngữ khác. Nó không được dùng để chuyển đổi giữa các hệ thống chữ viết (như kanji sang hiragana) trong cùng một ngôn ngữ. Trong trường hợp đó, các từ như 読み方 (yomikata - cách đọc) hoặc 変換する (henkan suru - chuyển đổi) sẽ phù hợp hơn.</p>
 </div>
 
-## Note 1780069269457
+## Note 1780075404520
 
-- OCR files: image_import_9a4b4c439d20_slide_0072.png
-- OCR text: as
-
-312 テストを始めますから、辞書をかばんの中に( )
-- Question: 
-- Answer: 
+- OCR files: image_import_0462ecd60310_slide_0131.png
+- OCR text: none
+- Question: OCR câu hỏi: 半年前にタバコを断ってから、体の調子がよくなりました。 後は働いた会社を断ってお店を始めました。 | | ③ どんなに大変でも、医師になるという夢は断らないでください。 | ほかに約束があったので、 パーティーの誘いを りまし/。
+- Answer: Romaji câu hỏi: 「断る」の使い方が正しい文はどれですか。 Dịch câu hỏi: Câu nào sử dụng từ 「断る」 (kotowaru) đúng cách? Romaji đáp án: ④ Hoka ni yakusoku ga atta node, paatii no sasoi o kotowarimashita. Dịch đáp án: ④ Vì đã có hẹn khác nên tôi đã từ chối lời mời dự tiệc. Các lựa chọn: ① 半年前にタバコを断ってから、体の調子がよくなりました。 (Sai) - Romaji: Hantoshi mae ni tabako o tatte kara, karada no choushi ga yoku narimashita. | Dịch: Từ khi bỏ thuốc lá nửa năm trước, sức khỏe của tôi đã tốt hơn. | Ghi chú: Sai. Với việc từ bỏ thói quen như hút thuốc thường dùng 「やめる」, không dùng 「断る」. ② 彼は働いた会社を断ってお店を始めました。 (Sai) - Romaji: Kare wa hataraita kaisha o kotowatte omise o hajimemashita. | Dịch: Anh ấy đã từ công ty mình làm việc để mở cửa hàng. | Ghi chú: Sai. Nghỉ việc công ty thường dùng 「辞める（やめる）」. ③ どんなに大変でも、医師になるという夢は断らないでください。 (Sai) - Romaji: Donna ni taihen demo, ishi ni naru to iu yume wa kotowaranaide kudasai. | Dịch: Dù khó khăn thế nào cũng đừng từ bỏ ước mơ trở thành bác sĩ. | Ghi chú: Sai. Từ bỏ ước mơ thường dùng 「あきらめる」. ④ ほかに約束があったので、パーティーの誘いを断りました。 (Đúng) - Romaji: Hoka ni yakusoku ga atta node, paatii no sasoi o kotowarimashita. | Dịch: Vì đã có hẹn khác nên tôi đã từ chối lời mời dự tiệc. | Ghi chú: Đúng. 「断る」 được dùng khi từ chối lời mời, yêu cầu, đề nghị hoặc sự nhờ vả. Ghi chú ôn tập: 「断る」(kotowaru) có nghĩa là từ chối một lời mời, đề nghị, yêu cầu hoặc sự giúp đỡ. Các lỗi thường gặp trong JLPT là nhầm với: 「やめる」: bỏ, nghỉ (thuốc lá, công việc...) 「辞める」: nghỉ việc, thôi chức 「あきらめる」: từ bỏ ước mơ, hy vọng ⇒ 「誘いを断る」 (từ chối lời mời) là cách dùng rất phổ biến của 「断る」.
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> as
+<p><b>Đáp án:</b> ④ ほかに約束があったので、パーティーの誘いを断りました。</p>
+<p><b>Câu hỏi:</b> 断る</p>
+<p><b>Romaji câu hỏi:</b> 「Kotowaru」 no tsukaikata ga tadashii bun wa dore desu ka?</p>
+<p><b>Dịch câu hỏi:</b> Câu nào sử dụng từ 「断る」 (kotowaru) đúng cách?</p>
+<p><b>Romaji đáp án:</b> Hoka ni yakusoku ga atta node, paatii no sasoi o kotowarimashita.</p>
+<p><b>Dịch đáp án:</b> Vì đã có hẹn khác nên tôi đã từ chối lời mời dự tiệc.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 半年前にタバコを断ってから、体の調子がよくなりました。</b> (<i>Sai</i>) - Romaji: Hantoshi mae ni tabako o tatte kara, karada no choushi ga yoku narimashita. | Dịch: Từ khi bỏ thuốc lá nửa năm trước, sức khỏe của tôi đã tốt hơn. | Ghi chú: Sai. Với việc từ bỏ thói quen như hút thuốc thường dùng 「やめる」.</li>
+<li><b>② 彼は働いた会社を断ってお店を始めました。</b> (<i>Sai</i>) - Romaji: Kare wa hataraita kaisha o kotowatte omise o hajimemashita. | Dịch: Anh ấy đã từ công ty mình làm việc để mở cửa hàng. | Ghi chú: Sai. Nghỉ việc công ty thường dùng 「辞める（やめる）」.</li>
+<li><b>③ どんなに大変でも、医師になるという夢は断らないでください。</b> (<i>Sai</i>) - Romaji: Donna ni taihen demo, ishi ni naru to iu yume wa kotowaranaide kudasai. | Dịch: Dù khó khăn thế nào cũng đừng từ bỏ ước mơ trở thành bác sĩ. | Ghi chú: Sai. Từ bỏ ước mơ thường dùng 「あきらめる」.</li>
+<li><b>④ ほかに約束があったので、パーティーの誘いを断りました。</b> (<i>Đúng</i>) - Romaji: Hoka ni yakusoku ga atta node, paatii no sasoi o kotowarimashita. | Dịch: Vì đã có hẹn khác nên tôi đã từ chối lời mời dự tiệc. | Ghi chú: Đúng. 「断る」 được dùng khi từ chối lời mời, yêu cầu, đề nghị.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「断る」(kotowaru) có nghĩa là từ chối một lời mời, đề nghị, yêu cầu hoặc sự giúp đỡ. Các lỗi thường gặp trong JLPT là nhầm với: 
+- 「やめる」: bỏ, nghỉ (thói quen như hút thuốc, uống rượu...)
+- 「辞める」: nghỉ việc, thôi chức
+- 「あきらめる」: từ bỏ (ước mơ, hy vọng)
 
-312 テストを始めますから、辞書をかばんの中に( )</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 59.220430697s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '59s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+Cách dùng phổ biến của 「断る」 là 「誘いを断る」 (từ chối lời mời).</p>
 </div>
 
-## Note 1780069269985
+## Note 1780075405037
 
-- OCR files: image_import_25d9cc45f8da_slide_0073.png
-- OCR text: ES
-- Question: 
+- OCR files: image_import_3f13bd3528a2_slide_0132.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 朝の電車はこんでいたが、帰りはゆるかった。 ② ズボンがゆるいので、ベルトをきつくしめた。 ③ 今回の旅行は荷物が少ないので、スーツケースがまだゆるい。 ④ この家は、夫婦二人で住むなら十分ゆるいです。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 30.762006443s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ② ズボンがゆるいので、ベルトをきつくしめた。</p>
+<p><b>Câu hỏi:</b> ゆるい</p>
+<p><b>Romaji câu hỏi:</b> yurui</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ 'ゆるい' một cách tự nhiên nhất.</p>
+<p><b>Romaji đáp án:</b> Zubon ga yurui node, beruto o kitsuku shimeta.</p>
+<p><b>Dịch đáp án:</b> Vì quần bị rộng nên tôi đã thắt chặt dây lưng.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 朝の電車はこんでいたが、帰りはゆるかった。</b> (<i>Sai</i>) - Romaji: Asa no densha wa kondeita ga, kaeri wa yurukatta. | Dịch: Chuyến tàu buổi sáng thì đông nhưng chuyến về thì lỏng lẻo/thư giãn. | Ghi chú: Không dùng ゆるい để diễn tả tàu không đông. Nên dùng 空いている (aiteiru).</li>
+<li><b>② ズボンがゆるいので、ベルトをきつくしめた。</b> (<i>Đúng</i>) - Romaji: Zubon ga yurui node, beruto o kitsuku shimeta. | Dịch: Vì quần bị rộng nên tôi đã thắt chặt dây lưng. | Ghi chú: Sử dụng đúng để diễn tả quần áo bị rộng, lỏng.</li>
+<li><b>③ 今回の旅行は荷物が少ないので、スーツケースがまだゆるい。</b> (<i>Sai</i>) - Romaji: Konkai no ryokō wa nimotsu ga sukunai node, sūtsukēsu ga mada yurui. | Dịch: Vì chuyến đi lần này ít hành lý nên vali vẫn còn lỏng lẻo/chưa đầy. | Ghi chú: Không dùng ゆるい để diễn tả vali còn chỗ trống. Nên dùng 余裕がある (yoyū ga aru) hoặc 空いている (aiteiru).</li>
+<li><b>④ この家は、夫婦二人で住むなら十分ゆるいです。</b> (<i>Sai</i>) - Romaji: Kono ie wa, fūfu futari de sumu nara jūbun yurui desu. | Dịch: Nếu hai vợ chồng sống trong căn nhà này thì đủ rộng rãi/thoải mái. | Ghi chú: Không dùng ゆるい để diễn tả nhà rộng rãi. Nên dùng 広い (hiroi) hoặc 十分な広さがある (jūbun na hirosa ga aru).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Từ 'ゆるい' (yurui) có nhiều nghĩa, nhưng phổ biến nhất là 'lỏng lẻo, rộng, không chặt'. Nó thường được dùng để miêu tả quần áo bị rộng (như trong câu ②), dây thừng bị lỏng, hoặc quy định không nghiêm ngặt. Các cách dùng khác trong các lựa chọn còn lại không tự nhiên trong tiếng Nhật.</p>
 </div>
 
-## Note 1780069270519
+## Note 1780075405586
 
-- OCR files: image_import_1974e6163c56_slide_0074.png
-- OCR text: Es
-
-314 いらない新聞や雑誌を重ねて、ひもで( )捨てた。
-
-    ② が<んで
-- Question: 
+- OCR files: image_import_355a0e520b01_slide_0133.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 短気の性格の人は、この仕事にはあまり向かない。 ② 雨のせいで、今日はグランドの性格がよくない。 ③ この車の性格は電気で走る点だ。 ④ あの人はその日の性格で言うことが変わる。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> Es
-
-314 いらない新聞や雑誌を重ねて、ひもで( )捨てた。
-
-    ② が&lt;んで</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 2.652127058s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ① 短気の性格の人は、この仕事にはあまり向かない。</p>
+<p><b>Câu hỏi:</b> 性格</p>
+<p><b>Romaji câu hỏi:</b> Seikaku</p>
+<p><b>Dịch câu hỏi:</b> Tính cách</p>
+<p><b>Romaji đáp án:</b> Tanki no seikaku no hito wa, kono shigoto ni wa amari mukanai.</p>
+<p><b>Dịch đáp án:</b> Người có tính cách nóng nảy thì không hợp với công việc này lắm.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 短気の性格の人は、この仕事にはあまり向かない。</b> (<i>Đúng</i>) - Romaji: Tanki no seikaku no hito wa, kono shigoto ni wa amari mukanai. | Dịch: Người có tính cách nóng nảy thì không hợp với công việc này lắm. | Ghi chú: Sử dụng 性格 để chỉ tính cách, cá tính của con người là chính xác.</li>
+<li><b>② 雨のせいで、今日はグランドの性格がよくない。</b> (<i>Sai</i>) - Romaji: Ame no sei de, kyō wa gurando no seikaku ga yokunai. | Dịch: Vì trời mưa, hôm nay tính cách của sân không tốt. | Ghi chú: Không dùng 性格 cho sân bãi. Nên dùng 状態 (jōtai - tình trạng) hoặc コンディション (kondishon - điều kiện).</li>
+<li><b>③ この車の性格は電気で走る点だ。</b> (<i>Sai</i>) - Romaji: Kono kuruma no seikaku wa denki de hashiru ten da. | Dịch: Tính cách của chiếc xe này là điểm nó chạy bằng điện. | Ghi chú: Không dùng 性格 cho đặc điểm của xe cộ. Nên dùng 特徴 (tokuchō - đặc trưng) hoặc 特性 (tokusei - đặc tính).</li>
+<li><b>④ あの人はその日の性格で言うことが変わる。</b> (<i>Sai</i>) - Romaji: Ano hito wa sono hi no seikaku de iu koto ga kawaru. | Dịch: Người đó thay đổi lời nói tùy theo tính cách của ngày hôm đó. | Ghi chú: Không dùng 性格 cho 'ngày'. Nên dùng 気分 (kibun - tâm trạng) hoặc 調子 (chōshi - tình trạng/phong độ).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Từ '性格 (seikaku)' chủ yếu dùng để chỉ tính cách, cá tính của con người. Mặc dù đôi khi nó có thể được dùng để chỉ bản chất hoặc đặc tính của sự vật, nhưng trong các trường hợp đó, các từ như '特徴 (tokuchō - đặc trưng)' hoặc '特性 (tokusei - đặc tính)' thường tự nhiên hơn. Các lựa chọn sai đã sử dụng '性格' một cách không tự nhiên cho sân bãi, xe cộ hoặc 'ngày'.</p>
 </div>
 
-## Note 1780069271065
+## Note 1780075406667
 
-- OCR files: image_import_06650ebfcf2f_slide_0075.png
-- OCR text: ES
-
-315 急に用事ができたので、レストランの予約を( )した。
-
-キャンセル
-- Question: 
+- OCR files: image_import_e87a3e838682_slide_0135.png
+- OCR text: none
+- Question: OCR lựa chọn: ① もう10分以上待っているのに、バスがそろそろ来ない。 ② 最近洗濯機の調子がよくなかったが、昨日そろそろ壊れた。 ③ 以前から探していた本が、そろそろ見つかった。 ④ 仕事が残っているけど、そろそろ12時なので昼休みにしよう。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES
-
-315 急に用事ができたので、レストランの予約を( )した。
-
-キャンセル</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 34.183568246s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '34s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ④ 仕事が残っているけど、そろそろ12時なので昼休みにしよう。</p>
+<p><b>Câu hỏi:</b> そろそろ</p>
+<p><b>Romaji câu hỏi:</b> sorosoro</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ "そろそろ" một cách tự nhiên.</p>
+<p><b>Romaji đáp án:</b> Shigoto ga nokotte iru kedo, sorosoro juuniji nanode hiruyasumi ni shiyou.</p>
+<p><b>Dịch đáp án:</b> Tuy còn việc nhưng đã gần 12 giờ rồi nên hãy nghỉ trưa thôi.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① もう10分以上待っているのに、バスがそろそろ来ない。</b> (<i>Sai</i>) - Romaji: Mou juppun ijou matte iru noni, basu ga sorosoro konai. | Dịch: Mặc dù đã đợi hơn 10 phút rồi nhưng xe buýt vẫn chưa đến. | Ghi chú: そろそろ (sắp sửa, đã đến lúc) thường dùng với hành động sắp xảy ra hoặc bắt đầu, không dùng với phủ định như 来ない (không đến).</li>
+<li><b>② 最近洗濯機の調子がよくなかったが、昨日そろそろ壊れた。</b> (<i>Sai</i>) - Romaji: Saikin sentakuki no choushi ga yokunakatta ga, kinou sorosoro kowareta. | Dịch: Gần đây máy giặt không được tốt, nhưng hôm qua đã hỏng rồi. | Ghi chú: そろそろ không dùng với hành động đã xảy ra trong quá khứ (昨日壊れた - hôm qua đã hỏng).</li>
+<li><b>③ 以前から探していた本が、そろそろ見つかった。</b> (<i>Sai</i>) - Romaji: Izen kara sagashite ita hon ga, sorosoro mitsukatta. | Dịch: Cuốn sách tôi tìm kiếm từ trước đến nay đã được tìm thấy. | Ghi chú: そろそろ không dùng với hành động đã hoàn thành trong quá khứ (見つかった - đã được tìm thấy). Có thể dùng そろそろ見つかるだろう (chắc sắp tìm thấy rồi).</li>
+<li><b>④ 仕事が残っているけど、そろそろ12時なので昼休みにしよう。</b> (<i>Đúng</i>) - Romaji: Shigoto ga nokotte iru kedo, sorosoro juuniji nanode hiruyasumi ni shiyou. | Dịch: Tuy còn việc nhưng đã gần 12 giờ rồi nên hãy nghỉ trưa thôi. | Ghi chú: そろそろ (sắp sửa, đã đến lúc) được dùng chính xác để chỉ thời điểm 12 giờ sắp đến và đã đến lúc nghỉ trưa.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Từ phó そろそろ (sorosoro) có nghĩa là "sắp sửa", "đã đến lúc", "dần dần". Nó thường được dùng để chỉ một hành động hoặc trạng thái sắp xảy ra trong tương lai gần, hoặc một quá trình đang dần dần diễn ra. Nó không dùng với các hành động đã hoàn thành trong quá khứ hoặc các hành động phủ định.</p>
 </div>
 
-## Note 1780069271599
+## Note 1780075407218
 
-- OCR files: image_import_6a8a42ff6497_slide_0076.png
-- OCR text: “Ee
-
-316 私の部屋は東( )だ。
-- Question: 
+- OCR files: image_import_1ac73fe606c8_slide_0136.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 今日は疲れたので、早めにベッドにころんだ。 ② 仕事が入ったので、旅行の計画がころんでしまった。 ③ 台風で庭の木がころんだ。 ④ 階段でころんでけがをした。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> “Ee
-
-316 私の部屋は東( )だ。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 6.052256709s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '6s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ④ 階段でころんでけがをした。</p>
+<p><b>Câu hỏi:</b> ころぶ</p>
+<p><b>Romaji câu hỏi:</b> korobu</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ "ころぶ" (ngã, lăn) một cách tự nhiên nhất.</p>
+<p><b>Romaji đáp án:</b> Kaidan de koronde kega o shita.</p>
+<p><b>Dịch đáp án:</b> Tôi bị ngã trên cầu thang và bị thương.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 今日は疲れたので、早めにベッドにころんだ。</b> (<i>Sai</i>) - Romaji: Kyō wa tsukareta node, hayame ni beddo ni koronda. | Dịch: Hôm nay vì mệt nên tôi đã lăn vào giường sớm. | Ghi chú: Cách dùng này không tự nhiên lắm. Để diễn tả việc ngã vật ra giường vì mệt, thường dùng 「ベッドに倒れ込む (beddo ni taorekomu)」 hoặc 「ベッドに飛び込む (beddo ni tobikomu)」.</li>
+<li><b>② 仕事が入ったので、旅行の計画がころんでしまった。</b> (<i>Sai</i>) - Romaji: Shigoto ga haitta node, ryokō no keikaku ga koronde shimatta. | Dịch: Vì có việc đột xuất nên kế hoạch du lịch đã bị đổ bể. | Ghi chú: Đây là một cách dùng thành ngữ tự nhiên của 「ころぶ」, mang nghĩa "kế hoạch bị đổ bể, thất bại". Tuy nhiên, câu ④ thể hiện nghĩa gốc và phổ biến hơn.</li>
+<li><b>③ 台風で庭の木がころんだ。</b> (<i>Sai</i>) - Romaji: Taifū de niwa no ki ga koronda. | Dịch: Cây trong vườn bị đổ do bão. | Ghi chú: Khi cây bị đổ do bão hoặc gió, người Nhật thường dùng 「倒れる (taoreru)」 chứ không dùng 「ころぶ」.</li>
+<li><b>④ 階段でころんでけがをした。</b> (<i>Đúng</i>) - Romaji: Kaidan de koronde kega o shita. | Dịch: Tôi bị ngã trên cầu thang và bị thương. | Ghi chú: Đây là cách dùng phổ biến và trực tiếp nhất của 「ころぶ」, diễn tả hành động "ngã, vấp ngã" của người.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「ころぶ (korobu)」 có nghĩa chính là "ngã, vấp ngã" (như người bị ngã) hoặc "lăn" (như quả bóng lăn). Ngoài ra, nó còn có nghĩa thành ngữ là "kế hoạch bị đổ bể, thất bại". Trong các lựa chọn, câu ④ thể hiện nghĩa gốc và phổ biến nhất của từ này.</p>
 </div>
 
-## Note 1780069272133
+## Note 1780075407753
 
-- OCR files: image_import_650a343c085c_slide_0077.png
-- OCR text: ES
-
-317 昨日映画を見たとき、( )して泣いてしまった。
-- Question: 
+- OCR files: image_import_de25b1c0e9c5_slide_0137.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 「この書類、30部コピーしておいて」と秘書に指示した。 ② 「この作文を見ていただけませんか」と先生に指示した。 ③ 「あした映画を見に行こうよ」と友達に指示した。 ④ 「トイレはどこにありますか」と店員に指示した。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES
-
-317 昨日映画を見たとき、( )して泣いてしまった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 37.389855412s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '37s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ① 「この書類、30部コピーしておいて」と秘書に指示した。</p>
+<p><b>Câu hỏi:</b> 指示</p>
+<p><b>Romaji câu hỏi:</b> Shiji</p>
+<p><b>Dịch câu hỏi:</b> Chỉ thị, hướng dẫn</p>
+<p><b>Romaji đáp án:</b> 「Kono shorui, sanjūbu kopī shite oite」to hisho ni shiji shita.</p>
+<p><b>Dịch đáp án:</b> ① Tôi đã chỉ thị cho thư ký: 'Hãy sao chép tài liệu này 30 bản'.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 「この書類、30部コピーしておいて」と秘書に指示した。</b> (<i>Đúng</i>) - Romaji: 「Kono shorui, sanjūbu kopī shite oite」to hisho ni shiji shita. | Dịch: Tôi đã chỉ thị cho thư ký: 'Hãy sao chép tài liệu này 30 bản'. | Ghi chú: Sử dụng đúng vì 'chỉ thị' cho thư ký là phù hợp.</li>
+<li><b>② 「この作文を見ていただけませんか」と先生に指示した。</b> (<i>Sai</i>) - Romaji: 「Kono sakubun o mite itadakemasen ka」to sensei ni shiji shita. | Dịch: Tôi đã chỉ thị cho giáo viên: 'Thầy/cô có thể xem bài văn này giúp tôi được không?' | Ghi chú: Không dùng 指示 cho lời yêu cầu lịch sự với giáo viên. Phải dùng 頼んだ (tanonda - đã nhờ).</li>
+<li><b>③ 「あした映画を見に行こうよ」と友達に指示した。</b> (<i>Sai</i>) - Romaji: 「Ashita eiga o mi ni ikō yo」to tomodachi ni shiji shita. | Dịch: Tôi đã chỉ thị cho bạn bè: 'Ngày mai đi xem phim nhé'. | Ghi chú: Không dùng 指示 cho lời mời/gợi ý với bạn bè. Phải dùng 誘った (sasotta - đã rủ).</li>
+<li><b>④ 「トイレはどこにありますか」と店員に指示した。</b> (<i>Sai</i>) - Romaji: 「Toire wa doko ni arimasu ka」to ten'in ni shiji shita. | Dịch: Tôi đã chỉ thị cho nhân viên cửa hàng: 'Nhà vệ sinh ở đâu?' | Ghi chú: Không dùng 指示 cho câu hỏi. Phải dùng 尋ねた (tazuneta - đã hỏi).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 指示 (shiji) có nghĩa là 'chỉ thị, hướng dẫn, ra lệnh'. Nó thường được dùng khi người có địa vị cao hơn hoặc có quyền hạn ra lệnh, hướng dẫn cho người có địa vị thấp hơn hoặc người có trách nhiệm tuân theo. Ví dụ: cấp trên chỉ thị cho cấp dưới, giáo viên chỉ thị cho học sinh, v.v. Không dùng 指示 cho các hành động như yêu cầu, mời gọi, hay hỏi thông tin.</p>
 </div>
 
-## Note 1780069272676
+## Note 1780075408284
 
-- OCR files: image_import_e86adbcfd4f5_slide_0078.png
-- OCR text: ES
-- Question: 
+- OCR files: image_import_8185c1550be7_slide_0138.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 毎日かならずメールを見送るようにしている。 ② 何ページか見送ってみたが、むずかしくてわからなかった。 ③ 電車の窓から景色を見送るのが好きだ。 ④ 国に帰る友人を空港まで見送った。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 9.143591044s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '9s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ④ 国に帰る友人を空港まで見送った。</p>
+<p><b>Câu hỏi:</b> 見送る</p>
+<p><b>Romaji câu hỏi:</b> Miokuru</p>
+<p><b>Dịch câu hỏi:</b> Sử dụng từ "見送る" (miokuru) một cách chính xác.</p>
+<p><b>Romaji đáp án:</b> Kuni ni kaeru yūjin o kūkō made miokutta.</p>
+<p><b>Dịch đáp án:</b> Tôi đã tiễn người bạn về nước ở sân bay.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 毎日かならずメールを見送るようにしている。</b> (<i>Sai</i>) - Romaji: Mainichi kanarazu mēru o miokuru yō ni shite iru. | Dịch: Tôi cố gắng không gửi/xem email mỗi ngày. | Ghi chú: Không dùng 見送る (tiễn/bỏ qua) với email. Nên dùng 無視する (bỏ qua) hoặc 返信を後回しにする (hoãn trả lời).</li>
+<li><b>② 何ページか見送ってみたが、むずかしくてわからなかった。</b> (<i>Sai</i>) - Romaji: Nan pēji ka miokutte mita ga, muzukashikute wakaranakatta. | Dịch: Tôi đã thử "bỏ qua" vài trang nhưng khó quá nên không hiểu. | Ghi chú: Không dùng 見送る với trang sách. Nên dùng 飛ばす (bỏ qua) hoặc 目を通す (đọc lướt).</li>
+<li><b>③ 電車の窓から景色を見送るのが好きだ。</b> (<i>Sai</i>) - Romaji: Densha no mado kara keshiki o miokuru no ga suki da. | Dịch: Tôi thích ngắm cảnh vật lướt qua từ cửa sổ tàu điện. | Ghi chú: Cách dùng này cũng đúng với nghĩa "ngắm nhìn cái gì đó lướt qua", nhưng câu ④ là ví dụ điển hình hơn cho nghĩa "tiễn ai đó".</li>
+<li><b>④ 国に帰る友人を空港まで見送った。</b> (<i>Đúng</i>) - Romaji: Kuni ni kaeru yūjin o kūkō made miokutta. | Dịch: Tôi đã tiễn người bạn về nước ở sân bay. | Ghi chú: Dùng để tiễn người đi (đến sân bay, nhà ga, v.v.).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 見送る (miokuru) có ba nghĩa chính:
+1.  Tiễn ai đó (đến sân bay, nhà ga, v.v.). Ví dụ: 友人を空港まで見送る (tiễn bạn ra sân bay).
+2.  Ngắm nhìn cái gì đó lướt qua (cảnh vật, tàu xe, v.v.). Ví dụ: 景色を見送る (ngắm cảnh lướt qua).
+3.  Bỏ qua, hoãn lại, từ chối (cơ hội, kế hoạch, v.v.). Ví dụ: 計画を見送る (hoãn kế hoạch).
+Trong các lựa chọn, câu ④ sử dụng nghĩa "tiễn ai đó" một cách chính xác và tự nhiên nhất, là một trong những cách dùng phổ biến và điển hình của 見送る. Câu ③ cũng đúng với nghĩa "ngắm nhìn cái gì đó lướt qua", nhưng trong các bài kiểm tra trắc nghiệm, thường có một đáp án được coi là "tốt nhất" hoặc "điển hình nhất".</p>
 </div>
 
-## Note 1780069273223
+## Note 1780075408852
 
-- OCR files: image_import_48d0673cb71d_slide_0079.png
-- OCR text: Sey
-
-319 森さんは一生懸命勉強して、( )医者になった。
-- Question: 
+- OCR files: image_import_699a7ca32462_slide_0139.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 近所の公園にはいろいろな花が植えてある。 ② ケーキにいちごやクリームをたくさん植えた。 ③ この空港は海に土を植えて作られた。 ④ 道に電灯を植えたので明るくなった。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> Sey
-
-319 森さんは一生懸命勉強して、( )医者になった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 40.935124815s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '40s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ① 近所の公園にはいろいろな花が植えてある。</p>
+<p><b>Câu hỏi:</b> 植える</p>
+<p><b>Romaji câu hỏi:</b> Ueru</p>
+<p><b>Dịch câu hỏi:</b> Trồng, gieo (cây)</p>
+<p><b>Romaji đáp án:</b> Kinjo no kōen ni wa iroiro na hana ga uete aru.</p>
+<p><b>Dịch đáp án:</b> Trong công viên gần nhà có trồng nhiều loại hoa.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 近所の公園にはいろいろな花が植えてある。</b> (<i>Đúng</i>) - Romaji: Kinjo no kōen ni wa iroiro na hana ga uete aru. | Dịch: Trong công viên gần nhà có trồng nhiều loại hoa. | Ghi chú: 「植える」 dùng để nói về việc trồng cây, hoa. Câu này dùng đúng.</li>
+<li><b>② ケーキにいちごやクリームをたくさん植えた。</b> (<i>Sai</i>) - Romaji: Kēki ni ichigo ya kurīmu o takusan ueta. | Dịch: Đã trồng nhiều dâu tây và kem lên bánh kem. | Ghi chú: Không dùng 「植える」 cho việc đặt dâu tây hay kem lên bánh. Phải dùng 「のせる」 (đặt lên) hoặc 「飾る」 (trang trí).</li>
+<li><b>③ この空港は海に土を植えて作られた。</b> (<i>Sai</i>) - Romaji: Kono kūkō wa umi ni tsuchi o uete tsukurareta. | Dịch: Sân bay này được xây dựng bằng cách trồng đất xuống biển. | Ghi chú: Không dùng 「植える」 cho việc đổ đất lấp biển. Phải dùng 「埋める」 (lấp, chôn) hoặc 「埋め立てる」 (lấp biển).</li>
+<li><b>④ 道に電灯を植えたので明るくなった。</b> (<i>Sai</i>) - Romaji: Michi ni dentō o ueta node akaruku natta. | Dịch: Vì đã trồng đèn đường trên đường nên đã sáng hơn. | Ghi chú: Không dùng 「植える」 cho việc lắp đặt đèn đường. Phải dùng 「立てる」 (dựng lên) hoặc 「設置する」 (lắp đặt).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Động từ 「植える (ueru)」 có nghĩa là 'trồng, gieo' và thường được dùng cho cây cối, hoa, hoặc các bộ phận cơ thể (như cấy ghép tóc, răng). Các lựa chọn khác sử dụng 「植える」 không chính xác vì chúng liên quan đến việc đặt, lấp, hoặc lắp đặt các vật thể khác, không phải 'trồng' theo nghĩa đen.</p>
 </div>
-
-## Note 1780069273754
-
-- OCR files: image_import_0e0ac4a3fac2_slide_0080.png
-- OCR text: ES
 
-320 私の国と日本は( )が12時間あるので、昼と夜
-が反対だ。
-IO mt |
+## Note 1780075409399
 
-に)
-
-1
-- Question: 
+- OCR files: image_import_3782f0d32083_slide_0140.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 小川さんは正直な人で、決してうそは言いません。 ② この商品の正直な使い方をこれから説明します。 ③ これは正直な話なのに、だれも信じてくれません。 ④ 正直な距離は分かりませんが、10キロぐらいだと思います。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES
-
-320 私の国と日本は( )が12時間あるので、昼と夜
-が反対だ。
-IO mt |
-
-に)
-
-1</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 12.842211141s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '12s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ① 小川さんは正直な人で、決してうそは言いません。</p>
+<p><b>Câu hỏi:</b> 正直</p>
+<p><b>Romaji câu hỏi:</b> Shoujiki</p>
+<p><b>Dịch câu hỏi:</b> Trung thực, thành thật</p>
+<p><b>Romaji đáp án:</b> Ogawa-san wa shoujiki na hito de, kesshite uso wa iimasen.</p>
+<p><b>Dịch đáp án:</b> Anh Ogawa là người trung thực, tuyệt đối không nói dối.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 小川さんは正直な人で、決してうそは言いません。</b> (<i>Đúng</i>) - Romaji: Ogawa-san wa shoujiki na hito de, kesshite uso wa iimasen. | Dịch: Anh Ogawa là người trung thực, tuyệt đối không nói dối. | Ghi chú: 「正直な人」 (người trung thực) là cách dùng tự nhiên và phổ biến để mô tả tính cách của một người.</li>
+<li><b>② この商品の正直な使い方をこれから説明します。</b> (<i>Sai</i>) - Romaji: Kono shouhin no shoujiki na tsukaikata o kore kara setsumei shimasu. | Dịch: Tôi sẽ giải thích cách sử dụng trung thực của sản phẩm này từ bây giờ. | Ghi chú: 「正直」 không dùng để mô tả cách sử dụng sản phẩm. Nên dùng 「正しい使い方」 (cách dùng đúng) hoặc 「適切な使い方」 (cách dùng phù hợp).</li>
+<li><b>③ これは正直な話なのに、だれも信じてくれません。</b> (<i>Sai</i>) - Romaji: Kore wa shoujiki na hanashi na noni, dare mo shinjite kuremasen. | Dịch: Mặc dù đây là một câu chuyện thành thật, nhưng không ai tin tôi. | Ghi chú: 「正直な話」 (câu chuyện thành thật/lời nói thật lòng) cũng là cách dùng tự nhiên, nhưng 「正直な人」 (người trung thực) thường được coi là cách dùng cơ bản và trực tiếp hơn để mô tả tính cách.</li>
+<li><b>④ 正直な距離は分かりませんが、10キロぐらいだと思います。</b> (<i>Sai</i>) - Romaji: Shoujiki na kyori wa wakarimasen ga, ju-kiro gurai da to omoimasu. | Dịch: Tôi không biết khoảng cách trung thực, nhưng tôi nghĩ nó khoảng 10 km. | Ghi chú: 「正直」 không dùng để mô tả khoảng cách. Nên dùng 「正確な距離」 (khoảng cách chính xác).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「正直」 (shoujiki) là một tính từ đuôi な, có nghĩa là "trung thực, thành thật, thẳng thắn". Nó được dùng để mô tả tính cách của con người (ví dụ: 正直な人 - người trung thực), cảm xúc (ví dụ: 正直な気持ち - cảm xúc thật lòng), hoặc một lời nói/câu chuyện không dối trá (ví dụ: 正直な話 - câu chuyện thành thật). Các lựa chọn sai sử dụng "正直" với những danh từ không phù hợp, nơi cần các từ như "đúng đắn" (正しい) hoặc "chính xác" (正確) thay vì "trung thực".</p>
 </div>
 
-## Note 1780069274283
+## Note 1780075409936
 
-- OCR files: image_import_f627bc264640_slide_0081.png
-- OCR text: EN
-
-321 自転車が壊れてしまい、( )ので歩いて家に
-帰りました。
-
-①         A
-  ie
-
-re
-
-2
-- Question: 
+- OCR files: image_import_5833374a8527_slide_0141.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 電車が駅に落ち着いたら電話をください。 ② この商品は人気がなくて、棚にずっと落ち着いている。 ③ 家のかぎが穴に落ち着いた。 ④ 火事のとき落ち着いて行動しよう。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> EN
-
-321 自転車が壊れてしまい、( )ので歩いて家に
-帰りました。
-
-①         A
-  ie
-
-re
-
-2</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 44.636184117s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '44s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ④ 火事のとき落ち着いて行動しよう。</p>
+<p><b>Câu hỏi:</b> 落ち着く</p>
+<p><b>Romaji câu hỏi:</b> ochitsuku</p>
+<p><b>Dịch câu hỏi:</b> Từ "落ち着く" (bình tĩnh, ổn định)</p>
+<p><b>Romaji đáp án:</b> Kaji no toki ochitsuite kōdō shiyō.</p>
+<p><b>Dịch đáp án:</b> Khi có hỏa hoạn, hãy hành động một cách bình tĩnh.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 電車が駅に落ち着いたら電話をください。</b> (<i>Sai</i>) - Romaji: Densha ga eki ni ochitsuitara denwa o kudasai. | Dịch: Khi tàu ổn định ở ga thì hãy gọi điện cho tôi. | Ghi chú: 「落ち着く」 không dùng cho việc tàu đến ga. Nên dùng 「着く」 (đến) hoặc 「止まる」 (dừng).</li>
+<li><b>② この商品は人気がなくて、棚にずっと落ち着いている。</b> (<i>Sai</i>) - Romaji: Kono shōhin wa ninki ga nakute, tana ni zutto ochitsuite iru. | Dịch: Sản phẩm này không được ưa chuộng nên cứ nằm yên trên kệ. | Ghi chú: 「落ち着く」 không dùng để diễn tả sản phẩm ế ẩm. Nên dùng 「売れ残る」 (còn ế) hoặc 「置かれたままだ」 (bị để nguyên).</li>
+<li><b>③ 家のかぎが穴に落ち着いた。</b> (<i>Sai</i>) - Romaji: Ie no kagi ga ana ni ochitsuita. | Dịch: Chìa khóa nhà đã ổn định vào lỗ. | Ghi chú: 「落ち着く」 không dùng cho việc chìa khóa vào lỗ. Nên dùng 「はまる」 (khớp vào) hoặc 「入る」 (vào).</li>
+<li><b>④ 火事のとき落ち着いて行動しよう。</b> (<i>Đúng</i>) - Romaji: Kaji no toki ochitsuite kōdō shiyō. | Dịch: Khi có hỏa hoạn, hãy hành động một cách bình tĩnh. | Ghi chú: 「落ち着いて行動する」 là cách dùng chính xác, nghĩa là 'hành động một cách bình tĩnh'.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「落ち着く」 có nhiều nghĩa, nhưng trong ngữ cảnh này, nghĩa phổ biến nhất là 'bình tĩnh, trấn tĩnh lại' hoặc 'ổn định, lắng xuống'. Khi dùng với hành động, thường ở dạng 「落ち着いて〜する」 (làm gì đó một cách bình tĩnh). Ví dụ: 「落ち着いて話す」 (nói chuyện bình tĩnh), 「落ち着いて考える」 (suy nghĩ bình tĩnh). Các lựa chọn khác sử dụng 「落ち着く」 không tự nhiên vì nó không phù hợp với hành động hoặc trạng thái của chủ thể.</p>
 </div>
 
-## Note 1780069274839
+## Note 1780075410468
 
-- OCR files: image_import_9b9157d3d1d9_slide_0082.png
-- OCR text: EN
-
-322 病気の人を治したくて、高校生のときに医者に
-なることを(  ) した。
-- Question: 
+- OCR files: image_import_4d2af77433fd_slide_0142.png
+- OCR text: none
+- Question: OCR lựa chọn: ① りんごの数をはかってみたら、17個あった。 ② 小麦粉やバターをきちんとはかってケーキを作った。 ③ この宿題は一時間ぐらいで終わるとはかっています。 ④ 先月の生活費を電卓ではかった。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> EN
-
-322 病気の人を治したくて、高校生のときに医者に
-なることを(  ) した。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 16.547980387s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '16s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ② 小麦粉やバターをきちんとはかってケーキを作った。</p>
+<p><b>Câu hỏi:</b> はかる</p>
+<p><b>Romaji câu hỏi:</b> hakaru</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ 「はかる」 một cách tự nhiên nhất.</p>
+<p><b>Romaji đáp án:</b> Komugiko ya batā o kichinto hakatte kēki o tsukutta.</p>
+<p><b>Dịch đáp án:</b> Tôi đã cân đo bột mì và bơ cẩn thận rồi làm bánh kem.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① りんごの数をはかってみたら、17個あった。</b> (<i>Sai</i>) - Romaji: Ringo no kazu o hakatte mitara, jūnanako atta. | Dịch: Khi tôi đếm số táo, có 17 quả. | Ghi chú: 「数を数える」 (kazoeru) tự nhiên hơn cho việc đếm số lượng vật thể.</li>
+<li><b>② 小麦粉やバターをきちんとはかってケーキを作った。</b> (<i>Đúng</i>) - Romaji: Komugiko ya batā o kichinto hakatte kēki o tsukutta. | Dịch: Tôi đã cân đo bột mì và bơ cẩn thận rồi làm bánh kem. | Ghi chú: 「量る」 (hakaru) dùng để cân đo trọng lượng, thể tích nguyên liệu là cách dùng rất tự nhiên.</li>
+<li><b>③ この宿題は一時間ぐらいで終わるとはかっています。</b> (<i>Sai</i>) - Romaji: Kono shukudai wa ichijikan gurai de owaru to hakatte imasu. | Dịch: Tôi ước tính bài tập này sẽ hoàn thành trong khoảng một giờ. | Ghi chú: 「計る」 (hakaru) có thể dùng để ước tính thời gian, nhưng 「見積もる」 (mitsumoru) hoặc 「予想する」 (yosou suru) cũng rất phổ biến.</li>
+<li><b>④ 先月の生活費を電卓ではかった。</b> (<i>Sai</i>) - Romaji: Sengetsu no seikatsuhi o dentaku de hakatta. | Dịch: Tôi đã tính toán chi phí sinh hoạt tháng trước bằng máy tính. | Ghi chú: 「計る」 (hakaru) có thể dùng để tính toán, nhưng 「計算する」 (keisan suru) là cách dùng phổ biến hơn.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「はかる」 là một động từ có nhiều cách viết kanji khác nhau, mỗi cách mang một sắc thái nghĩa riêng biệt: 
+*   **量る (hakaru)**: Cân, đo trọng lượng, thể tích (ví dụ: nguyên liệu nấu ăn, chất lỏng). Đây là cách dùng phù hợp nhất với câu ②.
+*   **測る (hakaru)**: Đo chiều dài, chiều cao, độ sâu, diện tích, tốc độ, nhiệt độ (các đại lượng vật lý, thường dùng dụng cụ đo).
+*   **計る (hakaru)**: Đo thời gian, số lượng, tính toán, ước tính, lên kế hoạch (các đại lượng trừu tượng hơn hoặc liên quan đến tính toán). Phù hợp với nghĩa của câu ③ và ④, nhưng thường có các từ đồng nghĩa phổ biến hơn.</p>
 </div>
-
-## Note 1780069275384
 
-- OCR files: image_import_0087acaf1638_slide_0083.png
-- OCR text: ES
+## Note 1780075411017
 
-323 彼は、いつも( )を言って、みんなを笑わせる
-面白い人だ。
-- Question: 
+- OCR files: image_import_4e1adb40c6f3_slide_0143.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 私は映画が好きでユーモアした映画をよく見る。 ② 木村さんはユーモアがあって、いっしょにいると楽しい。 ③ きのう友達が貸してくれた本はとてもユーモアだった。 ④ 彼はユーモアに自己紹介をして、名前を覚えてもらった。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES
-
-323 彼は、いつも( )を言って、みんなを笑わせる
-面白い人だ。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 48.9244717s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '48s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ② 木村さんはユーモアがあって、いっしょにいると楽しい。</p>
+<p><b>Câu hỏi:</b> ユーモア</p>
+<p><b>Romaji câu hỏi:</b> yūmoa</p>
+<p><b>Dịch câu hỏi:</b> Sự hài hước, khiếu hài hước</p>
+<p><b>Romaji đáp án:</b> Kimura-san wa yūmoa ga atte, issho ni iru to tanoshii.</p>
+<p><b>Dịch đáp án:</b> Anh Kimura có khiếu hài hước nên khi ở cùng anh ấy rất vui.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 私は映画が好きでユーモアした映画をよく見る。</b> (<i>Sai</i>) - Romaji: Watashi wa eiga ga suki de yūmoa shita eiga o yoku miru. | Dịch: Tôi thích phim và thường xem những bộ phim đã hài hước. | Ghi chú: 「ユーモア」 là danh từ, không thể dùng trực tiếp với 「する」 để tạo thành động từ.</li>
+<li><b>② 木村さんはユーモアがあって、いっしょにいると楽しい。</b> (<i>Đúng</i>) - Romaji: Kimura-san wa yūmoa ga atte, issho ni iru to tanoshii. | Dịch: Anh Kimura có khiếu hài hước nên khi ở cùng anh ấy rất vui. | Ghi chú: 「ユーモアがある」 là cách dùng tự nhiên để diễn tả ai đó có khiếu hài hước.</li>
+<li><b>③ きのう友達が貸してくれた本はとてもユーモアだった。</b> (<i>Sai</i>) - Romaji: Kinō tomodachi ga kashite kureta hon wa totemo yūmoa datta. | Dịch: Cuốn sách mà bạn tôi cho mượn hôm qua rất hài hước. | Ghi chú: 「ユーモア」 là danh từ, không thể dùng trực tiếp với 「だった」 để mô tả tính chất của vật. Cần dùng 「ユーモアのある本」 hoặc 「ユーモラスな本」.</li>
+<li><b>④ 彼はユーモアに自己紹介をして、名前を覚えてもらった。</b> (<i>Sai</i>) - Romaji: Kare wa yūmoa ni jikoshōkai o shite, namae o oboete moratta. | Dịch: Anh ấy đã giới thiệu bản thân một cách hài hước và được mọi người nhớ tên. | Ghi chú: 「ユーモアに」 không phải là cách diễn đạt tự nhiên. Nên dùng 「ユーモアを交えて」 hoặc 「ユーモラスに」.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「ユーモア」 là một danh từ (katakana) có nghĩa là 'khiếu hài hước' hoặc 'sự hài hước'. Cách dùng phổ biến và tự nhiên nhất là 「ユーモアがある」 (có khiếu hài hước) hoặc 「ユーモアのセンスがある」 (có khiếu hài hước). Để biến nó thành tính từ, có thể dùng 「ユーモアのある～」 hoặc 「ユーモラスな～」. Các cách dùng khác như 「ユーモアする」, 「ユーモアだった」, 「ユーモアに」 thường không tự nhiên hoặc sai ngữ pháp.</p>
 </div>
-
-## Note 1780069275937
-
-- OCR files: image_import_4b3983975e2a_slide_0084.png
-- OCR text: でEY
 
-324 空港に着いたとき、 飛行機の出発が遅れるという
+## Note 1780075411566
 
-() が聞こえた。
-
-① 。 ガイダンス
-- Question: 
+- OCR files: image_import_d7c7fef4c6e0_slide_0144.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 地球の未来のために環境問題について考えよう。 ② 山本さんは未来は何になりたいですか。 ③ いつ来られるか、未来の都合を教えてください。 ④ 未来の今ごろ、大学が建つ予定です。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> でEY
-
-324 空港に着いたとき、 飛行機の出発が遅れるという
-
-() が聞こえた。
-
-① 。 ガイダンス</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 21.139186785s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '21s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ① 地球の未来のために環境問題について考えよう。</p>
+<p><b>Câu hỏi:</b> 未来</p>
+<p><b>Romaji câu hỏi:</b> Mirai</p>
+<p><b>Dịch câu hỏi:</b> Tương lai</p>
+<p><b>Romaji đáp án:</b> Chikyū no mirai no tame ni kankyō mondai ni tsuite kangaeyō.</p>
+<p><b>Dịch đáp án:</b> Hãy cùng suy nghĩ về vấn đề môi trường vì tương lai của Trái Đất.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 地球の未来のために環境問題について考えよう。</b> (<i>Đúng</i>) - Romaji: Chikyū no mirai no tame ni kankyō mondai ni tsuite kangaeyō. | Dịch: Hãy cùng suy nghĩ về vấn đề môi trường vì tương lai của Trái Đất. | Ghi chú: 「未来」 được dùng tự nhiên để chỉ tương lai chung của Trái Đất/nhân loại.</li>
+<li><b>② 山本さんは未来は何になりたいですか。</b> (<i>Sai</i>) - Romaji: Yamamoto-san wa mirai wa nani ni naritai desu ka. | Dịch: Anh/chị Yamamoto muốn trở thành gì trong tương lai? | Ghi chú: Khi hỏi về nguyện vọng cá nhân trong tương lai, 「将来 (shōrai)」 thường tự nhiên hơn 「未来」.</li>
+<li><b>③ いつ来られるか、未来の都合を教えてください。</b> (<i>Sai</i>) - Romaji: Itsu korareru ka, mirai no tsugō o oshiete kudasai. | Dịch: Khi nào bạn có thể đến, hãy cho tôi biết sự tiện lợi trong tương lai của bạn. | Ghi chú: 「未来の都合」 là cách dùng không tự nhiên. Nên dùng 「今後の都合 (kongo no tsugō)」 hoặc chỉ rõ thời gian cụ thể.</li>
+<li><b>④ 未来の今ごろ、大学が建つ予定です。</b> (<i>Sai</i>) - Romaji: Mirai no imagoro, daigaku ga tatsu yotei desu. | Dịch: Khoảng thời gian này trong tương lai, một trường đại học dự kiến sẽ được xây dựng. | Ghi chú: 「未来の今ごろ」 là cách dùng không tự nhiên. Nên dùng 「将来の今ごろ (shōrai no imagoro)」 hoặc 「数年後の今ごろ (sūnen-go no imagoro)」.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「未来 (mirai)」 thường dùng để chỉ tương lai xa, tương lai chung của thế giới, xã hội, hoặc nhân loại. Trong khi đó, 「将来 (shōrai)」 thường được dùng để nói về tương lai cá nhân, sự nghiệp, hoặc một tương lai tương đối gần. Câu ① sử dụng 「未来」 để nói về tương lai của Trái Đất, một khái niệm rộng lớn, nên rất tự nhiên. Các câu còn lại sử dụng 「未来」 trong ngữ cảnh không phù hợp, nơi 「将来」 hoặc các cách diễn đạt khác sẽ tự nhiên hơn.</p>
 </div>
 
-## Note 1780069276466
+## Note 1780075412117
 
-- OCR files: image_import_eae0a4b8e397_slide_0085.png
-- OCR text: RES
-
-325 休日で渋浅すると思いますが、( ) 道はすいて
-- Question: 
+- OCR files: image_import_634f1b18a69d_slide_0145.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 父は毎朝そっくりの時間に会社に行きます。 ② 私にそっくりのサイズの服が見つかった。 ③ 私と祖母の誕生日はそっくりです。 ④ 夫と息子は顔だけでなく声までそっくりです。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> RES
-
-325 休日で渋浅すると思いますが、( ) 道はすいて</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 53.45867394s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ④ 夫と息子は顔だけでなく声までそっくりです。</p>
+<p><b>Câu hỏi:</b> そっくり</p>
+<p><b>Romaji câu hỏi:</b> sokkuri</p>
+<p><b>Dịch câu hỏi:</b> Chọn câu sử dụng từ "そっくり" một cách tự nhiên nhất.</p>
+<p><b>Romaji đáp án:</b> Otto to musuko wa kao dake de naku koe made sokkuri desu.</p>
+<p><b>Dịch đáp án:</b> Chồng và con trai tôi không chỉ giống nhau về khuôn mặt mà còn cả giọng nói nữa.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 父は毎朝そっくりの時間に会社に行きます。</b> (<i>Sai</i>) - Romaji: Chichi wa maiasa sokkuri no jikan ni kaisha ni ikimasu. | Dịch: Bố tôi sáng nào cũng đi làm vào đúng thời gian đó. | Ghi chú: Không tự nhiên. 'そっくり' không dùng để chỉ 'đúng thời gian' mà là 'giống hệt'.</li>
+<li><b>② 私にそっくりのサイズの服が見つかった。</b> (<i>Sai</i>) - Romaji: Watashi ni sokkuri no saizu no fuku ga mitsukatta. | Dịch: Tôi đã tìm thấy bộ quần áo có kích cỡ giống hệt tôi. | Ghi chú: Không tự nhiên. 'そっくり' không dùng để chỉ 'kích cỡ giống hệt' mà là 'giống y đúc về hình dáng, đặc điểm'.</li>
+<li><b>③ 私と祖母の誕生日はそっくりです。</b> (<i>Sai</i>) - Romaji: Watashi to sobo no tanjōbi wa sokkuri desu. | Dịch: Sinh nhật của tôi và bà tôi giống hệt nhau. | Ghi chú: Không tự nhiên. 'そっくり' không dùng cho ngày sinh nhật. Nên dùng '同じ日' (cùng ngày).</li>
+<li><b>④ 夫と息子は顔だけでなく声までそっくりです。</b> (<i>Đúng</i>) - Romaji: Otto to musuko wa kao dake de naku koe made sokkuri desu. | Dịch: Chồng và con trai tôi không chỉ giống nhau về khuôn mặt mà còn cả giọng nói nữa. | Ghi chú: Cách dùng tự nhiên. 'そっくり' dùng để diễn tả sự giống nhau y đúc về ngoại hình, giọng nói, tính cách giữa người với người hoặc vật với vật.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「そっくり」 là một phó từ hoặc tính từ đuôi な, dùng để diễn tả sự giống nhau y đúc, giống hệt, không khác một chút nào giữa hai người hoặc hai vật. Nó thường được dùng để so sánh ngoại hình, giọng nói, tính cách, hoặc một đặc điểm cụ thể nào đó. Ví dụ: 「お母さんそっくり」 (giống hệt mẹ), 「絵とそっくり」 (giống hệt bức tranh). Các lựa chọn khác không tự nhiên vì 「そっくり」 không dùng để chỉ sự trùng khớp về thời gian, kích cỡ, hay ngày tháng mà không có yếu tố 'giống y đúc' về hình thái, đặc điểm.</p>
 </div>
 
-## Note 1780069276998
+## Note 1780075412665
 
-- OCR files: image_import_3f539dc0d5d7_slide_0086.png
-- OCR text: Sey
-
-326 彼は若いとき非常に苦労したが、一生懸命( )
-して、立派な政治家になった。
-- Question: 
+- OCR files: image_import_208e9cedb130_slide_0146.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 昨日の引っ越しで何度も重い家具をにぎったので体が痛い。 ② お祭りで弟が迷子にならないように、弟の手をしっかりとにぎった。 ③ 風で帽子が飛ばされたが、石原さんが走ってにぎってくれた。 ④ 母親が、生まれたばかりの赤ちゃんを大事そうににぎっている。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> Sey
-
-326 彼は若いとき非常に苦労したが、一生懸命( )
-して、立派な政治家になった。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 24.982865722s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '24s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ② お祭りで弟が迷子にならないように、弟の手をしっかりとにぎった。</p>
+<p><b>Câu hỏi:</b> にぎる</p>
+<p><b>Romaji câu hỏi:</b> nigiru</p>
+<p><b>Dịch câu hỏi:</b> Cách dùng đúng của từ にぎる</p>
+<p><b>Romaji đáp án:</b> Omatsuri de otōto ga maigo ni naranai yō ni, otōto no te o shikkari to nigitta.</p>
+<p><b>Dịch đáp án:</b> Ở lễ hội, để em trai không bị lạc, tôi đã nắm chặt tay em.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 昨日の引っ越しで何度も重い家具をにぎったので体が痛い。</b> (<i>Sai</i>) - Romaji: Kinō no hikkoshi de nandomo omoi kagu o nigitta node karada ga itai. | Dịch: Vì hôm qua chuyển nhà đã nắm nhiều lần đồ nội thất nặng nên cơ thể tôi đau nhức. | Ghi chú: にぎる (nắm chặt) không tự nhiên khi nói về việc cầm nắm đồ nội thất nặng. Nên dùng 持つ (cầm, giữ) hoặc 運ぶ (mang vác).</li>
+<li><b>② お祭りで弟が迷子にならないように、弟の手をしっかりとにぎった。</b> (<i>Đúng</i>) - Romaji: Omatsuri de otōto ga maigo ni naranai yō ni, otōto no te o shikkari to nigitta. | Dịch: Ở lễ hội, để em trai không bị lạc, tôi đã nắm chặt tay em. | Ghi chú: Cách dùng tự nhiên và chính xác của にぎる (nắm chặt) khi nắm tay người khác.</li>
+<li><b>③ 風で帽子が飛ばされたが、石原さんが走ってにぎってくれた。</b> (<i>Sai</i>) - Romaji: Kaze de bōshi ga tobasa reta ga, Ishihara-san ga hashitte nigitte kureta. | Dịch: Mũ bị gió thổi bay, nhưng anh Ishihara đã chạy đến và nắm lấy nó giúp tôi. | Ghi chú: にぎる (nắm chặt) không phù hợp khi nói về việc nhặt hoặc bắt lấy một vật bị thổi bay. Nên dùng 拾う (nhặt) hoặc 捕まえる (bắt lấy).</li>
+<li><b>④ 母親が、生まれたばかりの赤ちゃんを大事そうににぎっている。</b> (<i>Sai</i>) - Romaji: Hahaoya ga, umareta bakari no akachan o daijisō ni nigitte iru. | Dịch: Người mẹ đang nắm chặt đứa bé sơ sinh một cách cẩn thận. | Ghi chú: にぎる (nắm chặt) không dùng cho việc ôm ấp, bế ẵm em bé. Nên dùng 抱く (ôm) hoặc 抱っこする (bế).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「にぎる」(握る) có nghĩa là nắm, cầm chặt, siết chặt bằng tay. Nó thường được dùng khi nắm một vật nhỏ, một vật có thể cầm gọn trong lòng bàn tay, hoặc nắm tay người khác một cách chắc chắn. Ví dụ: 手を握る (nắm tay), おにぎりを握る (nắm cơm nắm), マイクを握る (cầm micro).</p>
 </div>
-
-## Note 1780069277528
 
-- OCR files: image_import_1ff337aa51ba_slide_0087.png
-- OCR text: ES
+## Note 1780075413197
 
-327 時間がなくて、朝も昼もご飯を食べられなかった
-ので、おなかが( )だ。
-- Question: 
+- OCR files: image_import_b96e89c05ce8_slide_0147.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 今朝、妻とけんかしたので、早く仲を修理したい。 ② 腕をけがしたとき、この病院で修理してもらった。 ③ 自転車が壊れたので、買ったお店で修理してもらった。 ④ 私が間違えた漢字を、先生が赤いペンで修理してくれた。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES
-
-327 時間がなくて、朝も昼もご飯を食べられなかった
-ので、おなかが( )だ。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 56.88209421s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '56s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ③ 自転車が壊れたので、買ったお店で修理してもらった。</p>
+<p><b>Câu hỏi:</b> 修理</p>
+<p><b>Romaji câu hỏi:</b> Shūri</p>
+<p><b>Dịch câu hỏi:</b> Sửa chữa</p>
+<p><b>Romaji đáp án:</b> Jitensha ga kowareta node, katta omise de shūri shite moratta.</p>
+<p><b>Dịch đáp án:</b> Vì xe đạp bị hỏng nên tôi đã nhờ cửa hàng đã mua sửa chữa.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 今朝、妻とけんかしたので、早く仲を修理したい。</b> (<i>Sai</i>) - Romaji: Kesa, tsuma to kenka shita node, hayaku naka o shūri shitai. | Dịch: Sáng nay, vì tôi đã cãi nhau với vợ nên muốn nhanh chóng sửa chữa mối quan hệ. | Ghi chú: 修理 (shūri) không dùng cho mối quan hệ. Nên dùng 仲直りする (nakanaori suru - làm lành) hoặc 関係を修復する (kankei o shūfuku suru - khôi phục mối quan hệ).</li>
+<li><b>② 腕をけがしたとき、この病院で修理してもらった。</b> (<i>Sai</i>) - Romaji: Ude o kegashita toki, kono byōin de shūri shite moratta. | Dịch: Khi bị thương ở tay, tôi đã được bệnh viện này sửa chữa. | Ghi chú: 修理 (shūri) không dùng cho bộ phận cơ thể người. Nên dùng 治療する (chiryō suru - điều trị) hoặc 手術する (shujutsu suru - phẫu thuật).</li>
+<li><b>③ 自転車が壊れたので、買ったお店で修理してもらった。</b> (<i>Đúng</i>) - Romaji: Jitensha ga kowareta node, katta omise de shūri shite moratta. | Dịch: Vì xe đạp bị hỏng nên tôi đã nhờ cửa hàng đã mua sửa chữa. | Ghi chú: 修理 (shūri) dùng đúng cho việc sửa chữa đồ vật, máy móc bị hỏng.</li>
+<li><b>④ 私が間違えた漢字を、先生が赤いペンで修理してくれた。</b> (<i>Sai</i>) - Romaji: Watashi ga machigaeta kanji o, sensei ga akai pen de shūri shite kureta. | Dịch: Giáo viên đã sửa chữa chữ Hán mà tôi viết sai bằng bút đỏ. | Ghi chú: 修理 (shūri) không dùng cho việc sửa lỗi sai. Nên dùng 直す (naosu - sửa, chữa) hoặc 訂正する (teisei suru - đính chính).</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> Từ 「修理 (しゅうり)」 có nghĩa là 'sửa chữa, tu sửa', thường được dùng để chỉ việc sửa chữa các đồ vật, máy móc, thiết bị, hoặc công trình bị hỏng hóc, trục trặc để chúng hoạt động trở lại bình thường. Nó không được dùng cho việc sửa chữa mối quan hệ, cơ thể người, hay lỗi sai trong bài viết.</p>
 </div>
 
-## Note 1780069278060
+## Note 1780075413748
 
-- OCR files: image_import_099d6857a7c1_slide_0088.png
-- OCR text: ES
-
-328 林さんが会社を辞めるというのは、林さんから直
-接聞いたので( ) 情報です。
-- Question: 
+- OCR files: image_import_f3992ef87e6d_slide_0148.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 今日はたくさん商品が売れて、目的の10万円を超えました。 ② お店を予約するとき、 窓側の席がいいと目的を伝えた。 ③ 来週から1か月海外に出張する目的なので、準備に忙しい。 ④ この研究の目的は、新しい薬の効果を調べることです。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES
-
-328 林さんが会社を辞めるというのは、林さんから直
-接聞いたので( ) 情報です。</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 28.652210799s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '28s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ④ この研究の目的は、新しい薬の効果を調べることです。</p>
+<p><b>Câu hỏi:</b> 目的</p>
+<p><b>Romaji câu hỏi:</b> mokuteki</p>
+<p><b>Dịch câu hỏi:</b> mục đích</p>
+<p><b>Romaji đáp án:</b> Kono kenkyū no mokuteki wa, atarashii kusuri no kōka o shiraberu koto desu.</p>
+<p><b>Dịch đáp án:</b> Mục đích của nghiên cứu này là để điều tra hiệu quả của loại thuốc mới.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 今日はたくさん商品が売れて、目的の10万円を超えました。</b> (<i>Sai</i>) - Romaji: Kyō wa takusan shōhin ga urete, mokuteki no jūman-en o koemashita. | Dịch: Hôm nay, nhiều sản phẩm đã được bán ra, vượt quá 100.000 yên mục đích. | Ghi chú: Dùng 目標 (mục tiêu) sẽ tự nhiên hơn cho một con số cụ thể.</li>
+<li><b>② お店を予約するとき、窓側の席がいいと目的を伝えた。</b> (<i>Sai</i>) - Romaji: Omise o yoyaku suru toki, madogawa no seki ga ii to mokuteki o tsutaeta. | Dịch: Khi đặt chỗ ở nhà hàng, tôi đã truyền đạt mục đích là muốn chỗ ngồi cạnh cửa sổ. | Ghi chú: Muốn chỗ ngồi cạnh cửa sổ là 'yêu cầu' (要望/リクエスト) hoặc 'mong muốn' (希望), không phải 'mục đích'.</li>
+<li><b>③ 来週から1か月海外に出張する目的なので、準備に忙しい。</b> (<i>Sai</i>) - Romaji: Raishū kara ikkagetsu kaigai ni shutchō suru mokuteki nano de, junbi ni isogashii. | Dịch: Vì mục đích là đi công tác nước ngoài 1 tháng từ tuần sau, nên tôi bận rộn chuẩn bị. | Ghi chú: Đi công tác là 'kế hoạch' (予定/計画) hoặc 'lý do' (理由), không phải 'mục đích' của việc bận rộn.</li>
+<li><b>④ この研究の目的は、新しい薬の効果を調べることです。</b> (<i>Đúng</i>) - Romaji: Kono kenkyū no mokuteki wa, atarashii kusuri no kōka o shiraberu koto desu. | Dịch: Mục đích của nghiên cứu này là để điều tra hiệu quả của loại thuốc mới. | Ghi chú: Cách dùng chính xác, 'mục đích của nghiên cứu' là để đạt được một kết quả cụ thể.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「目的 (mokuteki)」 có nghĩa là 'mục đích', 'mục tiêu', 'điều muốn đạt được'. Nó thường dùng để chỉ lý do cuối cùng hoặc kết quả mong muốn của một hành động, kế hoạch, hoặc nghiên cứu. Trong câu ④, 'mục đích của nghiên cứu' là để 'điều tra hiệu quả của thuốc mới', đây là cách dùng hoàn toàn tự nhiên và chính xác. Các lựa chọn khác sử dụng 「目的」 một cách không tự nhiên; ví dụ, trong câu ①, 「目標 (mokuhyō - mục tiêu)」 sẽ phù hợp hơn cho một con số cụ thể; trong câu ②, 「要望 (yōbō - yêu cầu)」 hoặc 「希望 (kibō - mong muốn)」 sẽ đúng hơn; và trong câu ③, 「予定 (yotei - kế hoạch)」 hoặc 「ため (tame - để)」 sẽ phù hợp hơn.</p>
 </div>
-
-## Note 1780069278590
-
-- OCR files: image_import_5e2f24a20e35_slide_0089.png
-- OCR text: ES
-
-329 電気の工事の人が来て、部屋の壁にヒアコンを
 
-() くれた。
+## Note 1780075414298
 
-③ 受け入れて
-- Question: 
+- OCR files: image_import_6107a99c864d_slide_0149.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 子どものときの写真を見て、懐かしい気持ちになった。 ② ここは800年前に建てられた懐かしい寺なので、見学の人が多い。 ③ 結婚して30年たったので、妻とは懐かしい関係だ。 ④ 私と田村さんは、会ってすぐに懐かしい友達になった。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ES
-
-329 電気の工事の人が来て、部屋の壁にヒアコンを
-
-() くれた。
-
-③ 受け入れて</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 834.47489ms.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '0s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ① 子どものときの写真を見て、懐かしい気持ちになった。</p>
+<p><b>Câu hỏi:</b> 懐かしい</p>
+<p><b>Romaji câu hỏi:</b> natsukashii</p>
+<p><b>Dịch câu hỏi:</b> 懐かしい (natsukashii)</p>
+<p><b>Romaji đáp án:</b> Kodomo no toki no shashin o mite, natsukashii kimochi ni natta.</p>
+<p><b>Dịch đáp án:</b> Nhìn bức ảnh hồi nhỏ, tôi cảm thấy hoài niệm.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 子どものときの写真を見て、懐かしい気持ちになった。</b> (<i>Đúng</i>) - Romaji: Kodomo no toki no shashin o mite, natsukashii kimochi ni natta. | Dịch: Nhìn bức ảnh hồi nhỏ, tôi cảm thấy hoài niệm. | Ghi chú: Cách dùng đúng: 懐かしい (natsukashii) diễn tả cảm giác hoài niệm, nhớ về quá khứ.</li>
+<li><b>② ここは800年前に建てられた懐かしい寺なので、見学の人が多い。</b> (<i>Sai</i>) - Romaji: Koko wa happyaku-nen mae ni taterareta natsukashii tera nanode, kengaku no hito ga ooi. | Dịch: Đây là ngôi chùa hoài niệm được xây dựng 800 năm trước, nên có nhiều người đến tham quan. | Ghi chú: Sai: 懐かしい không dùng để miêu tả một vật thể lịch sử mà không có sự liên kết cá nhân với quá khứ của người nói.</li>
+<li><b>③ 結婚して30年たったので、妻とは懐かしい関係だ。</b> (<i>Sai</i>) - Romaji: Kekkon shite sanjū-nen tattanode, tsuma to wa natsukashii kankei da. | Dịch: Vì đã kết hôn 30 năm, tôi và vợ có một mối quan hệ hoài niệm. | Ghi chú: Sai: 懐かしい không dùng để miêu tả một mối quan hệ hiện tại, mà là cảm xúc về quá khứ.</li>
+<li><b>④ 私と田村さんは、会ってすぐに懐かしい友達になった。</b> (<i>Sai</i>) - Romaji: Watashi to Tamura-san wa, atte sugu ni natsukashii tomodachi ni natta. | Dịch: Tôi và anh Tamura vừa gặp đã trở thành bạn bè hoài niệm. | Ghi chú: Sai: 懐かしい ám chỉ một mối quan hệ hoặc kỷ niệm đã có từ trước, không thể dùng cho mối quan hệ mới hình thành.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 懐かしい (natsukashii) là một tính từ đuôi -i, dùng để diễn tả cảm giác hoài niệm, nhớ nhung về những kỷ niệm, địa điểm, hoặc người thân quen trong quá khứ. Nó thường mang sắc thái tích cực, gợi nhớ những điều tốt đẹp đã qua. Không dùng để miêu tả một vật thể lịch sử đơn thuần, một mối quan hệ hiện tại, hay một mối quan hệ mới bắt đầu.</p>
 </div>
-
-## Note 1780069279649
 
-- OCR files: image_import_d25f4cf46466_slide_0091.png
-- OCR text: ar
+## Note 1780075414831
 
-329 電気の工事      来て、部屋の壁にヒアコンを
-
-⑨ 取り付けて             @ 取り上げて
-
-④ 3叶受けて
-- Question: 
+- OCR files: image_import_68260cd6b91b_slide_0150.png
+- OCR text: none
+- Question: OCR lựa chọn: ① 友達の都合が悪くなって、食事の約束が来週に変化してしまった。 ② 引っ越しで住所が変化したので、みんなに知らせた。 ③ インターネットが登場して、人々の生活は大きく変化した。 ④ 会議の司会は、小野さんから高橋さんに変化するそうです。
 - Answer: 
 
 <div class="anki-ocr-answer">
 <hr>
-<p><b>Đáp án:</b> ar
-
-329 電気の工事      来て、部屋の壁にヒアコンを
-
-⑨ 取り付けて             @ 取り上げて
-
-④ 3叶受けて</p>
-<p><b>Ngữ pháp:</b> Lỗi khi gọi LLM (GEMINI_API_KEY_9: Error code: 429 - [{'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\nPlease retry in 30.057674244s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30s'}]}}]). Đã giữ lại đáp án/OCR gốc.</p>
+<p><b>Đáp án:</b> ③ インターネットが登場して、人々の生活は大きく変化した。</p>
+<p><b>Câu hỏi:</b> 変化</p>
+<p><b>Romaji câu hỏi:</b> Henka</p>
+<p><b>Dịch câu hỏi:</b> Thay đổi</p>
+<p><b>Romaji đáp án:</b> Intānetto ga tōjō shite, hitobito no seikatsu wa ōkiku henka shita.</p>
+<p><b>Dịch đáp án:</b> Internet xuất hiện, cuộc sống của mọi người đã thay đổi rất nhiều.</p>
+<p><b>Các lựa chọn:</b></p>
+<ul>
+<li><b>① 友達の都合が悪くなって、食事の約束が来週に変化してしまった。</b> (<i>Sai</i>) - Romaji: Tomodachi no tsugō ga waruku natte, shokuji no yakusoku ga raishū ni henka shite shimatta. | Dịch: Vì bạn tôi không tiện, cuộc hẹn ăn tối đã thay đổi sang tuần sau. | Ghi chú: Dùng 変更 (henkō - thay đổi, sửa đổi) hoặc 延期 (enki - hoãn) tự nhiên hơn cho 'lịch hẹn'.</li>
+<li><b>② 引っ越しで住所が変化したので、みんなに知らせた。</b> (<i>Sai</i>) - Romaji: Hikkoshi de jūsho ga henka shita node, minna ni shiraseta. | Dịch: Vì địa chỉ đã thay đổi do chuyển nhà, tôi đã thông báo cho mọi người. | Ghi chú: Dùng 変更 (henkō - thay đổi, sửa đổi) tự nhiên hơn cho 'địa chỉ'.</li>
+<li><b>③ インターネットが登場して、人々の生活は大きく変化した。</b> (<i>Đúng</i>) - Romaji: Intānetto ga tōjō shite, hitobito no seikatsu wa ōkiku henka shita. | Dịch: Internet xuất hiện, cuộc sống của mọi người đã thay đổi rất nhiều. | Ghi chú: Cách dùng chính xác. '変化' phù hợp với sự thay đổi lớn, mang tính chuyển biến.</li>
+<li><b>④ 会議の司会は、小野さんから高橋さんに変化するそうです。</b> (<i>Sai</i>) - Romaji: Kaigi no shikai wa, Ono-san kara Takahashi-san ni henka suru sō desu. | Dịch: Nghe nói người chủ trì cuộc họp sẽ thay đổi từ anh Ono sang anh Takahashi. | Ghi chú: Dùng 交代 (kōtai - thay thế, luân phiên) hoặc 変更 (henkō - thay đổi) tự nhiên hơn cho 'thay đổi người phụ trách'.</li>
+</ul>
+<p><b>Ghi chú ôn tập:</b> 「変化 (henka)」thường dùng để chỉ sự thay đổi về trạng thái, hình thức, chất lượng hoặc điều kiện một cách tự nhiên hoặc dần dần, mang tính chuyển biến lớn. Trong khi đó, 「変更 (henkō)」thường chỉ sự thay đổi, sửa đổi có chủ ý, mang tính hành chính hoặc cụ thể hơn (ví dụ: thay đổi lịch trình, địa chỉ, quy định). 「交代 (kōtai)」dùng khi thay thế người hoặc vật.</p>
 </div>

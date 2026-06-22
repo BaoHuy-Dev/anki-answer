@@ -113,7 +113,10 @@ def ocr_media_sources(
     for source in media_sources:
         encoded_blob = retrieve_media(source)
         image_bytes = decode_media_blob(encoded_blob)
-        text = ocr_image_bytes(image_bytes, language=language)
+        try:
+            text = ocr_image_bytes(image_bytes, language=language)
+        except pytesseract.TesseractNotFoundError:
+            text = ""
         results.append(
             OCRAsset(
                 filename=source,

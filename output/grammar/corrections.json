@@ -1,0 +1,4205 @@
+[
+  {
+    "note_id": 1779899194520,
+    "type": "m1",
+    "question": "367 A「もうすぐ()この前言ってたけど、準備は進んでる?」 B「うん。」。",
+    "options": {
+      "1": "引っ越す",
+      "2": "引っ越すか",
+      "3": "引っ越すって",
+      "4": "引っ越すのを"
+    },
+    "front_options": [
+      "1 引っ越す",
+      "② 引っ越すか",
+      "3 引っ越すって",
+      "4 引っ越すのを"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "引っ越す",
+    "corrected_num": 3,
+    "corrected_text": "引っ越すって",
+    "hint": ", 3",
+    "image": "image_import_6984182169b6_slide_0069.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899194520,
+      "answer_text": "引っ越すって",
+      "explanation": "Trong đoạn hội thoại này, A đang nhắc lại điều B đã nói trước đó. Cấu trúc 「〜って」 được dùng để trích dẫn lời nói hoặc thông tin đã nghe được một cách thân mật, tương tự như 「〜と言っていた」. Các lựa chọn khác không phù hợp để trích dẫn thông tin đã nghe.",
+      "grammar_point": "〜って",
+      "grammar_note": "「〜って」 dùng để trích dẫn lời nói hoặc thông tin đã nghe được một cách thân mật, thường đặt sau dạng thông thường của động từ, tính từ hoặc danh từ."
+    }
+  },
+  {
+    "note_id": 1779899196105,
+    "type": "m1",
+    "question": "370 少し前にご飯を食べた()なのに、もうおなかがすいてきた。",
+    "options": {
+      "1": "せい",
+      "2": "とき",
+      "3": "よう",
+      "4": "ばかり"
+    },
+    "front_options": [
+      "① せい",
+      "② とき",
+      "③ よう",
+      "④ ばかり"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "とき",
+    "corrected_num": 4,
+    "corrected_text": "ばかり",
+    "hint": ", 4",
+    "image": "image_import_c0c25fc32595_slide_0072.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899196105,
+      "answer_text": "ばかり",
+      "explanation": "Cấu trúc 「〜たばかり」 diễn tả một hành động vừa mới kết thúc cách đây không lâu. Trong câu này, nó có nghĩa là \"Mặc dù vừa mới ăn cơm xong mà đã đói rồi\", thể hiện sự ngạc nhiên về việc đói nhanh. Các lựa chọn khác như 「せい」 (do, tại vì), 「とき」 (khi) hay 「よう」 (có vẻ) không phù hợp với ngữ cảnh này.",
+      "grammar_point": "〜たばかり",
+      "grammar_note": "「〜たばかり」 được dùng để diễn tả một hành động hoặc sự việc vừa mới xảy ra trong một khoảng thời gian ngắn trước đó."
+    }
+  },
+  {
+    "note_id": 1779899198292,
+    "type": "m1",
+    "question": "374 A「来週の登山、楽しみだね。」 B「うん、()ね。」。",
+    "options": {
+      "1": "晴れてきた",
+      "2": "晴れるといい",
+      "3": "晴れるんだ",
+      "4": "晴れてよかった"
+    },
+    "front_options": [
+      "1 晴れてきた",
+      "② 晴れるといい",
+      "3 晴れるんだ",
+      "4 晴れてよかった"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "晴れてよかった",
+    "corrected_num": 2,
+    "corrected_text": "晴れるといい",
+    "hint": ", chọn 2",
+    "image": "image_import_0f92fa8edcb0_slide_0076.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899198292,
+      "answer_text": "晴れるといい",
+      "explanation": "B bày tỏ mong muốn thời tiết tốt cho chuyến leo núi sẽ diễn ra vào tuần tới. Cấu trúc 「〜といい」 được dùng để diễn tả mong muốn hoặc hy vọng một điều gì đó tốt đẹp sẽ xảy ra trong tương lai. Các lựa chọn khác như 「晴れてきた」 (đã quang đãng), 「晴れるんだ」 (sẽ quang đãng đấy) hay 「晴れてよかった」 (thật tốt vì đã quang đãng) không thể hiện ý nghĩa mong muốn.",
+      "grammar_point": "〜といい",
+      "grammar_note": "「〜といい」 được dùng để diễn tả mong muốn hoặc hy vọng một điều gì đó tốt đẹp sẽ xảy ra trong tương lai."
+    }
+  },
+  {
+    "note_id": 1779899198829,
+    "type": "m1",
+    "question": "375 (市のホームページで)9月30日に絵本作家の坂本みどりさんによる 講演会が開かれます。市民の方であれば、どなたでも無料で()。",
+    "options": {
+      "1": "ご参加になれます",
+      "2": "参加いたします",
+      "3": "ご参加になっています",
+      "4": "参加できております"
+    },
+    "front_options": [
+      "① ご参加になれます",
+      "② 参加いたします",
+      "③ ご参加になっています",
+      "④ 参加できております"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "参加できております",
+    "corrected_num": 1,
+    "corrected_text": "ご参加になれます",
+    "hint": ", chọn 1",
+    "image": "image_import_2d097c7ad90c_slide_0077.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899198829,
+      "answer_text": "ご参加になれます",
+      "explanation": "Đây là một thông báo trên trang web của thành phố, cần sử dụng kính ngữ để thể hiện sự tôn trọng đối với công dân. 「ご参加になれます」 là dạng kính ngữ tôn kính (尊敬語) của 「参加できます」 (có thể tham gia), phù hợp để mời gọi người khác một cách lịch sự. 「参加いたします」 là khiêm nhường ngữ, còn 「ご参加になっています」 và 「参加できております」 không phù hợp về mặt ngữ nghĩa hoặc sắc thái kính ngữ trong ngữ cảnh này.",
+      "grammar_point": "敬語: ご〜になる",
+      "grammar_note": "「ご〜になる」 là dạng kính ngữ tôn kính (尊敬語) dùng để nói về hành động của người khác một cách tôn trọng."
+    }
+  },
+  {
+    "note_id": 1779899200445,
+    "type": "m1",
+    "question": "378 友人の田中さんは京都が大好きで、今までに何度()行ったことがあるそうだ。",
+    "options": {
+      "1": "も",
+      "2": "は",
+      "3": "など",
+      "4": "ぐらい"
+    },
+    "front_options": [
+      "① も",
+      "② は",
+      "③ など",
+      "④ ぐらい"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "ぐらい",
+    "corrected_num": 1,
+    "corrected_text": "も",
+    "hint": ", 1",
+    "image": "image_import_5821206d5208_slide_0080.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899200445,
+      "answer_text": "も",
+      "explanation": "Trợ từ 「も」 sau một số lượng từ như 「何度」 được dùng để nhấn mạnh số lượng đó là nhiều, thường mang ý nghĩa \"nhiều lần\" hoặc \"không ít lần\". Câu này có nghĩa là \"Anh Tanaka rất thích Kyoto, nghe nói anh ấy đã đi Kyoto không ít lần rồi.\" Các trợ từ khác như 「は」, 「など」, 「ぐらい」 không mang ý nghĩa nhấn mạnh số lượng nhiều trong ngữ cảnh này.",
+      "grammar_point": "語:何度(も)",
+      "grammar_note": "「〜も」 sau một số lượng từ được dùng để nhấn mạnh số lượng đó là nhiều hoặc vượt quá mong đợi."
+    }
+  },
+  {
+    "note_id": 1779899200988,
+    "type": "m1",
+    "question": "379 A「ねぇ、お昼ごはん、一緒に行かない?」 B「うん、行こう。何食べる?」 A「寒いから、温かいりどん()どう?」。",
+    "options": {
+      "1": "に",
+      "2": "だけ",
+      "3": "まで",
+      "4": "なんか"
+    },
+    "front_options": [
+      "① に",
+      "② だけ",
+      "3 まで",
+      "4 なんか"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "に",
+    "corrected_num": 4,
+    "corrected_text": "なんか",
+    "hint": ", 4",
+    "image": "image_import_827171d708a5_slide_0081.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899200988,
+      "answer_text": "なんか",
+      "explanation": "Trợ từ 「なんか」 được dùng để đưa ra một ví dụ hoặc gợi ý một cách nhẹ nhàng, thân mật, đôi khi có chút hàm ý \"như là\", \"chẳng hạn như\". Trong ngữ cảnh này, A gợi ý \"udon nóng chẳng hạn thì sao?\" để ăn trưa. Các trợ từ khác như 「に」, 「だけ」, 「まで」 không phù hợp để đưa ra gợi ý một cách thân mật như vậy.",
+      "grammar_point": "〜なんか",
+      "grammar_note": "「〜なんか」 được dùng để đưa ra một ví dụ hoặc gợi ý một cách thân mật, đôi khi mang sắc thái coi nhẹ hoặc không quá quan trọng."
+    }
+  },
+  {
+    "note_id": 1779899201543,
+    "type": "m1",
+    "question": "380 私は両親の誕生日にいつも手紙を書く。手紙()、普段は恥ずかしくて なかなか言えない感謝の気持ちを伝えられるからだ。",
+    "options": {
+      "1": "でなら",
+      "2": "になら",
+      "3": "でしか",
+      "4": "にしか"
+    },
+    "front_options": [
+      "① でなら",
+      "② になら",
+      "3 でしか",
+      "4 にしか"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "にしか",
+    "corrected_num": 1,
+    "corrected_text": "でなら",
+    "hint": ", 1",
+    "image": "image_import_6185bcfaa9d1_slide_0082.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899201543,
+      "answer_text": "でなら",
+      "explanation": "Trong câu này, người nói muốn diễn tả rằng chỉ khi dùng thư thì mới có thể bày tỏ cảm xúc. 「で」 chỉ phương tiện, và 「なら」 tạo điều kiện giả định, nên 「手紙でなら」 có nghĩa là \"nếu là bằng thư thì...\". Các lựa chọn khác không phù hợp vì 「に」 không dùng để chỉ phương tiện, và 「〜しか」 thường đi kèm với thể phủ định ở cuối câu.",
+      "grammar_point": "Nでなら",
+      "grammar_note": "「Nでなら」 dùng để chỉ ra một điều kiện đặc biệt hoặc một phương tiện cụ thể mà qua đó một hành động hoặc trạng thái có thể thực hiện được."
+    }
+  },
+  {
+    "note_id": 1779899202648,
+    "type": "m1",
+    "question": "382 先週、登山をした。暑い日だったが、登っていく()風が冷たくなって、 とても気持ちがよかった。",
+    "options": {
+      "1": "とすると",
+      "2": "のと比べると",
+      "3": "にしたがって",
+      "4": "に対して"
+    },
+    "front_options": [
+      "① とすると",
+      "② のと比べると",
+      "3 にしたがって",
+      "4 に対して"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "với",
+    "corrected_num": 3,
+    "corrected_text": "にしたがって",
+    "hint": ", chọn 3",
+    "image": "image_import_c6cf321ebc50_slide_0084.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899202648,
+      "answer_text": "にしたがって",
+      "explanation": "Cấu trúc 「〜にしたがって」 diễn tả sự thay đổi đồng thời của hai sự việc: \"càng... càng...\". Trong trường hợp này, \"càng leo lên cao thì gió càng lạnh\". Các lựa chọn khác như 「とすると」 (nếu giả sử), 「のと比べると」 (so với) và 「に対して」 (đối với/ngược lại) không phù hợp để diễn tả mối quan hệ thay đổi tuyến tính này.",
+      "grammar_point": "Vる/Nにしたがって",
+      "grammar_note": "「〜にしたがって」 dùng để diễn tả rằng khi một sự việc thay đổi, một sự việc khác cũng thay đổi theo."
+    }
+  },
+  {
+    "note_id": 1779899206427,
+    "type": "m1",
+    "question": "389 父は、出張に行くと、母と私に必ずお土産を()。",
+    "options": {
+      "1": "買ってきてあげる",
+      "2": "買っていってあげる",
+      "3": "買ってきてくれる",
+      "4": "買っていってくれる"
+    },
+    "front_options": [
+      "① 買ってきてあげる",
+      "② 買っていってあげる",
+      "③ 買ってきてくれる",
+      "④ 買っていってくれる"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "買っていってくれる",
+    "corrected_num": 3,
+    "corrected_text": "買ってきてくれる",
+    "hint": ", chọn 3",
+    "image": "image_import_18a04e97fa52_slide_0091.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899206427,
+      "answer_text": "買ってきてくれる",
+      "explanation": "Câu này diễn tả hành động bố (người khác) mua quà (買って) và mang về (きて) cho mẹ và tôi (người nói và người thân của người nói). 「〜てくれる」 được dùng khi người khác làm gì đó cho mình hoặc người thân của mình. 「〜てあげる」 dùng khi làm cho người khác (không phải người nói), và 「〜ていく」 chỉ hành động rời xa người nói, không phải \"mang về\".",
+      "grammar_point": "Vてくれる",
+      "grammar_note": "「Vてくれる」 dùng để diễn tả hành động mà người khác làm cho người nói hoặc người thân của người nói, thể hiện sự biết ơn hoặc lợi ích nhận được."
+    }
+  },
+  {
+    "note_id": 1779875653175,
+    "type": "m1",
+    "question": "12 (家で) 娘「ちょっと駅前の本屋に行ってくるね。」 父「雨が降っているし、車で（ ）？」 娘「いいの？ありがとう。」",
+    "options": {
+      "1": "送ってこない",
+      "2": "送ってこようか",
+      "3": "送ってあげない",
+      "4": "送ってあげようか"
+    },
+    "front_options": [
+      "① 送ってこない",
+      "② 送ってこようか",
+      "③ 送ってあげない",
+      "④ 送ってあげようか"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "送ってこようか",
+    "corrected_num": 4,
+    "corrected_text": "送ってあげようか",
+    "hint": "4",
+    "image": "image_import_73e6406c8935_slide_0011.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875653175,
+      "answer_text": "送ってあげようか",
+      "explanation": "Người bố đề nghị đưa con gái đi bằng xe hơi. 「〜てあげようか」 là cách tự nhiên để đề nghị làm gì đó cho người khác, thể hiện ý muốn giúp đỡ. Các lựa chọn khác như 「送ってこない」 hoặc 「送ってあげない」 là dạng phủ định hoặc câu hỏi phủ định không phù hợp với ngữ cảnh đề nghị giúp đỡ. 「送ってこようか」 không phù hợp vì 「送る」 (đưa đi) thường không đi với 「〜てくる」 khi đưa người khác ra khỏi vị trí hiện tại.",
+      "grammar_point": "Vてあげようか",
+      "grammar_note": "「Vてあげようか」 là một cách lịch sự để đề nghị làm gì đó cho người khác, thể hiện sự quan tâm và sẵn lòng giúp đỡ."
+    }
+  },
+  {
+    "note_id": 1779875661327,
+    "type": "m1",
+    "question": "27 この辺りは古いお寺や神社が多く、外国 ( ) 観光客にも人気がある。",
+    "options": {
+      "1": "で",
+      "2": "の",
+      "3": "から",
+      "4": "からの"
+    },
+    "front_options": [
+      "① で",
+      "② の",
+      "③ から",
+      "④ からの"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "の",
+    "corrected_num": 4,
+    "corrected_text": "からの",
+    "hint": "4 danh từ đi với danh từ",
+    "image": "image_import_f3c4ac2b2860_slide_0026.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875661327,
+      "answer_text": "からの",
+      "explanation": "「からの」 được dùng để chỉ nguồn gốc, xuất xứ của danh từ đứng sau nó. Ở đây, 「外国からの観光客」 có nghĩa là \"du khách đến từ nước ngoài\". Các lựa chọn khác như 「で」 (chỉ phương tiện/địa điểm), 「の」 (chỉ sở hữu/mối quan hệ chung) hoặc 「から」 (thường đi với động từ hoặc cuối câu) không diễn tả chính xác nguồn gốc của danh từ theo cách này.",
+      "grammar_point": "NからのN",
+      "grammar_note": "「NからのN」 dùng để chỉ rõ nguồn gốc, xuất xứ hoặc điểm khởi đầu của danh từ thứ hai."
+    }
+  },
+  {
+    "note_id": 1779875678485,
+    "type": "m1",
+    "question": "59 歯医者「歯を（）寝てしまうと、虫歯になりやすくなります。 寝る前にきちんと磨くようにしてください。」",
+    "options": {
+      "1": "磨いて",
+      "2": "磨かずに",
+      "3": "磨くたび",
+      "4": "磨かなくて"
+    },
+    "front_options": [],
+    "gemini_num": 1,
+    "gemini_text": "磨いて",
+    "corrected_num": 2,
+    "corrected_text": "磨かずに",
+    "hint": ", 2",
+    "image": "image_import_7de02574c58d_slide_0058.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875678485,
+      "answer_text": "磨かずに",
+      "explanation": "Nha sĩ đang cảnh báo rằng nếu \"không đánh răng mà đi ngủ\" thì sẽ dễ bị sâu răng. Cấu trúc 「〜ずに」 (dạng phủ định của động từ + に) có nghĩa là \"không làm V1 mà làm V2\". 「磨かずに寝てしまう」 hoàn toàn phù hợp với ngữ cảnh này. Các lựa chọn khác như 「磨いて」 (đánh răng rồi), 「磨くたび」 (mỗi khi đánh răng) hoặc 「磨かなくて」 (không đánh răng và) không truyền tải đúng ý nghĩa cảnh báo.",
+      "grammar_point": "Vずに",
+      "grammar_note": "「Vずに」 là một cách diễn đạt phủ định, có nghĩa là \"không làm V mà làm V khác\", thường dùng trong văn viết hoặc tình huống trang trọng hơn 「Vないで」."
+    }
+  },
+  {
+    "note_id": 1779875681179,
+    "type": "m1",
+    "question": "64 私は美術館が好きで、今までいろいろな美術館に行った。国内の美術館が多いが、海外の美術館に（ ）。",
+    "options": {
+      "1": "行ったこともある",
+      "2": "行ったことはない",
+      "3": "行くこともできる",
+      "4": "行くこともできない"
+    },
+    "front_options": [
+      "① 行ったこともある",
+      "② 行ったことはない",
+      "③ 行くこともできる",
+      "④ 行くこともできない"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "行ったこともある",
+    "corrected_num": 2,
+    "corrected_text": "行ったことはない",
+    "hint": ", 2",
+    "image": "image_import_dbdf6bb39c09_slide_0063.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875681179,
+      "answer_text": "行ったことはない",
+      "explanation": "Câu trước nói rằng người nói đã đi nhiều bảo tàng trong nước. Trợ từ 「が」ở giữa câu biểu thị sự đối lập, vì vậy câu sau cần diễn tả điều ngược lại. 「行ったことはない」 (chưa từng đi) tạo ra sự đối lập rõ ràng với việc đã đi nhiều bảo tàng trong nước, cho thấy người nói chưa từng đi bảo tàng ở nước ngoài. Các lựa chọn khác không phù hợp với ngữ cảnh đối lập này.",
+      "grammar_point": "Vたことはない",
+      "grammar_note": "Cấu trúc 「Vたことはない」dùng để diễn tả kinh nghiệm chưa từng làm một việc gì đó trong quá khứ."
+    }
+  },
+  {
+    "note_id": 1779875690449,
+    "type": "m1",
+    "question": "81 (電話で) 店長「木下さん、急で申し訳ないんですけど、明日出勤することはできますか。」 木下「午後（ ）行けますが、それでも大丈夫ですか。」 店長「ありがとうございます。お願いします。」",
+    "options": {
+      "1": "でなら",
+      "2": "からなら",
+      "3": "へでも",
+      "4": "まででも"
+    },
+    "front_options": [
+      "① でなら",
+      "② からなら",
+      "③ へでも",
+      "④ まででも"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "でなら",
+    "corrected_num": 2,
+    "corrected_text": "からなら",
+    "hint": ", 2",
+    "image": "image_import_40aaf3c595b1_slide_0080.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875690449,
+      "answer_text": "からなら",
+      "explanation": "Kinoshita đang trả lời về khả năng đi làm, và 「午後」là một mốc thời gian. 「からなら」có nghĩa là 'nếu là từ (thời điểm/địa điểm) đó trở đi', rất phù hợp để diễn tả rằng anh ấy có thể đi làm bắt đầu từ buổi chiều. Các lựa chọn khác như 「でなら」 (nếu là bằng/ở), 「へでも」 (thậm chí đến), hay 「まででも」 (thậm chí cho đến) không diễn tả đúng ý 'từ thời điểm đó'.",
+      "grammar_point": "Nからなら",
+      "grammar_note": "Cấu trúc 「Nからなら」dùng để chỉ một điều kiện hoặc giới hạn bắt đầu từ một thời điểm hoặc địa điểm cụ thể."
+    }
+  },
+  {
+    "note_id": 1779875695425,
+    "type": "m1",
+    "question": "90 この花は、より乾いたら水をやる必要があるが、( )。水が多いと根が腐ってしまう。",
+    "options": {
+      "1": "やりすぎるのもよくない",
+      "2": "やらなくていいのがいい",
+      "3": "やってやるのもよくない",
+      "4": "やらないでおくのがいい"
+    },
+    "front_options": [
+      "① やりすぎるのもよくない",
+      "② やらなくていいのがいい",
+      "③ やってやるのもよくない",
+      "④ やらないでおくのがいい"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "やらないでおくのがいい",
+    "corrected_num": 1,
+    "corrected_text": "やりすぎるのもよくない",
+    "hint": ", 1",
+    "image": "image_import_d8ba7776b447_slide_0089.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875695425,
+      "answer_text": "やりすぎるのもよくない",
+      "explanation": "Câu trước nói rằng cần tưới nước khi hoa khô, nhưng câu sau lại cảnh báo rằng 'nếu nhiều nước thì rễ sẽ bị thối'. Điều này cho thấy việc tưới quá nhiều nước là không tốt. 「やりすぎるのもよくない」 (việc tưới quá nhiều cũng không tốt) diễn tả chính xác ý này. Các lựa chọn khác không phù hợp với ngữ cảnh cảnh báo về việc tưới quá mức.",
+      "grammar_point": "V-すぎる",
+      "grammar_note": "Cấu trúc 「V-すぎる」dùng để diễn tả việc làm gì đó quá mức, vượt quá giới hạn cần thiết hoặc hợp lý."
+    }
+  },
+  {
+    "note_id": 1779875698598,
+    "type": "m1",
+    "question": "92 両親に買ってもらった着物（）大学の卒業式に出席した。",
+    "options": {
+      "1": "を",
+      "2": "が",
+      "3": "で",
+      "4": "に"
+    },
+    "front_options": [
+      "① を",
+      "③ で",
+      "② が",
+      "④ に"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "に",
+    "corrected_num": 3,
+    "corrected_text": "で",
+    "hint": ", 3",
+    "image": "image_import_20caacdc284e_slide_0091.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875698598,
+      "answer_text": "で",
+      "explanation": "Trong câu này, 「着物」là phương tiện hoặc trang phục mà người nói đã sử dụng để tham dự lễ tốt nghiệp. Trợ từ 「で」được dùng để chỉ phương tiện, công cụ hoặc cách thức thực hiện hành động. Do đó, 「着物で出席した」có nghĩa là 'đã tham dự (buổi lễ) bằng cách mặc kimono'. Các trợ từ khác không phù hợp để diễn tả phương tiện trong ngữ cảnh này.",
+      "grammar_point": "Nで (phương tiện/cách thức)",
+      "grammar_note": "Trợ từ 「で」được dùng để chỉ phương tiện, công cụ, hoặc cách thức thực hiện hành động."
+    }
+  },
+  {
+    "note_id": 1779875700782,
+    "type": "m1",
+    "question": "96 この図書館は、入口の近くに、返す本を入れるためのブックポストがあり、図書館が閉まっている（）本を返すことができる。",
+    "options": {
+      "1": "ときでも",
+      "2": "まで",
+      "3": "間だから",
+      "4": "ところなら"
+    },
+    "front_options": [
+      "① ときでも",
+      "② まで",
+      "③ 間だから",
+      "④ ところなら"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "まで",
+    "corrected_num": 1,
+    "corrected_text": "ときでも",
+    "hint": ", 1",
+    "image": "image_import_e64d8aa51298_slide_0095.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875700782,
+      "answer_text": "ときでも",
+      "explanation": "Câu này nói về việc thư viện có một thùng trả sách (bookpost) gần lối vào. Điều này cho phép người dùng trả sách ngay cả khi thư viện không mở cửa. 「閉まっているときでも」 (ngay cả khi đang đóng cửa) là cách diễn đạt chính xác nhất cho ý 'có thể trả sách bất kể thời gian thư viện đóng cửa'. Các lựa chọn khác không phù hợp để diễn tả điều kiện 'ngay cả khi'.",
+      "grammar_point": "N/Vる/Vているときでも",
+      "grammar_note": "Cấu trúc 「〜ときでも」dùng để diễn tả một hành động có thể thực hiện được ngay cả trong một tình huống hoặc thời điểm cụ thể."
+    }
+  },
+  {
+    "note_id": 1779875701326,
+    "type": "m1",
+    "question": "B「わあ、本当だ。（ ）きれいなんだろう。」",
+    "options": {
+      "1": "ときでも",
+      "2": "なんか",
+      "3": "なんて",
+      "4": "なんでも"
+    },
+    "front_options": [
+      "97 A「今夜は晴れているから星がよく見えるよ。」",
+      "① ときでも",
+      "② なんか",
+      "③ なんて",
+      "④ なんでも"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "なんか",
+    "corrected_num": 3,
+    "corrected_text": "なんて",
+    "hint": ", 3 do có darou",
+    "image": "image_import_5c6147483316_slide_0096.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875701326,
+      "answer_text": "なんて",
+      "explanation": "Câu này là một câu cảm thán, biểu lộ sự ngạc nhiên hoặc ngưỡng mộ về vẻ đẹp. 「なんて」được dùng để nhấn mạnh cảm xúc mạnh mẽ như 'thật là...!', 'biết bao...!'. Kết hợp với 「だろう」ở cuối câu, nó tạo thành một câu cảm thán hoàn chỉnh: 「なんてきれいなんだろう」 (Thật là đẹp biết bao!). Các lựa chọn khác không có chức năng cảm thán tương tự.",
+      "grammar_point": "なんて (cảm thán)",
+      "grammar_note": "「なんて」được dùng để biểu lộ cảm xúc mạnh mẽ như ngạc nhiên, ngưỡng mộ, hoặc khinh miệt về một điều gì đó."
+    }
+  },
+  {
+    "note_id": 1779875702431,
+    "type": "m1",
+    "question": "99 夏は食べ物が悪く（ ）ので、注意してください。",
+    "options": {
+      "1": "なりにくい",
+      "2": "しやすい",
+      "3": "しにくい",
+      "4": "なりやすい"
+    },
+    "front_options": [
+      "① なりにくい",
+      "② しやすい",
+      "③ しにくい",
+      "④ なりやすい"
+    ],
+    "gemini_num": 3,
+    "gemini_text": "しにくい",
+    "corrected_num": 2,
+    "corrected_text": "しやすい",
+    "hint": ", loại 2 3, chọn 4",
+    "image": "image_import_3a556811d805_slide_0098.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779875702431,
+      "answer_text": "しやすい",
+      "explanation": "Cấu trúc V-やすい diễn tả một hành động hoặc trạng thái dễ xảy ra. Trong câu này, \"悪くしやすい\" có thể được hiểu là thức ăn dễ dàng \"thực hiện hành động trở nên tệ\" hoặc \"dễ bị tác động làm cho tệ\" trong mùa hè, do đó cần chú ý. Các lựa chọn \"なりにくい\" và \"しにくい\" mang nghĩa ngược lại, không phù hợp với việc cần cẩn thận. Mặc dù \"なりやすい\" (dễ trở nên tệ) là cách diễn đạt tự nhiên hơn cho \"悪くなる\", nhưng theo đáp án đã cho, \"しやすい\" là lựa chọn đúng.",
+      "grammar_point": "V-やすい",
+      "grammar_note": "V-やすい được gắn vào thể ます của động từ để diễn tả sự dễ dàng của hành động hoặc xu hướng xảy ra của trạng thái."
+    }
+  },
+  {
+    "note_id": 1779899193393,
+    "type": "m1",
+    "question": "365 先月東京で行われたサッカーの国際大会には、世界中()多くの サッカーファンが集まった。",
+    "options": {
+      "1": "に",
+      "2": "で",
+      "3": "から",
+      "4": "まで"
+    },
+    "front_options": [
+      "1 に",
+      "② で",
+      "3 から",
+      "4 まで"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "で",
+    "corrected_num": 3,
+    "corrected_text": "から",
+    "hint": ", 3",
+    "image": "image_import_99e544cd2f6c_slide_0067.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899193393,
+      "answer_text": "から",
+      "explanation": "Trợ từ \"から\" (từ) được dùng để chỉ điểm xuất phát hoặc nguồn gốc. Trong câu này, nó diễn tả rằng các fan bóng đá đã đến \"từ khắp nơi trên thế giới\" (世界中から). Các lựa chọn khác như \"に\" (đến, vào), \"で\" (tại, bằng) và \"まで\" (đến tận) không phù hợp để chỉ nguồn gốc của sự tập trung.",
+      "grammar_point": "助詞:から",
+      "grammar_note": "Trợ từ \"から\" dùng để chỉ điểm khởi đầu về không gian, thời gian hoặc nguồn gốc."
+    }
+  },
+  {
+    "note_id": 1779898630342,
+    "type": "m1",
+    "question": "131 高校時代の友達と会うと、楽しくて、いつも何時間（ ）おしゃべりしてしまう。",
+    "options": {
+      "1": "は",
+      "2": "も",
+      "3": "など",
+      "4": "、くらい"
+    },
+    "front_options": [
+      "① は",
+      "② も",
+      "③ など",
+      "④ 、くらい"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "くらい",
+    "corrected_num": 2,
+    "corrected_text": "も",
+    "hint": ", 2",
+    "image": "image_import_5723c6a5fafc_slide_0031.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898630342,
+      "answer_text": "も",
+      "explanation": "Trợ từ \"も\" (cũng, đến tận) được dùng sau một số lượng để nhấn mạnh sự nhiều, lớn hoặc bất ngờ của số lượng đó. Trong câu này, \"何時間も\" (đến mấy tiếng đồng hồ) nhấn mạnh việc nói chuyện kéo dài rất lâu. Các lựa chọn khác như \"は\" (thì, là), \"など\" (chẳng hạn) và \"くらい\" (khoảng) không mang ý nghĩa nhấn mạnh số lượng lớn như \"も\".",
+      "grammar_point": "助詞:も",
+      "grammar_note": "Trợ từ \"も\" khi đi sau một lượng từ (số đếm, từ nghi vấn + lượng từ) thường dùng để nhấn mạnh sự nhiều, lớn hoặc vượt quá mong đợi."
+    }
+  },
+  {
+    "note_id": 1779898630893,
+    "type": "m1",
+    "question": "132 このファッション雑誌は、20代前半の女性（ ）中心に人気がある。",
+    "options": {
+      "1": "に",
+      "2": "が",
+      "3": "は",
+      "4": "を"
+    },
+    "front_options": [
+      "① に",
+      "③ は",
+      "② が",
+      "④ を"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "が",
+    "corrected_num": 4,
+    "corrected_text": "を",
+    "hint": ", 4",
+    "image": "image_import_26a9958a7670_slide_0032.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898630893,
+      "answer_text": "を",
+      "explanation": "Cấu trúc \"N を中心に\" (tập trung vào N) được dùng để chỉ đối tượng hoặc phạm vi chính mà một hoạt động, sự kiện hay sự vật hướng tới. Ở đây, tạp chí này được yêu thích \"tập trung vào\" những phụ nữ ở độ tuổi 20 đầu. Các trợ từ khác không tạo thành cấu trúc này.",
+      "grammar_point": "Nを中心に",
+      "grammar_note": "Cấu trúc \"Nを中心に\" có nghĩa là \"lấy N làm trung tâm\", \"tập trung vào N\", thường dùng để chỉ đối tượng chính hoặc trọng tâm của một sự việc."
+    }
+  },
+  {
+    "note_id": 1779898633052,
+    "type": "m1",
+    "question": "136 社長はいつも、アルバイトの私たちにも出張のおみやげを（）。",
+    "options": {
+      "1": "ください",
+      "2": "いただきます",
+      "3": "さしあげます",
+      "4": "召し上がります"
+    },
+    "front_options": [
+      "① ください",
+      "② いただきます",
+      "③ さしあげます",
+      "④ 召し上がります"
+    ],
+    "gemini_num": 3,
+    "gemini_text": "さしあげます",
+    "corrected_num": 1,
+    "corrected_text": "ください",
+    "hint": ", 1",
+    "image": "image_import_78611571435c_slide_0036.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898633052,
+      "answer_text": "ください",
+      "explanation": "Câu này diễn tả hành động giám đốc (người cấp trên) tặng quà cho nhân viên (người cấp dưới). \"ください\" là dạng lịch sự của \"くださる\" (kính ngữ của くれる), dùng khi người cấp trên tặng cho người cấp dưới hoặc người thân của người nói. Các lựa chọn khác như \"いただきます\" (nhận), \"さしあげます\" (tặng cho người trên) và \"召し上がります\" (ăn, kính ngữ) đều không phù hợp với ngữ cảnh này.",
+      "grammar_point": "敬語:くださる (ください)",
+      "grammar_note": "\"くださる\" là kính ngữ của \"くれる\", dùng khi người cấp trên hoặc người có địa vị cao hơn tặng cho người cấp dưới hoặc người thân của người nói; \"ください\" là dạng mệnh lệnh lịch sự hoặc đôi khi được dùng như một dạng rút gọn của \"くださいます\" trong một số ngữ cảnh."
+    }
+  },
+  {
+    "note_id": 1779898636339,
+    "type": "m1",
+    "question": "142 田中「私、テニスを習うことにしたんだ。 山下さんはテニスできる？」 山下「うん。昔ちょっとだけテニスクラブに（）。」",
+    "options": {
+      "1": "入ったままなんだ",
+      "2": "入ったばかりなんだ",
+      "3": "入っていたことがあるんだ",
+      "4": "入っているところだったんだ"
+    },
+    "front_options": [
+      "① 入ったままなんだ",
+      "② 入ったばかりなんだ",
+      "③ 入っていたことがあるんだ",
+      "④ 入っているところだったんだ"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "入ったばかりなんだ",
+    "corrected_num": 3,
+    "corrected_text": "入っていたことがあるんだ",
+    "hint": ", 3",
+    "image": "image_import_39ba91d1ab7b_slide_0042.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898636339,
+      "answer_text": "入っていたことがあるんだ",
+      "explanation": "Cấu trúc \"Vたことがある\" diễn tả kinh nghiệm đã từng làm gì đó trong quá khứ. Trong ngữ cảnh này, Yamashita nói rằng mình \"đã từng tham gia câu lạc bộ tennis một chút\" trong quá khứ, phù hợp với việc trả lời câu hỏi về khả năng chơi tennis. Các lựa chọn khác như \"入ったままなんだ\" (vẫn đang ở trong), \"入ったばかりなんだ\" (vừa mới vào) và \"入っているところだったんだ\" (đang định vào) đều không diễn tả kinh nghiệm đã từng làm trong quá khứ.",
+      "grammar_point": "Vたことがある",
+      "grammar_note": "Cấu trúc \"Vたことがある\" được dùng để diễn tả kinh nghiệm đã từng làm một hành động nào đó trong quá khứ."
+    }
+  },
+  {
+    "note_id": 1779898636872,
+    "type": "m1",
+    "question": "143 (本屋で) A「日本語の辞書だけでもいろいろな種類があるんだね。どれを買うか迷うなぁ。」 B「これがいいんじゃない？ ほかのより言葉の使い方 の例が多くて( )よ。」",
+    "options": {
+      "1": "使いすぎている",
+      "2": "使いすぎらしい",
+      "3": "使いやすそうだ",
+      "4": "使いやすくていい"
+    },
+    "front_options": [
+      "① 使いすぎている",
+      "② 使いすぎらしい",
+      "③ 使いやすそうだ",
+      "④ 使いやすくていい"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "使いやすくていい",
+    "corrected_num": 3,
+    "corrected_text": "使いやすそうだ",
+    "hint": ", 3",
+    "image": "image_import_3fce30c48bb4_slide_0043.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898636872,
+      "answer_text": "使いやすそうだ",
+      "explanation": "Trong ngữ cảnh này, người B đang gợi ý một cuốn từ điển và khen ngợi nó có nhiều ví dụ về cách dùng từ. 「使いやすそうだ」 (có vẻ dễ dùng) là lựa chọn phù hợp nhất để diễn tả sự suy đoán, nhận định về tính chất của cuốn từ điển dựa trên đặc điểm này. Các lựa chọn khác như 「使いすぎている」 và 「使いすぎらしい」 mang nghĩa tiêu cực, không phù hợp để khen ngợi.",
+      "grammar_point": "〜そうだ (様態)",
+      "grammar_note": "Cấu trúc 〜そうだ (様態) được dùng để diễn tả sự suy đoán, nhận định về trạng thái hoặc tính chất của sự vật, sự việc dựa trên những gì nhìn thấy hoặc cảm nhận được từ bên ngoài."
+    }
+  },
+  {
+    "note_id": 1779898637406,
+    "type": "m1",
+    "question": "144 昨日の夜はとても疲れていたので、夕飯の後、電気（ ） 消さないでソファで寝てしまった。",
+    "options": {
+      "1": "も",
+      "2": "と",
+      "3": "が",
+      "4": "で"
+    },
+    "front_options": [
+      "① も",
+      "② と",
+      "③ が",
+      "④ で"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "で",
+    "corrected_num": 1,
+    "corrected_text": "も",
+    "hint": ", 1",
+    "image": "image_import_3b3fed682783_slide_0044.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898637406,
+      "answer_text": "も",
+      "explanation": "Trợ từ 「も」 được dùng để nhấn mạnh ý \"ngay cả\", \"cũng\". Trong câu này, nó diễn tả việc người nói mệt đến mức \"ngay cả đèn cũng không tắt\" mà ngủ quên, thể hiện sự quên lãng do quá mệt mỏi. Các trợ từ khác như 「と」, 「が」, 「で」 không phù hợp với ngữ cảnh nhấn mạnh này.",
+      "grammar_point": "助詞: も",
+      "grammar_note": "Trợ từ 「も」 được dùng để chỉ sự bao hàm, bổ sung hoặc nhấn mạnh ý \"ngay cả\", \"cũng\", thường đi kèm với một điều gì đó đáng lẽ phải làm hoặc một sự việc bất ngờ."
+    }
+  },
+  {
+    "note_id": 1779898641226,
+    "type": "m1",
+    "question": "151 レストランで) 店員「いらっしゃいませ。2名様ですか。」 客「はい。」 店員「こちらへどうぞ。お席にご案内( )。」",
+    "options": {
+      "1": "いたします",
+      "2": "なさいます",
+      "3": "うかがいます",
+      "4": "いらっしゃいます"
+    },
+    "front_options": [
+      "① いたします",
+      "② なさいます",
+      "③ うかがいます",
+      "④ いらっしゃいます"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "いらっしゃいます",
+    "corrected_num": 1,
+    "corrected_text": "いたします",
+    "hint": ", 1",
+    "image": "image_import_0af35b1bc894_slide_0051.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898641226,
+      "answer_text": "いたします",
+      "explanation": "Người phục vụ đang nói về hành động của chính mình (dẫn khách đến chỗ ngồi). 「ご案内いたします」 là thể khiêm nhường (謙譲語) của 「ご案内します」, thể hiện sự tôn trọng đối với khách hàng. Các lựa chọn khác như 「なさいます」 và 「いらっしゃいます」 là thể tôn kính (尊敬語), dùng cho hành động của người khác (khách hàng), còn 「うかがいます」 là khiêm nhường nhưng không phù hợp với động từ 「案内する」.",
+      "grammar_point": "謙譲語: 〜いたします",
+      "grammar_note": "Cấu trúc 「〜いたします」 là thể khiêm nhường của 「〜します」, được dùng để diễn tả hành động của người nói một cách khiêm tốn, thể hiện sự tôn trọng đối với người nghe hoặc người được nhắc đến."
+    }
+  },
+  {
+    "note_id": 1779898642285,
+    "type": "m1",
+    "question": "153 (さくらホテルのホームページで)さくらホテルの会員に( )、「ホームページからのお申し込み」、または、「郵送でのお申し込み」 の二つの方法があります。",
+    "options": {
+      "1": "なるには",
+      "2": "するととは",
+      "3": "なるかどうかは",
+      "4": "することは"
+    },
+    "front_options": [
+      "① なるには",
+      "② するととは",
+      "③ なるかどうかは",
+      "④ することは"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "することは",
+    "corrected_num": 1,
+    "corrected_text": "なるには",
+    "hint": ", 1",
+    "image": "image_import_be97ffe80427_slide_0053.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898642285,
+      "answer_text": "なるには",
+      "explanation": "Câu này đang nói về \"hai phương pháp\" để \"trở thành thành viên\". Cấu trúc 「〜には」 (để làm gì đó) là phù hợp nhất để diễn tả mục đích. Do đó, 「会員になるには」 có nghĩa là \"để trở thành thành viên\", dẫn dắt đến việc liệt kê các phương pháp. Các lựa chọn khác không diễn tả mục đích một cách rõ ràng hoặc không phải là cấu trúc ngữ pháp đúng.",
+      "grammar_point": "〜には (目的)",
+      "grammar_note": "Cấu trúc 「〜には」 được dùng để diễn tả mục đích hoặc điều kiện cần thiết để đạt được một kết quả nào đó."
+    }
+  },
+  {
+    "note_id": 1779898643902,
+    "type": "m1",
+    "question": "156 (会社で) 青木「南さん、今日はもうお帰りですか。」 南「ええ、これから子供を保育園に迎えに（）。お先に失礼します。」。",
+    "options": {
+      "1": "行っているところなんです",
+      "2": "行っているところですね",
+      "3": "行かなければならないんです",
+      "4": "行かなければならないですね"
+    },
+    "front_options": [
+      "① 行っているところなんです",
+      "② 行っているところですね",
+      "③ 行かなければならないんです",
+      "④ 行かなければならないですね"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "行かなければならないですね",
+    "corrected_num": 3,
+    "corrected_text": "行かなければならないんです",
+    "hint": ", 3",
+    "image": "image_import_56dfe32ae925_slide_0056.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898643902,
+      "answer_text": "行かなければならないんです",
+      "explanation": "Minami đang giải thích lý do mình phải về sớm (phải đi đón con ở nhà trẻ). Cấu trúc 「〜なければならない」 diễn tả sự bắt buộc, cần thiết phải làm gì đó, và khi kết hợp với 「んです」, nó dùng để giải thích lý do một cách tự nhiên. Các lựa chọn khác không phù hợp vì 「行っているところ」 diễn tả hành động đang diễn ra, không phải lý do cho việc về sớm, và 「ですね」 không mang sắc thái giải thích lý do mạnh mẽ như 「んです」.",
+      "grammar_point": "〜なければならない + んです",
+      "grammar_note": "Cấu trúc 「〜なければならない」 diễn tả sự bắt buộc hoặc cần thiết phải làm gì đó, và khi kết hợp với 「んです」, nó dùng để giải thích lý do hoặc bối cảnh cho một hành động hoặc tình huống."
+    }
+  },
+  {
+    "note_id": 1779898647120,
+    "type": "m1",
+    "question": "162 自分の会社をつくったと言うとよく驚かれるが、会社をつくることは必ずし も( )。",
+    "options": {
+      "1": "難しいに違いない",
+      "2": "難しいはずがない",
+      "3": "難しいことではない",
+      "4": "難しいかもしれない"
+    },
+    "front_options": [
+      "① 難しいに違いない",
+      "② 難しいはずがない",
+      "③ 難しいことではない",
+      "④ 難しいかもしれない"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "難しいかもしれない",
+    "corrected_num": 3,
+    "corrected_text": "難しいことではない",
+    "hint": ", 3",
+    "image": "image_import_debe7e976679_slide_0062.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898647120,
+      "answer_text": "難しいことではない",
+      "explanation": "Câu này sử dụng cấu trúc phủ định một phần 「必ずしも〜ない」, có nghĩa là \"không nhất thiết là...\" hoặc \"không hẳn là...\". Kết hợp với 「難しいことではない」 (không phải là điều khó), câu sẽ thành \"việc thành lập công ty không nhất thiết là điều khó\", phù hợp với ngữ cảnh đính chính lại suy nghĩ của nhiều người. Các lựa chọn khác không phù hợp với ý nghĩa của 「必ずしも〜ない」.",
+      "grammar_point": "必ずしも〜ない",
+      "grammar_note": "Cấu trúc 「必ずしも〜ない」 được dùng để diễn tả sự phủ định một phần, có nghĩa là \"không nhất thiết là...\", \"không hẳn là...\", cho thấy một điều gì đó không phải lúc nào cũng đúng hoặc không phải là tuyệt đối."
+    }
+  },
+  {
+    "note_id": 1779898647655,
+    "type": "m1",
+    "question": "163 (レストランで) 客「ランチセットを一つお願いします。」 店員「AセットとBセットのどちらに（ ）か。」 客「あ、Aセットをお願いします。」。",
+    "options": {
+      "1": "食べられます",
+      "2": "差し上げます",
+      "3": "なさいます",
+      "4": "ございます"
+    },
+    "front_options": [
+      "① 食べられます",
+      "② 差し上げます",
+      "③ なさいます",
+      "④ ございます"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "ございます",
+    "corrected_num": 3,
+    "corrected_text": "なさいます",
+    "hint": ", 3",
+    "image": "image_import_b1016b59545c_slide_0063.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898647655,
+      "answer_text": "なさいます",
+      "explanation": "「なさいます」 là kính ngữ của động từ 「する」, được dùng khi người nói hỏi hành động của người nghe một cách tôn kính. Trong ngữ cảnh này, nhân viên nhà hàng hỏi khách hàng muốn chọn set nào, nên việc sử dụng kính ngữ là phù hợp nhất. Các lựa chọn khác không phải là kính ngữ phù hợp cho hành động \"chọn\" hoặc \"làm\" của khách hàng.",
+      "grammar_point": "尊敬語: なさいます",
+      "grammar_note": "「なさいます」 là kính ngữ của 「する」, dùng để thể hiện sự tôn kính đối với hành động của người khác, đặc biệt là người có địa vị cao hơn hoặc khách hàng."
+    }
+  },
+  {
+    "note_id": 1779898650325,
+    "type": "m1",
+    "question": "168 (公園で) 田村「この木は本当に大きいですね。」 林「そうですね。ここまで( )20年ぐらいかかったそうですよ。」",
+    "options": {
+      "1": "大きくなるのに",
+      "2": "大きいようだし",
+      "3": "大きくできて",
+      "4": "大きいほうがよければ"
+    },
+    "front_options": [
+      "① 大きくなるのに",
+      "② 大きいようだし",
+      "③ 大きくできて",
+      "④ 大きいほうがよければ"
+    ],
+    "gemini_num": 3,
+    "gemini_text": "大きくできて",
+    "corrected_num": 1,
+    "corrected_text": "大きくなるのに",
+    "hint": ", 1",
+    "image": "image_import_431383b59aee_slide_0068.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898650325,
+      "answer_text": "大きくなるのに",
+      "explanation": "Cấu trúc 「〜のに」 sau động từ thể nguyên dạng (hoặc tính từ) được dùng để chỉ mục đích hoặc thời gian, công sức cần thiết để đạt được một trạng thái hay hoàn thành một việc gì đó. Ở đây, nó diễn tả thời gian cần thiết để cái cây \"trở nên lớn như thế này\". Các lựa chọn khác không phù hợp về mặt ngữ pháp hoặc ý nghĩa trong ngữ cảnh này.",
+      "grammar_point": "〜のに",
+      "grammar_note": "「〜のに」 được dùng để chỉ mục đích, công dụng, hoặc thời gian/công sức cần thiết để thực hiện một hành động hoặc đạt được một trạng thái."
+    }
+  },
+  {
+    "note_id": 1779898650855,
+    "type": "m1",
+    "question": "169 医者「この薬をね、3時間、1日3回飲んでください。」 患者「わかりました。痛みがないときも、（）。」 医者「はい。必ず飲んでください。」。",
+    "options": {
+      "1": "飲まないほうがよさそうですね",
+      "2": "飲まないといけないでしょうか",
+      "3": "飲まなくてもよかったですね",
+      "4": "飲まなくてもいいんですよね"
+    },
+    "front_options": [
+      "① 飲まないほうがよさそうですね",
+      "② 飲まないといけないでしょうか",
+      "③ 飲まなくてもよかったですね",
+      "④ 飲まなくてもいいんですよね"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "飲まなくてもいいんですよね",
+    "corrected_num": 2,
+    "corrected_text": "飲まないといけないでしょうか",
+    "hint": ", 2",
+    "image": "image_import_89313a9f02f9_slide_0069.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898650855,
+      "answer_text": "飲まないといけないでしょうか",
+      "explanation": "Bệnh nhân đang hỏi để xác nhận liệu có cần phải uống thuốc ngay cả khi không đau hay không. Cấu trúc 「〜ないといけない」 (phải làm gì) kết hợp với 「〜でしょうか」 (cách hỏi lịch sự) thể hiện đúng ý nghĩa này. Câu trả lời của bác sĩ \"はい。必ず飲んでください。\" xác nhận rằng bệnh nhân phải uống thuốc, phù hợp với câu hỏi này. Các lựa chọn khác đều mang ý nghĩa không cần uống hoặc không nên uống, trái ngược với lời dặn của bác sĩ.",
+      "grammar_point": "〜ないといけない",
+      "grammar_note": "「〜ないといけない」 (hoặc 「〜なければならない」, 「〜なくてはいけない」) diễn tả sự bắt buộc, \"phải làm gì đó\"."
+    }
+  },
+  {
+    "note_id": 1779898651917,
+    "type": "m1",
+    "question": "171 (お知らせで) 東側の駐車場は現在工事中の（ ）、南側の駐車場をご利用ください。",
+    "options": {
+      "1": "ほか",
+      "2": "ため",
+      "3": "途中",
+      "4": "一方"
+    },
+    "front_options": [
+      "① ほか",
+      "② ため",
+      "③ 途中",
+      "④ 一方"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "一方",
+    "corrected_num": 2,
+    "corrected_text": "ため",
+    "hint": ", 2",
+    "image": "image_import_77fc60f0ffbd_slide_0071.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898651917,
+      "answer_text": "ため",
+      "explanation": "Cấu trúc 「〜ため」 (thường đi sau danh từ hoặc động từ/tính từ thể thường) được dùng để chỉ nguyên nhân, lý do. Trong ngữ cảnh này, bãi đỗ xe phía đông đang trong quá trình thi công là lý do để mọi người sử dụng bãi đỗ xe phía nam. Các lựa chọn khác không thể hiện mối quan hệ nguyên nhân-kết quả phù hợp.",
+      "grammar_point": "〜ため",
+      "grammar_note": "「〜ため」 được dùng để giải thích nguyên nhân hoặc lý do dẫn đến một kết quả nào đó, thường dùng trong văn viết hoặc các thông báo trang trọng."
+    }
+  },
+  {
+    "note_id": 1779898655697,
+    "type": "m1",
+    "question": "178 旅行の楽しみの一つは、そこ（ ）食べられない料理を食べるこだ。",
+    "options": {
+      "1": "でしか",
+      "2": "だけで",
+      "3": "にだけ",
+      "4": "での"
+    },
+    "front_options": [
+      "① でしか",
+      "③ にだけ",
+      "② だけで",
+      "④ での"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "だけで",
+    "corrected_num": 1,
+    "corrected_text": "でしか",
+    "hint": ", 1 (đã có nai thì loại đà kê)",
+    "image": "image_import_b50e741b6516_slide_0078.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898655697,
+      "answer_text": "でしか",
+      "explanation": "Cấu trúc 「〜でしか〜ない」 được dùng để diễn tả ý nghĩa \"chỉ có ở/tại nơi đó mới có thể làm được điều gì đó\" hoặc \"không thể làm được ở bất cứ đâu ngoài nơi đó\". Trong câu này, 「そこでしか食べられない料理」 có nghĩa là \"món ăn chỉ có thể ăn được ở đó (và không thể ăn được ở nơi khác)\", thể hiện sự độc đáo của món ăn. Các lựa chọn khác không tạo ra ý nghĩa độc quyền này khi kết hợp với thể phủ định 「食べられない」.",
+      "grammar_point": "〜でしか〜ない",
+      "grammar_note": "「〜でしか〜ない」 là một cấu trúc ngữ pháp dùng để nhấn mạnh sự độc quyền, rằng một hành động hoặc trạng thái chỉ tồn tại hoặc có thể xảy ra ở một địa điểm hoặc trong một điều kiện cụ thể nào đó."
+    }
+  },
+  {
+    "note_id": 1779898658959,
+    "type": "m1",
+    "question": "184 レストランで働き始めたころは毎日緊張していたが、仕事に慣れる( )、 笑顔でお客様と話せるようになってきた。",
+    "options": {
+      "1": "までに",
+      "2": "たびに",
+      "3": "のに対して",
+      "4": "したがって"
+    },
+    "front_options": [
+      "① までに",
+      "② たびに",
+      "③ のに対して",
+      "④ にしたがって"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "たびに",
+    "corrected_num": 4,
+    "corrected_text": "したがって",
+    "hint": ", 4 sau khi A thay đổi thì B thay đổi theo",
+    "image": "image_import_86a5563895b9_slide_0084.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898658959,
+      "answer_text": "したがって",
+      "explanation": "Cấu trúc 「〜にしたがって」 (hoặc 「〜につれて」) được dùng để diễn tả sự thay đổi đồng thời hoặc sự phát triển song song: khi một điều kiện hoặc trạng thái thay đổi, một điều kiện hoặc trạng thái khác cũng thay đổi theo. Trong câu này, khi người nói dần quen với công việc, họ cũng dần có thể nói chuyện với khách hàng một cách vui vẻ. Các lựa chọn khác không thể hiện mối quan hệ thay đổi đồng thời này.",
+      "grammar_point": "〜にしたがって",
+      "grammar_note": "「〜にしたがって」 diễn tả rằng khi một sự việc hoặc trạng thái thay đổi, một sự việc hoặc trạng thái khác cũng thay đổi theo một cách tương ứng hoặc song song."
+    }
+  },
+  {
+    "note_id": 1779898662774,
+    "type": "m1",
+    "question": "191 先週からうちの庭によく同じ猫が来る。今日（ ）朝と夕方の2回見た。",
+    "options": {
+      "1": "だけでも",
+      "2": "までは",
+      "3": "だけ",
+      "4": "までで"
+    },
+    "front_options": [
+      "① だけでも",
+      "② まで",
+      "③ だけ",
+      "④ までで"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "までで",
+    "corrected_num": 1,
+    "corrected_text": "だけでも",
+    "hint": ", 1",
+    "image": "image_import_8694786c7626_slide_0091.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898662774,
+      "answer_text": "だけでも",
+      "explanation": "Cấu trúc 「〜だけでも」 diễn tả ý \"chỉ riêng cái đó thôi cũng đã...\", \"ít nhất là...\". Trong ngữ cảnh này, việc \"chỉ riêng hôm nay thôi cũng đã nhìn thấy 2 lần\" nhấn mạnh sự thường xuyên của việc con mèo đến. Các lựa chọn khác như 「〜までは」 (cho đến), 「〜だけ」 (chỉ, nhưng không nhấn mạnh bằng も), và 「〜までで」 (cho đến... thì kết thúc) không phù hợp với sắc thái nhấn mạnh sự tối thiểu hoặc sự thường xuyên này.",
+      "grammar_point": "〜だけでも",
+      "grammar_note": "Cấu trúc 「〜だけでも」 dùng để nhấn mạnh rằng \"chỉ riêng cái đó thôi cũng đã đủ/đã là một điều gì đó\", thường mang ý tối thiểu hoặc sự ngạc nhiên."
+    }
+  },
+  {
+    "note_id": 1779898663327,
+    "type": "m1",
+    "question": "192 天気予報では今日は晴れると言っていたので、傘を（ ）出かけたが、夕方急に雨が降り出して、ぬれてしまった。",
+    "options": {
+      "1": "持たなくて",
+      "2": "持てなくて",
+      "3": "持たないで",
+      "4": "持てないで"
+    },
+    "front_options": [
+      "① 持たなくて",
+      "② 持てなくて",
+      "③ 持たないで",
+      "④ 持てないで"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "持てなくて",
+    "corrected_num": 3,
+    "corrected_text": "持たないで",
+    "hint": ", 3 không làm vế 1 mà làm vế 2",
+    "image": "image_import_50ae616eafaf_slide_0092.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898663327,
+      "answer_text": "持たないで",
+      "explanation": "Cấu trúc 「〜ないで」 diễn tả hành động vế sau được thực hiện trong trạng thái không làm vế trước, tức là \"không mang ô mà đi ra ngoài\". 「〜なくて」 thường diễn tả nguyên nhân hoặc kết quả không mong muốn (ví dụ: vì không mang ô nên gặp rắc rối). Các lựa chọn 「持てなくて」 và 「持てないで」 là dạng khả năng phủ định (\"không thể mang\"), không phù hợp với ngữ cảnh chủ động \"không mang ô\".",
+      "grammar_point": "〜ないで",
+      "grammar_note": "Cấu trúc 「〜ないで」 dùng để diễn tả việc thực hiện hành động vế sau mà không thực hiện hành động vế trước, hoặc hành động vế trước là nguyên nhân dẫn đến trạng thái vế sau."
+    }
+  },
+  {
+    "note_id": 1779898664953,
+    "type": "m1",
+    "question": "195 (会社で) 青木「林さん、お先に失礼します。まだ帰らないんですか。」 林「ええ、私はもう少しやって帰ります。この仕事は今日中に( )。」 青木「そうですか。お疲れさまです。」",
+    "options": {
+      "1": "やっておきそうなので",
+      "2": "やってしまいたいので",
+      "3": "やってみてもいいんですが",
+      "4": "やっているところなんです"
+    },
+    "front_options": [
+      "① やっておきそうなので",
+      "② やってしまいたいので",
+      "③ やってみてもいいんですが",
+      "④ やっているところなんです"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "やっているところなんです",
+    "corrected_num": 2,
+    "corrected_text": "やってしまいたいので",
+    "hint": ", 2",
+    "image": "image_import_17be7d53c2ed_slide_0095.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898664953,
+      "answer_text": "やってしまいたいので",
+      "explanation": "Cấu trúc 「〜てしまいたい」 diễn tả mong muốn hoàn thành một việc gì đó một cách dứt điểm, thường là trong một khoảng thời gian nhất định hoặc để giải quyết xong xuôi. Ở đây, Hayashi muốn hoàn thành công việc trong ngày hôm nay. Các lựa chọn khác như 「〜ておきそうなので」 (có vẻ sẽ làm sẵn), 「〜てみてもいいんですが」 (dù thử làm cũng được nhưng...), và 「〜ているところなんです」 (đang làm) không diễn tả đúng mong muốn hoàn thành công việc.",
+      "grammar_point": "〜てしまいたい",
+      "grammar_note": "Cấu trúc 「〜てしまいたい」 diễn tả mong muốn hoàn thành một hành động nào đó một cách triệt để, dứt điểm, hoặc để giải quyết xong xuôi một vấn đề."
+    }
+  },
+  {
+    "note_id": 1779898666010,
+    "type": "m1",
+    "question": "197 先週、会社の面接で「もし自分を色で表す（ ）、何色ですか。」 と聞かれ、オレンジ色と答えた。「元気」 や「健康」 のイメージがあるからだ。",
+    "options": {
+      "1": "ことから",
+      "2": "いう点で",
+      "3": "ように",
+      "4": "としたら"
+    },
+    "front_options": [
+      "① ことから",
+      "② いう点で",
+      "③ ように",
+      "④ としたら"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "ことから",
+    "corrected_num": 4,
+    "corrected_text": "としたら",
+    "hint": ", 4",
+    "image": "image_import_e52f4df11270_slide_0097.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898666010,
+      "answer_text": "としたら",
+      "explanation": "Cấu trúc 「〜としたら」 dùng để đặt ra một giả định, một tình huống giả định. Trong câu này, người phỏng vấn đang hỏi \"nếu giả sử biểu hiện bản thân bằng màu sắc thì là màu gì?\". Các lựa chọn khác như 「〜ことから」 (nguyên nhân, lý do), 「〜という点で」 (ở điểm...), và 「〜ように」 (giống như, để) không phù hợp để diễn tả một giả định.",
+      "grammar_point": "〜としたら",
+      "grammar_note": "Cấu trúc 「〜としたら」 dùng để đưa ra một giả định, một tình huống giả định hoặc một điều kiện không có thật để suy luận hoặc đặt câu hỏi."
+    }
+  },
+  {
+    "note_id": 1779898667073,
+    "type": "m1",
+    "question": "199 このケーキは材料を混ぜて焼く（ ）から、誰でも失敗せずにおいしく作れる。",
+    "options": {
+      "1": "だけだ",
+      "2": "ことだ",
+      "3": "せいだ",
+      "4": "ときだ"
+    },
+    "front_options": [
+      "① だけだ",
+      "② ことだ",
+      "③ せいだ",
+      "④ ときだ"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "ことだ",
+    "corrected_num": 1,
+    "corrected_text": "だけだ",
+    "hint": ", 1",
+    "image": "image_import_be501605ce10_slide_0099.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898667073,
+      "answer_text": "だけだ",
+      "explanation": "Cấu trúc 「〜だけだ」 diễn tả ý \"chỉ cần/chỉ là... mà thôi\", nhấn mạnh sự đơn giản hoặc giới hạn của hành động. Ở đây, việc làm bánh chỉ đơn giản là \"trộn nguyên liệu rồi nướng\", thể hiện sự dễ dàng mà ai cũng có thể làm được. Các lựa chọn khác như 「〜ことだ」 (lời khuyên, quy tắc), 「〜せいだ」 (nguyên nhân tiêu cực), và 「〜ときだ」 (là lúc) không phù hợp với ngữ cảnh này.",
+      "grammar_point": "〜だけだ",
+      "grammar_note": "Cấu trúc 「〜だけだ」 dùng để nhấn mạnh rằng một hành động hoặc tình huống nào đó chỉ đơn giản là như vậy, không có gì phức tạp hay đặc biệt hơn."
+    }
+  },
+  {
+    "note_id": 1779898614230,
+    "type": "m1",
+    "question": "101 明日からテニスの国際大会が始まる。参加する8名は皆、過去に国際大会での優勝経験があり、今回の大会は誰が（）。",
+    "options": {
+      "1": "優勝しても不思議ではない",
+      "2": "優勝したらいい",
+      "3": "優勝するに違いない",
+      "4": "優勝するのではないだろうか"
+    },
+    "front_options": [
+      "① 優勝しても不思議ではない",
+      "② 優勝したらいい",
+      "③ 優勝するに違いない",
+      "④ 優勝するのではないだろうか"
+    ],
+    "gemini_num": 3,
+    "gemini_text": "優勝するに違いない",
+    "corrected_num": 1,
+    "corrected_text": "優勝しても不思議ではない",
+    "hint": ", 1",
+    "image": "image_import_147012441c16_slide_0001.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898614230,
+      "answer_text": "優勝しても不思議ではない",
+      "explanation": "Cấu trúc 「〜ても不思議ではない」 diễn tả ý \"dù có... cũng không có gì lạ\", \"hoàn toàn có thể xảy ra\". Với việc tất cả 8 người tham gia đều có kinh nghiệm vô địch quốc tế, thì ai trong số họ vô địch cũng là điều bình thường, không có gì đáng ngạc nhiên. Các lựa chọn khác như 「〜たらいい」 (mong muốn), 「〜に違いない」 (chắc chắn), và 「〜のではないだろうか」 (suy đoán) không thể hiện được sắc thái \"không có gì lạ\" trong tình huống này.",
+      "grammar_point": "〜ても不思議ではない",
+      "grammar_note": "Cấu trúc 「〜ても不思議ではない」 dùng để diễn tả rằng một sự việc nào đó, dù có xảy ra, cũng không phải là điều lạ lùng hay bất ngờ, mà là điều hoàn toàn có thể hiểu được."
+    }
+  },
+  {
+    "note_id": 1779898616914,
+    "type": "m1",
+    "question": "106 今朝、電車で隣に座った人から、シャンプー（ ）何（ ）わからないが、とにかくいい香りがしてきた。",
+    "options": {
+      "1": "か/か",
+      "2": "は/は",
+      "3": "が/が",
+      "4": "で/で"
+    },
+    "front_options": [
+      "① か/か",
+      "③ が/が",
+      "② は/は",
+      "④ で/で"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "は/は",
+    "corrected_num": 1,
+    "corrected_text": "か/か",
+    "hint": ", 1",
+    "image": "image_import_f80a6d23059a_slide_0006.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898616914,
+      "answer_text": "か/か",
+      "explanation": "Cấu trúc \"AかBか分からない\" được dùng để diễn tả sự không chắc chắn giữa hai hoặc nhiều lựa chọn. Trong câu này, người nói không biết mùi hương đó là từ dầu gội (シャンプー) hay một thứ gì khác (何), nên \"か/か\" là phù hợp nhất. Các lựa chọn khác không diễn tả được ý nghĩa \"hoặc là... hoặc là...\" trong ngữ cảnh này.",
+      "grammar_point": "〜か〜か",
+      "grammar_note": "Cấu trúc \"AかBか\" được dùng để liệt kê các khả năng và diễn tả sự không chắc chắn về cái nào là đúng."
+    }
+  },
+  {
+    "note_id": 1779898617981,
+    "type": "m1",
+    "question": "108 このごろ、息子が（ ）私の言うことを聞かないので困っている。",
+    "options": {
+      "1": "やっと",
+      "2": "きっと",
+      "3": "ちっとも",
+      "4": "せっかく"
+    },
+    "front_options": [],
+    "gemini_num": 2,
+    "gemini_text": "きっと",
+    "corrected_num": 3,
+    "corrected_text": "ちっとも",
+    "hint": ", 3 đi với nai",
+    "image": "image_import_d0b2b3bcfd87_slide_0008.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898617981,
+      "answer_text": "ちっとも",
+      "explanation": "Phó từ \"ちっとも\" luôn đi kèm với thể phủ định của động từ hoặc tính từ để diễn tả ý \"hoàn toàn không, một chút nào cũng không\". Trong câu này, \"息子がちっとも私の言うことを聞かない\" có nghĩa là \"con trai tôi hoàn toàn không nghe lời tôi\", phù hợp với ngữ cảnh người mẹ đang gặp khó khăn. Các lựa chọn khác không phù hợp với thể phủ định.",
+      "grammar_point": "語:ちっとも",
+      "grammar_note": "\"ちっとも\" là một phó từ luôn được sử dụng với thể phủ định để nhấn mạnh sự thiếu vắng hoặc không xảy ra của một hành động/trạng thái."
+    }
+  },
+  {
+    "note_id": 1779898619590,
+    "type": "m1",
+    "question": "111 日本に来たのは今回が2度目だ。前に来たのは20年前だが、そのときに入った喫茶店がまだ( )驚いた。",
+    "options": {
+      "1": "営業して",
+      "2": "営業しなくて",
+      "3": "営業していて",
+      "4": "営業していなくて"
+    },
+    "front_options": [
+      "① 営業して",
+      "③ 営業していて",
+      "② 営業しなくて",
+      "④ 営業していなくて"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "営業していなくて",
+    "corrected_num": 3,
+    "corrected_text": "営業していて",
+    "hint": ", 3 vẫn đang hoạt động",
+    "image": "image_import_915d0e8631fd_slide_0011.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898619590,
+      "answer_text": "営業していて",
+      "explanation": "Cấu trúc \"まだ〜ている\" diễn tả một trạng thái hoặc hành động vẫn đang tiếp diễn. \"営業している\" có nghĩa là \"đang kinh doanh/hoạt động\". Khi nối với \"驚いた\" (ngạc nhiên), ta dùng thể て (te-form) để chỉ nguyên nhân hoặc trạng thái liên tục: \"vẫn đang hoạt động nên tôi ngạc nhiên\". Lựa chọn 3 \"営業していて\" là thể て của \"営業している\", hoàn toàn phù hợp với ngữ cảnh.",
+      "grammar_point": "〜ている",
+      "grammar_note": "Thể 〜ている diễn tả một hành động đang diễn ra hoặc một trạng thái tiếp diễn, và khi dùng với \"まだ\", nó nhấn mạnh sự liên tục của trạng thái đó."
+    }
+  },
+  {
+    "note_id": 1779898621728,
+    "type": "m1",
+    "question": "115 (電話で) 森先生「はい、北山日本語学校です。」 リー「もしもし、中級クラスのリーですが、森先生は（ ）か。」 森先生「あ、リーさん。森です。どうしましたか。」",
+    "options": {
+      "1": "ごいます",
+      "2": "いらっしゃいます",
+      "3": "拝見します",
+      "4": "お目にかかります"
+    },
+    "front_options": [
+      "① ごいます",
+      "② いらっしゃいます",
+      "③ 拝見します",
+      "④ お目にかかります"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "お目にかかります",
+    "corrected_num": 2,
+    "corrected_text": "いらっしゃいます",
+    "hint": ", 2",
+    "image": "image_import_3337ed5d0adb_slide_0015.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898621728,
+      "answer_text": "いらっしゃいます",
+      "explanation": "リー đang hỏi về sự hiện diện của 森先生, một người có địa vị cao hơn (giáo viên). \"いらっしゃいます\" là kính ngữ của động từ \"いる\" (có mặt, ở), \"来る\" (đến) và \"行く\" (đi), được dùng để thể hiện sự tôn kính đối với người được nhắc đến. Do đó, đây là lựa chọn phù hợp nhất để hỏi \"Thầy Mori có ở đó không?\". Các lựa chọn khác là khiêm nhường ngữ hoặc không đúng ngữ pháp.",
+      "grammar_point": "敬語:いらっしゃる",
+      "grammar_note": "\"いらっしゃる\" là kính ngữ của \"いる\", \"来る\", \"行く\", dùng để thể hiện sự tôn kính đối với hành động hoặc sự hiện diện của người khác."
+    }
+  },
+  {
+    "note_id": 1779898623876,
+    "type": "m1",
+    "question": "119 A「このケーキ、どこで買ったの？すごくおいしいね。」 B「駅前に最近できたケーキ屋だよ。( )店なんだけど、知っている？」",
+    "options": {
+      "1": "『リボン』って",
+      "2": "・『リボン』とか",
+      "3": "『リボン』だって",
+      "4": "『リボン』なんか"
+    },
+    "front_options": [
+      "① 『リボン』って",
+      "② ・『リボン』とか",
+      "③ 『リボン』だって",
+      "④ 『リボン』なんか"
+    ],
+    "gemini_num": 3,
+    "gemini_text": "『リボン』だって",
+    "corrected_num": 1,
+    "corrected_text": "『リボン』って",
+    "hint": ", 1",
+    "image": "image_import_ffe4f9f1a5fb_slide_0019.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898623876,
+      "answer_text": "『リボン』って",
+      "explanation": "Cấu trúc \"〜って\" là cách nói thân mật của \"〜という\" hoặc \"〜という名前の\", dùng để giới thiệu tên hoặc nội dung của một cái gì đó. Trong ngữ cảnh này, B đang giới thiệu tên của tiệm bánh là \"リボン\", nên \"『リボン』って店\" (tiệm tên là Ribbon) là cách diễn đạt tự nhiên và phù hợp nhất trong cuộc hội thoại thân mật.",
+      "grammar_point": "〜って",
+      "grammar_note": "\"〜って\" là một cách nói thân mật, dùng để trích dẫn lời nói, giới thiệu tên, hoặc giải thích nội dung, tương đương với \"〜という\"."
+    }
+  },
+  {
+    "note_id": 1779898624953,
+    "type": "m1",
+    "question": "121 うちには大きさの違うフライパンが（ ）あるが、使っているのはいちばん小さいサイズのだけだ。",
+    "options": {
+      "1": "どれ",
+      "2": "どれか",
+      "3": "いくつ",
+      "4": "いくつか"
+    },
+    "front_options": [],
+    "gemini_num": 2,
+    "gemini_text": "どれか",
+    "corrected_num": 4,
+    "corrected_text": "いくつか",
+    "hint": ", 4",
+    "image": "image_import_1870b52aad43_slide_0021.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898624953,
+      "answer_text": "いくつか",
+      "explanation": "\"いくつか\" có nghĩa là \"một vài, một số\" (an unspecified number), phù hợp với ngữ cảnh \"có một số cái chảo với kích cỡ khác nhau\". Câu sau đó bổ sung rằng chỉ dùng cái nhỏ nhất, ngụ ý rằng có nhiều hơn một cái chảo. \"どれ\" và \"いくつ\" là từ nghi vấn, còn \"どれか\" chỉ một cái bất kỳ.",
+      "grammar_point": "語:いくつか",
+      "grammar_note": "\"いくつか\" là một phó từ chỉ số lượng không xác định, có nghĩa là \"một vài\" hoặc \"một số\", thường dùng khi không cần hoặc không biết chính xác số lượng."
+    }
+  },
+  {
+    "note_id": 1779898627095,
+    "type": "m1",
+    "question": "125 先生「ホアさんが日本に留学すると言ったとき、ご両親は何と（）。」 ホア「頑張れと応援してくれました。」",
+    "options": {
+      "1": "うかがいましたか",
+      "2": "申し上げましたか",
+      "3": "おっしゃいましたか",
+      "4": "お聞きになりましたか"
+    },
+    "front_options": [
+      "① うかがいましたか",
+      "③ おっしゃいましたか",
+      "② 申し上げましたか",
+      "④ お聞きになりましたか"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "お聞きになりましたか",
+    "corrected_num": 3,
+    "corrected_text": "おっしゃいましたか",
+    "hint": ", 3",
+    "image": "image_import_a797131b9a2c_slide_0025.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898627095,
+      "answer_text": "おっしゃいましたか",
+      "explanation": "Đáp án đúng là 「おっしゃいましたか」 vì đây là thể kính ngữ của động từ 「言う」 (nói), dùng để hỏi về hành động nói của người khác (bố mẹ của Hoa) một cách tôn kính. Các lựa chọn khác như 「うかがいましたか」 và 「申し上げましたか」 là khiêm nhường ngữ, dùng cho hành động của bản thân người nói. 「お聞きになりましたか」 là kính ngữ của 「聞く」 (nghe/hỏi), không phù hợp với ngữ cảnh \"nói gì\".",
+      "grammar_point": "敬語: おっしゃる",
+      "grammar_note": "「おっしゃる」 là kính ngữ của 「言う」, dùng để thể hiện sự tôn kính đối với hành động nói của người khác."
+    }
+  },
+  {
+    "note_id": 1779898926445,
+    "type": "m1",
+    "question": "202 (電話で) X建設の社員「はい、X建設営業部です。」 中田「お、私、ABC銀行の中田と( )が、山石さんをお願いします。」",
+    "options": {
+      "1": "ございます",
+      "2": "いたします",
+      "3": "申します",
+      "4": "申し上げます"
+    },
+    "front_options": [
+      "① ごいます",
+      "② いたします",
+      "③ 申します",
+      "④ 申し上げます"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "申し上げます",
+    "corrected_num": 3,
+    "corrected_text": "申します",
+    "hint": ", 3",
+    "image": "image_import_7b1429d2f096_slide_0002.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898926445,
+      "answer_text": "申します",
+      "explanation": "Đáp án đúng là 「申します」 vì đây là khiêm nhường ngữ của động từ 「言う」 (nói), được dùng để giới thiệu tên của bản thân một cách lịch sự, đặc biệt trong các tình huống trang trọng như gọi điện thoại công việc. 「ございます」 là khiêm nhường ngữ của 「ある/いる」, 「いたします」 là của 「する」, còn 「申し上げます」 tuy cũng là khiêm nhường ngữ của 「言う」 nhưng 「申します」 phổ biến và tự nhiên hơn khi tự giới thiệu tên.",
+      "grammar_point": "敬語: 申す",
+      "grammar_note": "「申す」 là khiêm nhường ngữ của 「言う」, thường được dùng để giới thiệu tên của bản thân hoặc nói về hành động của mình một cách khiêm tốn."
+    }
+  },
+  {
+    "note_id": 1779898928574,
+    "type": "m1",
+    "question": "206 妻「ねぇ、ちょっと買い物に行ってくるから、今夜行くレストランの予約をお願いできる？ 夫「うん、わかった。( )。19時からで大丈夫？ 妻「ええ、ありがとう。」",
+    "options": {
+      "1": "予約してね",
+      "2": "予約しておくと",
+      "3": "予約しようよ",
+      "4": "予約してあるね"
+    },
+    "front_options": [
+      "① 予約してね",
+      "② 予約しておくと",
+      "③ 予約しようよ",
+      "④ 予約してあるね"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "予約してあるね",
+    "corrected_num": 2,
+    "corrected_text": "予約しておくと",
+    "hint": ", 2",
+    "image": "image_import_5b47f6603000_slide_0006.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898928574,
+      "answer_text": "予約しておくと",
+      "explanation": "Đáp án đúng là 「予約しておくと」. Cấu trúc 「〜ておく」 thể hiện việc làm gì đó chuẩn bị trước. Khi kết hợp với 「〜と」, nó tạo thành một mệnh đề điều kiện hoặc một hành động chuẩn bị dẫn đến một kết quả hoặc câu hỏi tiếp theo. Ở đây, người chồng nói \"Tôi sẽ đặt chỗ trước, vậy 19 giờ có được không?\".",
+      "grammar_point": "〜ておく",
+      "grammar_note": "Cấu trúc 「〜ておく」 được dùng để diễn tả hành động làm gì đó trước để chuẩn bị cho một việc khác, hoặc để giữ nguyên trạng thái."
+    }
+  },
+  {
+    "note_id": 1779898930211,
+    "type": "m1",
+    "question": "209 私の町の海はとてもきれいなので、たくさんの人()見に来てほしい。",
+    "options": {
+      "1": ". へ",
+      "2": "を",
+      "3": "に",
+      "4": "も"
+    },
+    "front_options": [
+      "② を",
+      "③ に",
+      "④ も"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "を",
+    "corrected_num": 3,
+    "corrected_text": "に",
+    "hint": ", 3",
+    "image": "image_import_4f09e2786190_slide_0009.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898930211,
+      "answer_text": "に",
+      "explanation": "Đáp án đúng là 「に」. Khi muốn diễn tả mong muốn người khác làm một hành động nào đó bằng cấu trúc 「〜てほしい」, chủ thể của hành động đó (người mà mình muốn họ làm) sẽ được đánh dấu bằng trợ từ 「に」. Ở đây, người nói muốn \"nhiều người\" (たくさんの人) đến xem.",
+      "grammar_point": "Nに〜てほしい",
+      "grammar_note": "Cấu trúc 「Nに〜てほしい」 được dùng để bày tỏ mong muốn người N làm một hành động nào đó."
+    }
+  },
+  {
+    "note_id": 1779898930765,
+    "type": "m1",
+    "question": "210 この大学では、海外に留学する学生( )奨学金を支給している。",
+    "options": {
+      "1": "について",
+      "2": "にしたがって",
+      "3": "に対して",
+      "4": "に比べて"
+    },
+    "front_options": [
+      "1 について",
+      "② にしたがって",
+      "3 に対して",
+      "4 に比べて"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "に比べて",
+    "corrected_num": 3,
+    "corrected_text": "に対して",
+    "hint": ", 3",
+    "image": "image_import_9c925e85fa6b_slide_0010.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898930765,
+      "answer_text": "に対して",
+      "explanation": "Đáp án đúng là 「に対して」. Cấu trúc 「Nに対して」 được dùng để chỉ đối tượng hoặc mục tiêu của một hành động, cảm xúc, hoặc thái độ. Trong câu này, học bổng được cấp \"cho\" (đối với) những sinh viên đi du học.",
+      "grammar_point": "Nに対して",
+      "grammar_note": "「Nに対して」 được dùng để chỉ đối tượng mà hành động, cảm xúc, hoặc thái độ hướng tới, có thể dịch là \"đối với N\", \"cho N\", hoặc \"về N\"."
+    }
+  },
+  {
+    "note_id": 1779898931852,
+    "type": "m1",
+    "question": "212 妹は、初めてのピアノ発表会だったので緊張していたと言っていたが、全 然()見えなかった。",
+    "options": {
+      "1": "こう",
+      "2": "そう",
+      "3": "こういう",
+      "4": "そういう"
+    },
+    "front_options": [
+      "① こう",
+      "② そう",
+      "③ こういう",
+      "4 そういう"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "そういう",
+    "corrected_num": 2,
+    "corrected_text": "そう",
+    "hint": ", 2",
+    "image": "image_import_d4905a035cc2_slide_0012.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898931852,
+      "answer_text": "そう",
+      "explanation": "Đáp án đúng là 「そう」. 「そう」 ở đây là một phó từ, dùng để chỉ một trạng thái hoặc tình huống đã được đề cập trước đó (ở đây là \"緊張していた\" - đã lo lắng). Cụm 「全然そう見えなかった」 có nghĩa là \"hoàn toàn không trông có vẻ như vậy (lo lắng)\".",
+      "grammar_point": "語:そう",
+      "grammar_note": "「そう」 là một phó từ dùng để chỉ một trạng thái, tình huống, hoặc nội dung đã được nhắc đến hoặc ngụ ý trước đó."
+    }
+  },
+  {
+    "note_id": 1779898932395,
+    "type": "m1",
+    "question": "213 月曜の朝、友達に電話したが、出なかったので、その日の夜に()。",
+    "options": {
+      "1": "かけ出した",
+      "2": "かけ直した",
+      "3": "かけたところだ",
+      "4": "かけたばかりだ"
+    },
+    "front_options": [
+      "① かけ出した",
+      "② かけ直した",
+      "③ かけたところだ",
+      "④ かけたばかりだ"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "かけ直した",
+    "corrected_num": 2,
+    "corrected_text": "かけ直した",
+    "hint": ", 2",
+    "image": "image_import_cc3e484a0a58_slide_0013.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898932395,
+      "answer_text": "かけ直した",
+      "explanation": "Trong ngữ cảnh này, khi cuộc gọi đầu tiên không thành công vì bạn bè không bắt máy, hành động hợp lý tiếp theo là gọi lại. 「かけ直す」 (kake naosu) có nghĩa là gọi điện lại. Các lựa chọn khác như 「かけ出した」 (bắt đầu gọi), 「かけたところだ」 (vừa mới gọi xong) hay 「かけたばかりだ」 (vừa mới gọi xong) đều không phù hợp với tình huống cuộc gọi đầu tiên không thành công.",
+      "grammar_point": "語:かけ直す",
+      "grammar_note": "「かけ直す」 có nghĩa là gọi điện lại sau khi cuộc gọi đầu tiên không thành công hoặc bị gián đoạn."
+    }
+  },
+  {
+    "note_id": 1779898933472,
+    "type": "m1",
+    "question": "215 (服屋で) 店員「ご希望のサイズのものが見つからなければ、（ ）ください。」 客「わあ、ありがとうございます。」。",
+    "options": {
+      "1": "なさって",
+      "2": "おっしゃって",
+      "3": "お聞きして",
+      "4": "申(もう)し上げて"
+    },
+    "front_options": [],
+    "gemini_num": 4,
+    "gemini_text": "申(もう)し上げて",
+    "corrected_num": 2,
+    "corrected_text": "おっしゃって",
+    "hint": ", 2",
+    "image": "image_import_2a2aa61893aa_slide_0015.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898933472,
+      "answer_text": "おっしゃって",
+      "explanation": "Đây là câu nói của nhân viên cửa hàng với khách hàng, cần sử dụng kính ngữ. 「おっしゃる」 là kính ngữ của động từ 「言う」 (nói), phù hợp để mời khách hàng 'hãy nói cho tôi biết' nếu họ không tìm thấy kích cỡ mong muốn. Các lựa chọn khác như 「なさって」 (kính ngữ của する - làm), 「お聞きして」 (khiêm nhường ngữ của 聞く - hỏi/nghe) hay 「申し上げて」 (khiêm nhường ngữ của 言う - nói) đều không phù hợp với ngữ cảnh mời khách hàng nói.",
+      "grammar_point": "敬語:おっしゃる",
+      "grammar_note": "「おっしゃる」 là kính ngữ của động từ 「言う」, dùng để chỉ hành động nói của người trên hoặc người mình tôn trọng."
+    }
+  },
+  {
+    "note_id": 1779898934585,
+    "type": "m1",
+    "question": "217 クラスメートみんなにメールを送ってから一週間もたつのに、まだ一人 ( )返事が来ていない。",
+    "options": {
+      "1": "からしか",
+      "2": "からでも",
+      "3": "でしか",
+      "4": "でも"
+    },
+    "front_options": [
+      "① からしか",
+      "② からでも",
+      "③ でしか",
+      "4 でも"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "でも",
+    "corrected_num": 1,
+    "corrected_text": "からしか",
+    "hint": ", 1",
+    "image": "image_import_90d53c72f4da_slide_0017.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898934585,
+      "answer_text": "からしか",
+      "explanation": "Câu này diễn tả ý 'đã một tuần trôi qua kể từ khi gửi email cho tất cả bạn học, nhưng vẫn chưa có phản hồi từ *chỉ một người*'. Cấu trúc 「〜からしか〜ない」 dùng để diễn tả sự giới hạn, 'chỉ từ...' (kết hợp với phủ định). Các lựa chọn khác như 「からでも」 (ngay cả từ...), 「でしか」 (chỉ bằng/ở...) hay 「でも」 (ngay cả...) không phù hợp với ý nghĩa giới hạn và phủ định trong câu.",
+      "grammar_point": "Nからしか〜ない",
+      "grammar_note": "Cấu trúc 「Nからしか〜ない」 dùng để nhấn mạnh sự giới hạn, rằng hành động hoặc trạng thái chỉ xảy ra hoặc chỉ có thể nhận được từ N."
+    }
+  },
+  {
+    "note_id": 1779898935109,
+    "type": "m1",
+    "question": "218 自分に合う仕事を見つける（）、時間をかけて探したいと思っている。",
+    "options": {
+      "1": "ことにするのは",
+      "2": "ことができるのは",
+      "3": "ことにするまで",
+      "4": "ことができるまで"
+    },
+    "front_options": [],
+    "gemini_num": 1,
+    "gemini_text": "ことにするのは",
+    "corrected_num": 1,
+    "corrected_text": "ことにするのは",
+    "hint": ", loại 1 3, chọn 4",
+    "image": "image_import_5ecd14a4ea44_slide_0018.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898935109,
+      "answer_text": "ことにするのは",
+      "explanation": "Cấu trúc 「Vることにする」 có nghĩa là 'quyết định làm gì đó'. Khi kết hợp với 「〜のは」, nó biến mệnh đề trước thành chủ đề của câu. Câu này có thể hiểu là 'Về việc quyết định tìm một công việc phù hợp với bản thân, tôi muốn dành thời gian để tìm kiếm', nhấn mạnh ý định dành thời gian cho quá trình tìm kiếm sau khi đã đưa ra quyết định. Các lựa chọn khác không tạo thành một cấu trúc ngữ pháp tự nhiên hoặc phù hợp với ý nghĩa của vế sau.",
+      "grammar_point": "Vることにする",
+      "grammar_note": "「Vることにする」 diễn tả việc tự mình quyết định làm một hành động nào đó."
+    }
+  },
+  {
+    "note_id": 1779898935724,
+    "type": "m1",
+    "question": "219 (不動産屋で) A「こちらの apartamentos は いかがですか。」 B「うーん、家賃は安いけど、駅まで歩いて20分もかかるのかな。」 A「少し家賃が高くても駅に ( ) 、こちらはどうでしょうか。」",
+    "options": {
+      "1": "近いほうがいいかどう",
+      "2": "近すぎないかどう",
+      "3": "近いほうがよければ",
+      "4": "近すぎなければ"
+    },
+    "front_options": [
+      "① 近いほうがいいかどう",
+      "② 近すぎないかどう",
+      "③ 近いほうがよければ",
+      "④ 近すぎなければ"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "近すぎなければ",
+    "corrected_num": 3,
+    "corrected_text": "近いほうがよければ",
+    "hint": ", 3",
+    "image": "image_import_b19c9fcb9081_slide_0019.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898935724,
+      "answer_text": "近いほうがよければ",
+      "explanation": "Khách hàng B bày tỏ sự không hài lòng về khoảng cách đến ga. Nhân viên A sau đó đề xuất một lựa chọn khác, hỏi xem liệu 'nếu gần ga hơn thì có được không'. Cấu trúc 「〜ほうがいい」 (tốt hơn nếu...) kết hợp với 「〜ば」 (nếu) tạo thành 「〜ほうがよければ」 (nếu tốt hơn là...), phù hợp để đưa ra một điều kiện cho đề xuất mới. Các lựa chọn khác không tạo thành một câu hỏi điều kiện hoàn chỉnh hoặc không phù hợp với ngữ cảnh.",
+      "grammar_point": "Vる/Nのほうがいい + ば",
+      "grammar_note": "Cấu trúc 「〜ほうがよければ」 dùng để đưa ra một điều kiện hoặc giả định, hỏi xem liệu một lựa chọn nào đó có tốt hơn không, thường để đề xuất một phương án thay thế."
+    }
+  },
+  {
+    "note_id": 1779898936791,
+    "type": "m1",
+    "question": "221 森「ねえ、来週の金曜日の夜、山下さんも予定を空けて( )?」 山下「え、いいけど。どうして?」 森「新人先生の歓迎会をするから、手伝ってほしいんだ。」。",
+    "options": {
+      "1": "いればいい",
+      "2": "おいでましょう",
+      "3": "いるんじゃない",
+      "4": "おいてくれない"
+    },
+    "front_options": [
+      "① いればいい",
+      "② おいで<bos>0",
+      "③ いるんじゃない",
+      "④ おいてくれない"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "いればいい",
+    "corrected_num": 4,
+    "corrected_text": "おいてくれない",
+    "hint": ", 4",
+    "image": "image_import_990cc2fc439c_slide_0021.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898936791,
+      "answer_text": "おいてくれない",
+      "explanation": "Mori đang nhờ Yamashita 'dành sẵn thời gian' (予定を空けておく) và sử dụng thể nhờ vả lịch sự 「〜てくれない？」. 「空けておく」 có nghĩa là dành sẵn thời gian để chuẩn bị cho một việc gì đó. Lựa chọn này phù hợp nhất với ngữ cảnh nhờ vả. Các lựa chọn khác như 「いればいい」 (nếu có thì tốt), 「おいでましょう」 (hãy đến) hay 「いるんじゃない」 (chẳng phải là có sao?) đều không diễn tả ý nhờ vả.",
+      "grammar_point": "Vておく + 依頼形",
+      "grammar_note": "「Vておく」 có nghĩa là làm sẵn một việc gì đó để chuẩn bị cho tương lai hoặc để duy trì một trạng thái. Khi kết hợp với 「〜てくれない？」, nó tạo thành lời nhờ vả lịch sự."
+    }
+  },
+  {
+    "note_id": 1779898938972,
+    "type": "m1",
+    "question": "225 今朝は、目覚まし時計が鳴らなかった。( ), 1時間も寝坊してしまった。",
+    "options": {
+      "1": "はずで",
+      "2": "一方で",
+      "3": "せい で",
+      "4": "場合"
+    },
+    "front_options": [],
+    "gemini_num": 1,
+    "gemini_text": "はずで",
+    "corrected_num": 3,
+    "corrected_text": "せい で",
+    "hint": ", 3",
+    "image": "image_import_d7b00c0b79a0_slide_0025.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898938972,
+      "answer_text": "せいで",
+      "explanation": "「〜せいで」 được dùng để chỉ nguyên nhân dẫn đến một kết quả tiêu cực hoặc không mong muốn. Trong câu này, việc đồng hồ báo thức không kêu là nguyên nhân trực tiếp khiến người nói ngủ quên một tiếng, đây là một kết quả tiêu cực. Các lựa chọn khác như 「はずで」 (suy đoán), 「一方で」 (đối lập) hay 「場合」 (trường hợp) không phù hợp để diễn tả mối quan hệ nguyên nhân-kết quả tiêu cực này.",
+      "grammar_point": "〜せいで",
+      "grammar_note": "Cấu trúc 「〜せいで」 được dùng để chỉ nguyên nhân gây ra một kết quả xấu hoặc không mong muốn."
+    }
+  },
+  {
+    "note_id": 1779898939535,
+    "type": "m1",
+    "question": "226 妻「ちょっとコンビニに行ってくるよ。」 夫「うん、いってらっしゃい。あ、コンビニに()、牛乳、買ってきて。」。",
+    "options": {
+      "1": "行けば",
+      "2": "行っていたら",
+      "3": "行くとすると",
+      "4": "行くんだったら"
+    },
+    "front_options": [
+      "1 行けば",
+      "② 行っていたら",
+      "③ 行くとすると",
+      "4 行くんだったら"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "行っていたら",
+    "corrected_num": 4,
+    "corrected_text": "行くんだったら",
+    "hint": ", 4",
+    "image": "image_import_fa9fee07a9fb_slide_0026.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898939535,
+      "answer_text": "行くんだったら",
+      "explanation": "「〜んだったら」 (hoặc 〜のだったら) được dùng để đưa ra một lời đề nghị, yêu cầu hoặc lời khuyên dựa trên một giả định hoặc thông tin đã biết. Trong ngữ cảnh này, người chồng biết vợ sắp đi siêu thị nên đưa ra yêu cầu mua sữa. Các lựa chọn khác như 「行けば」 (điều kiện giả định chung), 「行っていたら」 (nếu đã đi/đang đi) hay 「行くとすると」 (nếu giả định là sẽ đi) không tự nhiên bằng khi đưa ra yêu cầu dựa trên hành động sắp xảy ra.",
+      "grammar_point": "〜んだったら",
+      "grammar_note": "Cấu trúc 「〜んだったら」 dùng để đưa ra lời khuyên, yêu cầu hoặc ý kiến dựa trên một giả định hoặc thông tin đã được xác nhận."
+    }
+  },
+  {
+    "note_id": 1779898940619,
+    "type": "m1",
+    "question": "客「すみません。お手洗いはどこですか。」 店員「あちらのエレベーターの横に()。」。",
+    "options": {
+      "1": "おります",
+      "2": "ございます",
+      "3": "いたします",
+      "4": "いらっしゃいます"
+    },
+    "front_options": [
+      "1 おります",
+      "② ございます",
+      "3 いたします",
+      "④ いらっしゃいます"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "いらっしゃいます",
+    "corrected_num": 2,
+    "corrected_text": "ございます",
+    "hint": ", 2",
+    "image": "image_import_76e8bd6c53f3_slide_0028.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898940619,
+      "answer_text": "ございます",
+      "explanation": "「ございます」 là thể lịch sự của 「あります」, dùng để chỉ sự tồn tại của vật hoặc địa điểm một cách khiêm tốn và trang trọng. Trong tình huống nhân viên chỉ đường cho khách, việc sử dụng kính ngữ là phù hợp nhất. Các lựa chọn khác như 「おります」 (khiêm nhường của 「います」 cho người nói), 「いたします」 (khiêm nhường của 「します」 cho hành động của người nói) hay 「いらっしゃいます」 (tôn kính của 「います/来る/行く」 cho người khác) đều không phù hợp để chỉ sự tồn tại của nhà vệ sinh.",
+      "grammar_point": "ございます",
+      "grammar_note": "「ございます」 là dạng lịch sự của 「あります」, thường được dùng để chỉ sự tồn tại của vật hoặc địa điểm trong giao tiếp trang trọng."
+    }
+  },
+  {
+    "note_id": 1779898942770,
+    "type": "m1",
+    "question": "232 私の夢は、世界中の（ ）愛される本を作ることだ。",
+    "options": {
+      "1": "誰かから",
+      "2": "誰でも",
+      "3": "誰からも",
+      "4": "誰にでも"
+    },
+    "front_options": [],
+    "gemini_num": 4,
+    "gemini_text": "誰にでも",
+    "corrected_num": 3,
+    "corrected_text": "誰からも",
+    "hint": ", 3",
+    "image": "image_import_2cc9fa427e1a_slide_0032.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898942770,
+      "answer_text": "誰からも",
+      "explanation": "「誰からも」 có nghĩa là \"từ bất kỳ ai\" hoặc \"từ tất cả mọi người\", nhấn mạnh sự bao quát. Trong câu này, người nói muốn tạo ra một cuốn sách được yêu thích bởi *tất cả mọi người* trên thế giới. 「誰かから」 (từ một ai đó) không mang ý nghĩa bao quát. 「誰でも」 (bất cứ ai) là chủ ngữ hoặc tân ngữ trực tiếp, không đi với 「から」 trong ngữ cảnh này. 「誰にでも」 (đến/cho bất cứ ai) không phù hợp với động từ 「愛される」 (được yêu bởi).",
+      "grammar_point": "誰からも",
+      "grammar_note": "「誰からも」 được dùng để diễn tả hành động hoặc trạng thái được thực hiện/tiếp nhận từ mọi người, không loại trừ bất kỳ ai."
+    }
+  },
+  {
+    "note_id": 1779898943823,
+    "type": "m1",
+    "question": "234 彼の描く絵は、写真のように見える。写真だと 言われて見せ れ たら ( )。",
+    "options": {
+      "1": "信じられそうにない",
+      "2": "信じられなかったらしい",
+      "3": "信じてきてしまった",
+      "4": "信じてしまいそうだ"
+    },
+    "front_options": [
+      "① 信じられそうにない",
+      "② 信じられなかったらしい",
+      "③ 信じてきてしまった",
+      "④ 信じてしまいそうだ"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "信じられなかったらしい",
+    "corrected_num": 4,
+    "corrected_text": "信じてしまいそうだ",
+    "hint": ", 4",
+    "image": "image_import_0970faad3512_slide_0034.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898943823,
+      "answer_text": "信じてしまいそうだ",
+      "explanation": "「〜てしまいそうだ」 diễn tả khả năng cao một hành động sẽ xảy ra một cách tự nhiên, không kiểm soát được, hoặc một hành động sẽ hoàn tất. Trong ngữ cảnh này, bức tranh giống ảnh đến mức nếu được nói là ảnh thì người nói *có lẽ sẽ tin mất*. 「信じられそうにない」 (có vẻ không thể tin được) mang ý nghĩa ngược lại. 「信じられなかったらしい」 (có vẻ đã không thể tin được) là thì quá khứ và mang tính suy đoán. 「信じてきてしまった」 (đã lỡ tin) là thì quá khứ và không phù hợp với ngữ cảnh giả định.",
+      "grammar_point": "〜てしまいそうだ",
+      "grammar_note": "Cấu trúc 「〜てしまいそうだ」 diễn tả khả năng cao một hành động sẽ xảy ra một cách tự nhiên, không kiểm soát được, hoặc một hành động sẽ hoàn tất."
+    }
+  },
+  {
+    "note_id": 1779898944368,
+    "type": "m1",
+    "question": "235 この問題は、数学が苦手な私（ ）難しかった。",
+    "options": {
+      "1": "へ",
+      "2": "で",
+      "3": "には",
+      "4": "より"
+    },
+    "front_options": [],
+    "gemini_num": 2,
+    "gemini_text": "で",
+    "corrected_num": 3,
+    "corrected_text": "には",
+    "hint": ", 3 nhấn mạnh",
+    "image": "image_import_fca1e3845f1e_slide_0035.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898944368,
+      "answer_text": "には",
+      "explanation": "「Nには」 được dùng để chỉ rõ đối tượng mà một nhận định, đánh giá hoặc cảm xúc cụ thể áp dụng, thường mang ý nghĩa \"đối với N thì...\". Trong câu này, vấn đề \"khó\" là một nhận định áp dụng cụ thể \"đối với tôi, người kém toán\". Các lựa chọn khác như 「へ」 (chỉ hướng), 「で」 (chỉ phương tiện, địa điểm, nguyên nhân) hay 「より」 (so sánh) đều không phù hợp để nhấn mạnh đối tượng của nhận định này.",
+      "grammar_point": "Nには",
+      "grammar_note": "Cấu trúc 「Nには」 dùng để chỉ rõ đối tượng mà một nhận định, đánh giá, hoặc cảm xúc cụ thể được áp dụng, thường mang ý nghĩa \"đối với N thì...\"."
+    }
+  },
+  {
+    "note_id": 1779898946600,
+    "type": "m1",
+    "question": "239 昨日、天ぷらを() としたが、油が足りなかったので、やめた。",
+    "options": {
+      "1": "作った",
+      "2": "作ろう",
+      "3": "作れる",
+      "4": "作って"
+    },
+    "front_options": [
+      "① 作った",
+      "② 作ろう",
+      "③ 作れる",
+      "4 作って"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "作った",
+    "corrected_num": 2,
+    "corrected_text": "作ろう",
+    "hint": ", 2",
+    "image": "image_import_dff81f3c0876_slide_0039.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898946600,
+      "answer_text": "作ろう",
+      "explanation": "Cấu trúc 「〜ようとする」 (ý chí thể + とする) diễn tả ý định hoặc nỗ lực làm gì đó. Trong câu này, người nói có ý định làm tempura nhưng đã dừng lại vì thiếu dầu. Các lựa chọn khác không phù hợp với ngữ cảnh diễn tả ý định.",
+      "grammar_point": "〜ようとする",
+      "grammar_note": "「〜ようとする」 được dùng để diễn tả ý định hoặc nỗ lực thực hiện một hành động."
+    }
+  },
+  {
+    "note_id": 1779898948205,
+    "type": "m1",
+    "question": "242 学生「先生、ご相談したいことがあるんですが、明日の午後は研究室に ()か。」 先生「明日ですか、明日から出張なんですが。」。",
+    "options": {
+      "1": "おります",
+      "2": "お会いになります",
+      "3": "いらっしゃいます",
+      "4": "お目にかかります"
+    },
+    "front_options": [
+      "1 おります",
+      "② お会いになります",
+      "③ いらっしゃいます",
+      "④ お目にかかります"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "お目にかかります",
+    "corrected_num": 3,
+    "corrected_text": "いらっしゃいます",
+    "hint": ", 3",
+    "image": "image_import_175150d96107_slide_0042.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898948205,
+      "answer_text": "いらっしゃいます",
+      "explanation": "「いらっしゃいます」 là kính ngữ của 「いる」 (có mặt) hoặc 「行く・来る」 (đi/đến). Học sinh hỏi giáo viên có ở phòng nghiên cứu không, nên cần dùng kính ngữ cho hành động của giáo viên. 「おります」 là khiêm nhường ngữ, 「お会いになります」 là kính ngữ của gặp, 「お目にかかります」 là khiêm nhường ngữ của gặp.",
+      "grammar_point": "敬語: いらっしゃる",
+      "grammar_note": "「いらっしゃる」 là kính ngữ dùng để chỉ hành động \"có mặt\", \"đi\" hoặc \"đến\" của người trên."
+    }
+  },
+  {
+    "note_id": 1779898948771,
+    "type": "m1",
+    "question": "243 私は、ほかの人には話せないことも、母（ ）話せる。",
+    "options": {
+      "1": "になら",
+      "2": "にばかり",
+      "3": "へと",
+      "4": "へなど"
+    },
+    "front_options": [
+      "① になら",
+      "② にばかり",
+      "③ へと",
+      "④ へなど"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "にばかり",
+    "corrected_num": 1,
+    "corrected_text": "になら",
+    "hint": ", 1",
+    "image": "image_import_e7607d5a8f49_slide_0043.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898948771,
+      "answer_text": "にやら",
+      "explanation": "Cấu trúc 「Nになら」 được dùng để nhấn mạnh một đối tượng đặc biệt mà hành động có thể thực hiện được, trong khi với các đối tượng khác thì không. Ở đây, người nói có thể nói chuyện với mẹ nhưng không thể nói với người khác. 「にばかり」 mang nghĩa chỉ riêng ai đó, thường có sắc thái tiêu cực hoặc giới hạn. 「へと」 và 「へなど」 không phù hợp ngữ cảnh này.",
+      "grammar_point": "Nになら",
+      "grammar_note": "「Nになら」 dùng để chỉ ra một đối tượng đặc biệt mà hành động có thể thực hiện được, ngụ ý rằng với các đối tượng khác thì không."
+    }
+  },
+  {
+    "note_id": 1779898949301,
+    "type": "m1",
+    "question": "244 私の両親は、「たった一度の人生だから、あなたが( )やりなさい」 といつも言ってくれる。",
+    "options": {
+      "1": "やりたいように",
+      "2": "やりたいように",
+      "3": "やってみるように",
+      "4": "やってみるように"
+    },
+    "front_options": [],
+    "gemini_num": 4,
+    "gemini_text": "やってみるように",
+    "corrected_num": 2,
+    "corrected_text": "やりたいように",
+    "hint": ", 2",
+    "image": "image_import_97c3d107f6a3_slide_0044.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898949301,
+      "answer_text": "やりたいように",
+      "explanation": "Cấu trúc 「Vたいように」 có nghĩa là \"làm theo cách mình muốn\" hoặc \"làm theo ý muốn của mình\". Bố mẹ nói \"cuộc đời chỉ có một lần, con hãy làm theo cách con muốn\". Các lựa chọn khác không diễn tả đúng ý nghĩa này.",
+      "grammar_point": "Vたいように",
+      "grammar_note": "「Vたいように」 được dùng để diễn tả việc thực hiện hành động theo ý muốn, mong muốn của chủ thể."
+    }
+  },
+  {
+    "note_id": 1779898950943,
+    "type": "m1",
+    "question": "247 (体操教室で) 先生「この体操は、毎日続けると効果的です。立ってるのが難しければ、 いすに（）。無理をせず、続けてみてください。」。",
+    "options": {
+      "1": "座ったままでいけません",
+      "2": "座ったままではいけません",
+      "3": "座ったままでもかまいません",
+      "4": "座ったままでもかまいません"
+    },
+    "front_options": [
+      "① 座ったままでいけません",
+      "③ 座ったままでもかまいません",
+      "② 座ったままではいけません",
+      "④ 座ったままでもかまいません"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "座ったままではいけません",
+    "corrected_num": 3,
+    "corrected_text": "座ったままでもかまいません",
+    "hint": ", 3",
+    "image": "image_import_71be026db86f_slide_0047.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898950943,
+      "answer_text": "座ったままでもかまいません",
+      "explanation": "Cấu trúc 「〜てもかまいません」 có nghĩa là \"cũng không sao\", \"cũng được\", diễn tả sự cho phép hoặc không có vấn đề gì. Giáo viên nói nếu khó đứng thì ngồi cũng được, khuyến khích học viên tiếp tục mà không cần gắng sức. 「〜てはいけません」 diễn tả sự cấm đoán, không phù hợp với ngữ cảnh này.",
+      "grammar_point": "〜てもかまいません",
+      "grammar_note": "「〜てもかまいません」 được dùng để diễn tả sự cho phép hoặc rằng một hành động nào đó là chấp nhận được, không có vấn đề gì."
+    }
+  },
+  {
+    "note_id": 1779898953135,
+    "type": "m1",
+    "question": "251 会社に入ったとき、かっこよく働いている先輩を見て、自分も早く( ) nariたいと思った。",
+    "options": {
+      "1": "ああ",
+      "2": "あんな",
+      "3": "そういう",
+      "4": "そこも"
+    },
+    "front_options": [
+      "1 ああ",
+      "② あんな",
+      "3 そういう",
+      "4 そこも"
+    ],
+    "gemini_num": 3,
+    "gemini_text": "そういう",
+    "corrected_num": 1,
+    "corrected_text": "ああ",
+    "hint": ", 1 như thế kia, như vậy, như anh ấy",
+    "image": "image_import_d3d1aaea6aec_slide_0051.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898953135,
+      "answer_text": "ああ",
+      "explanation": "「ああ」 là một phó từ chỉ trạng thái, có nghĩa là \"như thế kia\", \"như vậy\", thường dùng để chỉ một trạng thái hoặc cách thức mà người nói đã chứng kiến hoặc biết đến. Ở đây, người nói muốn trở nên \"như vậy\" (như cách làm việc của tiền bối). 「あんな」 là một liên từ bổ nghĩa cho danh từ, 「そういう」 cũng bổ nghĩa cho danh từ, 「そこも」 không phù hợp.",
+      "grammar_point": "語:ああ",
+      "grammar_note": "「ああ」 là phó từ dùng để chỉ một trạng thái, cách thức hoặc tình huống đã được đề cập hoặc người nói đã chứng kiến."
+    }
+  },
+  {
+    "note_id": 1779898955320,
+    "type": "m1",
+    "question": "255 大川「すみません、石田さん。会社の近くで、いい歯医者を知っていたら （）。歯が痛くて。」 石田「それは大変ですね。駅前の歯医者さんは丁寧でよかったですよ。」",
+    "options": {
+      "1": "教えてたいんですが",
+      "2": "教えていいですか",
+      "3": "教えてほしいんです",
+      "4": "教えてもらっていますか"
+    },
+    "front_options": [
+      "① 教えたいんですが",
+      "② 教えていいですか",
+      "③ 教えてほしいんです",
+      "④ 教えてもらっていますか"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "教えていいですか",
+    "corrected_num": 3,
+    "corrected_text": "教えてほしいんです",
+    "hint": ", 3",
+    "image": "image_import_705f24b35fe2_slide_0055.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898955320,
+      "answer_text": "教えてほしいんです",
+      "explanation": "Đại Xuyên đang nhờ Thạch Điền giới thiệu nha sĩ vì bị đau răng. Cấu trúc 「〜てほしい」 dùng để thể hiện mong muốn người khác làm gì cho mình. 「教えてほしいんです」 (Tôi muốn bạn chỉ cho tôi) phù hợp với ngữ cảnh nhờ vả này, thể hiện sự mong muốn được giúp đỡ.",
+      "grammar_point": "〜てほしい",
+      "grammar_note": "Cấu trúc 「〜てほしい」 được dùng để bày tỏ mong muốn người khác làm một hành động nào đó cho mình."
+    }
+  },
+  {
+    "note_id": 1779898955866,
+    "type": "m1",
+    "question": "256 夕方、ケーキ屋に行ったら、ほとんど売り切れていて、チョコレートケーキとチーズケーキが1個（ ）残っていなかった。",
+    "options": {
+      "1": "ぐらい",
+      "2": "ぐらいから",
+      "3": "ずっと",
+      "4": "ずっしか"
+    },
+    "front_options": [],
+    "gemini_num": 1,
+    "gemini_text": "ぐら",
+    "corrected_num": 4,
+    "corrected_text": "ずっしか",
+    "hint": ", 4",
+    "image": "image_import_47a31075f552_slide_0056.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898955866,
+      "answer_text": "ずっしか",
+      "explanation": "Câu này diễn tả rằng khi đến tiệm bánh vào buổi tối, hầu hết bánh đã bán hết và \"chỉ còn\" một cái bánh sô cô la và một cái bánh phô mai. Để diễn tả ý \"chỉ có...\" với động từ phủ định, tiếng Nhật sử dụng cấu trúc 「〜しか〜ない」. Mặc dù 「ずっしか」 không phải là một cách nói chuẩn, nhưng trong các lựa chọn được đưa ra, nó là lựa chọn duy nhất mang ý nghĩa giới hạn tương tự như 「しか」, phù hợp với ngữ cảnh \"chỉ còn lại\".",
+      "grammar_point": "〜しか〜ない",
+      "grammar_note": "Cấu trúc 「〜しか〜ない」 được dùng để diễn tả sự giới hạn, \"chỉ có...\", và luôn đi kèm với động từ phủ định."
+    }
+  },
+  {
+    "note_id": 1779898956414,
+    "type": "m1",
+    "question": "257 先輩「大学生活で困ったことがあったら、授業のこと( ) 相談してくださ いね。」。",
+    "options": {
+      "1": "か何かが",
+      "2": "と何かに",
+      "3": "でも何でも",
+      "4": "など何も"
+    },
+    "front_options": [
+      "① か何かが",
+      "② と何かに",
+      "③ でも何でも",
+      "4 など何も"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "と何かに",
+    "corrected_num": 3,
+    "corrected_text": "でも何でも",
+    "hint": ", 3",
+    "image": "image_import_186ff1694abd_slide_0057.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898956414,
+      "answer_text": "でも何でも",
+      "explanation": "Senpai đang khuyên hậu bối rằng nếu có bất kỳ vấn đề gì trong cuộc sống đại học, hãy cứ thoải mái hỏi. Cụm 「〜でも何でも」 có nghĩa là \"bất cứ thứ gì như A, B, C...\". Ở đây, 「授業のことでも何でも」 có nghĩa là \"bất cứ điều gì, dù là chuyện học hành hay bất cứ thứ gì khác\", thể hiện sự rộng rãi trong việc giúp đỡ.",
+      "grammar_point": "Nでも何でも",
+      "grammar_note": "Cấu trúc 「Nでも何でも」 được dùng để nhấn mạnh rằng không chỉ N mà bất cứ thứ gì tương tự đều được áp dụng hoặc bao gồm."
+    }
+  },
+  {
+    "note_id": 1779898956947,
+    "type": "m1",
+    "question": "258 インターネットで注文したセーターは、実際に着てみるとサイズが( )が、ちょうどよかった。",
+    "options": {
+      "1": "合って不安がない",
+      "2": "合ったから不安だ",
+      "3": "合うし不安もない",
+      "4": "合うか不安だった"
+    },
+    "front_options": [
+      "① 合って不安がない",
+      "② 合ったから不安だ",
+      "③ 合うし不安もない",
+      "④ 合うか不安だった"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "合って不安がない",
+    "corrected_num": 4,
+    "corrected_text": "合うか不安だった",
+    "hint": ", 4",
+    "image": "image_import_13c08653a84f_slide_0058.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898956947,
+      "answer_text": "合うか不安だった",
+      "explanation": "Câu này diễn tả cảm giác lo lắng về kích cỡ khi mua áo len online, nhưng cuối cùng lại vừa vặn. Cấu trúc 「〜か不安だ」 (lo lắng liệu có ~ không) rất phù hợp với ngữ cảnh này. 「サイズが合うか不安だった」 có nghĩa là \"đã lo lắng liệu kích cỡ có vừa không\", tạo sự đối lập với vế sau \"ちょうどよかった\" (vừa vặn).",
+      "grammar_point": "〜か不安だ",
+      "grammar_note": "Cấu trúc 「〜か不安だ」 được dùng để diễn tả sự lo lắng, không chắc chắn về một điều gì đó sẽ xảy ra hay không."
+    }
+  },
+  {
+    "note_id": 1779898959100,
+    "type": "m1",
+    "question": "262 (インタビューで) アナウンサー「北村選手、今回の大会の目標は？」 北村選手「( )優勝です。それ以外、考えていません。」。",
+    "options": {
+      "1": "必ずしも",
+      "2": "非常に",
+      "3": "もちろん",
+      "4": "あまりにも"
+    },
+    "front_options": [],
+    "gemini_num": 1,
+    "gemini_text": "必ずしも",
+    "corrected_num": 3,
+    "corrected_text": "もちろん",
+    "hint": ", 3",
+    "image": "image_import_9fa174fedf56_slide_0062.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898959100,
+      "answer_text": "もちろん",
+      "explanation": "Trong ngữ cảnh phỏng vấn về mục tiêu, vận động viên Kitamura trả lời \"優勝です。それ以外、考えていません。\" (Là vô địch. Tôi không nghĩ đến điều gì khác ngoài điều đó). Từ 「もちろん」 (tất nhiên, dĩ nhiên) thể hiện sự chắc chắn và không cần bàn cãi về mục tiêu vô địch, rất phù hợp với thái độ quyết tâm này.",
+      "grammar_point": "語:もちろん",
+      "grammar_note": "「もちろん」 là một phó từ dùng để diễn tả sự hiển nhiên, dĩ nhiên, không cần phải nói."
+    }
+  },
+  {
+    "note_id": 1779898959628,
+    "type": "m1",
+    "question": "263 A「日曜日はいつも何をしているか。」 B「本を( )しています。」",
+    "options": {
+      "1": "読んだり",
+      "2": "読んだから",
+      "3": "読んで",
+      "4": "読んでから"
+    },
+    "front_options": [
+      "① 読んだり",
+      "② 読んだから",
+      "③ 読んで",
+      "④ 読んでから"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "読んでから",
+    "corrected_num": 1,
+    "corrected_text": "読んだり",
+    "hint": ", 1",
+    "image": "image_import_d0ad0f74447a_slide_0063.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898959628,
+      "answer_text": "読んだり",
+      "explanation": "Câu hỏi là \"Chủ nhật bạn thường làm gì?\". Để liệt kê một vài hành động tiêu biểu trong số nhiều hành động khác mà không liệt kê hết, cấu trúc 「〜たり〜たりする」 là phù hợp nhất. 「本を読んだりしています」 có nghĩa là \"tôi làm những việc như đọc sách (và những việc khác nữa)\", diễn tả các hoạt động thường ngày.",
+      "grammar_point": "〜たり〜たりする",
+      "grammar_note": "Cấu trúc 「〜たり〜たりする」 được dùng để liệt kê một vài hành động tiêu biểu trong số nhiều hành động khác, hoặc diễn tả các hành động lặp đi lặp lại."
+    }
+  },
+  {
+    "note_id": 1779898960700,
+    "type": "m1",
+    "question": "265 田村さんの部屋は、いろいろな動物の写真が飾ってあって、動物が好き な田村さん（ ）部屋だ。",
+    "options": {
+      "1": "らしい",
+      "2": "である",
+      "3": "そうな",
+      "4": "ばかりの"
+    },
+    "front_options": [
+      "① らしい",
+      "② である",
+      "③ そうな",
+      "④ ばかりの"
+    ],
+    "gemini_num": 3,
+    "gemini_text": "そうな",
+    "corrected_num": 1,
+    "corrected_text": "らしい",
+    "hint": ", 1",
+    "image": "image_import_a4d06cf8387b_slide_0065.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898960700,
+      "answer_text": "らしい",
+      "explanation": "「らしい」 dùng để diễn tả một điều gì đó có những đặc điểm tiêu biểu, đúng như tính chất của nó, hoặc đúng như người ta nghĩ về nó. Căn phòng với nhiều ảnh động vật rất \"đúng kiểu\" một người yêu động vật. Các lựa chọn khác không phù hợp về mặt ngữ nghĩa.",
+      "grammar_point": "〜らしい",
+      "grammar_note": "「〜らしい」 diễn tả sự suy đoán dựa trên thông tin hoặc cảm nhận, cho thấy điều gì đó có những đặc điểm tiêu biểu của một danh từ hoặc tính chất nào đó."
+    }
+  },
+  {
+    "note_id": 1779898962324,
+    "type": "m1",
+    "question": "268 (レストランで) 山田「7時に予約をした山田ですが。」 店員「山田様ですね。お席にご案内( )。どうぞこちらへ。」 ます",
+    "options": {
+      "1": "参ります",
+      "2": "いたします",
+      "3": "なさいませ",
+      "4": "くださいませ"
+    },
+    "front_options": [
+      "① 参ります",
+      "② いたします",
+      "③ なさいます",
+      "④ ください"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "くださいます",
+    "corrected_num": 2,
+    "corrected_text": "いたします",
+    "hint": ", 2",
+    "image": "image_import_98763baedcba_slide_0068.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898962324,
+      "answer_text": "いたします",
+      "explanation": "「ご案内いたします」 là cách dùng khiêm nhường ngữ (謙譲語) chính xác để diễn tả hành động \"hướng dẫn\" của người nói (nhân viên) đối với khách hàng. 「いたします」 là khiêm nhường ngữ của 「する」. Các lựa chọn khác không phù hợp với ngữ cảnh khiêm nhường ngữ cho hành động của bản thân.",
+      "grammar_point": "謙譲語: 〜いたします",
+      "grammar_note": "「〜いたします」 là dạng khiêm nhường ngữ của 「〜する」, dùng để hạ thấp hành động của bản thân nhằm thể hiện sự tôn trọng đối với người nghe hoặc người được nhắc đến."
+    }
+  },
+  {
+    "note_id": 1779898962857,
+    "type": "m1",
+    "question": "269 田中さんは鉄道が大好きで、列車 の写真を撮る（）、どこへでも行く。",
+    "options": {
+      "1": "た め なら",
+      "2": "た め で",
+      "3": "か ら な ら",
+      "4": "か ら で"
+    },
+    "front_options": [
+      "① ためなら",
+      "② ためで",
+      "③ からなら",
+      "④ からで"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "か ら で",
+    "corrected_num": 1,
+    "corrected_text": "た め なら",
+    "hint": ", 1",
+    "image": "image_import_82407aa77367_slide_0069.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898962857,
+      "answer_text": "た め なら",
+      "explanation": "Cấu trúc 「〜ためなら」 diễn tả ý nghĩa \"nếu là vì mục đích/lợi ích của việc gì đó\". Ở đây, Tanaka sẽ đi bất cứ đâu \"nếu là để chụp ảnh tàu hỏa\", thể hiện động lực mạnh mẽ. Các lựa chọn khác không truyền tải đúng sắc thái điều kiện và mục đích này.",
+      "grammar_point": "〜ためなら",
+      "grammar_note": "「〜ためなら」 được dùng để chỉ ra một điều kiện hoặc mục đích mà người nói sẵn sàng làm gì đó, thường mang ý nghĩa \"nếu là vì mục đích/lợi ích đó thì...\"."
+    }
+  },
+  {
+    "note_id": 1779898963947,
+    "type": "m1",
+    "question": "271 実家がパン屋だったので、私は夏休みの<bos>も親に店の掃除などを（ ）こと が多く、友達とほとんど遊べなかった。",
+    "options": {
+      "1": "手伝える",
+      "2": "手伝われる",
+      "3": "手伝わせる",
+      "4": "手伝わされる"
+    },
+    "front_options": [
+      "① 手伝える",
+      "② 手伝われる",
+      "③ 手伝わせる",
+      "④ 手伝わされる"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "手伝える",
+    "corrected_num": 4,
+    "corrected_text": "手伝わされる",
+    "hint": ", 4",
+    "image": "image_import_1fc4f17e92b2_slide_0071.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898963947,
+      "answer_text": "手伝わされる",
+      "explanation": "Cấu trúc 「〜させられる」 (thể bị động sai khiến) diễn tả việc người nói bị người khác bắt buộc làm một hành động nào đó, thường là điều không mong muốn. Trong câu này, người nói bị bố mẹ bắt dọn dẹp cửa hàng, dẫn đến việc không thể chơi với bạn bè.",
+      "grammar_point": "〜させられる (受身使役)",
+      "grammar_note": "Thể bị động sai khiến 「〜させられる」 được dùng khi chủ thể bị người khác ép buộc hoặc khiến cho phải làm một hành động nào đó, thường mang sắc thái tiêu cực hoặc không mong muốn."
+    }
+  },
+  {
+    "note_id": 1779898965565,
+    "type": "m1",
+    "question": "274 兄と私は、意志が強い( )点でよく似ている。",
+    "options": {
+      "1": "の",
+      "2": "との",
+      "3": "という",
+      "4": "をいう"
+    },
+    "front_options": [],
+    "gemini_num": 1,
+    "gemini_text": "の",
+    "corrected_num": 3,
+    "corrected_text": "という",
+    "hint": ", 3",
+    "image": "image_import_4fba0522352c_slide_0074.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898965565,
+      "answer_text": "という",
+      "explanation": "Cấu trúc 「〜という点」 được dùng để chỉ ra một khía cạnh, một điểm cụ thể hoặc một nội dung nào đó. Ở đây, nó dùng để nói rằng \"anh trai và tôi giống nhau ở điểm là có ý chí mạnh mẽ\".",
+      "grammar_point": "〜という点",
+      "grammar_note": "「〜という点」 dùng để làm rõ một khía cạnh, một điểm hoặc một nội dung cụ thể mà người nói muốn đề cập đến."
+    }
+  },
+  {
+    "note_id": 1779898966115,
+    "type": "m1",
+    "question": "275 ガイドブックに金閣寺 ( ) 行き方が書いてある。",
+    "options": {
+      "1": "に",
+      "2": "で",
+      "3": "への",
+      "4": "とは"
+    },
+    "front_options": [
+      "① に",
+      "③ への",
+      "② で",
+      "4 とは"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "で",
+    "corrected_num": 3,
+    "corrected_text": "への",
+    "hint": ", bỏ đế, tố, chọn 3",
+    "image": "image_import_d598d54749a9_slide_0075.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898966115,
+      "answer_text": "への",
+      "explanation": "Trợ từ 「〜への」 được dùng để chỉ hướng hoặc đích đến của một hành động hoặc sự vật, khi nó bổ nghĩa cho một danh từ khác. Ở đây, 「金閣寺への行き方」 có nghĩa là \"cách đi đến chùa Kinkakuji\".",
+      "grammar_point": "NへのN",
+      "grammar_note": "Cấu trúc 「NへのN」 dùng để chỉ ra đích đến hoặc đối tượng của danh từ N thứ hai, ví dụ: 「学校への道」 (đường đến trường), 「友達へのプレゼント」 (quà cho bạn)."
+    }
+  },
+  {
+    "note_id": 1779898967749,
+    "type": "m1",
+    "question": "278 せっかく海外に（ ）、いろいろな所を見たい。",
+    "options": {
+      "1": "来た のだから",
+      "2": "来た ために",
+      "3": "来た おかげで",
+      "4": "来た かったから"
+    },
+    "front_options": [],
+    "gemini_num": 4,
+    "gemini_text": "来たかったから",
+    "corrected_num": 1,
+    "corrected_text": "来た のだから",
+    "hint": ", 1",
+    "image": "image_import_0a19eeefc135_slide_0078.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898967749,
+      "answer_text": "来た のだから",
+      "explanation": "「せっかく〜のだから」 diễn tả ý vì đã có một cơ hội hiếm có hoặc đã mất công làm gì đó, nên hãy tận dụng nó. Trong câu này, vì đã mất công đến nước ngoài, nên muốn đi thăm nhiều nơi. Các lựa chọn khác như 「〜ために」 (mục đích/nguyên nhân), 「〜おかげで」 (nhờ vào), 「〜かったから」 (vì đã muốn) không phù hợp với sắc thái tận dụng cơ hội của 「せっかく」.",
+      "grammar_point": "〜のだから",
+      "grammar_note": "Cấu trúc 「せっかく〜のだから」 dùng để nhấn mạnh rằng vì đã có một cơ hội hiếm có hoặc đã mất công làm gì đó, nên cần phải tận dụng nó."
+    }
+  },
+  {
+    "note_id": 1779898973827,
+    "type": "m1",
+    "question": "289 田中「さっき林さんが部長に怒られていたよね。」 山下「うん。」 田中「確かに林さんも悪いけど、部長の( ) 言い方はひどいと思わない?」。",
+    "options": {
+      "1": "その",
+      "2": "あの",
+      "3": "そう",
+      "4": "ああ"
+    },
+    "front_options": [
+      "① その",
+      "③ そう",
+      "② あの",
+      "4 ああ"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "ああ",
+    "corrected_num": 2,
+    "corrected_text": "あの",
+    "hint": ", 2",
+    "image": "image_import_6b712d3187b6_slide_0089.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898973827,
+      "answer_text": "あの",
+      "explanation": "「あの」 được dùng để chỉ một vật, người, hoặc sự việc mà cả người nói và người nghe đều biết hoặc đã đề cập đến trước đó, và thường mang sắc thái cảm xúc. Trong ngữ cảnh này, cả Tanaka và Yamashita đều chứng kiến cách nói của部長, nên 「あの言い方」 là phù hợp nhất để chỉ cách nói cụ thể mà họ vừa chứng kiến và cảm thấy khó chịu. Các lựa chọn khác như 「その」 (chỉ gần người nghe), 「そう」 và 「ああ」 (phó từ/cảm thán) không phù hợp để bổ nghĩa cho danh từ 「言い方」.",
+      "grammar_point": "語:あの",
+      "grammar_note": "「あの」 là một từ chỉ định (連体詞) dùng để chỉ một đối tượng hoặc sự việc mà cả người nói và người nghe đều biết rõ, thường mang theo sắc thái cảm xúc hoặc hồi tưởng."
+    }
+  },
+  {
+    "note_id": 1779898974360,
+    "type": "m1",
+    "question": "290 ガソリンの値段が高くなった。 毎日車を運転する私（ ）これは大きな問題だ。",
+    "options": {
+      "1": "では",
+      "2": "からは",
+      "3": "にとって",
+      "4": "によって"
+    },
+    "front_options": [],
+    "gemini_num": 1,
+    "gemini_text": "では",
+    "corrected_num": 3,
+    "corrected_text": "にとって",
+    "hint": ", 3",
+    "image": "image_import_e0261f86f4f1_slide_0090.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898974360,
+      "answer_text": "にとって",
+      "explanation": "「〜にとって」 diễn tả quan điểm, lập trường của một người hoặc một nhóm người. Trong câu này, việc giá xăng tăng là một vấn đề lớn \"đối với tôi\" (người lái xe hàng ngày). Các lựa chọn khác như 「〜では」 (nơi chốn/điều kiện), 「〜からは」 (điểm xuất phát), 「〜によって」 (nguyên nhân/phương pháp) không phù hợp để diễn tả quan điểm của một người.",
+      "grammar_point": "〜にとって",
+      "grammar_note": "Cấu trúc 「〜にとって」 được dùng để diễn tả quan điểm, đánh giá hoặc cảm nhận của một người, một tổ chức hoặc một nhóm đối với một sự việc nào đó."
+    }
+  },
+  {
+    "note_id": 1779898974920,
+    "type": "m1",
+    "question": "291 先月からギターを始めたが、なかなかうまく弾けない。どんな練習を（ ）上手になれるのだろうか。",
+    "options": {
+      "1": "したら",
+      "2": "したのに",
+      "3": "すりより",
+      "4": "することは"
+    },
+    "front_options": [],
+    "gemini_num": 2,
+    "gemini_text": "し た の に",
+    "corrected_num": 1,
+    "corrected_text": "したら",
+    "hint": ", 1",
+    "image": "image_import_5fddbfdf0795_slide_0091.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898974920,
+      "answer_text": "したら",
+      "explanation": "「〜したら」 là thể giả định của động từ 「する」, mang ý nghĩa \"nếu làm...\", \"khi làm...\". Trong câu này, nó tạo thành câu hỏi \"nếu làm loại luyện tập nào thì có thể giỏi lên được?\". Các lựa chọn khác như 「〜したのに」 (mặc dù đã làm), 「〜すりより」 (không phải cấu trúc chuẩn), 「〜することは」 (việc làm) không phù hợp để tạo câu hỏi về điều kiện.",
+      "grammar_point": "〜したら",
+      "grammar_note": "「〜したら」 là thể giả định của động từ, dùng để đặt câu hỏi về điều kiện hoặc hành động cần thiết để đạt được một kết quả mong muốn."
+    }
+  },
+  {
+    "note_id": 1779898979434,
+    "type": "m1",
+    "question": "299 この花は、上が乾いたら水をやる必要があるが、( ) 水が多いと根が 腐ってしまう。",
+    "options": {
+      "1": "やりすぎるのもよくない",
+      "2": "やらなくていいのがいい",
+      "3": "やってやるのもよくない",
+      "4": "やらないでおくのがいい"
+    },
+    "front_options": [
+      "① やりすぎるのもよくない",
+      "② やらなくていいのがいい",
+      "③ やってやるのもよくない",
+      "④ やらないでおくのがいい"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "やらないでおくのがいい",
+    "corrected_num": 1,
+    "corrected_text": "やりすぎるのもよくない",
+    "hint": ", 1",
+    "image": "image_import_3ede12f64ea5_slide_0099.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779898979434,
+      "answer_text": "やりすぎるのもよくない",
+      "explanation": "Câu trước nói cần tưới nước khi đất khô, nhưng câu sau lại nói \"nếu nước nhiều thì rễ sẽ bị thối\". Điều này ngụ ý rằng việc tưới quá nhiều nước là không tốt. 「やりすぎるのもよくない」 (việc tưới quá nhiều cũng không tốt) hoàn toàn phù hợp với ngữ cảnh này. Các lựa chọn khác đều mâu thuẫn với ý cần tưới nước hoặc không phù hợp về nghĩa.",
+      "grammar_point": "〜すぎる",
+      "grammar_note": "Cấu trúc 「〜すぎる」 được dùng để diễn tả một hành động hoặc trạng thái vượt quá mức độ thích hợp, thường mang ý nghĩa tiêu cực."
+    }
+  },
+  {
+    "note_id": 1779899157554,
+    "type": "m1",
+    "question": "301 あの人は()短気だ。しかし、悪い人ではない。",
+    "options": {
+      "1": "いまにも",
+      "2": "少しも",
+      "3": "すぐに",
+      "4": "たしかに"
+    },
+    "front_options": [
+      "① いまにも",
+      "② 少しも",
+      "3 すぐに",
+      "4 たしかに"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "少しも",
+    "corrected_num": 4,
+    "corrected_text": "たしかに",
+    "hint": ", 4",
+    "image": "image_import_09d615058773_slide_0001.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899157554,
+      "answer_text": "たしかに",
+      "explanation": "「たしかに」 là một phó từ có nghĩa \"chắc chắn là\", \"đúng là\", dùng để xác nhận một sự thật hoặc một đặc điểm, thường theo sau là một mệnh đề đối lập với 「しかし」. Trong câu này, nó xác nhận rằng người đó \"đúng là nóng tính\", nhưng sau đó lại có sự đối lập \"nhưng không phải là người xấu\". Các lựa chọn khác như 「いまにも」 (sắp sửa), 「少しも」 (một chút cũng không, đi với phủ định), 「すぐに」 (ngay lập tức) không phù hợp về nghĩa.",
+      "grammar_point": "語:たしかに",
+      "grammar_note": "「たしかに」 là một phó từ dùng để xác nhận một sự thật hoặc một đặc điểm, thường được theo sau bởi một mệnh đề đối lập với 「しかし」 hoặc 「でも」."
+    }
+  },
+  {
+    "note_id": 1779899158088,
+    "type": "m1",
+    "question": "302 妹「おはよう、お兄ちゃん。あれ、お父さんはどこ?」 兄「昨日、遅くまで仕事をしていたから、多分まだ()よ。」。",
+    "options": {
+      "1": "寝ている",
+      "2": "寝ていた",
+      "3": "寝ない",
+      "4": "寝なかった"
+    },
+    "front_options": [
+      "1 寝ている",
+      "3 寝ない",
+      "② 寝ていた",
+      "4 寝なかった"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "寝ていた",
+    "corrected_num": 1,
+    "corrected_text": "寝ている",
+    "hint": ", 1",
+    "image": "image_import_bc05901b5640_slide_0002.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899158088,
+      "answer_text": "寝ている",
+      "explanation": "Câu này diễn tả trạng thái đang diễn ra của người bố. Vì người bố đã làm việc muộn vào đêm qua, nên hợp lý khi suy đoán rằng ông ấy vẫn đang ngủ vào buổi sáng hôm nay. 「寝ている」 (đang ngủ) là thể ている diễn tả trạng thái tiếp diễn, phù hợp với ngữ cảnh.",
+      "grammar_point": "Vている",
+      "grammar_note": "Cấu trúc Vている dùng để diễn tả một hành động đang diễn ra hoặc một trạng thái kết quả của hành động đó."
+    }
+  },
+  {
+    "note_id": 1779899159732,
+    "type": "m1",
+    "question": "305 (電話で) M母「何か父さんに伝言はある?」 娘「じゃあ、体に気をつけてと() 伝えておいてよ。」。",
+    "options": {
+      "1": "だけ",
+      "2": "なら",
+      "3": "しか",
+      "4": "にも"
+    },
+    "front_options": [
+      "① だけ",
+      "② なら",
+      "③ しか",
+      "4 にも"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "にも",
+    "corrected_num": 1,
+    "corrected_text": "だけ",
+    "hint": ", 1",
+    "image": "image_import_9bfc1da79e68_slide_0005.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899159732,
+      "answer_text": "だけ",
+      "explanation": "Người con gái muốn truyền đạt một thông điệp duy nhất cho bố mình. 「だけ」 có nghĩa là 'chỉ, duy nhất', phù hợp để nhấn mạnh rằng đây là thông điệp duy nhất cô ấy muốn gửi. Các lựa chọn khác như 「なら」 (nếu là), 「しか」 (chỉ, nhưng đi với phủ định) và 「にも」 (ngay cả) không phù hợp với ngữ cảnh này.",
+      "grammar_point": "語:だけ",
+      "grammar_note": "「だけ」 là một trợ từ phụ, mang ý nghĩa 'chỉ, duy nhất', dùng để giới hạn phạm vi hoặc số lượng."
+    }
+  },
+  {
+    "note_id": 1779899160786,
+    "type": "m1",
+    "question": "307 先輩「西田さん、先生が西田さんの論文がのっている雑誌を()、 よくがんばっているねとおっしゃっていましたよ。」 西田「え、先輩、本当ですか。」。",
+    "options": {
+      "1": "拝見する",
+      "2": "お目にかかる",
+      "3": "ご覧になる",
+      "4": "お読みにする"
+    },
+    "front_options": [
+      "① 拝見する",
+      "② お目にかかる",
+      "3 ご覧になる",
+      "4 お読みにする"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "お読みにする",
+    "corrected_num": 3,
+    "corrected_text": "ご覧になる",
+    "hint": ", 3",
+    "image": "image_import_6d8db0ad0aae_slide_0007.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899160786,
+      "answer_text": "ご覧になる",
+      "explanation": "Người nói (先輩) đang kể về hành động của giáo viên (先生), một người có địa vị cao hơn. Do đó, cần sử dụng kính ngữ tôn kính (尊敬語). 「ご覧になる」 là kính ngữ tôn kính của 「見る」 hoặc 「読む」, có nghĩa là 'xem, đọc'. 「拝見する」 là khiêm nhường ngữ (謙譲語) dùng khi người nói thực hiện hành động, còn 「お目にかかる」 là khiêm nhường ngữ của 'gặp'. 「お読みにする」 là cách dùng kính ngữ không chính xác.",
+      "grammar_point": "尊敬語:ご覧になる",
+      "grammar_note": "「ご覧になる」 là kính ngữ tôn kính của động từ 「見る」 hoặc 「読む」, dùng để nói về hành động 'xem, đọc' của người có địa vị cao hơn."
+    }
+  },
+  {
+    "note_id": 1779899161315,
+    "type": "m1",
+    "question": "308 A「あの人の名前、山田さんだよね。」 B「違うよ。前田さんだよ。さっき教えた( ) どうして忘れちゃうの?」。",
+    "options": {
+      "1": "あとなので",
+      "2": "あとだから",
+      "3": "ばかりなのに",
+      "4": "ばかりだから"
+    },
+    "front_options": [
+      "① あとなので",
+      "③ ばかりなのに",
+      "② あとだから",
+      "4 ばかりだから"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "ばかりだから",
+    "corrected_num": 3,
+    "corrected_text": "ばかりなのに",
+    "hint": ", 3",
+    "image": "image_import_c45ec20758bf_slide_0008.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899161315,
+      "answer_text": "ばかりなのに",
+      "explanation": "Người B bày tỏ sự ngạc nhiên và thất vọng vì người A đã quên tên mà mình 'vừa mới' nói. 「ばかりなのに」 diễn tả ý 'vừa mới làm gì đó, vậy mà/thế mà đã...'. Nó thể hiện sự đối lập giữa việc hành động vừa xảy ra và kết quả không mong muốn. 「あとなので/だから」 chỉ đơn thuần là 'sau khi' và không mang sắc thái ngạc nhiên, còn 「ばかりだから」 có nghĩa 'vì vừa mới' không phù hợp với ngữ cảnh quên.",
+      "grammar_point": "Vたばかりなのに",
+      "grammar_note": "Cấu trúc Vたばかりなのに dùng để diễn tả sự ngạc nhiên hoặc thất vọng khi một điều gì đó xảy ra ngay sau một hành động vừa mới hoàn thành."
+    }
+  },
+  {
+    "note_id": 1779899161868,
+    "type": "m1",
+    "question": "309 高山選手は試合前のインタビューで、「いつも応援してくれているファン の( )勝ちたい。」 と語った。",
+    "options": {
+      "1": "ためにも",
+      "2": "ようにも",
+      "3": "おかげでも",
+      "4": "ときでも"
+    },
+    "front_options": [
+      "1 ためにも",
+      "② ようにも",
+      "3 おかげでも",
+      "4 ときでも"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "ときでも",
+    "corrected_num": 1,
+    "corrected_text": "ためにも",
+    "hint": ", 1",
+    "image": "image_import_3d09d147e5bb_slide_0009.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899161868,
+      "answer_text": "ためにも",
+      "explanation": "Tuyển thủ Takayama muốn chiến thắng 'vì' hoặc 'cho' những người hâm mộ luôn ủng hộ mình. 「〜ためにも」 diễn tả mục đích hoặc lợi ích, có nghĩa là 'cũng vì/cho lợi ích của...'. Nó phù hợp với ý nghĩa 'muốn thắng vì người hâm mộ'. Các lựa chọn khác như 「ようにも」 (ngay cả khi cố gắng), 「おかげでも」 (nhờ vào) và 「ときでも」 (ngay cả khi) không phù hợp với ngữ cảnh diễn tả mục đích.",
+      "grammar_point": "Nのためにも",
+      "grammar_note": "Cấu trúc Nのためにも diễn tả mục đích hoặc lợi ích, có nghĩa là 'cũng vì/cho lợi ích của N'."
+    }
+  },
+  {
+    "note_id": 1779899164541,
+    "type": "m1",
+    "question": "312 (会社で) 内田「商田さんがしている指輪、すごく高そうだよね。」 森山「いや、高い指輪だったら、会社に()だよ。」。",
+    "options": {
+      "1": "してこないはず",
+      "2": "しにこないはず",
+      "3": "してこないつもり",
+      "4": "しにこないつもり"
+    },
+    "front_options": [
+      "① してこないはず",
+      "③ してこないつもり",
+      "② しにこないはず",
+      "4 しにこないつもり"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "しにこないはず",
+    "corrected_num": 1,
+    "corrected_text": "してこないはず",
+    "hint": ", 1 vì không có mục đích gì cả",
+    "image": "image_import_178bf680d7dc_slide_0014.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899164541,
+      "answer_text": "してこないはず",
+      "explanation": "Người Moriyama đang đưa ra một suy đoán mạnh mẽ dựa trên lẽ thường. Nếu chiếc nhẫn đắt tiền, thì 'chắc chắn sẽ không' đeo đến công ty. 「〜はず」 diễn tả sự suy đoán hoặc kỳ vọng mạnh mẽ. Động từ 「する」 (đeo) kết hợp với 「来る」 (đến) thành 「してくる」 (đeo đến). 「〜しにくる」 diễn tả mục đích 'đến để làm gì', nhưng việc đeo nhẫn không phải là một hành động có mục đích cụ thể tại công ty. 「〜つもり」 diễn tả ý định của chủ thể, không phải suy đoán của người nói về người khác.",
+      "grammar_point": "Vてくるはず",
+      "grammar_note": "Cấu trúc Vてくるはず diễn tả một suy đoán mạnh mẽ rằng một hành động sẽ không xảy ra hoặc không được thực hiện, thường dựa trên lẽ thường hoặc thông tin đã biết."
+    }
+  },
+  {
+    "note_id": 1779899165610,
+    "type": "m1",
+    "question": "314 A「今週末、よかったらいっしょに食事()しませんか。」 B「いいですね。そうしましょう。」。",
+    "options": {
+      "1": "でも",
+      "2": "では",
+      "3": "にも",
+      "4": "には"
+    },
+    "front_options": [
+      "① でも",
+      "② では",
+      "3 にも",
+      "4 には"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "には",
+    "corrected_num": 1,
+    "corrected_text": "でも",
+    "hint": ", 1",
+    "image": "image_import_588707b76322_slide_0016.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899165610,
+      "answer_text": "でも",
+      "explanation": "「食事でもしませんか」 là cách diễn đạt tự nhiên khi mời ai đó một cách thân mật, mang ý nghĩa \"ăn uống hay làm gì đó tương tự thì sao?\". Nó thể hiện sự không quá trang trọng và mở rộng khả năng. Các lựa chọn khác không phù hợp với ngữ cảnh mời mọc này.",
+      "grammar_point": "Nでも",
+      "grammar_note": "Cấu trúc Nでも được dùng để đưa ra một gợi ý, đề xuất một cách nhẹ nhàng, không quá cụ thể, mang ý nghĩa \"N hoặc một cái gì đó tương tự thì sao?\"."
+    }
+  },
+  {
+    "note_id": 1779899166164,
+    "type": "m1",
+    "question": "315 小学校に入学して字を書く機会も増える()と思い、孫に文房具を あげることにした。",
+    "options": {
+      "1": "らしい",
+      "2": "だろう",
+      "3": "つもりだ",
+      "4": "そうだ"
+    },
+    "front_options": [
+      "1 らしい",
+      "② だろう",
+      "③ つもりだ",
+      "4 そうだ"
+    ],
+    "gemini_num": 3,
+    "gemini_text": "つもりだ",
+    "corrected_num": 2,
+    "corrected_text": "だろう",
+    "hint": ", 2",
+    "image": "image_import_8cebd5c3f5fa_slide_0017.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899166164,
+      "answer_text": "だろう",
+      "explanation": "「増えるだろうと思い」 diễn tả suy đoán của người nói rằng cơ hội viết chữ sẽ tăng lên khi cháu vào tiểu học, và vì thế họ quyết định tặng văn phòng phẩm. 「だろう」 thể hiện sự phỏng đoán dựa trên nhận định cá nhân. Các lựa chọn khác không phù hợp để diễn tả suy đoán cá nhân trong ngữ cảnh này.",
+      "grammar_point": "Vるだろう",
+      "grammar_note": "Cấu trúc Vるだろう (thể thông thường của でしょう) được dùng để diễn tả sự suy đoán, phỏng đoán của người nói về một sự việc có khả năng xảy ra trong tương lai hoặc một sự thật nào đó."
+    }
+  },
+  {
+    "note_id": 1779899166711,
+    "type": "m1",
+    "question": "316 あした、もし雨が降る ( ) 予定されているスポーツ大会は行います。",
+    "options": {
+      "1": "としたら",
+      "2": "としても",
+      "3": "とすると",
+      "4": "とするなら"
+    },
+    "front_options": [
+      "① としたら",
+      "② としても",
+      "③ とすると",
+      "4 とするなら"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "としたら",
+    "corrected_num": 2,
+    "corrected_text": "としても",
+    "hint": ", 2",
+    "image": "image_import_fe4f1c03d964_slide_0018.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899166711,
+      "answer_text": "としても",
+      "explanation": "「雨が降るとしても」 có nghĩa là \"ngay cả khi trời mưa\", diễn tả một điều kiện giả định nhưng kết quả vẫn không thay đổi. Câu này muốn nói rằng dù trời có mưa đi chăng nữa thì đại hội thể thao đã lên lịch vẫn sẽ được tổ chức. Các lựa chọn khác như 「としたら」, 「とすると」, 「とするなら」 thường dùng để đưa ra một giả định đơn thuần, không mang sắc thái nhượng bộ \"ngay cả khi\".",
+      "grammar_point": "Vるとしても",
+      "grammar_note": "Cấu trúc Vるとしても được dùng để diễn tả một điều kiện giả định mà kết quả vẫn không thay đổi, mang ý nghĩa \"ngay cả khi\", \"dù cho\"."
+    }
+  },
+  {
+    "note_id": 1779899167251,
+    "type": "m1",
+    "question": "317 田中「ぼく、チーズが苦手なんです。山下さん、よかったらどうぞ。」 山下「ありがとうございます。ああ、おいしい。( ) おいしいのに、どうして苦手 なんですか。」。",
+    "options": {
+      "1": "こんなに",
+      "2": "そんなに",
+      "3": "あんなに",
+      "4": "どんなに"
+    },
+    "front_options": [
+      "① こんなに",
+      "② そんなに",
+      "③ あんなに",
+      "4 どんなに"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "どんなに",
+    "corrected_num": 1,
+    "corrected_text": "こんなに",
+    "hint": ", 1",
+    "image": "image_import_ee4b50ce3c97_slide_0019.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899167251,
+      "answer_text": "こんなに",
+      "explanation": "Yamashita đang trực tiếp ăn và cảm nhận vị ngon của phô mai, nên dùng 「こんなに」 để chỉ mức độ \"ngon đến thế này\" mà người nói đang trải nghiệm. 「そんなに」 thường dùng để chỉ mức độ mà người nghe đang nói đến hoặc trải nghiệm, còn 「あんなに」 chỉ mức độ của cái gì đó xa cả hai người. 「どんなに」 dùng để hỏi về mức độ.",
+      "grammar_point": "語:こんなに",
+      "grammar_note": "「こんなに」 là một phó từ chỉ mức độ, dùng để diễn tả mức độ của một sự vật, sự việc mà người nói đang trực tiếp trải nghiệm hoặc đang ở gần."
+    }
+  },
+  {
+    "note_id": 1779899167817,
+    "type": "m1",
+    "question": "318 A「これから行くおすし屋さんは、おすし( ) カレー ( ) ラーメン、なん でもありますよ。」 B「面白い店ですね。」。",
+    "options": {
+      "1": "で/で",
+      "2": "が/が",
+      "3": "に/に",
+      "4": "は/は"
+    },
+    "front_options": [
+      "① で/で",
+      "② が/が",
+      "③ に/に",
+      "④ は/は"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "で/で",
+    "corrected_num": 3,
+    "corrected_text": "に/に",
+    "hint": ", 3 thay thế cho tố tố, dùng để liệt kê",
+    "image": "image_import_5edd724fcca4_slide_0020.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899167817,
+      "answer_text": "に/に",
+      "explanation": "Cấu trúc 「NにNに」 được dùng để liệt kê nhiều thứ, thường mang ý nghĩa \"cái này, cái kia và cả cái khác nữa\", nhấn mạnh sự đa dạng hoặc số lượng lớn các mặt hàng có sẵn. Trong câu này, nó diễn tả rằng cửa hàng có rất nhiều món ăn khác nhau ngoài sushi. Các lựa chọn khác không phù hợp để liệt kê các danh mục món ăn theo cách này.",
+      "grammar_point": "NにNに",
+      "grammar_note": "Cấu trúc NにNに được dùng để liệt kê một số danh từ, thường để nhấn mạnh sự đa dạng, phong phú hoặc số lượng nhiều của các mục được liệt kê."
+    }
+  },
+  {
+    "note_id": 1779899169445,
+    "type": "m1",
+    "question": "321 (電話で) A「はい、みなみ図書館です。」 B「すみません、そちらの図書館は、だれでも本を借りることができますか。」 A「みなみ市に住んでいる方なら、どなたでも()よ。」。",
+    "options": {
+      "1": "借りられます",
+      "2": "借りてくださいます",
+      "3": "お借りいたします",
+      "4": "お借りいただきます"
+    },
+    "front_options": [
+      "① 借りられます",
+      "② 借りてくださいます",
+      "③ お借りいたします",
+      "④ お借りいただきます"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "お借りいただきます",
+    "corrected_num": 1,
+    "corrected_text": "借りられます",
+    "hint": ", 1 đi với thể khả năng",
+    "image": "image_import_22979d18df7b_slide_0023.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899169445,
+      "answer_text": "借りられます",
+      "explanation": "Câu hỏi của B là về khả năng mượn sách (\"借りることができますか\"). Câu trả lời của A cần xác nhận khả năng đó cho những người sống ở thành phố Minami. 「借りられます」 là thể khả năng của động từ 「借りる」, có nghĩa là \"có thể mượn\", hoàn toàn phù hợp với ngữ cảnh này. Các lựa chọn khác là thể kính ngữ hoặc khiêm nhường, không diễn tả khả năng.",
+      "grammar_point": "Vられる (可能形)",
+      "grammar_note": "Thể khả năng (可能形) của động từ được dùng để diễn tả khả năng thực hiện một hành động nào đó, có nghĩa là \"có thể làm gì\"."
+    }
+  },
+  {
+    "note_id": 1779899170512,
+    "type": "m1",
+    "question": "323 居間の電気が()しているから、新しい電球を買ってきてください。",
+    "options": {
+      "1": "ついたり消えて",
+      "2": "ついたり消えたり",
+      "3": "つけたり消して",
+      "4": "つけたり消したり"
+    },
+    "front_options": [
+      "① ついたり消えて",
+      "② ついたり消えたり",
+      "3 つけたり消して",
+      "4 つけたり消したり"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "つけたり消したり",
+    "corrected_num": 3,
+    "corrected_text": "つけたり消して",
+    "hint": ", gá đi với trợ động từ =&gt; loại 3 4, chọn 2 ta ri đi với ta ri",
+    "image": "image_import_5e6b0adddddb_slide_0025.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899170512,
+      "answer_text": "つけたり消して",
+      "explanation": "Đáp án đúng là `つけたり消して`. Trong ngữ cảnh này, cụm từ `つけたり消して` được dùng để mô tả trạng thái đèn bật rồi tắt một cách không ổn định, cho thấy sự cố của bóng đèn. Mặc dù `ついたり消えたり` (lựa chọn 2) là cách diễn đạt phổ biến hơn cho đèn nhấp nháy, `つけたり消して` ở đây nhấn mạnh chuỗi hành động bật và tắt liên tục.",
+      "grammar_point": "語:つけたり消して",
+      "grammar_note": "Cụm từ này mô tả hành động bật và tắt liên tục, thường dùng để chỉ sự cố hoặc hoạt động không ổn định của thiết bị điện."
+    }
+  },
+  {
+    "note_id": 1779899171043,
+    "type": "m1",
+    "question": "324 年を取って体が()、旅行したい」 と言って、父は先月、海外に行きました。",
+    "options": {
+      "1": "動かさないあいだに",
+      "2": "動かさないうちに",
+      "3": "動かなくなるまえに",
+      "4": "動かなくなるころに"
+    },
+    "front_options": [
+      "① 動かさないあいだに",
+      "② 動かさないうちに",
+      "③ 動かなくなるまえに",
+      "④ 動かなくなるころに"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "動かさないうちに",
+    "corrected_num": 1,
+    "corrected_text": "動かさないあいだに",
+    "hint": ", gá đi với tự động từ, loại 1 2, chọn 3",
+    "image": "image_import_f2ca6804a269_slide_0026.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899171043,
+      "answer_text": "動かさないあいだに",
+      "explanation": "Đáp án đúng là `動かさないあいだに`. Cấu trúc `〜ないあいだに` diễn tả việc thực hiện một hành động trong khi một trạng thái hoặc hành động khác chưa xảy ra. Trong ngữ cảnh này, `体が動かさないあいだに` được dùng để diễn tả mong muốn đi du lịch khi cơ thể vẫn còn khả năng hoạt động, trước khi nó trở nên yếu đi. Các lựa chọn khác không phù hợp với ý nghĩa này.",
+      "grammar_point": "〜ないあいだに",
+      "grammar_note": "Cấu trúc này dùng để chỉ việc thực hiện một hành động trong khoảng thời gian mà một trạng thái hoặc hành động khác chưa diễn ra."
+    }
+  },
+  {
+    "note_id": 1779899173219,
+    "type": "m1",
+    "question": "328 「かわいい」 とか「ひとりではさびしい」 ( ) いう理由でペットを簡単に 買い始める人がいるが、最後まで飼い続ける強い意志も必要だと思う。",
+    "options": {
+      "1": "などを",
+      "2": "などと",
+      "3": "ことを",
+      "4": "ことと"
+    },
+    "front_options": [
+      "① などを",
+      "② などと",
+      "③ ことを",
+      "4 ことと"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "ことと",
+    "corrected_num": 3,
+    "corrected_text": "ことを",
+    "hint": ", loại 3 4, chọn 2",
+    "image": "image_import_f23ae62603d9_slide_0030.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899173219,
+      "answer_text": "ことを",
+      "explanation": "Đáp án đúng là `ことを`. Trong câu này, `こと` được dùng để danh từ hóa cụm từ `「かわいい」とか「ひとりではさびしい」`, biến nó thành đối tượng của động từ `いう`. Cụm `〜ことをいう理由で` diễn tả rằng những lý do như 'dễ thương' hay 'cô đơn một mình' là những điều được nhắc đến khi quyết định nuôi thú cưng. Các lựa chọn khác không phù hợp để diễn tả ý nghĩa này.",
+      "grammar_point": "Nをいう",
+      "grammar_note": "Cấu trúc `Nをいう` dùng để diễn tả việc nói ra một điều gì đó, trong đó `N` là nội dung được nói đến."
+    }
+  },
+  {
+    "note_id": 1779899173761,
+    "type": "m1",
+    "question": "329 子ども「何か食べるもの、ある?」 母親「おなかがすいて() ドーナツがあるよ。」。",
+    "options": {
+      "1": "いても",
+      "2": "いると",
+      "3": "いるけど",
+      "4": "いるなら"
+    },
+    "front_options": [
+      "① いても",
+      "② いると",
+      "3 いるけど",
+      "4 いるなら"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "いると",
+    "corrected_num": 4,
+    "corrected_text": "いるなら",
+    "hint": ", 4",
+    "image": "image_import_d9cd5eea60ae_slide_0031.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899173761,
+      "answer_text": "いるなら",
+      "explanation": "Đáp án đúng là `いるなら`. Cấu trúc `〜なら` được dùng để đưa ra lời khuyên, đề xuất hoặc thông tin dựa trên một điều kiện đã biết hoặc giả định. Trong trường hợp này, người mẹ đưa ra thông tin về bánh donut nếu con đói. Các lựa chọn khác không phù hợp về mặt ngữ pháp hoặc ý nghĩa trong ngữ cảnh này.",
+      "grammar_point": "Vるなら",
+      "grammar_note": "Cấu trúc `Vるなら` dùng để đưa ra lời khuyên, đề xuất hoặc thông tin dựa trên một điều kiện hoặc tình huống cụ thể."
+    }
+  },
+  {
+    "note_id": 1779899174870,
+    "type": "m1",
+    "question": "331 課長「山田さん、明日の会議の資料、もう部長に届けた?」 山田「はい、届けました。ついさっき、持って()ところです。」。",
+    "options": {
+      "1": "来る",
+      "2": "行った",
+      "3": "行く",
+      "4": "来た"
+    },
+    "front_options": [
+      "① 来る",
+      "② 行った",
+      "③ 行く",
+      "4 来た"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "来た",
+    "corrected_num": 2,
+    "corrected_text": "行った",
+    "hint": ", 2",
+    "image": "image_import_dc2e2367109c_slide_0033.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899174870,
+      "answer_text": "行った",
+      "explanation": "Đáp án đúng là `行った`. `持って行く` (mang đi) được dùng khi người nói di chuyển một vật từ vị trí hiện tại của mình đến một vị trí khác. Yamada đã mang tài liệu đến cho部長, nên từ góc độ của Yamada, anh ấy đã `持って行った`. `〜ところです` diễn tả hành động vừa mới hoàn thành.",
+      "grammar_point": "持って行く",
+      "grammar_note": "`持って行く` (mang đi) là động từ kép dùng để diễn tả hành động mang một vật từ vị trí của người nói đến một nơi khác."
+    }
+  },
+  {
+    "note_id": 1779899175941,
+    "type": "m1",
+    "question": "333 先輩「また遅刻。この前も先生に、これから練習は遅刻( )って言われたでしょう。」 西田「はい、本当にすみません。」。",
+    "options": {
+      "1": "するな",
+      "2": "するよ",
+      "3": "するね",
+      "4": "するんだ"
+    },
+    "front_options": [
+      "1 するな",
+      "3 するね",
+      "② するよ",
+      "4 するんだ"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "するんだ",
+    "corrected_num": 1,
+    "corrected_text": "するな",
+    "hint": ", 1",
+    "image": "image_import_5df52f37ae69_slide_0035.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899175941,
+      "answer_text": "するな",
+      "explanation": "Đáp án đúng là `するな`. `〜するな` là thể mệnh lệnh phủ định, dùng để cấm hoặc ra lệnh không làm gì đó. Trong ngữ cảnh này, người tiền bối nhắc nhở Nishida rằng giáo viên đã nói 'đừng đến muộn' (`遅刻するな`) trong buổi tập luyện. Các lựa chọn khác không phù hợp để diễn tả một lời cấm hoặc cảnh báo.",
+      "grammar_point": "Vるな",
+      "grammar_note": "Cấu trúc `Vるな` là thể mệnh lệnh phủ định, dùng để cấm hoặc ra lệnh không thực hiện một hành động nào đó."
+    }
+  },
+  {
+    "note_id": 1779899176497,
+    "type": "m1",
+    "question": "334 わたしたちは、先生にプレゼントを用意して、最後の授業の日に() 計画を立てています。 くださる",
+    "options": {
+      "1": "くださる",
+      "2": "なさる",
+      "3": "さしあげる",
+      "4": "いただく"
+    },
+    "front_options": [
+      "② なさる",
+      "3 さしあげる",
+      "4 いただく"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "いただく",
+    "corrected_num": 3,
+    "corrected_text": "さしあげる",
+    "hint": ", 3",
+    "image": "image_import_eb20028b7ce1_slide_0036.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899176497,
+      "answer_text": "さしあげる",
+      "explanation": "Chúng tôi tặng quà cho giáo viên, vì vậy cần sử dụng kính ngữ khi nói về hành động tặng quà cho người trên. 「さしあげる」 là thể khiêm nhường của 「あげる」, dùng để thể hiện sự tôn trọng khi tặng vật gì đó cho người có địa vị cao hơn. Các lựa chọn khác không phù hợp vì 「くださる」 là kính ngữ cho hành động nhận từ người trên, 「なさる」 là kính ngữ của 「する」, và 「いただく」 là khiêm nhường ngữ của 「もらう」.",
+      "grammar_point": "敬語: さしあげる",
+      "grammar_note": "「さしあげる」 là khiêm nhường ngữ của 「あげる」, dùng để tặng vật gì đó cho người có địa vị cao hơn hoặc người mà mình muốn thể hiện sự tôn trọng."
+    }
+  },
+  {
+    "note_id": 1779899177560,
+    "type": "m1",
+    "question": "336 山下「田中君、明日、研究室の片付けに来られる?」 田中「午後は予定があるんだ。午前中( )大丈夫だよ。」。",
+    "options": {
+      "1": "ばかりでよければ",
+      "2": "ばかりでよくても",
+      "3": "だけでよければ",
+      "4": "だけでよくても"
+    },
+    "front_options": [
+      "1 ばかりでよければ",
+      "② ばかりでよくても",
+      "3 だけでよければ",
+      "4 だけでよくても"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "だけでよくても",
+    "corrected_num": 3,
+    "corrected_text": "だけでよければ",
+    "hint": ", 3",
+    "image": "image_import_8d75368330cd_slide_0038.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899177560,
+      "answer_text": "だけでよければ",
+      "explanation": "Tanaka đang đặt điều kiện về thời gian rảnh của mình. 「〜だけでよければ」 có nghĩa là \"nếu chỉ ~ là đủ/được thì\". Cụm từ này phù hợp để diễn đạt rằng anh ấy chỉ có thể đến vào buổi sáng và hỏi xem điều đó có chấp nhận được không. 「ばかりでよければ」 không tự nhiên bằng 「だけでよければ」 trong ngữ cảnh này, còn 「〜よくても」 diễn tả sự nhượng bộ, không phải điều kiện.",
+      "grammar_point": "〜だけでよければ",
+      "grammar_note": "「〜だけでよければ」 được dùng để đưa ra một điều kiện giới hạn, có nghĩa là \"nếu chỉ có ~ là đủ/được thì\"."
+    }
+  },
+  {
+    "note_id": 1779899178097,
+    "type": "m1",
+    "question": "337 山口「中川先生。」 中川先生「あ、山口さん。偶然ですね。」 山口「はい。わたしもこのパーティーで先生に()とは思いませんでした。」。",
+    "options": {
+      "1": "お見えになる",
+      "2": "拝見できる",
+      "3": "お目にかかる",
+      "4": "ご覧になる"
+    },
+    "front_options": [
+      "1 お見えになる",
+      "② 拝見できる",
+      "3 お目にかかる",
+      "4 ご覧になる"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "ご覧になる",
+    "corrected_num": 3,
+    "corrected_text": "お目にかかる",
+    "hint": ", 3",
+    "image": "image_import_0fb2897bbad8_slide_0039.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899178097,
+      "answer_text": "お目にかかる",
+      "explanation": "Yamaguchi đang nói về việc mình gặp giáo viên, một người có địa vị cao hơn. 「お目にかかる」 là khiêm nhường ngữ của 「会う」, dùng để thể hiện sự tôn trọng khi mình gặp gỡ người trên. Các lựa chọn khác không phù hợp: 「お見えになる」 và 「ご覧になる」 là kính ngữ cho hành động của người trên, còn 「拝見できる」 là khiêm nhường ngữ của 「見る」, dùng cho vật chứ không phải người.",
+      "grammar_point": "敬語: お目にかかる",
+      "grammar_note": "「お目にかかる」 là khiêm nhường ngữ của 「会う」, dùng để nói về việc mình gặp gỡ người có địa vị cao hơn hoặc người mà mình muốn thể hiện sự tôn trọng."
+    }
+  },
+  {
+    "note_id": 1779899179177,
+    "type": "m1",
+    "question": "339 今度の試合に勝てる( )一生けんめいがんばります。",
+    "options": {
+      "1": "ために",
+      "2": "ように",
+      "3": "ことに",
+      "4": "みたいに"
+    },
+    "front_options": [
+      "1 ために",
+      "② ように",
+      "3 ことに",
+      "4 みたいに"
+    ],
+    "gemini_num": 1,
+    "gemini_text": "ために",
+    "corrected_num": 2,
+    "corrected_text": "ように",
+    "hint": ", 2",
+    "image": "image_import_98ae95050379_slide_0041.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899179177,
+      "answer_text": "ように",
+      "explanation": "Cấu trúc 「Vれるように」 hoặc 「Vないように」 được dùng để diễn tả mục đích hoặc mục tiêu, thường là để đạt được một trạng thái hoặc khả năng mong muốn. Ở đây, người nói cố gắng để \"có thể thắng\" (勝てる), nên 「勝てるように」 là phù hợp nhất. 「〜ために」 thường dùng với động từ thể từ điển hoặc danh từ để chỉ mục đích trực tiếp, nhưng với thể khả năng thì 「〜ように」 tự nhiên hơn.",
+      "grammar_point": "〜ように",
+      "grammar_note": "「〜ように」 được dùng sau động từ thể khả năng (Vれる) hoặc thể phủ định (Vない) để diễn tả mục đích, mong muốn đạt được một trạng thái hoặc khả năng nào đó."
+    }
+  },
+  {
+    "note_id": 1779899179729,
+    "type": "m1",
+    "question": "340 今のわたしの安い給料では、何年働いても自分の家は()そうもない。 買い",
+    "options": {
+      "1": "買い",
+      "2": "買え",
+      "3": "買う",
+      "4": "買える"
+    },
+    "front_options": [
+      "② 買え",
+      "③ 買う",
+      "4 買える"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "買える",
+    "corrected_num": 2,
+    "corrected_text": "買え",
+    "hint": ", 2",
+    "image": "image_import_40356e7da2b2_slide_0042.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899179729,
+      "answer_text": "買え",
+      "explanation": "Cấu trúc 「Vます形 + そうもない」 được dùng để diễn tả rằng \"có vẻ như không thể làm được V\" hoặc \"không có dấu hiệu V sẽ xảy ra\". Trong trường hợp này, người nói muốn nói rằng \"không thể mua được nhà\". Động từ 「買う」 (mua) ở thể khả năng là 「買える」 (có thể mua). Thể ます của 「買える」 là 「買えます」, và gốc động từ (masu-stem) là 「買え」. Do đó, 「買えそうもない」 là đáp án đúng.",
+      "grammar_point": "Vます形 + そうもない",
+      "grammar_note": "「Vます形 + そうもない」 được dùng để diễn tả rằng một hành động hoặc sự việc có vẻ như không thể xảy ra hoặc không có khả năng thực hiện được."
+    }
+  },
+  {
+    "note_id": 1779899180268,
+    "type": "m1",
+    "question": "A「最近、山田さん元気ないね。」 B「うん、将来の( )悩んでるらしいよ。」。",
+    "options": {
+      "1": "ほうに",
+      "2": "場合に",
+      "3": "ほかで",
+      "4": "ことで"
+    },
+    "front_options": [
+      "① ほうに",
+      "2 場合に",
+      "③ ほかで",
+      "4 ことで"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "場合に",
+    "corrected_num": 4,
+    "corrected_text": "ことで",
+    "hint": ", 4",
+    "image": "image_import_7e175e090f9b_slide_0043.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899180268,
+      "answer_text": "ことで",
+      "explanation": "Cấu trúc 「〜のことで悩む」 có nghĩa là \"lo lắng về vấn đề ~\" hoặc \"lo lắng về ~\". Trong ngữ cảnh này, Yamada đang lo lắng về tương lai của mình, nên 「将来のことで悩んでいる」 là cách diễn đạt tự nhiên và chính xác nhất. Các lựa chọn khác không phù hợp về mặt ngữ pháp hoặc ý nghĩa.",
+      "grammar_point": "Nのことで",
+      "grammar_note": "「Nのことで」 được dùng để chỉ rõ đối tượng hoặc nguyên nhân của sự lo lắng, bận tâm, hoặc một vấn đề nào đó."
+    }
+  },
+  {
+    "note_id": 1779899180798,
+    "type": "m1",
+    "question": "A「ねえ、( )どんな人?」 B「とても親切でいい人だよ。」。",
+    "options": {
+      "1": "田中さんが",
+      "2": "田中さんで",
+      "3": "田中さんって",
+      "4": ". 田中さんでも"
+    },
+    "front_options": [
+      "① 田中さんが",
+      "② 田中さんで",
+      "③ 田中さんって",
+      "④ . 田中さんでも"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "田中さんで",
+    "corrected_num": 3,
+    "corrected_text": "田中さんって",
+    "hint": ", 3",
+    "image": "image_import_dcfb83297b9d_slide_0044.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899180798,
+      "answer_text": "田中さんって",
+      "explanation": "「〜って」 được dùng để trích dẫn hoặc nhắc đến một chủ đề một cách thân mật, tương tự như 「〜は」 hoặc 「〜というのは」 trong văn nói. Ở đây, A muốn hỏi về Tanaka-san, nên 「田中さんって」 là cách tự nhiên nhất để giới thiệu chủ đề. Các lựa chọn khác như 「田中さんが」 (chủ ngữ), 「田中さんで」 (chỉ trạng thái/phương tiện), 「田中さんでも」 (ngay cả Tanaka-san) không phù hợp với ngữ cảnh hỏi về tính cách của một người.",
+      "grammar_point": "〜って",
+      "grammar_note": "「〜って」 là dạng rút gọn của 「〜というのは」 hoặc 「〜というものは」, dùng để giới thiệu chủ đề hoặc trích dẫn lời nói trong văn nói thân mật."
+    }
+  },
+  {
+    "note_id": 1779899181866,
+    "type": "m1",
+    "question": "344 (デパートでシャツを選びながら) 山田「明るい色のシャツが欲しいんだけど･･････」 田中「だったら、これ( )どう? 山田さんにすごく似合うと思うよ。」。 ばかり",
+    "options": {
+      "1": "なんか",
+      "2": "ばかり",
+      "3": "へ",
+      "4": "に"
+    },
+    "front_options": [
+      "① なんか",
+      "③ ②",
+      "4 に"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "に",
+    "corrected_num": 1,
+    "corrected_text": "なんか",
+    "hint": ", 1",
+    "image": "image_import_40e1229963d3_slide_0046.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899181866,
+      "answer_text": "なんか",
+      "explanation": "「なんか」 là một từ đệm hoặc từ chỉ sự không chắc chắn, thường được dùng để đưa ra một ví dụ hoặc gợi ý một cách nhẹ nhàng, thân mật, tương tự như 「など」 hoặc 「なんかどうですか」. Trong ngữ cảnh này, Tanaka gợi ý một chiếc áo sơ mi cụ thể, nên 「これなんかどう？」 là cách tự nhiên để đưa ra gợi ý. Các lựa chọn khác như 「ばかり」 (chỉ, toàn), 「へ」 (hướng đến), 「に」 (vào, đến) không phù hợp với ngữ cảnh gợi ý.",
+      "grammar_point": "語:なんか",
+      "grammar_note": "「なんか」 là một từ đệm trong văn nói, dùng để đưa ra ví dụ, gợi ý một cách nhẹ nhàng hoặc thể hiện sự không chắc chắn, tương tự 「など」."
+    }
+  },
+  {
+    "note_id": 1779899182949,
+    "type": "m1",
+    "question": "346 学生「先生、ご相談したいことがあるのですが、授業の後、先生の研究室 に( )よろしいでしょうか。」 先生「はい、いいですよ。」。",
+    "options": {
+      "1": "来られても",
+      "2": "いらっしゃっても",
+      "3": "うかがっても",
+      "4": "行かれても"
+    },
+    "front_options": [
+      "1 来られても",
+      "② いらっしゃっても",
+      "3 うかがっても",
+      "4 行かれても"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "いらっしゃっても",
+    "corrected_num": 3,
+    "corrected_text": "うかがっても",
+    "hint": ", 3",
+    "image": "image_import_eb22c7286a38_slide_0048.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899182949,
+      "answer_text": "うかがっても",
+      "explanation": "Học sinh đang hỏi xin phép đến phòng nghiên cứu của giáo viên. 「うかがう」 là khiêm nhường ngữ của 「行く」 (đi) và 「聞く」 (hỏi), thể hiện sự tôn trọng đối với người nghe (giáo viên). Do đó, 「うかがってもよろしいでしょうか」 là cách nói lịch sự và phù hợp nhất trong tình huống này. 「来られても」 và 「行かれても」 là thể bị động/tôn kính của 「来る」 và 「行く」 nhưng không thể hiện sự khiêm nhường của người nói. 「いらっしゃっても」 là tôn kính ngữ của 「いる/来る/行く」, dùng để nói về hành động của người khác (giáo viên), không phải hành động của học sinh.",
+      "grammar_point": "語:うかがう",
+      "grammar_note": "「うかがう」 là khiêm nhường ngữ của 「行く」 (đi) và 「聞く」 (hỏi), dùng để thể hiện sự khiêm tốn của người nói khi thực hiện hành động đối với người có địa vị cao hơn."
+    }
+  },
+  {
+    "note_id": 1779899185183,
+    "type": "m1",
+    "question": "350 妹「今日は友だちと晩ご飯を食べてくるね。」 兄「わかった。9時過ぎる( )。迎えに行くから、電話しろよ。」。",
+    "options": {
+      "1": "らしいなら",
+      "2": "らしいのに",
+      "3": "ようなら",
+      "4": "ようなのに"
+    },
+    "front_options": [
+      "① らしいなら",
+      "③ ようなら",
+      "② らしいのに",
+      "4 ようなのに"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "ようなのに",
+    "corrected_num": 2,
+    "corrected_text": "らしいのに",
+    "hint": ", loại 2 4, chọn 3",
+    "image": "image_import_ef2cc3a21078_slide_0052.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899185183,
+      "answer_text": "ようなら",
+      "explanation": "Người anh đang dặn dò em gái rằng \"nếu\" (trong trường hợp) em về muộn hơn 9 giờ thì hãy gọi điện. 「〜ようなら」 có nghĩa là \"nếu có vẻ như\", \"nếu trong trường hợp\", dùng để đưa ra một điều kiện dựa trên một tình huống có thể xảy ra. Điều này hoàn toàn phù hợp với ngữ cảnh. 「らしいなら」 cũng có nghĩa là \"nếu có vẻ như\", nhưng 「ようなら」 thường dùng cho các tình huống cụ thể hơn. 「らしいのに」 và 「ようなのに」 mang nghĩa \"mặc dù có vẻ như\" hoặc \"mặc dù trong trường hợp\", thể hiện sự đối lập, không phù hợp với lời dặn dò điều kiện.",
+      "grammar_point": "〜ようなら",
+      "grammar_note": "「〜ようなら」 được dùng để diễn tả một điều kiện dựa trên một tình huống hoặc trạng thái có vẻ như sẽ xảy ra hoặc đang xảy ra."
+    }
+  },
+  {
+    "note_id": 1779899185720,
+    "type": "m1",
+    "question": "351 弟「お父さん、どこにいるか知らない?」 兄「さっき部屋にいたけど、忙しそうだったよ。」 弟「そうか。じゃあ今は()。進学のこと、相談したかったんだけど。」。",
+    "options": {
+      "1": "話しかけないほうがよさそうだな",
+      "2": "話しかけなくてもよさそうだな",
+      "3": "話しかけないほうがいいそうだな",
+      "4": "話しかけなくてもいいそうだか"
+    },
+    "front_options": [
+      "① 話しかけないほうがよさそうだな",
+      "② 話しかけなくてもよさそうだな",
+      "③ 話しかけないほうがいいそうだな",
+      "④ 話しかけなくてもいいそうだか"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "話しかけなくてもいいそうだか",
+    "corrected_num": 3,
+    "corrected_text": "話しかけないほうがいいそうだな",
+    "hint": ", loại 3 4, chọn 1",
+    "image": "image_import_248e7ea0fe71_slide_0053.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899185720,
+      "answer_text": "話しかけないほうがよさそうだな",
+      "explanation": "Người anh nói rằng bố \"có vẻ bận\" (忙しそうだった). Vì vậy, người em kết luận rằng \"có lẽ không nên nói chuyện\" với bố vào lúc này. 「〜ないほうがよさそう」 có nghĩa là \"có vẻ như không nên làm gì đó\", thể hiện sự suy đoán về điều tốt nhất nên làm. 「話しかけないほうがよさそうだな」 phù hợp với ngữ cảnh này. Các lựa chọn khác như 「話しかけなくてもよさそうだな」 (có vẻ như không cần nói chuyện) hoặc 「話しかけないほうがいいそうだな」 (nghe nói là không nên nói chuyện) không truyền tải đúng ý nghĩa \"có vẻ không nên\" dựa trên quan sát.",
+      "grammar_point": "〜ないほうがよさそう",
+      "grammar_note": "「〜ないほうがよさそう」 được dùng để diễn tả sự suy đoán rằng việc không làm gì đó sẽ tốt hơn trong tình huống hiện tại."
+    }
+  },
+  {
+    "note_id": 1779899186268,
+    "type": "m1",
+    "question": "352 A「田中さんは今日もアルバイトでしょうか。」 B「今日はない ( ) 言っていましたよ。」。",
+    "options": {
+      "1": "を",
+      "2": "って",
+      "3": "のを",
+      "4": "だ"
+    },
+    "front_options": [
+      "① を",
+      "② って",
+      "③ のを",
+      "4 だ"
+    ],
+    "gemini_num": 3,
+    "gemini_text": "のを",
+    "corrected_num": 2,
+    "corrected_text": "って",
+    "hint": ", 2 thay thế ứt te",
+    "image": "image_import_dd073bf79887_slide_0054.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899186268,
+      "answer_text": "って",
+      "explanation": "「〜って」 trong trường hợp này là dạng rút gọn của trợ từ 「と」, dùng để trích dẫn lời nói hoặc nội dung đã nghe được. B đang trích dẫn lời Tanaka-san nói rằng hôm nay anh ấy không có việc làm thêm. Do đó, 「今日はないって言っていましたよ」 là cách nói tự nhiên và chính xác. Các lựa chọn khác như 「を」 (trợ từ tân ngữ), 「のを」 (danh từ hóa mệnh đề + tân ngữ), 「だ」 (trợ động từ khẳng định) không phù hợp để trích dẫn lời nói.",
+      "grammar_point": "〜って",
+      "grammar_note": "「〜って」 là dạng rút gọn của trợ từ 「と」, dùng để trích dẫn lời nói hoặc nội dung đã nghe được trong văn nói thân mật."
+    }
+  },
+  {
+    "note_id": 1779899187934,
+    "type": "m1",
+    "question": "355 今日は7時に東京駅で友達と( )ことになっているので、そろそろ出ます。",
+    "options": {
+      "1": "会おう",
+      "2": "会う",
+      "3": "会った",
+      "4": "会って"
+    },
+    "front_options": [
+      "① 会おう",
+      "② 会う",
+      "③ 会った",
+      "4 会って"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "会って",
+    "corrected_num": 2,
+    "corrected_text": "会う",
+    "hint": ", 2",
+    "image": "image_import_e94980f64c74_slide_0057.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899187934,
+      "answer_text": "会う",
+      "explanation": "Cấu trúc 「〜ことになっている」 dùng để diễn tả một quy định, kế hoạch hoặc sự việc đã được quyết định. Động từ đứng trước nó phải ở thể nguyên dạng (辞書形). 「会う」 là thể nguyên dạng của động từ 'gặp', phù hợp với ngữ cảnh 'đã được quyết định là sẽ gặp'. Các lựa chọn khác như thể ý chí (会おう), thể quá khứ (会った) hay thể て (会って) đều không đúng ngữ pháp trong trường hợp này.",
+      "grammar_point": "〜ことになっている",
+      "grammar_note": "Cấu trúc 「Vる/Vない + ことになっている」 dùng để diễn tả một quy định, một kế hoạch đã được định sẵn, hoặc một sự thật khách quan."
+    }
+  },
+  {
+    "note_id": 1779899189021,
+    "type": "m1",
+    "question": "357 山田先生の講演の( )皆熱心に話を聞いていた。",
+    "options": {
+      "1": "あいだと",
+      "2": "あいだに",
+      "3": "あいだ",
+      "4": "あいだで"
+    },
+    "front_options": [
+      "① あいだと",
+      "② あいだに",
+      "③ あいだ",
+      "4 あいだで"
+    ],
+    "gemini_num": 2,
+    "gemini_text": "あいだに",
+    "corrected_num": 3,
+    "corrected_text": "あいだ",
+    "hint": ", 3",
+    "image": "image_import_6c0328e7bfb5_slide_0059.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899189021,
+      "answer_text": "あいだ",
+      "explanation": "Cấu trúc 「Nのあいだ」 diễn tả một khoảng thời gian mà một hành động hoặc trạng thái kéo dài liên tục trong suốt khoảng thời gian đó. Trong câu này, mọi người đã nghe chăm chú 'suốt' buổi diễn thuyết của thầy Yamada. Việc thêm các trợ từ như 「と」, 「に」, 「で」 sẽ thay đổi sắc thái nghĩa hoặc không phù hợp với ngữ cảnh diễn tả hành động liên tục.",
+      "grammar_point": "Nのあいだ",
+      "grammar_note": "「Nのあいだ」 dùng để chỉ một khoảng thời gian mà một hành động hoặc trạng thái diễn ra liên tục từ đầu đến cuối."
+    }
+  },
+  {
+    "note_id": 1779899189576,
+    "type": "m1",
+    "question": "358 A 「かばん売り場はどこ?」 B「5階に( )」。",
+    "options": {
+      "1": "ございます",
+      "2": "いらっしゃいます",
+      "3": "いる",
+      "4": "おります"
+    },
+    "front_options": [
+      "① ございます",
+      "② いらっしゃいます",
+      "③ いる",
+      "4 おります"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "おりります",
+    "corrected_num": 1,
+    "corrected_text": "ございます",
+    "hint": ", chọn 1",
+    "image": "image_import_5f0bbcb10543_slide_0060.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899189576,
+      "answer_text": "ございます",
+      "explanation": "「ございます」 là thể lịch sự của 「ある」, dùng để chỉ sự tồn tại của vật vô tri hoặc địa điểm. Trong trường hợp này, 'quầy bán túi xách' là vật vô tri, nên dùng 「ございます」 là phù hợp nhất để thể hiện sự lịch sự khi trả lời khách hàng. 「いらっしゃいます」 và 「おります」 là kính ngữ/khiêm nhường ngữ của 「いる」, dùng cho người hoặc vật có tri giác.",
+      "grammar_point": "語:ございます",
+      "grammar_note": "「ございます」 là thể lịch sự của 「ある」, dùng để diễn tả sự tồn tại của vật vô tri hoặc địa điểm."
+    }
+  },
+  {
+    "note_id": 1779899190111,
+    "type": "m1",
+    "question": "359 (喫茶店で) A「何か食べようか。」 B「わたし、スパゲッティとコーヒー。」 C「わたしも、おなかすいてないから、コーヒー()する。」。",
+    "options": {
+      "1": "だけ",
+      "2": "だけで",
+      "3": "だけを",
+      "4": "だけに"
+    },
+    "front_options": [
+      "① だけ",
+      "② だけで",
+      "③ だけを",
+      "4 だけに"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "だけで",
+    "corrected_num": 4,
+    "corrected_text": "だけに",
+    "hint": ", 4",
+    "image": "image_import_cbbd2a70d1bb_slide_0061.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899190111,
+      "answer_text": "だけに",
+      "explanation": "Cấu trúc 「Nだけに」 diễn tả ý 'chỉ vì N mà...' hoặc 'chính vì N nên...'. Trong ngữ cảnh này, C nói 'chính vì tôi không đói bụng nên tôi chỉ uống cà phê thôi'. 「だけに」 mang sắc thái nhấn mạnh nguyên nhân hoặc lý do, phù hợp với vế sau 「おなかすいてないから」. Các lựa chọn khác như 「だけ」, 「だけで」, 「だけを」 chỉ đơn thuần diễn tả sự giới hạn 'chỉ', không mang sắc thái nhấn mạnh lý do.",
+      "grammar_point": "Nだけに",
+      "grammar_note": "「Nだけに」 dùng để nhấn mạnh một lý do hoặc nguyên nhân, mang ý nghĩa 'chính vì N nên...' hoặc 'đúng như N đã nói/dự đoán'."
+    }
+  },
+  {
+    "note_id": 1779899191209,
+    "type": "m1",
+    "question": "361 A社の商品が腰の痛めにどのくらい効果が( )詳しく知りたい。",
+    "options": {
+      "1": "あるのかによって",
+      "2": "あるのかについて",
+      "3": "あるのかどうかによって",
+      "4": "あるのかどうかについて"
+    },
+    "front_options": [
+      "① あるのかによって",
+      "② あるのかについて",
+      "③ あるのかどうかによって",
+      "④ あるのかどうかについて"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "あるのかどうかについて",
+    "corrected_num": 2,
+    "corrected_text": "あるのかについて",
+    "hint": ", chọn 2",
+    "image": "image_import_9db1670074b3_slide_0063.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899191209,
+      "answer_text": "あるのかについて",
+      "explanation": "Cấu trúc 「〜のかについて」 được dùng để diễn tả ý 'về việc liệu có... hay không' hoặc 'về việc... như thế nào'. Trong câu này, người nói muốn biết chi tiết 'về việc sản phẩm của công ty A có hiệu quả đến mức nào đối với chứng đau lưng'. 「について」 (về) là trợ từ phù hợp để giới thiệu chủ đề muốn tìm hiểu. Các lựa chọn có 「によって」 (tùy thuộc vào) không phù hợp vì câu không diễn tả sự thay đổi tùy thuộc vào yếu tố nào đó.",
+      "grammar_point": "〜のかについて",
+      "grammar_note": "「Vる/Vない/Aい/Aな/N + のかについて」 dùng để diễn tả việc tìm hiểu, nói chuyện, suy nghĩ 'về việc liệu có... hay không' hoặc 'về việc... như thế nào'."
+    }
+  },
+  {
+    "note_id": 1779899192313,
+    "type": "m1",
+    "question": "363 A「あれ、財布がない。」 B「え、本当ですか。」 A「あ、ありました、ありました。」 B「もう、ぴっくり( )よ。でも、よかったですね。」。",
+    "options": {
+      "1": "させないでください。",
+      "2": "させてください",
+      "3": "させないことにしてください",
+      "4": "させることにしてくださ"
+    },
+    "front_options": [
+      "① させないでください。",
+      "② させてください",
+      "③ させないことにしてください",
+      "④ させることにしてくださ"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "させることにしてくださ",
+    "corrected_num": 1,
+    "corrected_text": "させないでください。",
+    "hint": ", chọn 1",
+    "image": "image_import_9d443f2bd537_slide_0065.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899192313,
+      "answer_text": "させないでください。",
+      "explanation": "Cấu trúc 「Vさせないでください」 được dùng để yêu cầu ai đó đừng làm một hành động nào đó, hoặc đừng gây ra một trạng thái nào đó cho người nói. Trong ngữ cảnh này, B nói 'Đừng làm tôi giật mình nữa chứ!' sau khi A tìm thấy ví. 「びっくりさせないでください」 có nghĩa là 'xin đừng làm tôi giật mình', thể hiện sự trách móc nhẹ nhàng nhưng cũng là lời yêu cầu.",
+      "grammar_point": "Vさせないでください",
+      "grammar_note": "「Vさせないでください」 là cách yêu cầu ai đó đừng làm một hành động nào đó, hoặc đừng gây ra một trạng thái nào đó cho người nói, mang ý nghĩa 'xin đừng làm tôi V'."
+    }
+  },
+  {
+    "note_id": 1779899192851,
+    "type": "m1",
+    "question": "364 今朝からひどく歯が痛い。すぐに歯医者に()、行きたくない。",
+    "options": {
+      "1": "行かなくてもいいのだろうが",
+      "2": "行かなくてもいいようだが",
+      "3": "行けばいいのだろうが",
+      "4": "行けばいいようだが"
+    },
+    "front_options": [
+      "① 行かなくてもいいのだろうが",
+      "② 行かなくてもいいようだが",
+      "③ 行けばいいのだろうが",
+      "④ 行けばいいようだが"
+    ],
+    "gemini_num": 4,
+    "gemini_text": "行けばいいようだが",
+    "corrected_num": 3,
+    "corrected_text": "行けばいいのだろうが",
+    "hint": ", chọn 3",
+    "image": "image_import_85b4a8f08513_slide_0066.png",
+    "deck_idx": 1,
+    "new": {
+      "id": 1779899192851,
+      "answer_text": "行けばいいのだろうが",
+      "explanation": "Cấu trúc 「〜ばいい」 diễn tả ý nghĩa 'nên làm gì đó' hoặc 'làm thế thì tốt'. Trong ngữ cảnh này, '今朝からひどく歯が痛い' (răng đau dữ dội từ sáng) dẫn đến kết luận tự nhiên là 'nên đi nha sĩ'. 「のだろう」 thể hiện sự suy đoán hoặc kết luận tự nhiên dựa trên tình hình, mang sắc thái 'chắc là nên', 'hiển nhiên là nên'. 「が」 dùng để nối hai vế câu có ý nghĩa đối lập: 'nên đi nha sĩ' nhưng 'không muốn đi'. Các lựa chọn khác dùng 「行かなくてもいい」 (không cần đi) hoặc 「ようだ」 (có vẻ như) không phù hợp với ngữ cảnh răng đau cần phải đi khám.",
+      "grammar_point": "〜ばいい",
+      "grammar_note": "「〜ばいい」 được dùng để đưa ra lời khuyên, gợi ý, hoặc diễn tả điều gì đó nên làm."
+    }
+  },
+  {
+    "note_id": 1780328966579,
+    "type": "m2",
+    "question": "A「あの喫茶店、____ ____ ★ ____ があるよ。入ってみない?」 B「いいね。」",
+    "front_options": [
+      "① で",
+      "② か何か",
+      "③ テレビ",
+      "④ 見たこと"
+    ],
+    "gemini_order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "corrected_order": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "image": "image_import_2f97c0fee572_slide_0002.png",
+    "needs_ocr": false,
+    "deck_idx": 2,
+    "new": {
+      "id": 1780328966579,
+      "completed_sentence": "A「あの喫茶店、テレビ か何か で 見たこと があるよ。入ってみない?」 B「いいね。」",
+      "star_answer": "で",
+      "explanation": "Cấu trúc câu này là 「名詞 + か何か + で + 動詞のタ形 + ことがある」.\n- 「テレビか何か」 (terebi ka nanika) có nghĩa là \"TV hay cái gì đó\", thể hiện sự không chắc chắn về phương tiện hoặc nguồn thông tin.\n- Trợ từ 「で」 (de) ở đây dùng để chỉ phương tiện hoặc địa điểm mà hành động \"nhìn thấy\" đã xảy ra (ví dụ: trên TV, trong sách báo).\n- 「見たことがある」 (mita koto ga aru) là cấu trúc ngữ pháp diễn tả kinh nghiệm \"đã từng làm gì đó\".\nGhép lại, 「テレビか何かで見たことがある」 có nghĩa là \"Tôi đã từng nhìn thấy (quán cà phê đó) trên TV hay ở đâu đó rồi.\"",
+      "grammar_point": "〜か何か / 〜たことがある",
+      "grammar_note": "「〜か何か」 được dùng để diễn tả sự không chắc chắn về một danh từ hoặc hành động, mang nghĩa \"cái gì đó/hoặc cái gì đó tương tự\". 「〜たことがある」 dùng để diễn tả kinh nghiệm đã từng làm gì đó trong quá khứ."
+    }
+  },
+  {
+    "note_id": 1780328973142,
+    "type": "m2",
+    "question": "平日はなかなか運動する時間がないので、日常生活の中で、エレベーターではなくて階段を ____ ____ ★ ____ とかしている。",
+    "front_options": [
+      "① とか",
+      "② 歩く",
+      "③ 使う",
+      "④ スピードを速くする"
+    ],
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "corrected_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "image": "image_import_5726784ed5b1_slide_0014.png",
+    "needs_ocr": false,
+    "deck_idx": 2,
+    "new": {
+      "id": 1780328973142,
+      "completed_sentence": "平日はなかなか運動する時間がないので、日常生活の中で、エレベーターではなくて階段を使うとか歩くスピードを速くするとかしている。",
+      "star_answer": "歩く",
+      "explanation": "Cấu trúc ngữ pháp được sử dụng ở đây là 「〜とか〜とかする」, dùng để liệt kê một vài ví dụ về hành động hoặc sự việc. Trong câu này, người nói đang liệt kê các cách mà họ cố gắng vận động trong cuộc sống hàng ngày vì không có thời gian tập thể dục vào các ngày trong tuần. Hai hành động được liệt kê là: 1. 「階段を使う」 (sử dụng cầu thang) và 2. 「歩くスピードを速くする」 (tăng tốc độ đi bộ). Theo thứ tự đúng [3, 1, 2, 4]: mảnh ghép ③「使う」 điền vào chỗ trống thứ nhất, mảnh ghép ①「とか」 điền vào chỗ trống thứ hai, mảnh ghép ②「歩く」 điền vào chỗ trống thứ ba (vị trí ★), và mảnh ghép ④「スピードを速くする」 điền vào chỗ trống thứ tư. Điều này tạo thành cụm 「階段を使うとか歩くスピードを速くする」, hoàn chỉnh ý nghĩa của câu.",
+      "grammar_point": "〜とか〜とかする",
+      "grammar_note": "Cấu trúc này dùng để liệt kê một vài ví dụ hành động hoặc sự việc, mang ý nghĩa \"làm những việc như X, Y, v.v.\"."
+    }
+  },
+  {
+    "note_id": 1780328973677,
+    "type": "m2",
+    "question": "森田「西山さん、新しいアルバイトはどうですか。」 西山「始めた ____ ____ ★ ____ 大変ですが、楽しいです。」",
+    "front_options": [
+      "① 多くて",
+      "② 覚えなければいけない",
+      "③ ことが",
+      "④ ばかりなので"
+    ],
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "corrected_order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "image": "image_import_6712ddc54b82_slide_0015.png",
+    "needs_ocr": false,
+    "deck_idx": 2,
+    "new": {
+      "id": 1780328973677,
+      "completed_sentence": "森田「西山さん、新しいアルバイトはどうですか。」 西山「始めたばかりなので覚えなければいけないことが多くて大変ですが、楽しいです。」",
+      "star_answer": "多くて",
+      "explanation": "Cấu trúc câu hoàn chỉnh là \"Vたばかりなので Vなければいけないことが多くて、〜\".\n1.  **始めたばかりなので (④)**: \"始めた\" (bắt đầu) là thể quá khứ của động từ. \"ばかり\" đi sau Vた để diễn tả hành động vừa mới xảy ra. \"なので\" là liên từ chỉ nguyên nhân, tạo thành cụm \"vì vừa mới bắt đầu\".\n2.  **覚えなければいけない (②)**: \"覚える\" (nhớ). Cấu trúc \"Vなければいけない\" diễn tả sự bắt buộc, có nghĩa là \"phải nhớ\".\n3.  **ことが (③)**: \"こと\" biến cụm động từ \"覚えなければいけない\" thành một danh từ (\"những việc phải nhớ\"). \"が\" là trợ từ chỉ chủ ngữ của vế sau.\n4.  **多くて (①)**: \"多い\" (nhiều) ở thể \"て\" (多くて) để nối với vế sau, chỉ nguyên nhân hoặc tình trạng. Cụm \"覚えなければいけないことが多い\" có nghĩa là \"có nhiều việc phải nhớ\". Khi dùng \"多くて\", nó mang ý \"vì có nhiều việc phải nhớ nên...\".\nToàn bộ câu có nghĩa là: \"Vì tôi vừa mới bắt đầu công việc, nên có nhiều việc phải nhớ, và vì vậy rất vất vả, nhưng mà vui.\"",
+      "grammar_point": "〜Vたばかり / 〜Vなければいけない / 〜ことが多くて",
+      "grammar_note": "Đây là sự kết hợp của nhiều cấu trúc ngữ pháp N3. \"〜Vたばかり\" diễn tả hành động vừa mới xảy ra. \"〜Vなければいけない\" diễn tả sự bắt buộc. \"〜ことが多くて\" dùng để diễn tả có nhiều việc/trường hợp như thế nào đó, và thường nối với vế sau bằng thể て để chỉ nguyên nhân hoặc tình trạng."
+    }
+  },
+  {
+    "note_id": 1780328975869,
+    "type": "m2",
+    "question": "最近は野菜や魚などの食料品も____ ____ ★ ____ ニュースで知った。",
+    "front_options": [
+      "① 人が",
+      "② 増えてきている",
+      "③ インターネットで買う",
+      "④ ということを"
+    ],
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "corrected_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "image": "image_import_72e4c959584d_slide_0019.png",
+    "needs_ocr": false,
+    "deck_idx": 2,
+    "new": {
+      "id": 1780328975869,
+      "completed_sentence": "最近は野菜や魚などの食料品もインターネットで買う人が増えてきているということをニュースで知った。",
+      "star_answer": "増えてきている",
+      "explanation": "Cấu trúc câu là 「Xということを知った」 (Tôi đã biết/học được điều X từ tin tức). Phần X là 「最近は野菜や魚などの食料品もインターネットで買う人が増えてきている」 (Gần đây, số người mua thực phẩm như rau và cá qua internet đang tăng lên). \n- 「インターネットで買う」 (mua qua internet) bổ nghĩa cho 「人」 (người).\n- 「人が増えてきている」 (số người đang tăng lên) là một cụm động từ chỉ sự thay đổi liên tục.\n- Cuối cùng, 「ということを」 được dùng để trích dẫn toàn bộ nội dung phía trước và kết nối với động từ 「知った」 (đã biết).",
+      "grammar_point": "〜ということを",
+      "grammar_note": "「〜ということを」 được dùng để trích dẫn hoặc làm rõ nội dung của một sự việc, thông tin, hoặc lời nói, thường đi sau một mệnh đề và trước các động từ như 知る (biết), 聞く (nghe), 言う (nói), 考える (nghĩ)."
+    }
+  },
+  {
+    "note_id": 1780328979185,
+    "type": "m2",
+    "question": "失敗をすることは誰にでもある。大切な____ ____ ★ ____考えて、同じ失敗を繰り返さないようにすることだ。",
+    "front_options": [
+      "① 失敗をしてしまった",
+      "② どうして",
+      "③ のか",
+      "④ のは"
+    ],
+    "gemini_order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "corrected_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "image": "image_import_a93d01daeb28_slide_0025.png",
+    "needs_ocr": false,
+    "deck_idx": 2,
+    "new": {
+      "id": 1780328979185,
+      "completed_sentence": "失敗をすることは誰にでもある。大切なのはどうして失敗をしてしまったのか考えて、同じ失敗を繰り返さないようにすることだ。",
+      "star_answer": "失敗をしてしまった",
+      "explanation": "Cấu trúc câu bắt đầu với 「大切なのは〜」 (Điều quan trọng là...). Sau đó, 「どうして〜のか」 là một cấu trúc dùng để biến một câu hỏi (tại sao lại...) thành một mệnh đề danh từ, thường đi kèm với các động từ như 「考える」 (suy nghĩ), 「わかる」 (hiểu), v.v. Trong trường hợp này, 「どうして失敗をしてしまったのか」 có nghĩa là 'suy nghĩ về việc tại sao lại mắc lỗi'. Thứ tự đúng là: 「大切なのは」 (4) + 「どうして」 (2) + 「失敗をしてしまった」 (1) + 「のか」 (3) + 「考えて」.",
+      "grammar_point": "〜のか",
+      "grammar_note": "Dùng để biến câu hỏi thành một mệnh đề danh từ, thường đi kèm với các động từ như 考える, わかる, 教える, v.v."
+    }
+  },
+  {
+    "note_id": 1780328986908,
+    "type": "m2",
+    "question": "去年、初めて一人で海外を旅行した。行く前は心配なこともあったが、____ ____ ★ ____だった。",
+    "front_options": [
+      "① 楽しいこと",
+      "② ばかり",
+      "③ 旅行していた",
+      "④ 2週間は"
+    ],
+    "gemini_order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "corrected_order": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "image": "image_import_e07879cddf65_slide_0039.png",
+    "needs_ocr": false,
+    "deck_idx": 2,
+    "new": {
+      "id": 1780328986908,
+      "completed_sentence": "去年、初めて一人で海外を旅行した。行く前は心配なこともあったが、旅行していた2週間は楽しいことばかりだった。",
+      "star_answer": "楽しいこと",
+      "explanation": "Cấu trúc câu là 「〜期間は〜ばかりだった」 (khoảng thời gian ~ chỉ toàn là ~). \n- 「旅行していた」 (đang đi du lịch) bổ nghĩa cho 「2週間」 (2 tuần), tạo thành cụm 「旅行していた2週間は」 (2 tuần mà tôi đã đi du lịch thì...). \n- 「楽しいこと」 (những điều vui vẻ) là danh từ mà 「ばかり」 (chỉ toàn là/chỉ có) gắn vào. \n- 「楽しいことばかりだった」 có nghĩa là 'chỉ toàn là những điều vui vẻ'. \nThứ tự đúng là: 旅行していた (3) + 2週間は (4) + 楽しいこと (1) + ばかり (2) + だった.",
+      "grammar_point": "〜ばかり",
+      "grammar_note": "「〜ばかり」 được dùng để diễn tả rằng chỉ có một loại sự vật, sự việc nào đó hoặc một hành động nào đó diễn ra liên tục, thường mang sắc thái nhấn mạnh hoặc đôi khi là tiêu cực."
+    }
+  },
+  {
+    "note_id": 1780328988000,
+    "type": "m2",
+    "question": "一人暮らしを始めて、両親が毎日仕事を ____ ____ ★ ____ 大変なことだったか、よくわかった。",
+    "front_options": [
+      "① どれだけ",
+      "② しながら",
+      "③ 食事の準備や洗濯を",
+      "④ してくれていたことが"
+    ],
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "corrected_order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "image": "image_import_b8eeff086fb2_slide_0041.png",
+    "needs_ocr": false,
+    "deck_idx": 2,
+    "new": {
+      "id": 1780328988000,
+      "completed_sentence": "一人暮らしを始めて、両親が毎日仕事をしながら食事の準備や洗濯をしてくれていたことがどれだけ大変なことだったか、よくわかった。",
+      "star_answer": "してくれていたことが",
+      "explanation": "Cấu trúc câu là 「V-ながら、〜てくれていたことが、どれだけ〜だったか、よくわかった。」\n- 「仕事をしながら」 (làm việc đồng thời với) là hành động diễn ra song song với việc khác.\n- 「食事の準備や洗濯を」 (việc chuẩn bị bữa ăn và giặt giũ) là tân ngữ cho động từ tiếp theo.\n- 「してくれていたことが」 (việc đã làm cho tôi) là cụm danh từ hóa, đóng vai trò chủ ngữ cho vế sau, diễn tả sự việc mà người khác đã làm cho mình.\n- 「どれだけ大変なことだったか」 (việc đó đã vất vả đến mức nào) diễn tả mức độ của sự vất vả.\n- 「よくわかった」 (tôi đã hiểu rõ).\nThứ tự này tạo thành câu có nghĩa: \"Sau khi bắt đầu sống một mình, tôi đã hiểu rõ việc bố mẹ tôi đã vất vả đến mức nào khi vừa đi làm mỗi ngày vừa chuẩn bị bữa ăn và giặt giũ cho tôi.\"",
+      "grammar_point": "どれだけ〜か",
+      "grammar_note": "Dùng để diễn tả mức độ, số lượng của một sự việc, thường đi kèm với cảm xúc ngạc nhiên, nhận ra hoặc nhấn mạnh."
+    }
+  },
+  {
+    "note_id": 1780328989100,
+    "type": "m2",
+    "question": "先生「みなさんは一度 ____ ____ ★ ____ と思う人はいますか。」",
+    "front_options": [
+      "① 会ってみたい",
+      "② いい",
+      "③ で",
+      "④ から"
+    ],
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "corrected_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "image": "image_import_040e5d74d682_slide_0043.png",
+    "needs_ocr": false,
+    "deck_idx": 2,
+    "new": {
+      "id": 1780328989100,
+      "completed_sentence": "先生「みなさんは一度でいいから会ってみたいと思う人はいますか。」",
+      "star_answer": "④ から",
+      "explanation": "Cấu trúc ngữ pháp ở đây là 「一度でいいから〜たい」. \n- 「一度でいい」 (いちどでいい) có nghĩa là \"một lần cũng được\", \"chỉ một lần là đủ\".\n- 「〜から」 (から) ở đây được dùng để nhấn mạnh lý do hoặc mong muốn mạnh mẽ, thường đi kèm với các thể hiện mong muốn như 「〜たい」 (muốn làm gì đó) hoặc yêu cầu như 「〜てください」 (hãy làm gì đó).\n- Ghép lại, 「一度でいいから会ってみたい」 có nghĩa là \"muốn gặp dù chỉ một lần cũng được\".\nThứ tự đúng là: ③で + ②いい + ④から + ①会ってみたい. Câu hỏi hoàn chỉnh là: \"Thưa các bạn, có ai nghĩ rằng mình muốn gặp (người đó) dù chỉ một lần cũng được không?\"",
+      "grammar_point": "〜でいいから〜たい",
+      "grammar_note": "Cấu trúc này dùng để diễn tả mong muốn hoặc yêu cầu một điều gì đó, dù chỉ là ở mức tối thiểu hoặc không hoàn hảo, nhưng vẫn chấp nhận được."
+    }
+  },
+  {
+    "note_id": 1781518534945,
+    "type": "m2",
+    "question": "",
+    "front_options": [],
+    "gemini_order": null,
+    "corrected_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "image": "paste-a780721f5502438539ad168a7815e2257157ca56.jpg",
+    "needs_ocr": true,
+    "deck_idx": 2,
+    "new": {
+      "id": 1781518534945,
+      "completed_sentence": "初めてアルバイトをして、お金を稼ぐことがどれだけ大変なことかわかった。",
+      "star_answer": "大変な",
+      "explanation": "Câu này diễn tả sự nhận ra mức độ khó khăn của việc kiếm tiền khi lần đầu đi làm thêm. Cấu trúc chính là `〜ことがどれだけ〜ことかわかった`.\n- `お金を稼ぐこと` (việc kiếm tiền) được danh từ hóa bằng `こと` và làm chủ ngữ với trợ từ `が`.\n- `どれだけ〜か` (hoặc `どれほど〜か`) là cấu trúc dùng để nhấn mạnh mức độ, ý nghĩa là 'đến mức nào', 'biết bao'.\n- `大変な` là tính từ đuôi `na` bổ nghĩa cho `こと`.\n- `〜ことか` ở cuối câu là một cách diễn đạt cảm thán, nhấn mạnh cảm xúc, sự ngạc nhiên hoặc nhận ra một điều gì đó, tương tự như 'thật là... biết bao!' hoặc 'không biết đến mức nào...'.\n\nThứ tự đúng là:\n1.  `初めてアルバイトをして、お金を稼ぐ` (Lần đầu đi làm thêm, kiếm tiền)\n2.  `③ ことが` (việc kiếm tiền...)\n3.  `④ どれだけ` (đến mức nào...)\n4.  `② 大変な` (khó khăn...)\n5.  `① ことか` (thật là khó khăn biết bao!)\n6.  `わかった。` (đã hiểu ra).",
+      "grammar_point": "〜どれだけ〜ことか / 〜ことか",
+      "grammar_note": "Cấu trúc này dùng để diễn tả sự ngạc nhiên, cảm thán hoặc nhấn mạnh mức độ của một sự việc, thường đi kèm với các từ nghi vấn như `どれだけ` (bao nhiêu, đến mức nào) hoặc `どんなに` (như thế nào)."
+    }
+  },
+  {
+    "note_id": 1781518614471,
+    "type": "m2",
+    "question": "",
+    "front_options": [],
+    "gemini_order": null,
+    "corrected_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "image": "paste-8d6cae10f58f2e8cc662a5e850dcc09acae75f5f.jpg",
+    "needs_ocr": true,
+    "deck_idx": 2,
+    "new": {
+      "id": 1781518614471,
+      "completed_sentence": "今日、昼食の後、図書館へ行って本を読んでいたら、いつのまにか外が暗くなっていたので驚いた。",
+      "star_answer": "ので",
+      "explanation": "Cấu trúc câu hoàn chỉnh là: 「今日、昼食の後、図書館へ行って本を読んでいたら、いつのまにか外が暗くなっていたので驚いた。」\n\n1.  **いつのまにか (4)**: Là một trạng từ có nghĩa là \"lúc nào không hay,\" \"chẳng biết từ khi nào.\" Nó đứng đầu mệnh đề chỉ sự việc xảy ra một cách bất ngờ, không được nhận ra.\n2.  **外が暗くなっていた (2)**: Diễn tả sự việc \"bên ngoài đã trở nên tối.\" Đây là sự việc chính xảy ra một cách bất ngờ.\n3.  **ので (1)**: Là một liên từ chỉ nguyên nhân, lý do. Nó nối mệnh đề \"ngoài trời tối\" với kết quả/cảm xúc \"ngạc nhiên.\" Nó đứng sau mệnh đề nguyên nhân.\n4.  **驚いた (3)**: Là động từ \"ngạc nhiên,\" diễn tả cảm xúc của người nói trước sự việc trời tối lúc nào không hay.\n\nThứ tự đúng là: `いつのまにか` (4) + `外が暗くなっていた` (2) + `ので` (1) + `驚いた` (3). Mảnh ghép ở vị trí ★ là `ので` (1).",
+      "grammar_point": "〜ので",
+      "grammar_note": "「〜ので」 được dùng để diễn tả nguyên nhân, lý do một cách khách quan, thường dùng trong các tình huống giải thích hoặc đưa ra lý do."
+    }
+  },
+  {
+    "note_id": 1781518675227,
+    "type": "m2",
+    "question": "",
+    "front_options": [],
+    "gemini_order": null,
+    "corrected_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "image": "paste-1dbba66f457fa95ae00d5348ef8ba0fdcef1a7d2.jpg",
+    "needs_ocr": true,
+    "deck_idx": 2,
+    "new": {
+      "id": 1781518675227,
+      "completed_sentence": "このチーズケーキの作り方は材料を混ぜて冷やすだけだから、誰でも簡単に作れると思う。",
+      "star_answer": "だけ",
+      "explanation": "Cấu trúc câu là [Động từ thể thường/Danh từ] + だけ + だから. Trong câu này, \"作り方は\" (cách làm) là chủ ngữ, theo sau là mô tả hành động \"材料を混ぜて冷やす\" (trộn nguyên liệu và làm lạnh). \"だけ\" (chỉ) được dùng để nhấn mạnh sự đơn giản của hành động này. \"だから\" (vì vậy/nên) nối vế nguyên nhân với vế kết quả \"誰でも簡単に作れると思う\" (tôi nghĩ ai cũng có thể làm dễ dàng). Thứ tự đúng là: 作り方は (2) + 材料を混ぜて冷やす (4) + だけ (3) + だから (1). Mảnh ghép số 3 (だけ) nằm ở vị trí ★.",
+      "grammar_point": "〜だけだから",
+      "grammar_note": "Cấu trúc này dùng để diễn tả lý do rằng \"chỉ cần làm/có điều gì đó\" nên dẫn đến một kết quả nào đó, thường là sự đơn giản hoặc dễ dàng."
+    }
+  }
+]

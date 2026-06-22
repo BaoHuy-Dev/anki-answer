@@ -1,0 +1,68 @@
+m1 to regen: 127
+  m1 [6/127]
+  m1 [12/127]
+  m1 [18/127]
+  m1 [24/127]
+  m1 [30/127]
+  m1 [36/127]
+  m1 [42/127]
+  m1 [48/127]
+  m1 [54/127]
+  m1 [60/127]
+  m1 [66/127]
+  m1 [72/127]
+  m1 [78/127]
+  m1 [84/127]
+  m1 [90/127]
+  m1 [96/127]
+  m1 [102/127]
+  m1 [108/127]
+  m1 [114/127]
+  m1 [120/127]
+  m1 [126/127]
+  m1 [127/127]
+m2 to regen: 11
+  m2 [1/11] note 1780328966579
+  m2 [2/11] note 1780328973142
+  m2 [3/11] note 1780328973677
+  m2 [4/11] note 1780328975869
+  m2 [5/11] note 1780328979185
+  m2 [6/11] note 1780328986908
+  m2 [7/11] note 1780328988000
+  m2 [8/11] note 1780328989100
+Traceback (most recent call last):
+  File "G:\Project\anki-answer\scripts\fix_corrections.py", line 249, in _parse_arr
+    v = json.loads(t)
+        ^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 6 column 309 (char 430)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "G:\Project\anki-answer\scripts\fix_corrections.py", line 388, in <module>
+    stage_regen()
+  File "G:\Project\anki-answer\scripts\fix_corrections.py", line 298, in stage_regen
+    arr = _parse_arr(gemini_json(M2_SYSTEM, json.dumps(item, ensure_ascii=False), images=images))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Project\anki-answer\scripts\fix_corrections.py", line 254, in _parse_arr
+    return json.loads(t[s:e + 1])
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 338, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Admin\AppData\Local\Programs\Python\Python312\Lib\json\decoder.py", line 354, in raw_decode
+    obj, end = self.scan_once(s, idx)
+               ^^^^^^^^^^^^^^^^^^^^^^
+json.decoder.JSONDecodeError: Expecting ',' delimiter: line 6 column 309 (char 430)

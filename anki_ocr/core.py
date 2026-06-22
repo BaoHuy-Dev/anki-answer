@@ -89,7 +89,22 @@ def remove_front_ocr_block(field_html: str) -> str:
 
 
 def has_generated_block(field_html: str) -> bool:
-    return GENERATED_BLOCK_PATTERN.search(field_html or "") is not None
+    if not GENERATED_BLOCK_PATTERN.search(field_html or ""):
+        return False
+    
+    # Check if the block is a NEW clean block
+    # A new clean block MUST have "<b>Câu hỏi:</b>"
+    if "<b>Câu hỏi:</b>" not in field_html:
+        return False # Messy, don't skip!
+        
+    try:
+        question_part = field_html.split("<b>Câu hỏi:</b>")[1].split("</p>")[0]
+        if "|" in question_part:
+            return False # Messy, don't skip!
+    except IndexError:
+        return False # Messy, don't skip!
+        
+    return True # Clean, DO skip!
 
 
 def has_front_ocr_block(field_html: str) -> bool:
@@ -114,6 +129,32 @@ def clean_note_text(field_html: str) -> str:
 
 def _html_text(value: str) -> str:
     return html.escape(value, quote=False)
+
+
+def _format_multi_line(value: str) -> str:
+    if not value:
+        return ""
+    text = html.escape(value, quote=False)
+    if "|" in text:
+        parts = [p.strip() for p in text.split("|") if p.strip()]
+        return "<br>" + "<br>".join(f"• {p}" for p in parts)
+        
+    # Break after 」 if not followed by punctuation or another bracket
+    pattern_closing = re.compile(r'([」])\s*([^」\s。、.!,?])')
+    text = pattern_closing.sub(r'\1<br>\2', text)
+    
+    # Break before A, B, C or names before 「
+    pattern_speaker = re.compile(r'(\s+|[。])([A-ZＡ-Ｚ]\s*[「:：])')
+    text = pattern_speaker.sub(r'\1<br>\2', text)
+    
+    # Clean up double <br>
+    text = re.sub(r'(<br>\s*)+', '<br>', text)
+    text = text.replace('<br> ', '<br>')
+    if text.startswith('<br>'):
+        text = text[4:]
+    text = text.replace(' <br>', '<br>')
+        
+    return text
 
 
 def _option_matches_answer(option: AnswerOption, answer: str) -> bool:
@@ -311,7 +352,7 @@ def render_front_ocr_block(question: str, options: list[str], raw_ocr: str = "")
         "<hr>",
     ]
     if question:
-        lines.append(f"<p><b>OCR câu hỏi:</b> {_html_text(question)}</p>")
+        lines.append(f"<p><b>OCR câu hỏi:</b> {_format_multi_line(question)}</p>")
     if options:
         lines.append("<p><b>OCR lựa chọn:</b></p>")
         lines.append("<ul>")
@@ -334,11 +375,11 @@ def render_back_block(payload: dict[str, Any]) -> str:
     if payload.get("answer"):
         lines.append(f"<p><b>Đáp án:</b> {_html_text(payload['answer'])}</p>")
     if payload.get("japanese_question"):
-        lines.append(f"<p><b>Câu hỏi:</b> {_html_text(payload['japanese_question'])}</p>")
+        lines.append(f"<p><b>Câu hỏi:</b> {_format_multi_line(payload['japanese_question'])}</p>")
     if payload.get("romaji_question"):
-        lines.append(f"<p><b>Romaji câu hỏi:</b> {_html_text(payload['romaji_question'])}</p>")
+        lines.append(f"<p><b>Romaji câu hỏi:</b> {_format_multi_line(payload['romaji_question'])}</p>")
     if payload.get("vietnamese_question"):
-        lines.append(f"<p><b>Dịch câu hỏi:</b> {_html_text(payload['vietnamese_question'])}</p>")
+        lines.append(f"<p><b>Dịch câu hỏi:</b> {_format_multi_line(payload['vietnamese_question'])}</p>")
     if payload.get("romaji_answer"):
         lines.append(f"<p><b>Romaji đáp án:</b> {_html_text(payload['romaji_answer'])}</p>")
     if payload.get("vietnamese_answer"):

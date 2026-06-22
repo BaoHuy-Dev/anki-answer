@@ -51,7 +51,7 @@ Tasks:
 - Detect the question type and tailor the explanation:
   - Fill-in-the-blank: explain the key vocabulary or grammar pattern.
   - Synonym questions: explain why the correct option has the same meaning as the target word or phrase, and how the wrong options differ.
-  - Word-usage questions: choose the sentence where the target word is used naturally, and explain why each wrong sentence is unnatural.
+  - Word-usage questions: choose the sentence where the target word is used naturally, and explain why each wrong sentence is unnatural. For these questions, "japanese_question" should ONLY be the target word. Do NOT concatenate the option sentences into "japanese_question".
   - Word-order/star questions: reorder all visible fragments into the most natural full sentence, identify the fragment at the ★ position, and explain the grammar or collocation that fixes the order.
 - Convert the question to romaji.
 - Translate the question to Vietnamese.
