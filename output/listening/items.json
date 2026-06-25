@@ -1,0 +1,3808 @@
+[
+  {
+    "prompt": "コーヒー もう一杯 いかが ですか？",
+    "prompt_vi": "Bạn có muốn thêm một tách cà phê nữa không?",
+    "options": [
+      "結構 だ と 思います。",
+      "おかげさまで。",
+      "いただきます。"
+    ],
+    "options_vi": [
+      "Tôi nghĩ là đủ rồi/Tôi ổn rồi.",
+      "Nhờ ơn trời/Nhờ bạn mà tôi ổn.",
+      "Tôi xin nhận/Tôi sẽ dùng ạ."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu là lời mời thêm một tách cà phê. \n1. 「結構 だ と 思います。」 là một cách từ chối lịch sự, nghĩa là 'Tôi nghĩ là đủ rồi' hoặc 'Tôi ổn rồi'. Tuy nhiên, 「結構です」 sẽ là cách từ chối trực tiếp và phổ biến hơn.\n2. 「おかげさまで。」 thường dùng để đáp lại khi được hỏi về sức khỏe hoặc để bày tỏ lòng biết ơn khi nhận được sự giúp đỡ, không phù hợp trong trường hợp này.\n3. 「いただきます。」 là cách nói phổ biến và tự nhiên nhất để chấp nhận lời mời đồ ăn, thức uống, mang ý nghĩa 'Tôi xin nhận/Tôi sẽ dùng ạ'. Đây là một lời chấp nhận trực tiếp và lịch sự.",
+    "q": 1
+  },
+  {
+    "prompt": "いつ日本にいらっしゃったんですか？",
+    "prompt_vi": "Anh/chị đã đến Nhật Bản khi nào vậy?",
+    "options": [
+      "3ヶ月前に参りました。",
+      "3年の予定です。",
+      "来年の3月までいます。"
+    ],
+    "options_vi": [
+      "Tôi đã đến cách đây 3 tháng.",
+      "Dự định là 3 năm.",
+      "Tôi sẽ ở đây cho đến tháng 3 năm sau."
+    ],
+    "answer": 1,
+    "explanation": "Câu hỏi là \"いつ日本にいらっしゃったんですか？\" (Anh/chị đã đến Nhật Bản khi nào?), hỏi về thời điểm đến. Lựa chọn 1 \"3ヶ月前に参りました。\" (Tôi đã đến cách đây 3 tháng) trả lời trực tiếp và chính xác về thời điểm đến. Lựa chọn 2 \"3年の予定です。\" (Dự định là 3 năm) trả lời về thời gian dự định ở lại, không phải thời điểm đến. Lựa chọn 3 \"来年の3月までいます。\" (Tôi sẽ ở đây cho đến tháng 3 năm sau) trả lời về thời điểm sẽ rời đi, cũng không phải thời điểm đến.",
+    "q": 2
+  },
+  {
+    "prompt": "お久しぶりです。お元気ですか？",
+    "prompt_vi": "Lâu rồi không gặp. Bạn khỏe không?",
+    "options": [
+      "結構です。",
+      "お構いなく。",
+      "おかげさまで。"
+    ],
+    "options_vi": [
+      "Được rồi/Đủ rồi/Không cần đâu.",
+      "Xin đừng bận tâm/Đừng khách sáo.",
+      "Nhờ ơn trời/Nhờ phúc của bạn."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu là lời chào hỏi \"Lâu rồi không gặp. Bạn khỏe không?\".\n- Lựa chọn 1 「結構です」 dùng để từ chối một lời đề nghị hoặc nói rằng đã đủ rồi, không phù hợp với câu hỏi sức khỏe.\n- Lựa chọn 2 「お構いなく」 dùng để nói \"đừng bận tâm/đừng khách sáo\" khi ai đó muốn làm gì đó cho mình, cũng không phù hợp.\n- Lựa chọn 3 「おかげさまで」 là cách đáp lại lịch sự và tự nhiên nhất khi được hỏi về sức khỏe, mang ý nghĩa \"nhờ ơn trời/nhờ phúc của bạn mà tôi khỏe\". Đây là câu trả lời chuẩn mực trong tình huống này.",
+    "q": 3
+  },
+  {
+    "prompt": "風邪、どう？治った？",
+    "prompt_vi": "Cảm cúm sao rồi? Khỏi chưa?",
+    "options": [
+      "そう。お大事に。",
+      "まだ調子悪くて。",
+      "風邪ひいちゃった。"
+    ],
+    "options_vi": [
+      "Vậy à. Giữ gìn sức khỏe nhé.",
+      "Tôi vẫn chưa khỏe.",
+      "Tôi bị cảm rồi."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là \"Cảm cúm sao rồi? Khỏi chưa?\".\n- Lựa chọn 1 \"そう。お大事に。\" (Vậy à. Giữ gìn sức khỏe nhé.) là câu nói để động viên người bệnh, không phải câu trả lời cho tình trạng của bản thân.\n- Lựa chọn 2 \"まだ調子悪くて。\" (Tôi vẫn chưa khỏe.) là câu trả lời trực tiếp và tự nhiên nhất, cho biết tình trạng bệnh vẫn chưa khỏi.\n- Lựa chọn 3 \"風邪ひいちゃった。\" (Tôi bị cảm rồi.) là câu nói về việc bị cảm, không phải trả lời cho việc đã khỏi hay chưa.",
+    "q": 4
+  },
+  {
+    "prompt": "あの、明日のテスト、どうしても受けなくちゃいけませんか？",
+    "prompt_vi": "À, bài kiểm tra ngày mai, tôi nhất định phải làm sao?",
+    "options": [
+      "受けられますよ。",
+      "必ず受けてください。",
+      "明日のほうがよかったですか？"
+    ],
+    "options_vi": [
+      "Bạn có thể làm mà.",
+      "Nhất định phải làm đấy.",
+      "Ngày mai thì tốt hơn à?"
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là \"có nhất định phải làm bài kiểm tra ngày mai không?\".\nLựa chọn 1 \"受けられますよ\" (Bạn có thể làm mà) trả lời cho câu hỏi \"có làm được không?\" chứ không phải \"có nhất định phải làm không?\".\nLựa chọn 2 \"必ず受けてください\" (Nhất định phải làm đấy) trực tiếp trả lời và xác nhận rằng việc làm bài kiểm tra là bắt buộc, phù hợp với câu hỏi.\nLựa chọn 3 \"明日のほうがよかったですか？\" (Ngày mai thì tốt hơn à?) là một câu hỏi về sự ưu tiên thời gian, không liên quan đến việc có bắt buộc phải làm bài kiểm tra hay không.",
+    "q": 5
+  },
+  {
+    "prompt": "この仕事、ぜひ私にやらせてもらえませんか？",
+    "prompt_vi": "Công việc này, nhất định hãy để tôi làm được không ạ?",
+    "options": [
+      "ええ、お願いします。",
+      "そう言わずに頑張ってください。",
+      "じゃあ、引き受けましょう。"
+    ],
+    "options_vi": [
+      "Vâng, tôi nhờ anh/chị.",
+      "Đừng nói thế mà hãy cố gắng lên.",
+      "Vậy thì, tôi sẽ giao cho anh/chị."
+    ],
+    "answer": 1,
+    "explanation": "Người nói muốn được giao việc. \"ええ、お願いします\" là câu trả lời chấp nhận đề nghị và đồng ý giao việc cho người đó. Lựa chọn 2 là phản ứng khi ai đó muốn bỏ cuộc, không phải khi họ đề nghị làm việc. Lựa chọn 3 là câu người đề nghị sẽ nói khi được chấp thuận.",
+    "q": 6,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "ねえ、田中君のこと聞いた？",
+    "prompt_vi": "Này, cậu đã nghe chuyện về Tanaka-kun chưa?",
+    "options": [
+      "そうなんだ。",
+      "何かあったの？",
+      "そんなことないよ。"
+    ],
+    "options_vi": [
+      "Ồ, vậy à.",
+      "Có chuyện gì vậy?",
+      "Không phải vậy đâu."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu hỏi liệu người nghe đã biết chuyện gì về Tanaka-kun chưa. Lựa chọn 2, \"何かあったの？\" (Có chuyện gì vậy?), là câu trả lời tự nhiên nhất vì nó thể hiện rằng người nghe chưa biết và muốn hỏi thêm thông tin. Lựa chọn 1 \"そうなんだ。\" (Ồ, vậy à.) thường dùng để xác nhận hoặc thể hiện sự ngạc nhiên khi đã được kể chuyện, không phải là câu trả lời trực tiếp cho câu hỏi \"đã nghe chưa?\". Lựa chọn 3 \"そんなことないよ。\" (Không phải vậy đâu.) là câu phủ nhận, không phù hợp với ngữ cảnh của câu hỏi.",
+    "q": 7
+  },
+  {
+    "prompt": "すいません、部長。この書類、見ていただけませんか？",
+    "prompt_vi": "Xin lỗi, Trưởng phòng. Anh có thể xem giúp tôi tài liệu này được không ạ?",
+    "options": [
+      "ご覧になってください。",
+      "会議の後でなら、いいですよ。",
+      "すぐに見せましょう。"
+    ],
+    "options_vi": [
+      "Xin mời anh xem.",
+      "Nếu là sau cuộc họp thì được thôi.",
+      "Tôi sẽ cho xem ngay."
+    ],
+    "answer": 2,
+    "explanation": "Người nói (cấp dưới) đang nhờ Trưởng phòng xem tài liệu. \n- Lựa chọn 1 「ご覧になってください。」(Xin mời anh xem) là câu nói mời người khác xem, không phải câu trả lời cho lời nhờ vả. \n- Lựa chọn 3 「すぐに見せましょう。」(Tôi sẽ cho xem ngay) có nghĩa là người nói sẽ cho người nghe xem, nhưng ở đây Trưởng phòng là người được nhờ xem tài liệu, không phải người cho xem. \n- Lựa chọn 2 「会議の後でなら、いいですよ。」(Nếu là sau cuộc họp thì được thôi) là câu trả lời phù hợp nhất, Trưởng phòng đồng ý xem tài liệu nhưng hẹn thời gian sau cuộc họp.",
+    "q": 8
+  },
+  {
+    "prompt": "明日3時に伺ってもよろしいでしょうか。",
+    "prompt_vi": "Ngày mai tôi đến vào lúc 3 giờ có được không ạ?",
+    "options": [
+      "そうですか。伺います。",
+      "よくいらっしゃいました。",
+      "もう少し早く来られませんか。"
+    ],
+    "options_vi": [
+      "Vậy à. Tôi sẽ đến.",
+      "Chào mừng quý khách đã đến.",
+      "Anh/chị có thể đến sớm hơn một chút được không?"
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang hỏi xin phép đến thăm vào lúc 3 giờ chiều ngày mai. \n- Lựa chọn 1 \"そうですか。伺います。\" (Vậy à. Tôi sẽ đến.) không phù hợp vì người nói đang hỏi xin phép đến, chứ không phải người nghe sẽ đến. Ngoài ra, \"そうですか\" cũng không phải là phản hồi tự nhiên cho một câu hỏi xin phép.\n- Lựa chọn 2 \"よくいらっしゃいました。\" (Chào mừng quý khách đã đến.) là câu chào dùng khi khách đã đến rồi, trong khi câu hỏi là về việc đến thăm vào ngày mai.\n- Lựa chọn 3 \"もう少し早く来られませんか。\" (Anh/chị có thể đến sớm hơn một chút được không?) là câu trả lời tự nhiên nhất, thể hiện rằng người nghe không tiện vào lúc 3 giờ và muốn đề xuất một thời điểm khác.",
+    "q": 9
+  },
+  {
+    "prompt": "ねえ、ちょっと教科書見せてほしいんだけど。",
+    "prompt_vi": "Này, tôi muốn bạn cho tôi xem sách giáo khoa một chút.",
+    "options": [
+      "じゃあ、よかったら見せて。",
+      "見てもらったらいいんじゃない？",
+      "いいよ、今使ってないから。"
+    ],
+    "options_vi": [
+      "Vậy thì, nếu được thì cho tôi xem đi.",
+      "Không phải sẽ tốt hơn nếu bạn được người khác cho xem sao?",
+      "Được thôi, bây giờ tôi không dùng mà."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu là một lời đề nghị muốn xem sách giáo khoa. Lựa chọn 3 \"いいよ、今使ってないから。\" (Được thôi, bây giờ tôi không dùng mà.) là lời đồng ý trực tiếp và tự nhiên nhất. Lựa chọn 1 \"じゃあ、よかったら見せて。\" lại là người nói yêu cầu người kia cho mình xem, ngược lại với ý của câu mở đầu. Lựa chọn 2 \"見てもらったらいいんじゃない？\" là một gợi ý cho người nói tự đi tìm người khác để xem, không phải là phản hồi trực tiếp cho lời đề nghị.",
+    "q": 10
+  },
+  {
+    "prompt": "ねえ、京都って行ったことある？",
+    "prompt_vi": "Này, cậu đã từng đi Kyoto chưa?",
+    "options": [
+      "うん、1回だけだけどね。",
+      "いや、行かないこともないよ。",
+      "へえ、行ったんだ。"
+    ],
+    "options_vi": [
+      "Ừ, mới có một lần thôi.",
+      "Không, không phải là chưa từng đi đâu.",
+      "Hả, đã đi rồi à."
+    ],
+    "answer": 1,
+    "explanation": "Câu hỏi là \"Cậu đã từng đi Kyoto chưa?\".\nLựa chọn 1: \"Ừ, mới có một lần thôi.\" là câu trả lời trực tiếp và tự nhiên nhất, xác nhận đã đi và bổ sung thêm chi tiết.\nLựa chọn 2: \"Không, không phải là chưa từng đi đâu.\" là một cách nói phủ định kép, có nghĩa là \"đã đi rồi\" nhưng cách diễn đạt này hơi vòng vo và không tự nhiên bằng lựa chọn 1 khi trả lời câu hỏi về kinh nghiệm.\nLựa chọn 3: \"Hả, đã đi rồi à.\" là một câu cảm thán hoặc hỏi lại, thể hiện sự ngạc nhiên khi biết ai đó đã đi, chứ không phải là câu trả lời cho việc bản thân mình đã đi hay chưa.",
+    "q": 11
+  },
+  {
+    "prompt": "なんで今日田中さんは会社に来てないの？",
+    "prompt_vi": "Sao hôm nay anh Tanaka không đến công ty vậy?",
+    "options": [
+      "車で来たんだって。",
+      "うん、来てない。",
+      "風邪をひいたらしいよ。"
+    ],
+    "options_vi": [
+      "Nghe nói anh ấy đến bằng ô tô.",
+      "Ừm, không đến.",
+      "Có vẻ như anh ấy bị cảm rồi."
+    ],
+    "answer": 3,
+    "explanation": "Câu hỏi là \"なんで\" (tại sao) anh Tanaka không đến công ty. Lựa chọn 3 \"風邪をひいたらしいよ\" (Có vẻ như anh ấy bị cảm rồi) đưa ra lý do cho sự vắng mặt, trả lời trực tiếp câu hỏi. Lựa chọn 1 nói về phương tiện di chuyển, không liên quan đến lý do vắng mặt. Lựa chọn 2 chỉ xác nhận anh ấy không đến, nhưng không giải thích tại sao.",
+    "q": 12
+  },
+  {
+    "prompt": "レポートやっとできたよ。",
+    "prompt_vi": "Cuối cùng thì tôi cũng làm xong báo cáo rồi!",
+    "options": [
+      "残念だったね。",
+      "大変だったね。",
+      "困ったね。"
+    ],
+    "options_vi": [
+      "Tiếc thật nhỉ.",
+      "Chắc là vất vả lắm nhỉ.",
+      "Gay go thật nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Người nói bày tỏ sự nhẹ nhõm vì cuối cùng đã hoàn thành báo cáo. Đáp án 2 (大変だったね。) thể hiện sự đồng cảm, hiểu rằng việc làm báo cáo chắc hẳn rất vất vả, là một phản ứng tự nhiên và phù hợp. Đáp án 1 (残念だったね。) thể hiện sự tiếc nuối, không phù hợp với tình huống này. Đáp án 3 (困ったね。) thể hiện sự bối rối, gặp rắc rối, cũng không phù hợp.",
+    "q": 13
+  },
+  {
+    "prompt": "帰る時、電気消すの忘れずにね。",
+    "prompt_vi": "Khi về, đừng quên tắt đèn nhé.",
+    "options": [
+      "つけておきます。",
+      "よろしくお願いします。",
+      "わかりました。"
+    ],
+    "options_vi": [
+      "Tôi sẽ để nguyên (bật) đó.",
+      "Mong anh/chị giúp đỡ.",
+      "Tôi hiểu rồi."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu là lời nhắc nhở \"Đừng quên tắt đèn khi về nhé\".\nLựa chọn 1 \"つけておきます\" (Tôi sẽ để nguyên/bật đó) là hành động trái ngược với lời nhắc nhở.\nLựa chọn 2 \"よろしくお願いします\" (Mong anh/chị giúp đỡ) là một câu chào hoặc lời nhờ vả chung chung, không phù hợp với ngữ cảnh này.\nLựa chọn 3 \"わかりました\" (Tôi hiểu rồi) là câu trả lời tự nhiên và phù hợp nhất để xác nhận đã tiếp nhận lời nhắc nhở.",
+    "q": 14
+  },
+  {
+    "prompt": "いくつかお聞きしたいことがあるんですが。",
+    "prompt_vi": "Tôi có vài điều muốn hỏi.",
+    "options": [
+      "どんなことでしょうか。",
+      "聞いたことがあります。",
+      "25歳なんです。"
+    ],
+    "options_vi": [
+      "Là chuyện gì vậy ạ?",
+      "Tôi đã từng nghe rồi.",
+      "Tôi 25 tuổi."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là một cách lịch sự để nói rằng mình có điều muốn hỏi. Lựa chọn 1 \"どんなことでしょうか。(Là chuyện gì vậy ạ?)\" là câu đáp tự nhiên nhất, thể hiện sự sẵn lòng lắng nghe và mời người nói trình bày câu hỏi của mình. Lựa chọn 2 \"聞いたことがあります。(Tôi đã từng nghe rồi.)\" không phù hợp vì người nói chưa hỏi gì cả. Lựa chọn 3 \"25歳なんです。(Tôi 25 tuổi.)\" hoàn toàn không liên quan đến nội dung câu nói mở đầu.",
+    "q": 15
+  },
+  {
+    "prompt": "もうすぐ雨やみそうだね。",
+    "prompt_vi": "Trông có vẻ sắp tạnh mưa rồi nhỉ.",
+    "options": [
+      "それほどでもないよ。",
+      "まだ降ってないよ。",
+      "夕方まで降るらしいよ。"
+    ],
+    "options_vi": [
+      "Không đến mức đó đâu.",
+      "Vẫn chưa mưa đâu.",
+      "Nghe nói sẽ mưa đến chiều tối đấy."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu bày tỏ sự kỳ vọng rằng mưa sẽ tạnh sớm. Lựa chọn 3 \"夕方まで降るらしいよ\" (Nghe nói sẽ mưa đến chiều tối đấy) trực tiếp phủ nhận kỳ vọng đó bằng cách đưa ra thông tin rằng mưa sẽ kéo dài hơn, đây là một phản hồi tự nhiên và hợp lý. Lựa chọn 1 \"それほどでもないよ\" (Không đến mức đó đâu) cũng là một cách phủ nhận nhưng không cụ thể bằng. Lựa chọn 2 \"まだ降ってないよ\" (Vẫn chưa mưa đâu) hoàn toàn sai vì câu mở đầu ngụ ý rằng trời đang mưa.",
+    "q": 16
+  },
+  {
+    "prompt": "これ、郵便局に持っていってもらえませんか？",
+    "prompt_vi": "Cái này, bạn có thể mang đến bưu điện giúp tôi được không?",
+    "options": [
+      "すぐ行った方がいいですよ。",
+      "急いで取りに行きます。",
+      "ちょっと後でもいいですか？"
+    ],
+    "options_vi": [
+      "Bạn nên đi ngay lập tức đấy.",
+      "Tôi sẽ vội vàng đi lấy.",
+      "Để một lát sau cũng được không?"
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu là một lời nhờ vả: 'Bạn có thể mang cái này đến bưu điện giúp tôi được không?'.\n- Lựa chọn 1 là lời khuyên, không phải câu trả lời trực tiếp cho lời nhờ vả.\n- Lựa chọn 2 nói 'đi lấy' (取りに行く), trong khi lời nhờ vả là 'mang đi' (持っていく). Hơn nữa, 'đi lấy' thường dùng khi đi lấy một thứ gì đó đã có sẵn ở một nơi nào đó, không phải mang đi gửi.\n- Lựa chọn 3 là câu hỏi lại để xác nhận xem có thể làm muộn hơn một chút được không, đây là cách đáp lại tự nhiên và lịch sự nhất khi nhận được lời nhờ vả mà mình muốn trì hoãn hoặc xác nhận thời gian.",
+    "q": 17
+  },
+  {
+    "prompt": "今晩8時からのドラマ、ビデオに撮っておいてくれない？",
+    "prompt_vi": "Bộ phim truyền hình từ 8 giờ tối nay, bạn có thể ghi hình lại giúp tôi được không?",
+    "options": [
+      "もう、置いてあるよ。",
+      "うん、やとく。",
+      "撮ったばかりだよ。"
+    ],
+    "options_vi": [
+      "À, nó đã được đặt ở đó rồi.",
+      "Ừ, tôi sẽ làm.",
+      "Tôi vừa mới quay xong."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là một lời nhờ vả: 'Bạn có thể ghi hình bộ phim tối nay giúp tôi được không?'.\n- Lựa chọn 1 'もう、置いてあるよ。' (Nó đã được đặt ở đó rồi) không liên quan đến việc ghi hình.\n- Lựa chọn 2 'うん、やとく。' (Ừ, tôi sẽ làm) là câu trả lời tự nhiên nhất, thể hiện sự đồng ý thực hiện lời nhờ vả. 'やとく' là dạng rút gọn của 'やっておく' (làm sẵn/làm trước).\n- Lựa chọn 3 '撮ったばかりだよ。' (Tôi vừa mới quay xong) không phù hợp vì bộ phim 'tối nay' chưa chiếu, nên không thể 'vừa mới quay xong' được.",
+    "q": 18
+  },
+  {
+    "prompt": "りんさん、明日アルバイト3時に来てほしいんですが。",
+    "prompt_vi": "Rin-san, về công việc làm thêm ngày mai, tôi muốn bạn đến lúc 3 giờ, nhưng mà...",
+    "options": [
+      "いつでも来てください。",
+      "都合はどうですか。",
+      "はい、大丈夫です。"
+    ],
+    "options_vi": [
+      "Xin hãy đến bất cứ lúc nào.",
+      "Lịch trình của bạn thế nào?",
+      "Vâng, không sao cả."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang yêu cầu Rin-san đến làm thêm lúc 3 giờ. Lựa chọn (3) \"はい、大丈夫です。\" (Vâng, không sao cả / Vâng, được ạ) là câu trả lời trực tiếp và tự nhiên nhất để xác nhận rằng Rin-san có thể đến vào thời gian đó. Lựa chọn (1) \"いつでも来てください。\" (Xin hãy đến bất cứ lúc nào) không phù hợp vì người nói đã đưa ra một giờ cụ thể. Lựa chọn (2) \"都合はどうですか。\" (Lịch trình của bạn thế nào?) là một câu hỏi ngược lại, không phải là phản hồi cho một yêu cầu cụ thể.",
+    "q": 19
+  },
+  {
+    "prompt": "田中さん、明日の旅行は8時出発ですよ。遅れないようにね。",
+    "prompt_vi": "Anh Tanaka, chuyến du lịch ngày mai khởi hành lúc 8 giờ đó. Đừng đến muộn nhé.",
+    "options": [
+      "気をつけます。",
+      "そうしてください。",
+      "よく気がつきます。"
+    ],
+    "options_vi": [
+      "Tôi sẽ cẩn thận.",
+      "Xin hãy làm như vậy.",
+      "Anh/Chị rất tinh ý."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là lời nhắc nhở về giờ khởi hành và dặn dò đừng đến muộn. Lựa chọn 1 \"気をつけます\" (Tôi sẽ cẩn thận/Tôi sẽ chú ý) là câu trả lời tự nhiên và phù hợp nhất để thể hiện rằng mình đã tiếp nhận lời nhắc nhở. Lựa chọn 2 \"そうしてください\" (Xin hãy làm như vậy) là một yêu cầu người khác làm gì đó, không phải là câu trả lời cho lời nhắc nhở. Lựa chọn 3 \"よく気がつきます\" (Anh/Chị rất tinh ý) là một lời nhận xét về người nói, không liên quan đến nội dung được nhắc nhở.",
+    "q": 20
+  },
+  {
+    "prompt": "あれ？雨ですか？そんなに濡れちゃって。",
+    "prompt_vi": "Ô? Mưa à? Ướt hết cả rồi.",
+    "options": [
+      "じゃあ、傘はいりませんね。",
+      "いつ降るんでしょう？",
+      "急に降ってきたんです。"
+    ],
+    "options_vi": [
+      "Vậy thì, không cần ô nhỉ.",
+      "Khi nào thì mưa nhỉ?",
+      "Trời đột nhiên đổ mưa."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu thể hiện sự ngạc nhiên và lo lắng khi thấy ai đó bị ướt vì mưa. Lựa chọn 3 \"急に降ってきたんです。\" (Trời đột nhiên đổ mưa) là lời giải thích tự nhiên nhất cho việc bị ướt. Lựa chọn 1 \"じゃあ、傘はいりませんね。\" (Vậy thì, không cần ô nhỉ) là không hợp lý vì người đó đang bị ướt do mưa. Lựa chọn 2 \"いつ降るんでしょう？\" (Khi nào thì mưa nhỉ?) cũng không hợp lý vì trời đang mưa rồi.",
+    "q": 21
+  },
+  {
+    "prompt": "暑いので、ちょっと窓を開けてもよろしいでしょうか。",
+    "prompt_vi": "Vì trời nóng, tôi mở cửa sổ một chút có được không ạ?",
+    "options": [
+      "じゃあ、閉めましょう。",
+      "ええ、構いませんよ。",
+      "いいえ、どういたしまして。"
+    ],
+    "options_vi": [
+      "Vậy thì, hãy đóng lại đi.",
+      "Vâng, không sao đâu ạ.",
+      "Không, không có gì đâu ạ."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là một lời đề nghị xin phép mở cửa sổ vì trời nóng. Lựa chọn 2 \"ええ、構いませんよ。\" (Vâng, không sao đâu ạ.) là cách trả lời đồng ý cho phép một cách lịch sự và tự nhiên nhất. Lựa chọn 1 \"じゃあ、閉めましょう。\" (Vậy thì, hãy đóng lại đi.) hoàn toàn trái ngược với ý muốn mở cửa. Lựa chọn 3 \"いいえ、どういたしまして。\" (Không, không có gì đâu ạ.) là câu trả lời cho lời cảm ơn, không phù hợp trong trường hợp này.",
+    "q": 22
+  },
+  {
+    "prompt": "お客さん、こちらで召し上がりますか？お持ち帰りになりますか？",
+    "prompt_vi": "Khách hàng ơi, quý khách dùng bữa ở đây ạ? Hay là mang về ạ?",
+    "options": [
+      "はい、大丈夫です。",
+      "ここで食べます。",
+      "いいえ、持ちますよ。"
+    ],
+    "options_vi": [
+      "Vâng, được ạ.",
+      "Tôi ăn ở đây.",
+      "Không, tôi mang đi."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi đưa ra hai lựa chọn: dùng bữa tại chỗ (こちらで召し上がりますか) hay mang về (お持ち帰りになりますか).\n- Lựa chọn 1 「はい、大丈夫です。」 (Vâng, được ạ) quá mơ hồ, không trả lời rõ ràng là chọn phương án nào.\n- Lựa chọn 2 「ここで食べます。」 (Tôi ăn ở đây) trực tiếp trả lời cho lựa chọn đầu tiên (dùng bữa tại chỗ), là câu trả lời tự nhiên và rõ ràng nhất.\n- Lựa chọn 3 「いいえ、持ちますよ。」 (Không, tôi mang đi) có thể hiểu là mang về, nhưng cách dùng 「持ちますよ」 không tự nhiên bằng 「お持ち帰りします」 hoặc 「テイクアウトします」 trong ngữ cảnh này. Hơn nữa, 「いいえ」 (không) thường dùng để phủ định câu hỏi, nhưng sau đó lại đưa ra một lựa chọn khác, khiến câu trả lời hơi lủng củng.",
+    "q": 23
+  },
+  {
+    "prompt": "バスなかなか来ないですね。",
+    "prompt_vi": "Xe buýt mãi không đến nhỉ.",
+    "options": [
+      "道が混んでるんでしょうか。",
+      "バスにしてよかったですね。",
+      "随分早そうですね。"
+    ],
+    "options_vi": [
+      "Không biết đường có bị tắc không nhỉ?",
+      "May mà chúng ta đã chọn đi xe buýt nhỉ.",
+      "Có vẻ nhanh đáng kể nhỉ."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu bày tỏ sự sốt ruột vì xe buýt mãi không đến. Lựa chọn 1 đưa ra một lý do hợp lý cho việc xe buýt bị chậm (đường tắc), là một phản hồi tự nhiên. Lựa chọn 2 ('May mà chúng ta đã chọn đi xe buýt') và lựa chọn 3 ('Có vẻ nhanh đáng kể') đều không phù hợp với tình huống xe buýt bị chậm trễ.",
+    "q": 24
+  },
+  {
+    "prompt": "あの映画、もうやってないんだって。",
+    "prompt_vi": "Nghe nói bộ phim đó không chiếu nữa rồi.",
+    "options": [
+      "じゃあ、明日見に行こうよ。",
+      "うん、まだやってないみたい。",
+      "え？終わっちゃったんだ。"
+    ],
+    "options_vi": [
+      "Vậy thì, ngày mai đi xem đi.",
+      "Ừm, có vẻ như vẫn chưa chiếu.",
+      "Hả? Hết chiếu rồi sao?"
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu thông báo rằng bộ phim đã không còn chiếu nữa. \nLựa chọn 1 \"Vậy thì, ngày mai đi xem đi\" là không hợp lý vì phim đã không chiếu nữa.\nLựa chọn 2 \"Ừm, có vẻ như vẫn chưa chiếu\" không khớp với thông tin \"đã không chiếu nữa rồi\" (もうやってない), mà lại mang nghĩa \"vẫn chưa chiếu\" (まだやってない).\nLựa chọn 3 \"Hả? Hết chiếu rồi sao?\" thể hiện sự ngạc nhiên và xác nhận lại thông tin rằng bộ phim đã kết thúc chiếu, đây là phản ứng tự nhiên và phù hợp nhất.",
+    "q": 25
+  },
+  {
+    "prompt": "このプリント、クラスの皆に配っといてもらえますか？",
+    "prompt_vi": "Bạn có thể phát những tờ in này cho mọi người trong lớp được không?",
+    "options": [
+      "あ、取ってあります。",
+      "はい、やっておきます。",
+      "すぐもらえると思います。"
+    ],
+    "options_vi": [
+      "À, tôi đã lấy rồi.",
+      "Vâng, tôi sẽ làm (và để đó).",
+      "Tôi nghĩ là tôi sẽ nhận được ngay thôi."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là một lời nhờ vả: \"Bạn có thể phát những tờ in này cho mọi người trong lớp được không?\".\nLựa chọn 1 \"あ、取ってあります。\" (À, tôi đã lấy rồi.) không phù hợp vì người nói đang nhờ phát chứ không phải hỏi đã lấy chưa.\nLựa chọn 3 \"すぐもらえると思います。\" (Tôi nghĩ là tôi sẽ nhận được ngay thôi.) cũng không phù hợp vì đây là câu nói về việc bản thân nhận được, không phải việc thực hiện yêu cầu phát tài liệu.\nLựa chọn 2 \"はい、やっておきます。\" (Vâng, tôi sẽ làm (và để đó).) là câu trả lời tự nhiên và phù hợp nhất để xác nhận sẽ thực hiện yêu cầu. 「～ておく」thể hiện việc làm gì đó trước hoặc làm để chuẩn bị cho một trạng thái sau này.",
+    "q": 26
+  },
+  {
+    "prompt": "あ、シャツのボタンが取れそうですよ。",
+    "prompt_vi": "Ôi, hình như cúc áo sơ mi của anh sắp tuột ra rồi đấy.",
+    "options": [
+      "ええ、私も聞きました。",
+      "あ、気がつきませんでした。",
+      "取れるといいですね。"
+    ],
+    "options_vi": [
+      "Vâng, tôi cũng đã nghe rồi.",
+      "Ôi, tôi không để ý.",
+      "Mong là nó sẽ tuột ra nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Người nói chỉ ra rằng cúc áo của người nghe sắp tuột. Lựa chọn 2 \"あ、気がつきませんでした\" (Ôi, tôi không để ý) là phản ứng tự nhiên nhất khi được người khác chỉ ra một điều mình chưa nhận thấy về bản thân. Lựa chọn 1 \"ええ、私も聞きました\" (Vâng, tôi cũng đã nghe rồi) không phù hợp vì đây là một quan sát bằng mắt chứ không phải thông tin được nghe. Lựa chọn 3 \"取れるといいですね\" (Mong là nó sẽ tuột ra nhỉ) hoàn toàn không hợp lý vì không ai mong muốn cúc áo của mình bị tuột.",
+    "q": 27
+  },
+  {
+    "prompt": "この間頼んだ書類、できてる？",
+    "prompt_vi": "Tài liệu tôi nhờ hôm trước, xong chưa?",
+    "options": [
+      "もうできたんですか？",
+      "すみません、今やっています。",
+      "そこに置いといてください。"
+    ],
+    "options_vi": [
+      "Đã xong rồi sao?",
+      "Xin lỗi, tôi đang làm ạ.",
+      "Hãy để nó ở đó."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là \"Tài liệu xong chưa?\".\nLựa chọn 1 \"Đã xong rồi sao?\" là một câu hỏi ngược lại, không phải câu trả lời trực tiếp.\nLựa chọn 3 \"Hãy để nó ở đó.\" là một câu mệnh lệnh, không phù hợp để trả lời câu hỏi về tình trạng công việc.\nLựa chọn 2 \"Xin lỗi, tôi đang làm ạ.\" là câu trả lời tự nhiên nhất, thể hiện rằng công việc chưa hoàn thành nhưng đang được tiến hành.",
+    "q": 28
+  },
+  {
+    "prompt": "私、今からコンビニに行く何だけど、ついでにお弁当買ってこようか？",
+    "prompt_vi": "Tôi bây giờ sẽ đi combini, tiện thể mua cơm hộp về nhé?",
+    "options": [
+      "いいよ。後でいくから。",
+      "ああ、買って行くよ。",
+      "え？僕行けないよ。"
+    ],
+    "options_vi": [
+      "Được thôi. Lát nữa tôi đi.",
+      "À, tôi sẽ mua về.",
+      "Hả? Tôi không đi được đâu."
+    ],
+    "answer": 1,
+    "explanation": "Người nói đang đề nghị mua cơm hộp giúp người nghe. Lựa chọn 1 là cách từ chối lịch sự: \"いいよ\" (Không sao đâu/Được thôi, bạn không cần làm vậy) và đưa ra lý do \"後でいくから\" (vì lát nữa tôi sẽ tự đi). Lựa chọn 2 \"ああ、買って行くよ\" (À, tôi sẽ mua về) cũng là từ chối nhưng có thể gây hiểu lầm hoặc không tự nhiên bằng, vì người nói đang đề nghị mua cho người nghe, nếu người nghe nói \"tôi sẽ mua về\" thì có vẻ như người nghe cũng sẽ đi mua. Lựa chọn 3 \"え？僕行けないよ\" (Hả? Tôi không đi được đâu) là hiểu sai câu hỏi, vì người nói đang đề nghị đi mua giúp chứ không phải yêu cầu người nghe đi.",
+    "q": 29
+  },
+  {
+    "prompt": "この本、山田さんに渡しといてくれない？",
+    "prompt_vi": "Bạn có thể đưa cuốn sách này cho anh/chị Yamada được không?",
+    "options": [
+      "山田さんにもらっとくよ。",
+      "山田さんに必ず渡しといてね。",
+      "会えるかどうかわからないよ。"
+    ],
+    "options_vi": [
+      "Tôi sẽ nhận từ anh/chị Yamada.",
+      "Nhất định hãy đưa cho anh/chị Yamada nhé.",
+      "Tôi không biết liệu có gặp được anh/chị ấy không."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu là một lời nhờ vả: 'Bạn có thể đưa cuốn sách này cho anh/chị Yamada được không?'.\n- Lựa chọn 1 'Tôi sẽ nhận từ anh/chị Yamada' không phù hợp vì hành động bị đảo ngược (người nói nhờ đưa cho Yamada, không phải nhận từ Yamada).\n- Lựa chọn 2 'Nhất định hãy đưa cho anh/chị Yamada nhé' là một lời nhắc nhở hoặc yêu cầu ngược lại từ người nghe dành cho người nói, không phải là câu trả lời cho lời nhờ vả.\n- Lựa chọn 3 'Tôi không biết liệu có gặp được anh/chị ấy không' là một câu trả lời tự nhiên, thể hiện sự không chắc chắn hoặc khó khăn trong việc thực hiện lời nhờ vả.",
+    "q": 30
+  },
+  {
+    "prompt": "せっかく来てくれたんだから、今日はゆっくりしていってね。",
+    "prompt_vi": "Vì bạn đã cất công đến đây rồi, hôm nay cứ thong thả nghỉ ngơi nhé.",
+    "options": [
+      "ええ、ゆっくり歩いていきます。",
+      "じゃあ、そうさせていただきます。",
+      "いやあ、おかげさまで。"
+    ],
+    "options_vi": [
+      "Vâng, tôi sẽ đi bộ từ từ.",
+      "Vậy thì, tôi xin phép làm như vậy ạ.",
+      "À, nhờ ơn bạn cả."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là lời mời hoặc gợi ý hãy thư giãn, nghỉ ngơi. Lựa chọn 2 \"じゃあ、そうさせていただきます。\" (Vậy thì, tôi xin phép làm như vậy ạ.) là cách đáp lại lịch sự và tự nhiên nhất để chấp nhận lời đề nghị này. Lựa chọn 1 \"ゆっくり歩いていきます。\" (Tôi sẽ đi bộ từ từ.) không phù hợp vì \"ゆっくり\" trong câu mở đầu có nghĩa là \"thư giãn, thong thả\" chứ không phải \"đi chậm\". Lựa chọn 3 \"おかげさまで。\" (Nhờ ơn bạn cả.) thường dùng để đáp lại khi ai đó hỏi thăm sức khỏe hoặc khi bạn muốn bày tỏ lòng biết ơn vì sự giúp đỡ, không phù hợp trong tình huống này.",
+    "q": 31
+  },
+  {
+    "prompt": "海外出張行くんだって。いいな。",
+    "prompt_vi": "Nghe nói bạn sẽ đi công tác nước ngoài à. Thích thật đấy!",
+    "options": [
+      "大変な出張だったよ。",
+      "お土産買ってきてね。",
+      "でも、ずっと仕事だよ。"
+    ],
+    "options_vi": [
+      "Đó là một chuyến công tác vất vả đấy.",
+      "Mua quà lưu niệm về cho mình nhé.",
+      "Nhưng mà, toàn là công việc thôi."
+    ],
+    "answer": 3,
+    "explanation": "Người nói A bày tỏ sự ngưỡng mộ vì người nói B sắp đi công tác nước ngoài. Lựa chọn 3 \"でも、ずっと仕事だよ。(Nhưng mà, toàn là công việc thôi.)\" là một phản hồi tự nhiên, thể hiện rằng chuyến đi không hoàn toàn là niềm vui mà chủ yếu là công việc, nhằm đáp lại lời khen \"いいな\" (thích thật đấy). Lựa chọn 1 sai vì dùng thì quá khứ (\"だったよ\") trong khi chuyến đi là tương lai. Lựa chọn 2 là một lời yêu cầu từ người nói A (người ở lại) chứ không phải là câu trả lời của người nói B (người đi công tác).",
+    "q": 32
+  },
+  {
+    "prompt": "木村君、これ社長が書かれた本なんですよ。",
+    "prompt_vi": "Kimura-kun, đây là cuốn sách do giám đốc viết đấy.",
+    "options": [
+      "あ、拝見します。",
+      "はい、お見せします。",
+      "では、お目にかかります。"
+    ],
+    "options_vi": [
+      "À, tôi sẽ đọc/xem ạ.",
+      "Vâng, tôi sẽ cho xem ạ.",
+      "Vậy thì, tôi sẽ gặp ạ."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu thông báo rằng cuốn sách này do giám đốc viết. Đáp án 1, 「拝見します」 (haiken shimasu) là khiêm nhường ngữ của 「見ます」 (mimasu - xem/đọc), thể hiện sự tôn trọng khi nói về hành động của bản thân đối với vật của người trên hoặc vật có giá trị. Đây là phản ứng tự nhiên và lịch sự nhất khi được giới thiệu về một cuốn sách quan trọng như vậy. Đáp án 2, 「お見せします」 (omise shimasu) có nghĩa là 'tôi sẽ cho xem', không phù hợp vì Kimura là người được thông báo về cuốn sách, chứ không phải người sẽ cho ai đó xem. Đáp án 3, 「お目にかかります」 (ome ni kakarimasu) có nghĩa là 'tôi sẽ gặp', hoàn toàn không liên quan đến nội dung cuộc trò chuyện.",
+    "q": 33
+  },
+  {
+    "prompt": "どうぞお入りください。すぐお茶入れますから。",
+    "prompt_vi": "Mời anh/chị vào. Tôi sẽ pha trà ngay đây ạ.",
+    "options": [
+      "ごちそうさまでした。",
+      "あ、お構いなく。",
+      "よく来てくれましたね。"
+    ],
+    "options_vi": [
+      "Cảm ơn vì bữa ăn/đồ đãi.",
+      "À, xin đừng bận tâm/khách sáo.",
+      "Anh/chị đã đến thật tốt quá."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là lời mời khách vào nhà và đề nghị pha trà. Lựa chọn 2 「あ、お構いなく。」 (A, okamai naku.) là cách đáp lại lịch sự, thể hiện rằng khách không muốn chủ nhà phải bận tâm hay làm phiền vì mình, rất phù hợp khi được mời và đề nghị phục vụ. Lựa chọn 1 「ごちそうさまでした。」 (Gochisousama deshita.) dùng sau khi đã ăn uống xong. Lựa chọn 3 「よく来てくれましたね。」 (Yoku kite kuremashita ne.) là lời chủ nhà nói với khách, không phải lời khách nói.",
+    "q": 34
+  },
+  {
+    "prompt": "先生のおかげで合格できました。",
+    "prompt_vi": "Nhờ có thầy/cô mà em đã đỗ ạ.",
+    "options": [
+      "本当に心から感謝しています。",
+      "私も先生の車で来ましたよ。",
+      "いいえ、あなたが努力したからです。"
+    ],
+    "options_vi": [
+      "Tôi thực sự cảm ơn từ tận đáy lòng.",
+      "Tôi cũng đến bằng xe của thầy/cô.",
+      "Không, đó là vì bạn đã nỗ lực mà."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu là lời cảm ơn của học sinh gửi đến giáo viên vì đã đỗ kỳ thi. Các lựa chọn là phản hồi của giáo viên.\n1. \"本当に心から感謝しています。\" (Tôi thực sự cảm ơn từ tận đáy lòng.) - Đây là lời cảm ơn, không phù hợp để giáo viên nói với học sinh trong tình huống này.\n2. \"私も先生の車で来ましたよ。\" (Tôi cũng đến bằng xe của thầy/cô.) - Hoàn toàn không liên quan đến nội dung câu nói của học sinh.\n3. \"いいえ、あなたが努力したからです。\" (Không, đó là vì bạn đã nỗ lực mà.) - Đây là phản hồi tự nhiên và khiêm tốn của giáo viên, từ chối nhận hết công lao và ghi nhận sự cố gắng của học sinh. Đây là cách đáp lại rất phổ biến trong văn hóa Nhật Bản.",
+    "q": 35
+  },
+  {
+    "prompt": "この電車、桜駅に止まりますか？",
+    "prompt_vi": "Chuyến tàu này có dừng ở ga Sakura không?",
+    "options": [
+      "ええ、すごい台風ですから。",
+      "いいえ、急行は止まりませんよ。",
+      "隣の駅は桜駅じゃありませんよ。"
+    ],
+    "options_vi": [
+      "Vâng, vì có bão lớn.",
+      "Không, tàu tốc hành không dừng (ở đó) đâu.",
+      "Ga kế tiếp không phải là ga Sakura đâu."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là liệu tàu có dừng ở ga Sakura không. Lựa chọn 2 trả lời trực tiếp rằng tàu tốc hành (ám chỉ chuyến tàu này) không dừng ở đó, đây là câu trả lời tự nhiên và phù hợp nhất. Lựa chọn 1 không liên quan đến câu hỏi. Lựa chọn 3 không trả lời trực tiếp việc tàu có dừng ở ga Sakura hay không, mà chỉ nói ga kế tiếp không phải ga Sakura, có thể gây hiểu lầm.",
+    "q": 36
+  },
+  {
+    "prompt": "木村さんのお父さんが亡くなったそうですよ。",
+    "prompt_vi": "Tôi nghe nói bố của anh Kimura đã qua đời rồi.",
+    "options": [
+      "お葬式はいつなんでしょうか。",
+      "え、どこへ行ったんですか。",
+      "私も一緒に探しますよ。"
+    ],
+    "options_vi": [
+      "Tang lễ sẽ diễn ra khi nào vậy ạ?",
+      "Hả? Ông ấy đã đi đâu vậy?",
+      "Tôi cũng sẽ cùng tìm với bạn nhé."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu thông báo tin buồn rằng bố của anh Kimura đã qua đời. Đáp án 1 'Tang lễ sẽ diễn ra khi nào vậy ạ?' là câu hỏi thể hiện sự quan tâm và phù hợp nhất với tình huống này. Đáp án 2 'Hả? Ông ấy đã đi đâu vậy?' và đáp án 3 'Tôi cũng sẽ cùng tìm với bạn nhé.' đều không phù hợp vì '亡くなった' (nakunatta) có nghĩa là 'qua đời', không phải là 'mất tích' hay 'đi đâu đó'.",
+    "q": 37
+  },
+  {
+    "prompt": "すみません、注文お願いします。",
+    "prompt_vi": "Xin lỗi, tôi muốn gọi món.",
+    "options": [
+      "はい、少々お待ちください。",
+      "気にしないでください。",
+      "いいえ、どういたしまして。"
+    ],
+    "options_vi": [
+      "Vâng, xin quý khách đợi một lát.",
+      "Xin đừng bận tâm.",
+      "Không, không có gì đâu ạ."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là khách hàng gọi nhân viên để gọi món. Lựa chọn 1 là câu trả lời lịch sự của nhân viên, yêu cầu khách hàng đợi một chút, rất phù hợp với ngữ cảnh. Lựa chọn 2 '気にしないでください' dùng khi ai đó xin lỗi hoặc cảm thấy phiền, không phù hợp ở đây. Lựa chọn 3 'どういたしまして' dùng để đáp lại lời cảm ơn, không phù hợp với 'すみません' và yêu cầu gọi món.",
+    "q": 38
+  },
+  {
+    "prompt": "けがをしたと聞きましたが、いかがですか？",
+    "prompt_vi": "Tôi nghe nói bạn bị thương, bạn thế nào rồi?",
+    "options": [
+      "いいえ、聞いたことありませんよ。",
+      "このくらい何でもありませんよ。",
+      "すぐ病院に行った方がいいですよ。"
+    ],
+    "options_vi": [
+      "Không, tôi chưa từng nghe điều đó.",
+      "Chừng này thì chẳng là gì cả đâu.",
+      "Bạn nên đi bệnh viện ngay lập tức đấy."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu hỏi về tình trạng của người nghe sau khi bị thương. Lựa chọn 2 \"Chừng này thì chẳng là gì cả đâu.\" là câu trả lời tự nhiên nhất, thể hiện rằng vết thương không nghiêm trọng. Lựa chọn 1 phủ nhận việc nghe thấy thông tin, nhưng người hỏi vừa nói là đã nghe thấy. Lựa chọn 3 là lời khuyên cho người khác, không phải câu trả lời về tình trạng của bản thân.",
+    "q": 39
+  },
+  {
+    "prompt": "今日はパーティーにお招きいただいてありがとうございます。",
+    "prompt_vi": "Hôm nay cảm ơn vì đã mời tôi đến bữa tiệc.",
+    "options": [
+      "またお招きください。",
+      "楽しんでくださいね。",
+      "お先に失礼します。"
+    ],
+    "options_vi": [
+      "Lần tới lại mời tôi nhé.",
+      "Hãy tận hưởng nhé.",
+      "Tôi xin phép về trước đây. (Xin lỗi vì đã về trước)"
+    ],
+    "answer": 2,
+    "explanation": "Khách cảm ơn chủ nhà đã mời. \"楽しんでくださいね\" là câu trả lời tự nhiên của chủ nhà, thể hiện sự chào đón và mong muốn khách có một buổi tiệc vui vẻ. Lựa chọn 1 là lời đề nghị của khách. Lựa chọn 3 là câu nói khi khách ra về.",
+    "q": 40,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "木村が帰りましたら、こちらからお電話差し上げましょうか？",
+    "prompt_vi": "Khi anh Kimura về, tôi gọi điện từ đây cho anh ấy nhé?",
+    "options": [
+      "すみません、ではお願いします。",
+      "どちらにお電話しましょうか？",
+      "すぐ来ていただきありがとうございます。"
+    ],
+    "options_vi": [
+      "Xin lỗi, vậy thì nhờ anh/chị nhé.",
+      "Tôi nên gọi điện đến đâu ạ?",
+      "Cảm ơn vì đã đến ngay lập tức."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là một lời đề nghị: \"Khi anh Kimura về, tôi gọi điện từ đây cho anh ấy nhé?\".\nLựa chọn 1: \"すみません、ではお願いします。(Sumimasen, dewa onegai shimasu.)\" là một cách chấp nhận lời đề nghị một cách lịch sự, thể hiện sự cảm kích và đồng ý. \"すみません\" ở đây mang ý \"xin lỗi vì đã làm phiền/nhờ vả\".\nLựa chọn 2: \"どちらにお電話しましょうか？(Dochira ni o-denwa shimashou ka?)\" là một câu hỏi hỏi về địa điểm hoặc người cần gọi, không phù hợp với lời đề nghị ban đầu.\nLựa chọn 3: \"すぐ来ていただきありがとうございます。(Sugu kite itadaki arigatou gozaimasu.)\" là lời cảm ơn vì ai đó đã đến ngay lập tức, hoàn toàn không liên quan đến nội dung cuộc hội thoại.",
+    "q": 41
+  },
+  {
+    "prompt": "ゴルフなんて私には無理よ。",
+    "prompt_vi": "Golf thì tôi không làm được đâu.",
+    "options": [
+      "やってみなきゃ分からないよ。",
+      "テニスの方が面白いね。",
+      "じゃあ、明日はゴルフに行こう。"
+    ],
+    "options_vi": [
+      "Nếu không thử thì không biết được đâu.",
+      "Tennis thì thú vị hơn nhỉ.",
+      "Vậy thì, ngày mai đi chơi golf đi."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu thể hiện người nói cảm thấy golf là việc không thể làm được. Lựa chọn 1 là lời động viên, khuyến khích người nói thử sức, rất tự nhiên và phù hợp. Lựa chọn 2 đổi chủ đề sang tennis, không trực tiếp phản hồi. Lựa chọn 3 lại rủ đi chơi golf ngay, hoàn toàn bỏ qua cảm giác của người nói, không tự nhiên.",
+    "q": 42
+  },
+  {
+    "prompt": "あ、このレストラン、今日は休みだったんだ。",
+    "prompt_vi": "À, nhà hàng này hôm nay đóng cửa rồi.",
+    "options": [
+      "何食べようかな。早く入ろうよ。",
+      "本当だ。空いててよかったね。",
+      "残念だね。楽しみにしていたのに。"
+    ],
+    "options_vi": [
+      "Ăn gì đây nhỉ? Mau vào thôi.",
+      "Thật vậy. May quá nó mở cửa nhỉ.",
+      "Tiếc thật nhỉ. Vậy mà tôi đã mong chờ."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu nói rằng nhà hàng đóng cửa. Lựa chọn 1 và 2 đều không phù hợp vì chúng cho rằng nhà hàng đang mở cửa hoặc không liên quan đến việc đóng cửa. Lựa chọn 3 '残念だね。楽しみにしていたのに。' (Tiếc thật nhỉ. Vậy mà tôi đã mong chờ.) là phản ứng tự nhiên và phù hợp nhất khi biết một nơi mình định đến lại đóng cửa.",
+    "q": 43
+  },
+  {
+    "prompt": "山田さんに用事があるんだけど、見なかった？",
+    "prompt_vi": "Tôi có việc cần gặp anh Yamada, bạn có thấy anh ấy không?",
+    "options": [
+      "教室にいたよ。",
+      "特に用事はないよ。",
+      "一緒に見ようよ。"
+    ],
+    "options_vi": [
+      "Anh ấy ở trong lớp học đó.",
+      "Tôi không có việc gì đặc biệt cả.",
+      "Chúng ta cùng xem đi."
+    ],
+    "answer": 1,
+    "explanation": "Người nói đang tìm anh Yamada vì có việc cần gặp và hỏi người nghe có thấy anh ấy không. Câu trả lời số 1 \"教室にいたよ。\" (Anh ấy ở trong lớp học đó.) cung cấp thông tin về vị trí của anh Yamada, là câu trả lời phù hợp và tự nhiên nhất. Câu số 2 \"特に用事はないよ。\" (Tôi không có việc gì đặc biệt cả.) không liên quan đến câu hỏi. Câu số 3 \"一緒に見ようよ。\" (Chúng ta cùng xem đi.) cũng không liên quan đến việc tìm người.",
+    "q": 44
+  },
+  {
+    "prompt": "昨日 は せっかく 映画 に 誘っ て くれ た の に 行け なく て 悪かっ た ね。",
+    "prompt_vi": "Hôm qua, dù bạn đã cất công mời tôi đi xem phim nhưng tôi lại không đi được, thật tệ quá.",
+    "options": [
+      "それは 残念 だ ね。",
+      "ああ、気にしないで。",
+      "本当に ごめんなさい。"
+    ],
+    "options_vi": [
+      "Thật đáng tiếc nhỉ.",
+      "À, đừng bận tâm.",
+      "Tôi thực sự xin lỗi."
+    ],
+    "answer": 2,
+    "explanation": "Người nói đang xin lỗi vì không đi xem phim được. Lựa chọn 2 \"気にしないで\" (Đừng bận tâm) là cách đáp lại tự nhiên nhất để trấn an người xin lỗi, thể hiện rằng việc đó không sao cả. Lựa chọn 1 \"残念だね\" (Thật đáng tiếc nhỉ) tuy thể hiện sự đồng cảm nhưng không trực tiếp đáp lại lời xin lỗi. Lựa chọn 3 \"本当にごめんなさい\" (Tôi thực sự xin lỗi) là lời xin lỗi từ phía người nghe, không phù hợp trong tình huống này.",
+    "q": 45
+  },
+  {
+    "prompt": "あ、山本さん、ご無沙汰しています。お元気でしたか？",
+    "prompt_vi": "À, anh Yamamoto, lâu rồi không gặp. Anh vẫn khỏe chứ?",
+    "options": [
+      "どうぞ、お大事に。",
+      "ええ、本当に久しぶりですね。",
+      "昨日は会えて楽しかったです。"
+    ],
+    "options_vi": [
+      "Xin hãy giữ gìn sức khỏe.",
+      "Vâng, đúng là lâu lắm rồi nhỉ.",
+      "Hôm qua gặp được anh thật vui."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là lời chào hỏi sau một thời gian dài không gặp, hỏi thăm sức khỏe. Lựa chọn 2 \"ええ、本当に久しぶりですね。\" (Vâng, đúng là lâu lắm rồi nhỉ.) là câu đáp tự nhiên nhất, vừa xác nhận việc lâu không gặp, vừa ngụ ý rằng mình vẫn khỏe để tiếp tục cuộc trò chuyện. Lựa chọn 1 \"どうぞ、お大事に。\" thường dùng khi ai đó bị ốm hoặc gặp chuyện không may, không phù hợp trong trường hợp này. Lựa chọn 3 \"昨日は会えて楽しかったです。\" (Hôm qua gặp được anh thật vui.) mâu thuẫn với \"ご無沙汰しています\" (lâu rồi không gặp).",
+    "q": 46
+  },
+  {
+    "prompt": "飲み物コーヒーしかないんですけど、いいですか？",
+    "prompt_vi": "Đồ uống thì chỉ có cà phê thôi, có được không ạ?",
+    "options": [
+      "コーヒーじゃなくてもいいですよ。",
+      "じゃあ、お茶をもらえますか？",
+      "あ、コーヒー大好きです。"
+    ],
+    "options_vi": [
+      "Không phải cà phê cũng được ạ.",
+      "Vậy thì, tôi có thể lấy trà được không?",
+      "À, tôi rất thích cà phê."
+    ],
+    "answer": 3,
+    "explanation": "Người nói hỏi rằng chỉ có cà phê, liệu có được không. Lựa chọn 3 'À, tôi rất thích cà phê.' là câu trả lời tự nhiên và tích cực nhất, thể hiện sự đồng ý và hài lòng. Lựa chọn 1 'Không phải cà phê cũng được ạ.' không hợp lý vì người nói đã nói rõ là chỉ có cà phê. Lựa chọn 2 'Vậy thì, tôi có thể lấy trà được không?' cũng không hợp lý vì người nói đã thông báo là không có trà, chỉ có cà phê.",
+    "q": 47
+  },
+  {
+    "prompt": "あの、この書類についていくつかお伺いしたいことがあるんですが。",
+    "prompt_vi": "À, về tài liệu này thì tôi có vài điều muốn hỏi ạ.",
+    "options": [
+      "はい、何でしょうか？",
+      "特にありませんけど。",
+      "さあ、いくつか分かりません。"
+    ],
+    "options_vi": [
+      "Vâng, có chuyện gì ạ?",
+      "Đặc biệt thì không có gì cả.",
+      "À, tôi không biết vài cái."
+    ],
+    "answer": 1,
+    "explanation": "Người nói bày tỏ ý định muốn hỏi vài điều về tài liệu. Lựa chọn 1 \"はい、何でしょうか？\" (Vâng, có chuyện gì ạ?) là câu đáp tự nhiên nhất để mời người nói trình bày câu hỏi của mình. Lựa chọn 2 \"特にありませんけど。\" (Đặc biệt thì không có gì cả.) là câu trả lời khi được hỏi có gì không, không phù hợp ở đây. Lựa chọn 3 \"さあ、いくつか分かりません。\" (À, tôi không biết vài cái.) không liên quan đến ngữ cảnh.",
+    "q": 48
+  },
+  {
+    "prompt": "いらっしゃい。お待ちしていましたよ。どうぞお入りください。",
+    "prompt_vi": "Chào mừng quý khách. Tôi đã đợi anh/chị. Mời anh/chị vào.",
+    "options": [
+      "ぜひいらしてください。",
+      "では、お邪魔いたします。",
+      "いえ、待っておりませんが。"
+    ],
+    "options_vi": [
+      "Nhất định hãy đến nhé.",
+      "Vậy thì, tôi xin phép làm phiền.",
+      "Không, tôi không đợi."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là lời chào đón và mời vào nhà/văn phòng. Lựa chọn 2 「では、お邪魔いたします。」 là cách đáp lại lịch sự và tự nhiên khi được mời vào nhà người khác, thể hiện sự khiêm tốn và xin phép làm phiền. Lựa chọn 1 là lời mời người khác đến, không phải đáp lại lời mời. Lựa chọn 3 phủ nhận lời của người nói, không phù hợp.",
+    "q": 49
+  },
+  {
+    "prompt": "一緒に行くて約束してた研究会、僕行けそうにないんだ。",
+    "prompt_vi": "Buổi nghiên cứu mà chúng ta đã hứa sẽ đi cùng nhau, có vẻ như tớ không đi được rồi.",
+    "options": [
+      "研究会、中止になったの？",
+      "よかった。一緒に行けることになって。",
+      "え？何か別の用事が入っちゃった？"
+    ],
+    "options_vi": [
+      "Buổi nghiên cứu bị hủy rồi à?",
+      "May quá. Chúng ta có thể đi cùng nhau.",
+      "Hả? Cậu có việc gì khác đột xuất à?"
+    ],
+    "answer": 3,
+    "explanation": "Người nói thông báo rằng mình không thể tham gia buổi nghiên cứu đã hẹn. Lựa chọn 3 \"え？何か別の用事が入っちゃった？\" (Hả? Cậu có việc gì khác đột xuất à?) là câu hỏi tự nhiên nhất để tìm hiểu lý do tại sao người nói không thể đi. Lựa chọn 1 \"研究会、中止になったの？\" (Buổi nghiên cứu bị hủy rồi à?) cũng có thể là một câu hỏi, nhưng người nói chỉ nói \"tớ không đi được\" chứ không nói buổi nghiên cứu bị hủy, nên khả năng cao là do việc cá nhân của người nói. Lựa chọn 2 \"よかった。一緒に行けることになって。\" (May quá. Chúng ta có thể đi cùng nhau.) hoàn toàn trái ngược với thông tin người nói đưa ra, vì người nói đã nói là không đi được.",
+    "q": 50
+  },
+  {
+    "prompt": "あの、すみませんが、この山ではゴミを持ち帰っていただくことになっていまして。",
+    "prompt_vi": "À, xin lỗi, nhưng ở ngọn núi này, có quy định là phải mang rác về ạ.",
+    "options": [
+      "じゃあ、持って行っていただけるんですね。",
+      "いいえ、せっかくですが、結構です。",
+      "あ、ここに捨てちゃいけないんですね。"
+    ],
+    "options_vi": [
+      "Vậy thì, anh/chị sẽ mang đi giúp tôi phải không ạ?",
+      "Không, dù sao cũng là ý tốt nhưng tôi xin từ chối ạ.",
+      "À, vậy là không được vứt ở đây phải không ạ?"
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu nhắc nhở về quy định phải mang rác về khi ở trên núi. Lựa chọn 3 \"À, vậy là không được vứt ở đây phải không ạ?\" thể hiện sự hiểu đúng về quy định đó (không được vứt rác tại chỗ mà phải mang về). Lựa chọn 1 hiểu sai ý, cho rằng người nói sẽ mang rác đi. Lựa chọn 2 là cách từ chối một lời đề nghị, không phù hợp với ngữ cảnh này.",
+    "q": 51
+  },
+  {
+    "prompt": "説明会でお客さんを怒らせちゃったこと、課長に話しといた方がいいんじゃない？",
+    "prompt_vi": "Cái việc đã lỡ làm khách hàng tức giận ở buổi giới thiệu sản phẩm ấy, không phải là nên nói trước với trưởng phòng thì hơn sao?",
+    "options": [
+      "確かに言わない方がいいね。",
+      "そうだね。早速報告するよ。",
+      "どうして課長に話しちゃったの？"
+    ],
+    "options_vi": [
+      "Chắc chắn là không nói thì hơn nhỉ.",
+      "Đúng vậy nhỉ. Tôi sẽ báo cáo ngay đây.",
+      "Sao lại lỡ nói với trưởng phòng rồi?"
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là một lời khuyên, gợi ý rằng nên nói trước với trưởng phòng về việc đã làm khách hàng tức giận. \nLựa chọn 1 \"確かに言わない方がいいね。\" (Chắc chắn là không nói thì hơn nhỉ.) đi ngược lại với lời khuyên, nên không phù hợp.\nLựa chọn 3 \"どうして課長に話しちゃったの？\" (Sao lại lỡ nói với trưởng phòng rồi?) hiểu sai ý của câu mở đầu. Câu mở đầu là lời khuyên về việc nên làm, chứ không phải là việc đã làm rồi.\nLựa chọn 2 \"そうだね。早速報告するよ。\" (Đúng vậy nhỉ. Tôi sẽ báo cáo ngay đây.) thể hiện sự đồng tình với lời khuyên và ý định thực hiện ngay lập tức, là câu trả lời tự nhiên và phù hợp nhất.",
+    "q": 52
+  },
+  {
+    "prompt": "田中君、その怪我どうしたの？",
+    "prompt_vi": "Tanaka, vết thương đó sao vậy?",
+    "options": [
+      "とっても痛そうだね。",
+      "もっと気をつけたらどう？",
+      "ちょっと転んじゃって。"
+    ],
+    "options_vi": [
+      "Trông đau lắm nhỉ.",
+      "Sao không cẩn thận hơn đi?",
+      "Tôi bị ngã một chút."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu hỏi về nguyên nhân của vết thương (\"どうしたの?\"). Lựa chọn 3 \"ちょっと転んじゃって。\" (Tôi bị ngã một chút.) trực tiếp giải thích nguyên nhân, là câu trả lời tự nhiên nhất. Lựa chọn 1 là một lời nhận xét về vết thương, không phải nguyên nhân. Lựa chọn 2 là một lời khuyên hoặc trách móc, không trả lời câu hỏi.",
+    "q": 53
+  },
+  {
+    "prompt": "夏休みにみんなで行く旅行、早めに申し込まなくちゃね。",
+    "prompt_vi": "Chuyến du lịch hè mà mọi người cùng đi, chúng ta phải đăng ký sớm thôi nhỉ.",
+    "options": [
+      "え、行かないことにしたんだね。",
+      "うん、早い方がいいよね。",
+      "早めに申し込んでくれたんだ。"
+    ],
+    "options_vi": [
+      "Hả? Vậy là cậu quyết định không đi à.",
+      "Ừ, sớm thì tốt hơn nhỉ.",
+      "Cậu đã đăng ký sớm cho mình rồi à."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là một lời nhắc nhở hoặc gợi ý rằng \"chúng ta phải đăng ký sớm cho chuyến đi\".\nLựa chọn 2 \"うん、早い方がいいよね。\" (Ừ, sớm thì tốt hơn nhỉ.) là câu trả lời đồng tình và tự nhiên nhất, thể hiện sự tán thành với ý kiến của người nói.\nLựa chọn 1 \"え、行かないことにしたんだね。\" (Hả? Vậy là cậu quyết định không đi à.) hoàn toàn trái ngược với nội dung câu nói mở đầu.\nLựa chọn 3 \"早めに申し込んでくれたんだ。\" (Cậu đã đăng ký sớm cho mình rồi à.) không phù hợp vì câu mở đầu là lời nhắc nhở chung cho \"mọi người\" (みんな), chứ không phải hỏi xem ai đó đã đăng ký hộ mình chưa.",
+    "q": 54
+  },
+  {
+    "prompt": "空が暗くなってきましたね。雨が降りそうですね。",
+    "prompt_vi": "Trời đã tối sầm lại rồi nhỉ. Có vẻ sắp mưa rồi nhỉ.",
+    "options": [
+      "随分降っていますね。",
+      "でも、もうすぐやみそうですよ。",
+      "天気予報で雨だって言ってましたよ。"
+    ],
+    "options_vi": [
+      "Trời đã mưa nhiều rồi nhỉ.",
+      "Nhưng mà, có vẻ sắp tạnh rồi đấy.",
+      "Dự báo thời tiết nói là sẽ mưa đấy."
+    ],
+    "answer": 3,
+    "explanation": "Người nói nhận xét trời tối và có vẻ sắp mưa. Lựa chọn 3 \"Dự báo thời tiết nói là sẽ mưa đấy\" là câu đáp lại tự nhiên nhất, vì nó xác nhận và bổ sung thông tin cho nhận định của người nói. Lựa chọn 1 và 2 đều ngụ ý rằng trời đã và đang mưa, điều này mâu thuẫn với câu nói mở đầu \"có vẻ sắp mưa\".",
+    "q": 55
+  },
+  {
+    "prompt": "電話でお願いした資料、取りに来たんですけど。",
+    "prompt_vi": "Tôi đến lấy tài liệu đã yêu cầu qua điện thoại ạ.",
+    "options": [
+      "じゃあ、すぐ作ってきて。",
+      "そこにあるんで、持ってって。",
+      "机の上に置いといて。"
+    ],
+    "options_vi": [
+      "Vậy thì, làm ngay rồi mang đến đi.",
+      "Nó ở đằng kia, anh/chị cứ lấy đi.",
+      "Để nó lên bàn đi."
+    ],
+    "answer": 2,
+    "explanation": "Người nói đến để lấy tài liệu đã yêu cầu. Lựa chọn 2 chỉ ra vị trí của tài liệu và mời người nói lấy đi, đây là câu trả lời tự nhiên và phù hợp nhất. Lựa chọn 1 có nghĩa là tài liệu chưa được chuẩn bị và yêu cầu làm ngay, không phù hợp với tình huống người nói đã đến lấy. Lựa chọn 3 là một chỉ thị yêu cầu ai đó đặt thứ gì đó lên bàn, không phải là câu trả lời cho người đến lấy tài liệu.",
+    "q": 56
+  },
+  {
+    "prompt": "ねえ、この前貸した本、そろそろ返してくれない？",
+    "prompt_vi": "Này, cuốn sách tớ cho mượn hôm trước, sắp đến lúc trả lại được chưa?",
+    "options": [
+      "まだ返してもらえないんだね。",
+      "あの本、来週必ず持ってきてね。",
+      "ごめん、まだ読んでるとこで。"
+    ],
+    "options_vi": [
+      "Vậy là vẫn chưa được trả lại nhỉ.",
+      "Cuốn sách đó, tuần sau nhất định mang đến nhé.",
+      "Xin lỗi, tớ vẫn đang đọc dở."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu là lời nhắc nhở, yêu cầu trả lại sách. Lựa chọn 3 là lời xin lỗi và giải thích lý do chưa trả được sách, đây là phản hồi tự nhiên nhất từ người mượn sách. Lựa chọn 1 là một câu nhận xét từ phía người cho mượn, không phải phản hồi của người được hỏi. Lựa chọn 2 là một lời yêu cầu từ phía người cho mượn, không phải phản hồi của người được hỏi.",
+    "q": 57
+  },
+  {
+    "prompt": "冷たいものか何か召し上がりませんか？",
+    "prompt_vi": "Anh/chị có muốn dùng chút đồ lạnh hay gì đó không ạ?",
+    "options": [
+      "どうぞ、おかまいなく。",
+      "じゃ、お邪魔しました。",
+      "いやあ、こちらこそ。"
+    ],
+    "options_vi": [
+      "Xin đừng bận tâm/khách sáo ạ.",
+      "Vậy thì, tôi đã làm phiền rồi.",
+      "Ồ, tôi mới phải nói vậy chứ."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là lời mời dùng đồ ăn/thức uống. Lựa chọn 1 「どうぞ、おかまいなく」là cách từ chối lịch sự, thể hiện không muốn chủ nhà phải bận tâm hay làm phiền. Lựa chọn 2 「じゃ、お邪魔しました」dùng khi chào tạm biệt hoặc xin lỗi vì đã làm phiền. Lựa chọn 3 「いやあ、こちらこそ」dùng để đáp lại một lời cảm ơn hoặc xin lỗi, thể hiện sự đồng tình hoặc \"tôi mới phải nói vậy\".",
+    "q": 58
+  },
+  {
+    "prompt": "あ、冷蔵庫に入れといた私のケーキ、食べちゃったの？",
+    "prompt_vi": "Ôi, cái bánh kem của tôi để trong tủ lạnh, bạn ăn mất rồi à?",
+    "options": [
+      "美味しそうだったからつい。",
+      "じゃあ、お皿持ってくるね。",
+      "なんで全部食べたの？"
+    ],
+    "options_vi": [
+      "Vì trông nó ngon quá nên tôi lỡ mất.",
+      "Vậy thì, tôi sẽ mang đĩa đến nhé.",
+      "Sao lại ăn hết sạch vậy?"
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là một câu hỏi thể hiện sự ngạc nhiên/thất vọng khi bánh kem của mình bị ăn mất. Lựa chọn 1 là câu trả lời tự nhiên nhất, thừa nhận đã ăn và đưa ra lý do (vì trông ngon quá nên lỡ ăn mất). Lựa chọn 2 không phù hợp vì nó ngụ ý chuẩn bị ăn, không phải đã ăn rồi. Lựa chọn 3 là một câu hỏi, không phải câu trả lời cho câu hỏi ban đầu, và nó nghe như thể người hỏi đang tự hỏi hoặc hỏi lại người kia một cách trách móc.",
+    "q": 66
+  },
+  {
+    "prompt": "木村さん、よろしければこの後お食事でも。",
+    "prompt_vi": "Anh Kimura, nếu được thì sau đây mình đi ăn gì đó nhé?",
+    "options": [
+      "ええ、行きましょう。",
+      "どうも、ごちそうさまでした。",
+      "どうぞ、遠慮なさらずに。"
+    ],
+    "options_vi": [
+      "Vâng, đi thôi.",
+      "Cảm ơn vì bữa ăn.",
+      "Xin mời, đừng ngại ngùng gì cả."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là một lời mời đi ăn. Lựa chọn 1 \"ええ、行きましょう。\" (Vâng, đi thôi.) là lời chấp nhận lời mời một cách tự nhiên nhất. Lựa chọn 2 \"どうも、ごちそうさまでした。\" (Cảm ơn vì bữa ăn.) được dùng sau khi đã ăn xong, không phù hợp với ngữ cảnh lời mời. Lựa chọn 3 \"どうぞ、遠慮なさらずに。\" (Xin mời, đừng ngại ngùng gì cả.) thường dùng khi mời ai đó dùng đồ ăn/thức uống hoặc khuyến khích họ làm gì đó, không phải là câu trả lời cho lời mời đi ăn.",
+    "q": 72
+  },
+  {
+    "prompt": "鈴木さん、今君が作ってる資料、なるべく早く欲しいんだけど、まだかかる？",
+    "prompt_vi": "Suzuki này, tài liệu cậu đang làm ấy, tớ muốn có càng sớm càng tốt, nhưng mà còn lâu không?",
+    "options": [
+      "もう少し時間いただけますか？",
+      "後でやった方がいいですか？",
+      "できるだけ早くできますか？"
+    ],
+    "options_vi": [
+      "Tôi có thể xin thêm chút thời gian được không?",
+      "Làm sau thì tốt hơn ạ?",
+      "Cậu có thể làm nhanh nhất có thể được không?"
+    ],
+    "answer": 1,
+    "explanation": "Người nói muốn biết liệu tài liệu có thể hoàn thành sớm hay không. Lựa chọn 1 là câu trả lời lịch sự và phù hợp nhất, xin thêm thời gian. Lựa chọn 2 không liên quan. Lựa chọn 3 hỏi ngược lại, không phải là câu trả lời cho câu hỏi về thời gian.",
+    "q": 59
+  },
+  {
+    "prompt": "週末田中君の引っ越し手伝わされちゃった。",
+    "prompt_vi": "Cuối tuần tớ bị nhờ đi giúp Tanaka chuyển nhà.",
+    "options": [
+      "気 にしなくていいんじゃない？",
+      "田中君手伝ってくれたんだ。",
+      "え？せっかくの休みだったのに？"
+    ],
+    "options_vi": [
+      "Không cần bận tâm đâu nhỉ?",
+      "Tanaka đã giúp cậu mà.",
+      "Hả? Ấy vậy mà lại là ngày nghỉ của cậu?"
+    ],
+    "answer": 3,
+    "explanation": "Câu nói thể hiện sự tiếc nuối vì đã mất ngày nghỉ cuối tuần để đi giúp đỡ. Lựa chọn 3 thể hiện sự ngạc nhiên và đồng cảm với việc mất ngày nghỉ. Lựa chọn 1 có vẻ hơi thờ ơ. Lựa chọn 2 hiểu sai ý, người nói là người đi giúp chứ không phải được giúp.",
+    "q": 60
+  },
+  {
+    "prompt": "会議の日程が決まりましたら、お電話差し上げます。",
+    "prompt_vi": "Khi lịch họp đã được quyết định, tôi sẽ gọi điện cho anh/chị.",
+    "options": [
+      "ただいま外出しております。",
+      "連絡をお待ちしております。",
+      "しばらくお待ちください。"
+    ],
+    "options_vi": [
+      "Hiện tại tôi đang ra ngoài ạ.",
+      "Tôi đang đợi liên lạc ạ.",
+      "Xin hãy đợi một chút ạ."
+    ],
+    "answer": 2,
+    "explanation": "Người nói thông báo sẽ gọi điện khi lịch họp xong. Lựa chọn 2 là câu đáp lại phù hợp nhất, thể hiện sự mong đợi nhận được cuộc gọi. Lựa chọn 1 không liên quan đến việc nhận cuộc gọi. Lựa chọn 3 yêu cầu người khác đợi, trong khi người nói là người sẽ gọi.",
+    "q": 61
+  },
+  {
+    "prompt": "明日の会議には9時からなので遅れないようにね。",
+    "prompt_vi": "Cuộc họp ngày mai bắt đầu lúc 9 giờ nên đừng đến muộn nhé.",
+    "options": [
+      "承知しました。",
+      "確かにそのはずですが",
+      "遅くならないみたいですね"
+    ],
+    "options_vi": [
+      "Tôi đã hiểu.",
+      "Chắc là vậy nhưng",
+      "Có vẻ như không muộn nhỉ"
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 \"承知しました。(Tôi đã hiểu.)\" là câu đáp lại phù hợp nhất khi nhận được lời nhắc nhở. Câu 2 \"確かにそのはずですが (Chắc là vậy nhưng)\" không tự nhiên vì không có lý do gì để nghi ngờ hoặc thêm điều kiện. Câu 3 \"遅くならないみたいですね (Có vẻ như không muộn nhỉ)\" không trực tiếp xác nhận việc sẽ không đến muộn.",
+    "q": 62
+  },
+  {
+    "prompt": "風が強いですね。あそこの店の看板、倒れそうですよ。",
+    "prompt_vi": "Gió mạnh nhỉ. Biển hiệu của cửa hàng đằng kia có vẻ sắp đổ rồi.",
+    "options": [
+      "本当だ、倒れたら危ないですね",
+      "え、倒れてるんですか",
+      "ええ、さっき倒れたそうですよ"
+    ],
+    "options_vi": [
+      "Thật vậy, nguy hiểm nếu nó đổ nhỉ.",
+      "Hả, nó đổ rồi à?",
+      "Vâng, hình như vừa nãy nó đổ rồi."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 \"本当だ、倒れたら危ないですね (Thật vậy, nguy hiểm nếu nó đổ nhỉ)\" là phản ứng tự nhiên nhất, vừa đồng tình với người nói, vừa bày tỏ sự lo ngại về nguy hiểm. Câu 2 \"え、倒れてるんですか (Hả, nó đổ rồi à?)\" hỏi lại như thể không tin hoặc không nhìn thấy, không phù hợp với việc người nói đang chỉ ra tình trạng \"sắp đổ\". Câu 3 \"ええ、さっき倒れたそうですよ (Vâng, hình như vừa nãy nó đổ rồi)\" lại nói rằng nó đã đổ rồi, mâu thuẫn với việc \"sắp đổ\".",
+    "q": 63
+  },
+  {
+    "prompt": "今度またうちへ遊びに来てくださいね。",
+    "prompt_vi": "Lần tới lại ghé qua nhà tôi chơi nhé.",
+    "options": [
+      "おかげで",
+      "ぜひまた",
+      "お出かけですか"
+    ],
+    "options_vi": [
+      "Nhờ ơn.",
+      "Nhất định sẽ lại.",
+      "Bạn đi ra ngoài à?"
+    ],
+    "answer": 2,
+    "explanation": "Câu 2 \"ぜひまた (Nhất định sẽ lại)\" là lời đáp lại lời mời một cách lịch sự và thể hiện sự mong muốn quay lại. Câu 1 \"おかげで (Nhờ ơn)\" thường dùng để cảm ơn hoặc nói về kết quả tốt đẹp nhờ sự giúp đỡ, không phù hợp ở đây. Câu 3 \"お出かけですか (Bạn đi ra ngoài à?)\" hoàn toàn không liên quan đến lời mời.",
+    "q": 64
+  },
+  {
+    "prompt": "森田さん、君に貸す約束してた本なんだけど来週でも構わない？",
+    "prompt_vi": "Anh/chị Morita này, về cuốn sách mà em đã hứa cho anh/chị mượn, tuần sau có được không ạ?",
+    "options": [
+      "来週かどうかわかりません",
+      "来週はダメなんですか？",
+      "じゃあ来週お願いします"
+    ],
+    "options_vi": [
+      "Em không biết tuần sau có được không.",
+      "Tuần sau không được ạ?",
+      "Vậy thì làm ơn cho em vào tuần sau ạ."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang hỏi xem tuần sau có được không, nên câu trả lời phù hợp nhất là đồng ý và xác nhận lại. Lựa chọn 1 không rõ ràng, lựa chọn 2 hỏi lại lý do không được, không trực tiếp trả lời câu hỏi.",
+    "q": 65
+  },
+  {
+    "prompt": "山田君、午後の会議 私の代わりに 出席 お願いできない？",
+    "prompt_vi": "Yamada này, cậu có thể thay tôi tham dự cuộc họp buổi chiều được không?",
+    "options": [
+      "お願いします。来週でもいいですか？",
+      "他の人に頼めない？",
+      "僕でよければいいよ"
+    ],
+    "options_vi": [
+      "Vâng ạ. Tuần sau cũng được ạ?",
+      "Không nhờ người khác được sao?",
+      "Nếu là tôi thì được thôi."
+    ],
+    "answer": 3,
+    "explanation": "Khi được nhờ vả, câu trả lời thể hiện sự sẵn lòng và phù hợp nhất là '僕でよければいいよ' (Nếu là tôi thì được thôi). Lựa chọn 1 hỏi lại về thời gian, không trực tiếp đồng ý. Lựa chọn 2 từ chối khéo léo bằng cách hỏi lại.",
+    "q": 67
+  },
+  {
+    "prompt": "ねえ、スピーチの順番のこと で ちょっと 気になることがあるんだけど",
+    "prompt_vi": "Này, có một chuyện tớ hơi băn khoăn về thứ tự bài phát biểu ấy.",
+    "options": [
+      "それはいい話だね",
+      "お互い気をつけよう",
+      "どうしたの？"
+    ],
+    "options_vi": [
+      "Đó là một câu chuyện hay nhỉ.",
+      "Chúng ta hãy cẩn thận lẫn nhau.",
+      "Sao vậy?"
+    ],
+    "answer": 3,
+    "explanation": "Khi người nói bày tỏ sự băn khoăn, câu đáp lại tự nhiên nhất là hỏi xem có chuyện gì, thể hiện sự quan tâm. Lựa chọn 1 và 2 không liên quan trực tiếp đến việc người nói muốn chia sẻ điều băn khoăn.",
+    "q": 68
+  },
+  {
+    "prompt": "ねえ、今度の週末、山田さんの自転車使わせてもらえない？",
+    "prompt_vi": "Này, cuối tuần này cho tớ mượn xe đạp của anh Yamada được không?",
+    "options": [
+      "ちょうど今使ったところだよ。",
+      "じゃあ使わせてもらおうかな。",
+      "日曜日私は使うんだけど。"
+    ],
+    "options_vi": [
+      "Tớ vừa mới dùng xong.",
+      "Vậy thì tớ mượn vậy.",
+      "Chủ nhật tớ cũng dùng nó mà."
+    ],
+    "answer": 3,
+    "explanation": "Người nói muốn mượn xe đạp vào cuối tuần. \"日曜日私は使うんだけど\" là câu trả lời từ chối khéo léo, giải thích rằng người trả lời cũng có kế hoạch sử dụng xe vào Chủ Nhật, nên không thể cho mượn. Lựa chọn 1 không trả lời trực tiếp cho cuối tuần. Lựa chọn 2 là câu người mượn sẽ nói khi được cho phép.",
+    "q": 69,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "田中さんが来たら、私に電話するように伝えてて。",
+    "prompt_vi": "Khi anh Tanaka đến thì hãy nói với anh ấy gọi điện cho tôi nhé.",
+    "options": [
+      "僕から電話するの？",
+      "わかった。そう言っとく。",
+      "連絡を待つように伝えるね。"
+    ],
+    "options_vi": [
+      "Tôi gọi điện cho anh ấy à?",
+      "Tôi hiểu rồi. Tôi sẽ nói vậy.",
+      "Tôi sẽ nói anh ấy đợi liên lạc nhé."
+    ],
+    "answer": 2,
+    "explanation": "Câu nói là yêu cầu truyền đạt lại lời nhắn. Lựa chọn 1 hỏi lại có phải mình gọi điện không, không đúng với ý nghĩa của câu gốc. Lựa chọn 3 nói sẽ bảo anh Tanaka đợi liên lạc, sai với yêu cầu gọi điện. Lựa chọn 2 là xác nhận đã hiểu và sẽ truyền đạt lại lời nhắn một cách tự nhiên.",
+    "q": 70
+  },
+  {
+    "prompt": "いらっしゃいませ。何名様ですか？",
+    "prompt_vi": "Chào mừng quý khách. Quý khách có mấy người ạ?",
+    "options": [
+      "中村と申します。",
+      "もう一人来るので三人です。",
+      "一人千円ずつです。"
+    ],
+    "options_vi": [
+      "Tôi tên là Nakamura.",
+      "Vì còn một người nữa đến nên là ba người.",
+      "Mỗi người 1000 yên ạ."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là hỏi về số lượng người. Lựa chọn 1 là giới thiệu tên, không liên quan. Lựa chọn 3 là nói về giá tiền, không phải câu trả lời cho câu hỏi về số lượng người. Lựa chọn 2 trả lời đúng số lượng người và giải thích thêm một cách hợp lý.",
+    "q": 71
+  },
+  {
+    "prompt": "佐藤君のおかげで会議の準備、早めに終わったよ。",
+    "prompt_vi": "Nhờ có Sato, việc chuẩn bị cho cuộc họp đã kết thúc sớm.",
+    "options": [
+      "また手伝うから、いつでも言って。",
+      "手伝ってくれてありがとう。",
+      "何から始めればいい？"
+    ],
+    "options_vi": [
+      "Lần sau tớ cũng sẽ giúp, lúc nào cũng được nhé.",
+      "Cảm ơn vì đã giúp tớ.",
+      "Bắt đầu từ đâu bây giờ?"
+    ],
+    "answer": 1,
+    "explanation": "Người nói cảm ơn Sato-kun đã giúp đỡ. \"また手伝うから、いつでも言って\" là câu trả lời tự nhiên của Sato-kun, thể hiện sự sẵn lòng giúp đỡ trong tương lai. Lựa chọn 2 là câu người nói sẽ nói với Sato-kun. Lựa chọn 3 là câu hỏi trước khi giúp đỡ.",
+    "q": 76,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "隣のクラスの山田君、マラソンで次のオリンピックに出ることになったんだって。",
+    "prompt_vi": "Nghe nói Yamada ở lớp bên cạnh đã quyết định sẽ tham gia Thế vận hội tiếp theo với môn marathon.",
+    "options": [
+      "そうなる といいな。",
+      "あと少しだったのにね。",
+      "みんなで応援しなくちゃね。"
+    ],
+    "options_vi": [
+      "Hy vọng là vậy.",
+      "Chỉ còn một chút nữa thôi mà.",
+      "Chúng ta phải cổ vũ cho cậu ấy chứ."
+    ],
+    "answer": 3,
+    "explanation": "Thông tin về việc Yamada sẽ tham gia Olympic là một tin tức đáng mừng và cần được cổ vũ. Lựa chọn 3 thể hiện sự ủng hộ và phù hợp nhất. Lựa chọn 1 là mong muốn chung chung. Lựa chọn 2 ám chỉ một sự tiếc nuối hoặc một sự kiện đã xảy ra, không phù hợp với tin tức về tương lai.",
+    "q": 77
+  },
+  {
+    "prompt": "松本さん、部長への出張の報告はもう済んでるよね？",
+    "prompt_vi": "Matsumoto này, báo cáo chuyến công tác cho Trưởng phòng thì cậu đã hoàn thành rồi chứ?",
+    "options": [
+      "え？報告しなくてもいいんですか？",
+      "すみません、朝からずっと会議に出てたので。",
+      "一昨日、お戻りになりました。"
+    ],
+    "options_vi": [
+      "Hả? Không cần báo cáo cũng được ạ?",
+      "Xin lỗi, vì tôi đã tham gia họp liên tục từ sáng.",
+      "Tôi đã trở về hôm kia."
+    ],
+    "answer": 2,
+    "explanation": "Người hỏi đang xác nhận việc báo cáo đã hoàn thành. Lựa chọn 2 là lời xin lỗi và giải thích lý do có thể chưa hoàn thành, thể hiện sự liên kết với câu hỏi. Lựa chọn 1 thể hiện sự ngạc nhiên không cần thiết. Lựa chọn 3 nói về việc trở về, không trực tiếp trả lời câu hỏi về việc báo cáo.",
+    "q": 78
+  },
+  {
+    "prompt": "先輩、昨日面接受けたんですけど、予想外の質問されちゃったんです。",
+    "prompt_vi": "Anh/chị ơi, hôm qua em có đi phỏng vấn, nhưng mà bị hỏi những câu ngoài dự đoán.",
+    "options": [
+      "予想が当たっちゃったんだ。",
+      "質問がきっちりできてよかったね。",
+      "僕も経験あるよ。慌てるよね。"
+    ],
+    "options_vi": [
+      "Dự đoán của anh/chị đã đúng.",
+      "Thật tốt vì đã hỏi câu hỏi một cách rõ ràng.",
+      "Anh/chị cũng có kinh nghiệm đó. Hoang mang nhỉ."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang chia sẻ về việc bị hỏi câu ngoài dự đoán trong buổi phỏng vấn. Lựa chọn 3 thể hiện sự đồng cảm và chia sẻ kinh nghiệm tương tự, rất tự nhiên trong tình huống này. Lựa chọn 1 không liên quan. Lựa chọn 2 không phù hợp vì người nói đang gặp khó khăn chứ không phải thành công.",
+    "q": 79
+  },
+  {
+    "prompt": "コンビニに行くんだけど、何か買ってこようか？",
+    "prompt_vi": "Tớ đi siêu thị tiện lợi đây, có muốn mua gì không?",
+    "options": [
+      "じゃあジュース頼むよ。",
+      "ついでにお弁当買ってくるよ。",
+      "悪いけど今は行けないよ。"
+    ],
+    "options_vi": [
+      "Vậy thì cho tớ nhờ mua nước ép nhé.",
+      "Nhân tiện tớ mua cơm hộp luôn cho.",
+      "Xin lỗi nhưng bây giờ tớ không đi được."
+    ],
+    "answer": 1,
+    "explanation": "Khi ai đó hỏi có muốn mua gì không khi đi siêu thị, việc nhờ mua một món cụ thể như nước ép (lựa chọn 1) là câu trả lời phổ biến và tự nhiên nhất. Lựa chọn 2 là một lời đề nghị, không phải là yêu cầu. Lựa chọn 3 trả lời cho câu hỏi 'Bạn có đi cùng không?' chứ không phải 'Có muốn mua gì không?'.",
+    "q": 80
+  },
+  {
+    "prompt": "今日の昼食は私に払わせてください。",
+    "prompt_vi": "Bữa trưa hôm nay hãy để tôi chi trả.",
+    "options": [
+      "別々に払うんですか？",
+      "え、いいんですか？",
+      "カードでもいいですか？"
+    ],
+    "options_vi": [
+      "Chúng ta trả riêng ạ?",
+      "Ơ, có được không ạ?",
+      "Trả bằng thẻ có được không ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Khi ai đó đề nghị chi trả cho bữa trưa, câu đáp lại thể hiện sự ngạc nhiên và cảm ơn như 'Ơ, có được không ạ?' (lựa chọn 2) là tự nhiên nhất. Lựa chọn 1 hỏi về cách thức thanh toán, không phải là phản ứng trực tiếp với lời đề nghị. Lựa chọn 3 cũng hỏi về phương thức thanh toán, nhưng sau khi đã chấp nhận lời đề nghị.",
+    "q": 81
+  },
+  {
+    "prompt": "雨降りそうにないですね。午後から晴れると思っていたんですけど。",
+    "prompt_vi": "Trời có vẻ không mưa nhỉ. Tôi đã nghĩ là chiều sẽ nắng đấy.",
+    "options": [
+      "本当、晴れてよかったですね。",
+      "もう少しで降るでしょうね。",
+      "あ、もうやんだんですね。"
+    ],
+    "options_vi": [
+      "Thật vậy, nắng lên thật tốt nhỉ.",
+      "Chắc sắp mưa rồi nhỉ.",
+      "À, đã tạnh rồi nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Người nói đang thất vọng vì trời không nắng như dự kiến. Lựa chọn 2 \"Chắc sắp mưa rồi nhỉ\" là câu đáp tự nhiên nhất, thể hiện sự đồng cảm và dự đoán về thời tiết. Lựa chọn 1 sai vì trời vẫn chưa nắng. Lựa chọn 3 sai vì người nói đang nói về việc trời *không* mưa chứ không phải đã tạnh mưa.",
+    "q": 82
+  },
+  {
+    "prompt": "わあ、懐かしくない？この公園。",
+    "prompt_vi": "Wow, có thấy quen không? Công viên này.",
+    "options": [
+      "え、もう忘れてたんだね。",
+      "初めてだから感動した？",
+      "昔、ここでよく遊んだよね。"
+    ],
+    "options_vi": [
+      "Hả, cậu quên rồi à?",
+      "Vì là lần đầu nên cậu xúc động à?",
+      "Ngày xưa, chúng ta hay chơi ở đây nhỉ."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang gợi lại kỷ niệm về công viên. Lựa chọn 3 \"Ngày xưa, chúng ta hay chơi ở đây nhỉ\" là câu đáp tự nhiên nhất, thể hiện sự đồng tình và chia sẻ kỷ niệm. Lựa chọn 1 \"Hả, cậu quên rồi à?\" có thể hơi tiêu cực. Lựa chọn 2 \"Vì là lần đầu nên cậu xúc động à?\" không phù hợp vì người nói đang gợi lại kỷ niệm, ngụ ý là đã từng đến đây.",
+    "q": 83
+  },
+  {
+    "prompt": "あ、急ごうかな。コンサート間に合わなくなるよ。",
+    "prompt_vi": "À, chắc phải đi nhanh thôi. Không thì sẽ không kịp buổi hòa nhạc đâu.",
+    "options": [
+      "急がなくて大丈夫？",
+      "あー、間に合ってよかった。",
+      "あ、大変。走ろう！"
+    ],
+    "options_vi": [
+      "Không cần đi nhanh có được không?",
+      "À, may mà kịp nhỉ.",
+      "À, vất vả quá. Chạy thôi!"
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang thúc giục đi nhanh để kịp buổi hòa nhạc. Lựa chọn 3 \"À, vất vả quá. Chạy thôi!\" là câu đáp tự nhiên nhất, thể hiện sự đồng tình và hành động tương ứng. Lựa chọn 1 \"Không cần đi nhanh có được không?\" đi ngược lại ý người nói. Lựa chọn 2 \"À, may mà kịp nhỉ.\" là câu nói khi đã kịp rồi, không phù hợp với tình huống đang cần đi gấp.",
+    "q": 84
+  },
+  {
+    "prompt": "バイト早く終わったんだ。どこか寄ってかない？",
+    "prompt_vi": "Tôi xong việc sớm rồi. Bạn có muốn ghé đâu đó không?",
+    "options": [
+      "ごめん。今日はまっすぐ帰る。",
+      "忙しいなら仕方ないよ。",
+      "早く終わったらいいな。"
+    ],
+    "options_vi": [
+      "Xin lỗi. Hôm nay tôi về thẳng.",
+      "Nếu bận thì cũng đành thôi.",
+      "Ước gì xong sớm nhỉ."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời từ chối lịch sự và đưa ra lý do. Câu 2 không liên quan trực tiếp đến lời mời. Câu 3 là mong muốn cá nhân, không phải đáp lại lời mời.",
+    "q": 85
+  },
+  {
+    "prompt": "あ、山田さん。今持ってるそのパソコン、課長が使うなあって。",
+    "prompt_vi": "À, anh Yamada. Cái máy tính anh đang cầm ấy, trưởng phòng bảo là muốn dùng.",
+    "options": [
+      "じゃあ課長にそう言っておきます。",
+      "それじゃあ使わせてもらいます。",
+      "え？なんでいけないんですか？"
+    ],
+    "options_vi": [
+      "Vậy tôi sẽ nói với trưởng phòng như vậy.",
+      "Vậy thì tôi sẽ xin phép dùng.",
+      "Hả? Sao lại không được dùng ạ?"
+    ],
+    "answer": 3,
+    "explanation": "Người nói truyền đạt lời của trưởng phòng rằng không được dùng máy tính đó. \"え？なんでいけないんですか？\" là câu hỏi tự nhiên của Yamada-san khi nhận được một chỉ thị bất ngờ, thể hiện sự ngạc nhiên và muốn biết lý do. Lựa chọn 1 không phải là phản ứng trực tiếp với chỉ thị. Lựa chọn 2 là hành động trái với chỉ thị.",
+    "q": 86,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "きさ頂戴した書類のことで確認したいことがあるんですが。",
+    "prompt_vi": "Tôi có việc muốn xác nhận về tài liệu mà tôi vừa nhận được ạ.",
+    "options": [
+      "はい、どんなことでしょうか？",
+      "もう書類は戴いてますが。",
+      "今日中に確認しておきたいんです。"
+    ],
+    "options_vi": [
+      "Vâng, là việc gì ạ?",
+      "Tôi đã nhận tài liệu rồi.",
+      "Tôi muốn xác nhận trong hôm nay."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời đáp tự nhiên, thể hiện sự sẵn sàng lắng nghe và hỏi rõ vấn đề. Câu 2 chỉ đơn thuần xác nhận đã nhận tài liệu, không phải là câu trả lời cho việc 'muốn xác nhận'. Câu 3 là mong muốn của người nói, không phải là phản hồi cho lời đề nghị xác nhận.",
+    "q": 87
+  },
+  {
+    "prompt": "この店のラーメン、これで一人前？こんなに食べらんないよね？",
+    "prompt_vi": "Món ramen ở quán này, từng này là một suất à? Chắc không ăn hết được đâu nhỉ?",
+    "options": [
+      "確かにすごい量だね。",
+      "ちょっと少なすぎるよね。",
+      "じゃあ一人で食べたらどう？"
+    ],
+    "options_vi": [
+      "Đúng là lượng nhiều thật nhỉ.",
+      "Hơi ít quá nhỉ.",
+      "Vậy ăn một mình thì sao?"
+    ],
+    "answer": 1,
+    "explanation": "Người nói ngạc nhiên vì lượng ramen có vẻ quá nhiều so với một suất. Lựa chọn 1 đồng tình với nhận xét về lượng ramen. Lựa chọn 2 trái ngược với ý người nói. Lựa chọn 3 không liên quan đến việc lượng ramen nhiều hay ít.",
+    "q": 88
+  },
+  {
+    "prompt": "お客様、ご注文はお決まりになりましたか？",
+    "prompt_vi": "Xin quý khách, quý khách đã quyết định gọi món chưa ạ?",
+    "options": [
+      "承知しました。",
+      "じゃあ遠慮なく",
+      "もう少し待ってください。"
+    ],
+    "options_vi": [
+      "Tôi đã hiểu.",
+      "Vậy thì tôi không ngại (gọi món).",
+      "Xin hãy đợi thêm một chút."
+    ],
+    "answer": 3,
+    "explanation": "Câu hỏi là \"Đã quyết định gọi món chưa?\". Lựa chọn 3 \"Xin hãy đợi thêm một chút\" là câu trả lời hợp lý khi chưa quyết định được. Lựa chọn 1 \"Tôi đã hiểu\" không phù hợp với câu hỏi. Lựa chọn 2 \"Vậy thì tôi không ngại\" thường dùng khi được mời gọi món hoặc cho phép làm gì đó.",
+    "q": 89
+  },
+  {
+    "prompt": "あの、ここ図書館なんでもう少し小さい声で話してもらえませんか？",
+    "prompt_vi": "À, ở đây là thư viện nên bạn có thể nói nhỏ hơn một chút được không?",
+    "options": [
+      "あ、すみません。",
+      "聞こえませんか？",
+      "はい、お願いします。"
+    ],
+    "options_vi": [
+      "À, xin lỗi.",
+      "Bạn không nghe thấy à?",
+      "Vâng, làm ơn."
+    ],
+    "answer": 1,
+    "explanation": "Người nói yêu cầu giảm âm lượng vì đang ở thư viện. Lựa chọn 1 \"À, xin lỗi.\" là lời xin lỗi và thừa nhận hành động của mình. Lựa chọn 2 \"Bạn không nghe thấy à?\" không phù hợp. Lựa chọn 3 \"Vâng, làm ơn.\" có thể dùng để đồng ý nhưng \"xin lỗi\" là phản ứng tự nhiên hơn khi bị nhắc nhở.",
+    "q": 90
+  },
+  {
+    "prompt": "山田さん、さっき頼まれた文房具、注文しときました。",
+    "prompt_vi": "Anh Yamada, tôi đã đặt hàng đồ dùng văn phòng mà anh vừa nhờ rồi ạ.",
+    "options": [
+      "届いたものをどこにしまってくれた？",
+      "ありがとう。いつ来るって？",
+      "うん。後で注文しておこうよ。"
+    ],
+    "options_vi": [
+      "Bạn đã cất những thứ đã nhận ở đâu?",
+      "Cảm ơn. Bạn nói khi nào thì đến?",
+      "Ừ. Lát nữa tôi sẽ đặt hàng vậy."
+    ],
+    "answer": 2,
+    "explanation": "Người nói thông báo đã đặt hàng. Lựa chọn 2 là lời cảm ơn và hỏi thời gian nhận hàng, là phản ứng tự nhiên nhất. Lựa chọn 1 hỏi về việc cất giữ đồ đã nhận, không liên quan trực tiếp đến việc đặt hàng. Lựa chọn 3 nói về việc sẽ đặt hàng sau, mâu thuẫn với thông báo đã đặt hàng.",
+    "q": 91
+  },
+  {
+    "prompt": "ねえ、田中君、ちょっと携帯使わせてもらいたいんだけど。",
+    "prompt_vi": "Này, Tanaka, tớ muốn mượn điện thoại của cậu một chút được không?",
+    "options": [
+      "どんなのが欲しいの？",
+      "ありがとう。早速使ってみるよ。",
+      "ええ、持ってないの？"
+    ],
+    "options_vi": [
+      "Bạn muốn dùng loại nào?",
+      "Cảm ơn. Tớ sẽ dùng thử ngay.",
+      "Hả, cậu không có à?"
+    ],
+    "answer": 3,
+    "explanation": "Người nói hỏi mượn điện thoại. Lựa chọn 3 là câu hỏi tự nhiên để đáp lại, thể hiện sự ngạc nhiên hoặc muốn biết lý do tại sao người kia không có điện thoại của mình. Lựa chọn 1 sai ngữ cảnh vì không phải hỏi về loại điện thoại muốn mua. Lựa chọn 2 là lời của người được cho mượn, không phải người cho mượn.",
+    "q": 92,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "加藤さん、部長が今どちらにいらっしゃるかご存知ですか？",
+    "prompt_vi": "Anh Kato, anh có biết bây giờ Trưởng phòng đang ở đâu không ạ?",
+    "options": [
+      "部長はご存知ではないと思います。",
+      "もう自宅に帰られました。",
+      "さっきお伝えしました。"
+    ],
+    "options_vi": [
+      "Tôi nghĩ Trưởng phòng không biết ạ.",
+      "Ông ấy đã về nhà rồi.",
+      "Tôi đã báo cáo với ông ấy lúc nãy rồi."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là \"Bạn có biết trưởng phòng đang ở đâu không?\". Lựa chọn 2 trả lời trực tiếp câu hỏi về địa điểm của trưởng phòng. Lựa chọn 1 sai ngữ cảnh vì nhầm lẫn chủ ngữ (người hỏi muốn biết trưởng phòng ở đâu, không phải trưởng phòng có biết gì không). Lựa chọn 3 có thể đúng trong một số trường hợp nhưng không phải là câu trả lời trực tiếp nhất cho câu hỏi về địa điểm hiện tại.",
+    "q": 93,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "クラブの山田先輩、希望していたところに就職決まったんだって。",
+    "prompt_vi": "Nghe nói anh Yamada, tiền bối câu lạc bộ, đã quyết định được việc làm ở nơi anh ấy mong muốn.",
+    "options": [
+      "ああ、そうみたいだね。良かったね。",
+      "あんなに頑張ってたんだね。",
+      "早く決まるといいね。"
+    ],
+    "options_vi": [
+      "À, có vẻ vậy nhỉ. Tốt quá nhỉ.",
+      "Anh ấy đã cố gắng nhiều như vậy mà.",
+      "Mong là sẽ quyết định sớm nhỉ."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời chúc mừng và bày tỏ sự vui mừng tự nhiên nhất khi nghe tin tốt. Câu 2 chỉ tập trung vào sự cố gắng của người khác mà không trực tiếp phản hồi tin tức. Câu 3 là mong muốn cho tương lai, không phù hợp khi tin tức đã được xác nhận.",
+    "q": 94
+  },
+  {
+    "prompt": "先輩、出張報告の書き方で教えてほしいところがあるんです。",
+    "prompt_vi": "Tiền bối ơi, có chỗ em muốn hỏi về cách viết báo cáo công tác ạ.",
+    "options": [
+      "まだもらってないの？",
+      "どこが分からないの？",
+      "書けたら事務所に出すんだよ。"
+    ],
+    "options_vi": [
+      "Bạn vẫn chưa nhận được à?",
+      "Bạn không hiểu chỗ nào?",
+      "Viết xong thì nộp cho văn phòng nhé."
+    ],
+    "answer": 2,
+    "explanation": "Câu 2 là câu hỏi trực tiếp và phù hợp nhất để làm rõ vấn đề người nói cần giúp đỡ. Câu 1 hỏi về việc đã nhận được hay chưa, không liên quan trực tiếp đến việc hướng dẫn cách viết. Câu 3 là chỉ thị về việc nộp báo cáo, không phải là câu trả lời cho yêu cầu hướng dẫn.",
+    "q": 95
+  },
+  {
+    "prompt": "鈴木さん、みんなで花火やろうって話があるんだけど、どう？",
+    "prompt_vi": "Suzuki này, mọi người đang nói về việc cùng nhau đi xem pháo hoa, cậu thấy sao?",
+    "options": [
+      "楽しそうたね。いつやるの？",
+      "そう。中止になっちゃったんだ。",
+      "ぜひ花火に誘ってみようよ。"
+    ],
+    "options_vi": [
+      "Nghe có vẻ vui nhỉ. Khi nào thì làm?",
+      "Vậy à. Buổi biểu diễn đã bị hủy rồi.",
+      "Nhất định hãy rủ đi xem pháo hoa đi."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 thể hiện sự hứng thú và hỏi thêm thông tin chi tiết (thời gian), là phản ứng tự nhiên nhất khi được rủ rê. Câu 2 nói về việc hủy bỏ, không phù hợp với lời rủ rê. Câu 3 là một đề xuất khác, không phải là phản hồi trực tiếp cho lời rủ rê ban đầu.",
+    "q": 96
+  },
+  {
+    "prompt": "ホンダさん、コピー用紙だけど、けさかなり使ったし、残り少ないんじゃない？",
+    "prompt_vi": "Anh Honda này, giấy photocopy ấy, sáng nay anh dùng nhiều rồi, chắc còn ít lắm nhỉ?",
+    "options": [
+      "けっこう残っちゃったね",
+      "あまりコピーしませんでしたからね",
+      "あ、買わないといけませんね"
+    ],
+    "options_vi": [
+      "Vẫn còn khá nhiều nhỉ.",
+      "Vì tôi không copy nhiều lắm.",
+      "À, tôi phải mua rồi nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là \"chắc còn ít lắm nhỉ?\" (残り少ないんじゃない？). Lựa chọn 2 \"Vì tôi không copy nhiều lắm\" (あまりコピーしませんでしたからね) là câu trả lời hợp lý nhất, ngụ ý rằng vì không dùng nhiều nên giấy vẫn còn nhiều. Lựa chọn 1 \"Vẫn còn khá nhiều nhỉ\" (けっこう残っちゃったね) cũng có thể đúng nhưng không trực tiếp trả lời cho câu hỏi về việc \"còn ít\". Lựa chọn 3 \"À, tôi phải mua rồi nhỉ\" (あ、買わないといけませんね) lại ngụ ý là giấy đã hết hoặc sắp hết, trái ngược với dự đoán trong câu hỏi.",
+    "q": 97
+  },
+  {
+    "prompt": "森さん、よろしければその本、私に貸していただけませんか？",
+    "prompt_vi": "Chị Mori này, nếu được thì chị có thể cho tôi mượn cuốn sách đó được không ạ?",
+    "options": [
+      "せっかくですが、読む時間がないんです",
+      "できれば２週間借りててもいいですか？",
+      "来月使うので、それまでなら"
+    ],
+    "options_vi": [
+      "Tiếc quá nhưng tôi không có thời gian đọc.",
+      "Nếu có thể thì tôi mượn 2 tuần được không?",
+      "Vì tháng sau tôi dùng nên nếu đến lúc đó thì..."
+    ],
+    "answer": 3,
+    "explanation": "Câu hỏi là \"cho tôi mượn sách được không?\". Lựa chọn 3 \"Vì tháng sau tôi dùng nên nếu đến lúc đó thì...\" (来月使うので、それまでなら) là câu trả lời lịch sự và hợp lý nhất, cho phép người hỏi mượn sách nhưng có điều kiện về thời gian. Lựa chọn 1 \"Tiếc quá nhưng tôi không có thời gian đọc\" (せっかくですが、読む時間がないんです) là một lời từ chối, không phù hợp với ngữ cảnh nhờ vả. Lựa chọn 2 \"Nếu có thể thì tôi mượn 2 tuần được không?\" (できれば２週間借りててもいいですか？) lại là một câu hỏi ngược lại, không phải là câu trả lời cho việc cho mượn.",
+    "q": 98
+  },
+  {
+    "prompt": "ねえ、ちょっと、ペン何か無い？",
+    "prompt_vi": "Này, bạn có cây bút nào không?",
+    "options": [
+      "鉛筆ならあるけど",
+      "ノートでもいい？",
+      "ペンはダメなの？"
+    ],
+    "options_vi": [
+      "Nếu là bút chì thì tôi có.",
+      "Sổ tay thì có được không?",
+      "Bút bi thì không được à?"
+    ],
+    "answer": 1,
+    "explanation": "Câu hỏi là \"có cây bút nào không?\". Lựa chọn 1 \"Nếu là bút chì thì tôi có\" (鉛筆ならあるけど) là câu trả lời trực tiếp và tự nhiên nhất, cho biết có bút chì thay vì bút bi. Lựa chọn 2 \"Sổ tay thì có được không?\" (ノートでもいい？) không liên quan đến việc hỏi mượn bút. Lựa chọn 3 \"Bút bi thì không được à?\" (ペンはダメなの？) lại hỏi ngược lại, không phải là câu trả lời cho việc có hay không có bút.",
+    "q": 99
+  },
+  {
+    "prompt": "あの、こちらでの携帯電話の使用はご遠慮ください。",
+    "prompt_vi": "Xin lỗi, xin vui lòng không sử dụng điện thoại di động ở đây.",
+    "options": [
+      "あ、すみません。",
+      "よかった。使えるんですね。",
+      "いえ、結構です。"
+    ],
+    "options_vi": [
+      "À, tôi xin lỗi.",
+      "Tốt quá. Tôi có thể dùng được à.",
+      "Không, không cần đâu."
+    ],
+    "answer": 1,
+    "explanation": "Khi nghe yêu cầu không làm gì đó, cách đáp lại tự nhiên nhất là xin lỗi và xác nhận đã hiểu. Lựa chọn 2 không phù hợp vì người nói đang yêu cầu không sử dụng, không phải hỏi có dùng được không. Lựa chọn 3 có nghĩa là 'không cần', không phù hợp với tình huống này.",
+    "q": 100
+  },
+  {
+    "prompt": "ねえ、昨日作ってくれたこの資料の表、数字間違ってない？",
+    "prompt_vi": "Này, cái bảng trong tài liệu cậu làm hôm qua ấy, số liệu có sai không?",
+    "options": [
+      "よかった 安心しました。",
+      "数字は間違ってないんですか？",
+      "本当ですか？確認します。"
+    ],
+    "options_vi": [
+      "Tốt quá, tôi đã yên tâm rồi.",
+      "Số liệu không sai à?",
+      "Thật ạ? Tôi sẽ kiểm tra."
+    ],
+    "answer": 3,
+    "explanation": "Khi ai đó nghi ngờ về sai sót trong công việc mình làm, cách đáp lại tự nhiên là xác nhận lại thông tin và đề nghị kiểm tra. Lựa chọn 1 không phù hợp vì người hỏi đang nghi ngờ có sai sót, chưa có lý do để yên tâm. Lựa chọn 2 là câu hỏi ngược lại, không phải là cách xử lý trực tiếp khi bị nghi ngờ sai sót.",
+    "q": 101
+  },
+  {
+    "prompt": "昨日、せっかく食事に誘ってくれたのに、行けなくて悪かったね。",
+    "prompt_vi": "Xin lỗi vì hôm qua đã mời tôi đi ăn mà tôi đã không đi được.",
+    "options": [
+      "うーん、それは残念だね。",
+      "うん、また今度ね。",
+      "本当にごめん。"
+    ],
+    "options_vi": [
+      "Ừm, thật đáng tiếc nhỉ.",
+      "Ừ, lần sau nhé.",
+      "Thực sự xin lỗi."
+    ],
+    "answer": 2,
+    "explanation": "Người nói đang xin lỗi vì không thể đi ăn. Lựa chọn 2 là câu trả lời tự nhiên, chấp nhận lời xin lỗi và đề nghị một dịp khác. Lựa chọn 1 chỉ thể hiện sự tiếc nuối. Lựa chọn 3 là lời xin lỗi, không phải lời đáp lại lời xin lỗi.",
+    "q": 102,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "あ、鈴木さん。ご無沙汰しております。偶然ですね。",
+    "prompt_vi": "A, anh Suzuki. Lâu rồi không gặp. Thật là trùng hợp.",
+    "options": [
+      "あ しばらくですね。",
+      "こちらこそよろしく。",
+      "いえ、結構です。"
+    ],
+    "options_vi": [
+      "A, lâu rồi nhỉ.",
+      "Tôi cũng vậy, mong được giúp đỡ.",
+      "Không, tôi ổn rồi."
+    ],
+    "answer": 1,
+    "explanation": "Câu nói mở đầu là lời chào khi gặp lại người quen sau một thời gian dài. Lựa chọn 1 ('A, lâu rồi nhỉ.') là câu đáp lại tự nhiên nhất, thể hiện sự ngạc nhiên và xác nhận việc lâu ngày không gặp. Lựa chọn 2 ('Tôi cũng vậy, mong được giúp đỡ.') thường dùng khi gặp lần đầu hoặc trong bối cảnh cần nhờ vả. Lựa chọn 3 ('Không, tôi ổn rồi.') không liên quan đến tình huống này.",
+    "q": 103
+  },
+  {
+    "prompt": "新入社員の山田さん、ようやく秘書らしくなってきましたね。",
+    "prompt_vi": "Anh Yamada, nhân viên mới, cuối cùng cũng ra dáng thư ký rồi nhỉ.",
+    "options": [
+      "まるで秘書みたいですね。",
+      "本当、秘書として成長しましたね。",
+      "実は秘書になるらしいですよ。"
+    ],
+    "options_vi": [
+      "Trông cứ như thư ký thật vậy.",
+      "Đúng là đã trưởng thành với tư cách thư ký nhỉ.",
+      "Thực ra nghe nói sẽ trở thành thư ký đấy."
+    ],
+    "answer": 2,
+    "explanation": "Câu nói mở đầu nhận xét về sự trưởng thành của anh Yamada trong vai trò thư ký. Lựa chọn 2 ('Đúng là đã trưởng thành với tư cách thư ký nhỉ.') là câu đáp lại trực tiếp và phù hợp nhất, thể hiện sự đồng tình và công nhận sự tiến bộ đó. Lựa chọn 1 ('Trông cứ như thư ký thật vậy.') có thể dùng nhưng hơi chung chung. Lựa chọn 3 ('Thực ra nghe nói sẽ trở thành thư ký đấy.') lại đưa ra thông tin mới không liên quan đến nhận xét ban đầu.",
+    "q": 104
+  },
+  {
+    "prompt": "今度出張で海外に行くんだって？いいなー。",
+    "prompt_vi": "Nghe nói lần này đi công tác nước ngoài à? Thích thế.",
+    "options": [
+      "本当に忙しい出張だったよ。",
+      "じゃあ、お土産買ってきてね。",
+      "遊びじゃなくて仕事だから。"
+    ],
+    "options_vi": [
+      "Đó là một chuyến công tác thực sự bận rộn đấy.",
+      "Vậy thì, mua quà về cho tớ nhé.",
+      "Vì là công việc chứ không phải đi chơi."
+    ],
+    "answer": 3,
+    "explanation": "Câu nói mở đầu thể hiện sự ghen tị, mong muốn được đi công tác nước ngoài. Lựa chọn 3 ('Vì là công việc chứ không phải đi chơi.') là câu đáp lại hợp lý nhất, làm rõ bản chất của chuyến đi là công việc chứ không phải du lịch, đồng thời cũng ngụ ý rằng đó không phải là điều đáng ghen tị. Lựa chọn 1 ('Đó là một chuyến công tác thực sự bận rộn đấy.') có thể là một lời đáp nhưng không trực tiếp giải quyết tâm trạng của người nói. Lựa chọn 2 ('Vậy thì, mua quà về cho tớ nhé.') lại thể hiện sự mong đợi quà cáp, không phù hợp với việc người nói đang bày tỏ sự ngưỡng mộ.",
+    "q": 105
+  },
+  {
+    "prompt": "僕たち二人でこの仕事やるの大変だけど、文句言ってても始まらないよね。",
+    "prompt_vi": "Hai chúng ta cùng làm công việc này vất vả thật, nhưng mà cằn nhằn mãi cũng không bắt đầu được nhỉ.",
+    "options": [
+      "なんで仕事始まらないんだろうね。",
+      "うん、とにかくやってみよう。",
+      "できないって言いに行くつもり？"
+    ],
+    "options_vi": [
+      "Không hiểu sao công việc không bắt đầu nhỉ.",
+      "Ừ, dù sao cũng thử làm xem sao.",
+      "Bạn định đi nói là không làm được à?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói đang than vãn về sự vất vả của công việc nhưng cũng nhận ra việc phàn nàn không giải quyết được vấn đề. Lựa chọn 2 thể hiện sự đồng tình và quyết tâm bắt tay vào làm, phù hợp với tinh thần \"không bắt đầu được\" của câu mở đầu. Lựa chọn 1 chỉ đơn thuần hỏi lý do, không giải quyết vấn đề. Lựa chọn 3 mang ý nghĩa tiêu cực, đi ngược lại với ý muốn bắt đầu công việc.",
+    "q": 106
+  },
+  {
+    "prompt": "いらっしゃいませ。何名様でしょうか。",
+    "prompt_vi": "Xin chào quý khách. Quý khách đi mấy người ạ?",
+    "options": [
+      "6回目です。",
+      "6人です。",
+      "お客様です。"
+    ],
+    "options_vi": [
+      "Lần thứ 6 rồi ạ.",
+      "6 người ạ.",
+      "Là khách hàng ạ."
+    ],
+    "answer": 2,
+    "explanation": "Đây là câu hỏi của nhân viên nhà hàng/quán cà phê hỏi về số lượng khách. Lựa chọn 2 \"6人です。(6 người ạ.)\" là câu trả lời trực tiếp và phù hợp nhất. Lựa chọn 1 \"6回目です。(Lần thứ 6 rồi ạ.)\" không liên quan đến câu hỏi. Lựa chọn 3 \"お客様です。(Là khách hàng ạ.)\" là câu trả lời hiển nhiên và không cần thiết.",
+    "q": 107
+  },
+  {
+    "prompt": "森さん、ちょっと書類の整理を手伝ってほしいんだけど。",
+    "prompt_vi": "Anh Mori này, tôi muốn nhờ anh giúp một chút việc sắp xếp giấy tờ.",
+    "options": [
+      "そう。もう手伝わなくてもいいの？",
+      "ありがとう。じゃあお願いするね。",
+      "ああ、少し後ならできるけど。"
+    ],
+    "options_vi": [
+      "Vậy à. Không cần giúp nữa à?",
+      "Cảm ơn. Vậy tôi nhờ anh nhé.",
+      "À, nếu một lát nữa thì tôi có thể giúp."
+    ],
+    "answer": 3,
+    "explanation": "Người nói nhờ giúp đỡ việc sắp xếp giấy tờ. Lựa chọn 3 \"ああ、少し後ならできるけど。(À, nếu một lát nữa thì tôi có thể giúp.)\" là câu trả lời thể hiện sự sẵn lòng giúp đỡ nhưng có điều kiện về thời gian, rất tự nhiên trong giao tiếp. Lựa chọn 1 \"そう。もう手伝わなくてもいいの？(Vậy à. Không cần giúp nữa à?)\" thể hiện sự hiểu lầm hoặc từ chối. Lựa chọn 2 \"ありがとう。じゃあお願いするね。(Cảm ơn. Vậy tôi nhờ anh nhé.)\" là lời cảm ơn và đồng ý, nhưng câu mở đầu là lời nhờ vả, nên người được nhờ sẽ trả lời trước, không phải người nhờ.",
+    "q": 108
+  },
+  {
+    "prompt": "鈴木さん、今日は、お目にかかれて嬉しかったです。",
+    "prompt_vi": "Suzuki-san, hôm nay tôi rất vui vì được gặp anh/chị.",
+    "options": [
+      "こちらこそ、またお会いしたいです。",
+      "私も楽しみにしています。",
+      "では、どうぞご覧ください。"
+    ],
+    "options_vi": [
+      "Tôi cũng vậy, tôi muốn gặp lại anh/chị.",
+      "Tôi cũng mong đợi điều đó.",
+      "Vậy thì, xin mời anh/chị xem."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là đáp án tự nhiên nhất vì khi người khác nói 'rất vui vì được gặp', thì đáp lại 'tôi cũng vậy, tôi muốn gặp lại' là phù hợp. Câu 2 'tôi cũng mong đợi điều đó' không hợp lý trong ngữ cảnh này. Câu 3 'vậy thì, xin mời anh/chị xem' hoàn toàn không liên quan.",
+    "q": 109
+  },
+  {
+    "prompt": "リンさん、日本語、随分上手になってきたし、スピーチ大会に出てみたら？",
+    "prompt_vi": "Lin-san, tiếng Nhật của cậu tiến bộ nhiều rồi đó, thử tham gia cuộc thi hùng biện xem sao?",
+    "options": [
+      "じゃあ、出るのは諦めます。",
+      "はい、私も出てみたいと思ってるんです。",
+      "出てみたらどうですか？"
+    ],
+    "options_vi": [
+      "Vậy thì, tôi sẽ từ bỏ việc tham gia.",
+      "Vâng, tôi cũng đang nghĩ muốn tham gia.",
+      "Thử tham gia thì sao ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Khi được gợi ý tham gia cuộc thi, câu 2 'Vâng, tôi cũng đang nghĩ muốn tham gia' là câu trả lời thể hiện sự đồng tình và hứng thú một cách tự nhiên. Câu 1 'tôi sẽ từ bỏ việc tham gia' là phủ định. Câu 3 'Thử tham gia thì sao ạ?' lại hỏi ngược lại người đưa ra lời khuyên, không tự nhiên.",
+    "q": 110
+  },
+  {
+    "prompt": "あ、松本君、シャツのボタンが取れそうだよ。",
+    "prompt_vi": "A, Matsumoto-kun, cúc áo của cậu sắp rơi rồi kìa.",
+    "options": [
+      "どこで落としちゃったんだろう。",
+      "本当だ、全然気づかなかったよ。",
+      "取ってくれたの？ありがとう。"
+    ],
+    "options_vi": [
+      "Không biết tôi đã làm rơi nó ở đâu nhỉ.",
+      "Thật vậy, tôi hoàn toàn không nhận ra.",
+      "Bạn nhặt giúp tôi à? Cảm ơn."
+    ],
+    "answer": 2,
+    "explanation": "Khi ai đó chỉ ra lỗi trên trang phục của mình, câu 2 'Thật vậy, tôi hoàn toàn không nhận ra' là phản ứng tự nhiên nhất, thể hiện sự ngạc nhiên và nhận thức về vấn đề. Câu 1 'Không biết tôi đã làm rơi nó ở đâu nhỉ' có thể là một suy nghĩ, nhưng không phải là phản ứng tức thời. Câu 3 'Bạn nhặt giúp tôi à? Cảm ơn' giả định rằng người kia đã nhặt được cúc áo, điều này chưa chắc đã đúng và không phải là phản ứng trực tiếp với việc 'cúc áo sắp rơi'.",
+    "q": 111
+  },
+  {
+    "prompt": "棚の片付けまだ終わってないみたいだけど、遅いし、それ明日でしても構わないよ。",
+    "prompt_vi": "Việc dọn dẹp giá sách có vẻ vẫn chưa xong, nhưng mà muộn rồi, để mai làm cũng không sao đâu.",
+    "options": [
+      "あ、今日中に終わらせないといけないんですね。",
+      "今日はちょっと手伝えできないんですが。",
+      "すみません、じゃあ今日はここまでにします。"
+    ],
+    "options_vi": [
+      "À, vậy là phải xong trong hôm nay ạ.",
+      "Hôm nay tôi hơi bận không giúp được.",
+      "Xin lỗi, vậy thì hôm nay tôi xin phép dừng ở đây."
+    ],
+    "answer": 1,
+    "explanation": "Người nói A đưa ra lời đề nghị \"mai làm cũng không sao\". Người nói B đáp lại bằng cách xác nhận lại \"vậy là phải xong trong hôm nay ạ?\" (1), thể hiện sự hiểu lầm hoặc muốn làm rõ lại. Lựa chọn 2 \"Hôm nay tôi hơi bận không giúp được\" không liên quan trực tiếp đến lời đề nghị. Lựa chọn 3 \"Vậy thì hôm nay tôi xin phép dừng ở đây\" cũng không phù hợp vì A nói \"mai làm cũng không sao\", không phải là yêu cầu dừng lại.",
+    "q": 115
+  },
+  {
+    "prompt": "山田さん、作り直してくれた資料、見やすくなってましたよ。",
+    "prompt_vi": "Anh Yamada này, tài liệu anh làm lại cho tôi đã dễ nhìn hơn rồi đấy.",
+    "options": [
+      "ありがとうございます。良かったです。",
+      "分かりました。すぐに直します。",
+      "もっと簡単ににするんですか？"
+    ],
+    "options_vi": [
+      "Cảm ơn anh. Tốt quá.",
+      "Tôi hiểu rồi. Tôi sẽ sửa ngay.",
+      "Anh muốn làm cho nó đơn giản hơn ạ?"
+    ],
+    "answer": 1,
+    "explanation": "Người nói A khen tài liệu của B đã dễ nhìn hơn. Lựa chọn 1 \"Cảm ơn anh. Tốt quá.\" là lời đáp tự nhiên, thể hiện sự vui mừng và cảm ơn. Lựa chọn 2 \"Tôi hiểu rồi. Tôi sẽ sửa ngay.\" không phù hợp vì tài liệu đã được sửa xong và dễ nhìn rồi. Lựa chọn 3 \"Anh muốn làm cho nó đơn giản hơn ạ?\" không liên quan đến nội dung lời khen.",
+    "q": 116
+  },
+  {
+    "prompt": "ねえ、ちょっと木村さんに用があるんだけど、見なかった？",
+    "prompt_vi": "Này, tôi có chút việc cần gặp anh Kimura, cậu có thấy anh ấy không?",
+    "options": [
+      "じゃあ、一緒に見よう。",
+      "特に用はないんだけど。",
+      "さあ、他の人に聞いてみて。"
+    ],
+    "options_vi": [
+      "Vậy thì, chúng ta cùng đi tìm nhé.",
+      "Tôi thì không có việc gì đặc biệt cả.",
+      "Ừm, bạn thử hỏi người khác xem sao."
+    ],
+    "answer": 3,
+    "explanation": "Người nói A hỏi xem B có thấy anh Kimura không vì có việc cần gặp. Lựa chọn 3 \"Ừm, bạn thử hỏi người khác xem sao.\" là câu trả lời phù hợp nhất, thể hiện B không thấy và gợi ý A đi hỏi người khác. Lựa chọn 1 \"Vậy thì, chúng ta cùng đi tìm nhé.\" có thể chấp nhận được nhưng không tự nhiên bằng vì A chỉ hỏi \"có thấy không\", không hẳn là muốn đi tìm cùng. Lựa chọn 2 \"Tôi thì không có việc gì đặc biệt cả.\" hoàn toàn không liên quan đến câu hỏi.",
+    "q": 117
+  },
+  {
+    "prompt": "昨日貸してくれた本、読み出したら止まらなくなっちゃったよ。",
+    "prompt_vi": "Cuốn sách bạn cho tớ mượn hôm qua, tớ bắt đầu đọc rồi là không dừng lại được luôn.",
+    "options": [
+      "じゃ、全部読まなくてもいいよ。",
+      "結構面白かったでしょう。",
+      "本、なくなっちゃったの？"
+    ],
+    "options_vi": [
+      "Vậy thì, không cần đọc hết cũng được.",
+      "Chắc là hay lắm đúng không?",
+      "Cuốn sách bị mất rồi à?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói bày tỏ sự thích thú và cuốn hút khi đọc sách. Lựa chọn 2 thể hiện sự đồng cảm và hỏi xem người nghe có thấy vậy không, rất tự nhiên. Lựa chọn 1 không phù hợp vì người nói đang hào hứng đọc. Lựa chọn 3 hỏi về việc sách bị mất, không liên quan đến nội dung đang nói.",
+    "q": 118
+  },
+  {
+    "prompt": "どうぞ、お入りください。すぐお茶入れますから。",
+    "prompt_vi": "Mời vào ạ. Tôi sẽ pha trà ngay ạ.",
+    "options": [
+      "お構いなく。",
+      "ごちそうさまでした。",
+      "どういたしまして。"
+    ],
+    "options_vi": [
+      "Xin đừng bận tâm.",
+      "Tôi đã dùng bữa xong rồi ạ.",
+      "Không có gì đâu ạ."
+    ],
+    "answer": 1,
+    "explanation": "Khi được mời vào và đề nghị pha trà, câu đáp 'お構いなく' (Xin đừng bận tâm) thể hiện sự từ chối khéo léo hoặc ý muốn không làm phiền người khác. Lựa chọn 2 là lời cảm ơn sau khi ăn uống. Lựa chọn 3 là câu đáp lại lời cảm ơn.",
+    "q": 119
+  },
+  {
+    "prompt": "リーさん、あの、リーさんの研究で、お聞きしたいことがあるんですが。",
+    "prompt_vi": "Anh Lee, ừm, về nghiên cứu của anh Lee, có điều tôi muốn hỏi ạ.",
+    "options": [
+      "あ、はい、どんなことでしょうか？",
+      "あ、聞い た ことが あります。",
+      "いいえ、質問はありませんが。"
+    ],
+    "options_vi": [
+      "À, vâng, là chuyện gì ạ?",
+      "À, tôi đã từng nghe rồi.",
+      "Không, tôi không có câu hỏi nào cả."
+    ],
+    "answer": 1,
+    "explanation": "Khi ai đó nói muốn hỏi bạn điều gì đó, câu đáp 'あ、はい、どんなことでしょうか？' (À, vâng, là chuyện gì ạ?) là cách lịch sự và tự nhiên nhất để mời họ nói tiếp. Lựa chọn 2 'Tôi đã từng nghe rồi' không phù hợp vì người nói muốn hỏi về nghiên cứu. Lựa chọn 3 'Không có câu hỏi nào cả' lại đi ngược lại ý định của người nói.",
+    "q": 120
+  },
+  {
+    "prompt": "友達に赤ちゃんが生まれたんだけど、どんなものをあげたらいいと思う？",
+    "prompt_vi": "Bạn tôi có em bé mới sinh, bạn nghĩ nên tặng quà gì thì tốt nhỉ?",
+    "options": [
+      "うん、それがいいと思うよ。",
+      "プレゼントをあげたらどう？",
+      "何でも喜んでくれるんじゃない？"
+    ],
+    "options_vi": [
+      "Ừm, tớ nghĩ cái đó là tốt đấy.",
+      "Tặng quà thì sao?",
+      "Chẳng phải họ sẽ vui với bất cứ thứ gì sao?"
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang hỏi ý kiến về món quà tặng em bé. Lựa chọn 3 là câu trả lời tự nhiên khi không có gợi ý cụ thể, ngụ ý rằng bất cứ món quà nào cũng sẽ được đón nhận vì đó là tấm lòng. Lựa chọn 1 là câu trả lời cho một gợi ý đã có. Lựa chọn 2 lặp lại điều đã biết (đang hỏi về quà).",
+    "q": 121,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "吉田さんはどちらのご出身ですか？",
+    "prompt_vi": "Anh/chị Yoshida đến từ đâu ạ?",
+    "options": [
+      "東京の貿易会社で働いています。",
+      "生まれたのは東京ですが、京都で育ちました。",
+      "これから東京へ行きます。"
+    ],
+    "options_vi": [
+      "Tôi đang làm việc ở một công ty thương mại ở Tokyo.",
+      "Tôi sinh ra ở Tokyo, nhưng lớn lên ở Kyoto.",
+      "Từ giờ tôi sẽ đi Tokyo."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là \"Bạn đến từ đâu?\". Lựa chọn 2 trả lời trực tiếp về nơi sinh và nơi lớn lên, phù hợp với câu hỏi về nguồn gốc. Lựa chọn 1 nói về công việc, lựa chọn 3 nói về kế hoạch di chuyển, không liên quan đến câu hỏi.",
+    "q": 122
+  },
+  {
+    "prompt": "トムさんは日本に来たばかりなのに日本のことよくご存知ですね。",
+    "prompt_vi": "Anh Tom mới đến Nhật Bản mà đã biết nhiều về Nhật Bản nhỉ.",
+    "options": [
+      "来る前に色々調べたんですよ。",
+      "いいえ、日本には長く住んでいませんよ。",
+      "来たばかりですから仕方ないです。"
+    ],
+    "options_vi": [
+      "Trước khi đến tôi đã tìm hiểu nhiều thứ.",
+      "Không, tôi không sống ở Nhật lâu.",
+      "Vì mới đến nên không thể tránh khỏi."
+    ],
+    "answer": 1,
+    "explanation": "Người nói đang khen Tom biết nhiều về Nhật Bản dù mới đến. Lựa chọn 1 giải thích lý do Tom biết nhiều là vì đã tìm hiểu trước khi đến, đây là câu trả lời hợp lý và tự nhiên nhất. Lựa chọn 2 phủ nhận việc sống lâu nhưng không giải thích tại sao biết nhiều. Lựa chọn 3 nói rằng vì mới đến nên không thể tránh khỏi, không liên quan đến việc biết nhiều hay ít.",
+    "q": 123
+  },
+  {
+    "prompt": "寒いね。今夜は雪が降ってもおかしくないね。",
+    "prompt_vi": "Trời lạnh nhỉ. Đêm nay tuyết rơi cũng không có gì lạ đâu.",
+    "options": [
+      "降ったらおかしい？",
+      "これは冬だろうね。",
+      "寒いけど降らないんだね。"
+    ],
+    "options_vi": [
+      "Rơi thì lạ à?",
+      "Đây là mùa đông rồi nhỉ.",
+      "Lạnh nhưng mà không rơi nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Người nói nhận xét trời lạnh và có thể tuyết rơi đêm nay. Lựa chọn 2 \"これは冬だろうね。(Đây là mùa đông rồi nhỉ.)\" là câu đáp tự nhiên nhất, thể hiện sự đồng tình và giải thích cho việc có thể có tuyết rơi. Lựa chọn 1 \"降ったらおかしい？(Rơi thì lạ à?)\" hỏi ngược lại, không phù hợp. Lựa chọn 3 \"寒いけど降らないんだね。(Lạnh nhưng mà không rơi nhỉ.)\" mâu thuẫn với ý của người nói.",
+    "q": 124
+  },
+  {
+    "prompt": "田中先輩、レポート書いたんでちょっと見て欲しいんですけど。",
+    "prompt_vi": "Anh Tanaka, em đã viết báo cáo rồi, anh xem giúp em một chút được không ạ?",
+    "options": [
+      "見て貰えてよかったね。",
+      "そんなに見たいの？",
+      "僕で良ければ。"
+    ],
+    "options_vi": [
+      "Được xem là tốt rồi nhỉ.",
+      "Muốn xem đến vậy sao?",
+      "Nếu là em thì được ạ."
+    ],
+    "answer": 3,
+    "explanation": "Người nói nhờ xem báo cáo. Lựa chọn 3 \"僕で良ければ。(Nếu là em thì được ạ.)\" là cách nói khiêm tốn và sẵn sàng giúp đỡ của người được nhờ, rất phù hợp trong tình huống này. Lựa chọn 1 \"見て貰えてよかったね。(Được xem là tốt rồi nhỉ.)\" là lời nói của người đã được xem, không phù hợp. Lựa chọn 2 \"そんなに見たいの？(Muốn xem đến vậy sao?)\" mang sắc thái hơi ngạc nhiên hoặc có chút mỉa mai, không tự nhiên.",
+    "q": 125
+  },
+  {
+    "prompt": "ねえ、留学のパンフレットってどこに行ったらもらえるか知ってる？",
+    "prompt_vi": "Này, cậu có biết đến đâu thì nhận được tờ rơi du học không?",
+    "options": [
+      "留学先はどこでもいいと思うよ。",
+      "うちの学部の事務所にあるよ。",
+      "どこが人気があるか知らないな。"
+    ],
+    "options_vi": [
+      "Tớ nghĩ điểm đến du học thì ở đâu cũng được.",
+      "Ở văn phòng khoa mình có đấy.",
+      "Tớ không biết chỗ nào nổi tiếng cả."
+    ],
+    "answer": 2,
+    "explanation": "Người nói hỏi về nơi nhận tờ rơi du học. Lựa chọn 2 \"うちの学部の事務所にあるよ。(Ở văn phòng khoa mình có đấy.)\" cung cấp thông tin cụ thể về địa điểm, là câu trả lời trực tiếp và hữu ích nhất. Lựa chọn 1 \"留学先はどこでもいいと思うよ。(Tớ nghĩ điểm đến du học thì ở đâu cũng được.)\" không trả lời câu hỏi về nơi nhận tờ rơi. Lựa chọn 3 \"どこが人気があるか知らないな。(Tớ không biết chỗ nào nổi tiếng cả.)\" nói về sự nổi tiếng, không liên quan đến việc nhận tờ rơi.",
+    "q": 126
+  },
+  {
+    "prompt": "研究、うまく進んでないんだって？ 先生に相談した方がいいんじゃない？",
+    "prompt_vi": "Nghe nói nghiên cứu không tiến triển tốt lắm à? Bạn không nghĩ là nên hỏi ý kiến giáo viên sao?",
+    "options": [
+      "先生と相談してくれたんだね。ありがとう。",
+      "そうだな。相談してみる。",
+      "相談するのは早すぎるよな。"
+    ],
+    "options_vi": [
+      "Bạn đã hỏi ý kiến giáo viên rồi à. Cảm ơn nhé.",
+      "Ừ nhỉ. Thử hỏi xem sao.",
+      "Hỏi bây giờ thì còn sớm quá nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi đưa ra lời khuyên \"nên hỏi ý kiến giáo viên\". Lựa chọn 2 là câu đồng tình và thể hiện hành động \"Ừ nhỉ. Thử hỏi xem sao.\" rất tự nhiên. Lựa chọn 1 nói \"bạn đã hỏi rồi\" không phù hợp với ngữ cảnh. Lựa chọn 3 nói \"hỏi bây giờ còn sớm\" đi ngược lại lời khuyên.",
+    "q": 127
+  },
+  {
+    "prompt": "今度スピーチ大会に出るんだけど、何について話したらいいかテーマなかなか決められなくて。",
+    "prompt_vi": "Lần tới tớ sẽ tham gia cuộc thi hùng biện, nhưng tớ vẫn chưa quyết định được chủ đề nên nói về cái gì.",
+    "options": [
+      "自分でテーマ選ぶんじゃないの？",
+      "何について話すか、テーマもう決まってるんだね。",
+      "テーマ決めるのって難しいよな。"
+    ],
+    "options_vi": [
+      "Bạn không tự chọn chủ đề à?",
+      "Vậy là chủ đề bạn sẽ nói đã được quyết định rồi nhỉ.",
+      "Việc quyết định chủ đề đúng là khó nhỉ."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang gặp khó khăn trong việc chọn chủ đề. Lựa chọn 3 thể hiện sự đồng cảm \"Việc quyết định chủ đề đúng là khó nhỉ.\" rất phù hợp. Lựa chọn 1 hỏi ngược lại \"Bạn không tự chọn chủ đề à?\" không tự nhiên. Lựa chọn 2 khẳng định sai \"Vậy là chủ đề đã được quyết định rồi nhỉ.\".",
+    "q": 128
+  },
+  {
+    "prompt": "田中さん、机の上ひどいね。もう少し整理したらどう？",
+    "prompt_vi": "Anh Tanaka này, bàn làm việc bừa bộn quá nhỉ. Anh thử sắp xếp lại một chút đi?",
+    "options": [
+      "もっと綺麗に片付けててね。",
+      "うん、後で片付けるよ。",
+      "あ、片付けてくれたんだね。"
+    ],
+    "options_vi": [
+      "Hãy dọn dẹp sạch sẽ hơn nhé.",
+      "Ừ, lát nữa anh sẽ dọn.",
+      "À, anh đã dọn rồi à."
+    ],
+    "answer": 2,
+    "explanation": "Câu nói là lời đề nghị \"hãy sắp xếp lại một chút đi\". Lựa chọn 2 là câu trả lời đồng ý và thể hiện hành động \"Ừ, lát nữa anh sẽ dọn.\" rất tự nhiên. Lựa chọn 1 là yêu cầu trực tiếp \"Hãy dọn dẹp sạch sẽ hơn nhé\" không phải là đáp lại lời đề nghị. Lựa chọn 3 nói \"anh đã dọn rồi\" không phù hợp vì người nói đang đề nghị dọn dẹp.",
+    "q": 129
+  },
+  {
+    "prompt": "学校の食堂、昼の時間はいっつも混むから、混まないうちに食べに行かない？",
+    "prompt_vi": "Nhà ăn trường học, giờ nghỉ trưa lúc nào cũng đông, nên đi ăn trước khi đông nhé?",
+    "options": [
+      "もう混んじゃってるの？",
+      "えー、早く食べたいんだけど。",
+      "じゃあ今から行こうか。"
+    ],
+    "options_vi": [
+      "Đông rồi à?",
+      "Ưm, tớ muốn ăn nhanh lắm.",
+      "Vậy thì đi ngay bây giờ nhé?"
+    ],
+    "answer": 3,
+    "explanation": "Câu hỏi đưa ra đề nghị đi ăn trước khi đông. Lựa chọn 3 là câu đồng ý và đề xuất hành động ngay lập tức, phù hợp với ngữ cảnh. Lựa chọn 1 hỏi lại tình hình, không phải là câu đáp lại đề nghị. Lựa chọn 2 bày tỏ mong muốn ăn nhanh nhưng không trực tiếp đáp lại đề nghị đi ăn.",
+    "q": 130
+  },
+  {
+    "prompt": "山田さん、さっき見せていただいた資料、一部コピーさせていただけませんか？",
+    "prompt_vi": "Anh Yamada, tài liệu anh vừa cho tôi xem, anh có thể cho tôi photo một phần được không ạ?",
+    "options": [
+      "ええ、構いませんよ。",
+      "あ、コピーされたんですね。",
+      "私がコピーするんですか？"
+    ],
+    "options_vi": [
+      "Vâng, không sao đâu ạ.",
+      "À, anh đã copy rồi à.",
+      "Tôi là người copy ạ?"
+    ],
+    "answer": 1,
+    "explanation": "Đây là một lời nhờ vả lịch sự. Lựa chọn 1 là câu trả lời đồng ý một cách lịch sự và tự nhiên. Lựa chọn 2 hiểu sai ý, cho rằng người kia đã copy rồi. Lựa chọn 3 hỏi lại xem mình có phải là người copy không, không phải là câu trả lời trực tiếp cho lời nhờ vả.",
+    "q": 131
+  },
+  {
+    "prompt": "今から郵便局に切手買いに行くけど、ついでになんかある？",
+    "prompt_vi": "Bây giờ tôi đi bưu điện mua tem, tiện thể bạn có cần gì không?",
+    "options": [
+      "はがき出しておいてくれない？",
+      "郵便局はたしか駅前にあrるよ。",
+      "ごめん、僕は一緒に行けないよ。"
+    ],
+    "options_vi": [
+      "Bạn có thể gửi giúp mình bưu thiếp được không?",
+      "Hình như bưu điện ở ngay trước ga thì phải.",
+      "Xin lỗi, tớ không đi cùng được."
+    ],
+    "answer": 1,
+    "explanation": "Người nói đang đi bưu điện và hỏi người nghe có cần gì không. Lựa chọn 1 là một yêu cầu nhờ vả liên quan đến bưu điện, rất phù hợp. Lựa chọn 2 cung cấp thông tin về địa điểm bưu điện, không phải là câu trả lời cho câu hỏi \"có cần gì không\". Lựa chọn 3 từ chối đi cùng, không liên quan đến việc nhờ vả mua đồ.",
+    "q": 132
+  },
+  {
+    "prompt": "昨日レストラン予約しておいたんだけど、30分近くも待たされたよ。",
+    "prompt_vi": "Hôm qua tôi đã đặt chỗ nhà hàng rồi vậy mà phải đợi gần 30 phút đấy.",
+    "options": [
+      "次は予約してから行かなくちゃね",
+      "ゆっくり食事できてよかったね",
+      "それじゃ予約した意味ないね"
+    ],
+    "options_vi": [
+      "Lần sau phải đi sau khi đã đặt chỗ nhé.",
+      "Thật tốt vì đã được ăn uống thong thả nhỉ.",
+      "Vậy thì đặt chỗ cũng vô nghĩa nhỉ."
+    ],
+    "answer": 3,
+    "explanation": "Người nói phàn nàn về việc phải đợi lâu dù đã đặt chỗ. Lựa chọn 3 thể hiện sự đồng cảm và chỉ ra sự vô lý của việc đặt chỗ trong trường hợp này, rất tự nhiên. Lựa chọn 1 khuyên nhủ cho lần sau, không trực tiếp giải quyết vấn đề hiện tại. Lựa chọn 2 hoàn toàn sai vì người nói đã phải đợi lâu.",
+    "q": 133
+  },
+  {
+    "prompt": "喉カラカラなんだけど、お茶かなんかもってない？",
+    "prompt_vi": "Tôi khát khô cổ họng, bạn có mang trà hay gì đó không?",
+    "options": [
+      "お茶はだめなの？",
+      "なくてもいいよ",
+      "水ならあるけど"
+    ],
+    "options_vi": [
+      "Trà thì không được à?",
+      "Không có cũng không sao đâu.",
+      "Tôi có nước lọc đây này."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang khát và hỏi xem có trà hay gì đó không. Lựa chọn 3 là câu trả lời trực tiếp và hữu ích nhất, đề nghị thứ có thể thay thế (nước lọc). Lựa chọn 1 hỏi lại về trà, không trực tiếp đáp ứng yêu cầu. Lựa chọn 2 từ chối một cách hơi cụt lũn, không tự nhiên bằng việc đề nghị thứ khác.",
+    "q": 134
+  },
+  {
+    "prompt": "今日の会議で出た意見は、部長にもきっちり伝えておくようにね。",
+    "prompt_vi": "Những ý kiến đã đưa ra trong cuộc họp hôm nay, hãy nhớ truyền đạt lại đầy đủ cho cả trưởng phòng nhé.",
+    "options": [
+      "部長が伝えてくださるんですか？",
+      "どうぞよろしくお願いします",
+      "わかりました。報告します。"
+    ],
+    "options_vi": [
+      "Trưởng phòng sẽ truyền đạt ạ?",
+      "Xin nhờ anh/chị.",
+      "Tôi đã hiểu. Tôi sẽ báo cáo."
+    ],
+    "answer": 3,
+    "explanation": "Người nói yêu cầu người nghe truyền đạt lại ý kiến cho trưởng phòng. Lựa chọn 3 là câu trả lời xác nhận đã hiểu yêu cầu và sẽ thực hiện, rất tự nhiên. Lựa chọn 1 hỏi lại người nói có phải là trưởng phòng không, không phù hợp. Lựa chọn 2 là lời nhờ vả, không phải là câu trả lời cho yêu cầu truyền đạt.",
+    "q": 135
+  },
+  {
+    "prompt": "お客様、雨が降っておりますのでタクシーをお呼びいたしましょうか？",
+    "prompt_vi": "Thưa quý khách, trời đang mưa nên tôi gọi taxi cho quý khách nhé?",
+    "options": [
+      "すみません、そうしていただけますか？",
+      "あの、私は読んでおりませんが",
+      "頼んでくださったんですね、ありがとう"
+    ],
+    "options_vi": [
+      "Xin lỗi, anh/chị có thể làm vậy được không ạ?",
+      "À, tôi thì không có gọi ạ",
+      "Anh/chị đã gọi giúp tôi rồi, cảm ơn anh/chị"
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời đáp tự nhiên nhất, thể hiện sự đồng ý và nhờ vả. Câu 2 không liên quan. Câu 3 hiểu sai ý người nói.",
+    "q": 136
+  },
+  {
+    "prompt": "あの、前 đâuどこかでお目にかかったことありませんか？",
+    "prompt_vi": "À, hình như trước đây chúng ta đã từng gặp nhau ở đâu đó phải không ạ?",
+    "options": [
+      "え？前のほうに何かあるんですか？",
+      "いえ、たぶんないと思いますが",
+      "どこでなくしましたか？"
+    ],
+    "options_vi": [
+      "Hả? Có cái gì ở phía trước sao?",
+      "Không, tôi nghĩ là không có đâu ạ",
+      "Anh/chị đã làm mất nó ở đâu vậy?"
+    ],
+    "answer": 2,
+    "explanation": "Câu 2 là lời đáp phủ định tự nhiên nhất khi được hỏi có từng gặp chưa. Câu 1 và 3 không liên quan đến câu hỏi.",
+    "q": 137
+  },
+  {
+    "prompt": "スーパー行くけど何か買ってこようか？",
+    "prompt_vi": "Tôi đi siêu thị, có muốn mua gì không?",
+    "options": [
+      "じゃあアイスクリーム頼むよ",
+      "ついでに牛乳買ってくるよ",
+      "悪いけど今は行けないよ"
+    ],
+    "options_vi": [
+      "Vậy thì cho tôi nhờ mua kem nhé",
+      "Nhân tiện tôi mua sữa về cho",
+      "Xin lỗi nhưng bây giờ tôi không đi được"
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời yêu cầu mua đồ cụ thể, phù hợp với câu hỏi \"có muốn mua gì không?\". Câu 2 là đề nghị mua thêm, không phải yêu cầu. Câu 3 từ chối, không phù hợp với ngữ cảnh.",
+    "q": 138
+  },
+  {
+    "prompt": "前に良く一緒に行った寿司屋、もうずっと閉まってるんだよ。",
+    "prompt_vi": "Quán sushi mà trước đây tôi hay đi cùng bạn, giờ đóng cửa lâu rồi.",
+    "options": [
+      "え、いつから？",
+      "え、そんなに早い時間に？",
+      "え、今日から休み？"
+    ],
+    "options_vi": [
+      "Ơ, từ bao giờ vậy?",
+      "Ơ, vào giờ sớm vậy sao?",
+      "Ơ, hôm nay bắt đầu nghỉ à?"
+    ],
+    "answer": 1,
+    "explanation": "Câu hỏi \"いつから？\" (từ bao giờ vậy?) là câu đáp tự nhiên nhất để hỏi về thời gian quán đóng cửa. Lựa chọn 2 không hợp lý vì người nói đang đề cập đến việc quán đã đóng cửa lâu rồi, không phải hỏi về thời gian cụ thể trong ngày. Lựa chọn 3 cũng không phù hợp vì người nói đang thông báo quán đã đóng cửa vĩnh viễn, không phải tạm thời.",
+    "q": 139
+  },
+  {
+    "prompt": "おととい 資料をメールで送ったんだけど、届いてる？",
+    "prompt_vi": "Tôi đã gửi tài liệu qua email hôm kia, bạn nhận được chưa?",
+    "options": [
+      "え、僕メール送ってないよ。",
+      "ごめん、受け取ったのに返信してなくて。",
+      "いいよ、届け ���てあげるよ。"
+    ],
+    "options_vi": [
+      "Ơ, tôi chưa gửi email đâu.",
+      "Xin lỗi, tôi đã nhận được nhưng chưa phản hồi.",
+      "Được thôi, tôi sẽ gửi cho bạn."
+    ],
+    "answer": 2,
+    "explanation": "Lựa chọn 2 là câu đáp tự nhiên nhất, thể hiện người nhận đã nhận được email nhưng quên phản hồi. Lựa chọn 1 sai vì người nói đang hỏi xem email đã được gửi đi chưa, không phải người nhận. Lựa chọn 3 không phù hợp vì người nói đang hỏi về việc nhận email, không phải nhờ gửi.",
+    "q": 140
+  },
+  {
+    "prompt": "この店のカレー、これで一人分？こんなに食べらんないですよね。",
+    "prompt_vi": "Món cà ri ở quán này, từng này là cho một người ăn ư? Ăn sao hết được chứ.",
+    "options": [
+      "本当、量多いですね。",
+      "ちょっと足りないですよね。",
+      "じゃ、一人で食べますか？"
+    ],
+    "options_vi": [
+      "Thật vậy, nhiều quá nhỉ.",
+      "Hơi thiếu nhỉ.",
+      "Vậy, bạn ăn một mình nhé?"
+    ],
+    "answer": 1,
+    "explanation": "Người nói đang phàn nàn về việc suất cà ri quá nhiều. Lựa chọn 1 \"量多いですね\" (nhiều quá nhỉ) là câu đồng tình và phù hợp nhất. Lựa chọn 2 \"ちょっと足りないですよね\" (hơi thiếu nhỉ) trái ngược với ý người nói. Lựa chọn 3 \"じゃ、一人で食べますか？\" (Vậy, bạn ăn một mình nhé?) không liên quan trực tiếp đến việc suất ăn quá nhiều.",
+    "q": 141
+  },
+  {
+    "prompt": "昨日、せっかくボーリングに誘ってくれたのに、行けなくて残念だったね。",
+    "prompt_vi": "Tiếc thật đấy, hôm qua đã được rủ đi bowling vậy mà lại không đi được.",
+    "options": [
+      "うーん、それは残念だね。",
+      "うーん、気にしないで。",
+      "本当にごめん。"
+    ],
+    "options_vi": [
+      "Ừm, thật đáng tiếc nhỉ.",
+      "Ừm, đừng bận tâm.",
+      "Thực sự xin lỗi."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời đáp tự nhiên nhất, thể hiện sự đồng cảm với người nói về việc không đi bowling được. Câu 2 không phù hợp vì người nói đang bày tỏ sự tiếc nuối. Câu 3 là lời xin lỗi, không phải là phản ứng phù hợp trong trường hợp này.",
+    "q": 142
+  },
+  {
+    "prompt": "あの、誘ってくださった金曜のお花見ですけど、行けなくなっちゃいまして。",
+    "prompt_vi": "À, về vụ ngắm hoa thứ Sáu mà anh/chị đã mời ấy ạ, em lại không đi được rồi.",
+    "options": [
+      "そうですか。じゃあ、また今度誘いますね。",
+      "え、お花見やらないことになったんですか？",
+      "金曜行けるんですね。"
+    ],
+    "options_vi": [
+      "Vậy ạ. Vậy thì lần tới tôi sẽ mời lại nhé.",
+      "Hả, vụ ngắm hoa không diễn ra nữa ạ?",
+      "Thứ Sáu anh/chị đi được ạ?"
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời đáp lịch sự và phù hợp nhất, thể hiện sự thông cảm và đề nghị mời lại vào dịp khác. Câu 2 hiểu sai ý người nói, cho rằng buổi ngắm hoa bị hủy. Câu 3 không liên quan và không phải là phản ứng tự nhiên.",
+    "q": 143
+  },
+  {
+    "prompt": "岡田さん、出張の準備、何か僕にできることある？",
+    "prompt_vi": "Anh Okada này, về việc chuẩn bị cho chuyến công tác, có gì tôi có thể giúp anh không?",
+    "options": [
+      "ありがとう。でも大丈夫。",
+      "え、何も手伝ってくれないの？",
+      "何でも頼んでね。"
+    ],
+    "options_vi": [
+      "Cảm ơn anh. Nhưng tôi ổn rồi.",
+      "Hả, anh không giúp gì tôi sao?",
+      "Anh cứ nhờ tôi bất cứ điều gì nhé."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời đáp lịch sự và tự nhiên nhất, thể hiện sự cảm ơn và từ chối khéo léo vì đã chuẩn bị xong. Câu 2 thể hiện sự trách móc không phù hợp. Câu 3 là lời đề nghị giúp đỡ, không phải là câu trả lời cho câu hỏi của người nói.",
+    "q": 144
+  },
+  {
+    "prompt": "田中さん、課長がみんなで一緒に食事でもどうだって",
+    "prompt_vi": "Anh Tanaka này, trưởng phòng nói là mọi người cùng đi ăn tối thì sao nhỉ?",
+    "options": [
+      "食事美味しかったです。",
+      "課長が行けないならまた今度。",
+      "いいですね。私も行きます。"
+    ],
+    "options_vi": [
+      "Bữa ăn ngon lắm ạ.",
+      "Nếu trưởng phòng không đi được thì lần sau vậy.",
+      "Hay quá. Tôi cũng đi ạ."
+    ],
+    "answer": 3,
+    "explanation": "Câu hỏi là lời đề nghị đi ăn tối, nên đáp án phù hợp nhất là đồng ý và bày tỏ sự vui vẻ. Lựa chọn 1 nói về bữa ăn đã qua. Lựa chọn 2 đưa ra điều kiện không hợp lý khi chưa biết trưởng phòng có đi được hay không.",
+    "q": 145
+  },
+  {
+    "prompt": "森さん、今朝のテレビのニュースご覧になりましたか？",
+    "prompt_vi": "Anh Mori này, anh có xem tin tức trên TV sáng nay không?",
+    "options": [
+      "ニュースは見ないんですか？",
+      "え？何のニュースですか？",
+      "まだお目にかかってません。"
+    ],
+    "options_vi": [
+      "Anh không xem tin tức à?",
+      "Hả? Tin tức gì vậy ạ?",
+      "Tôi vẫn chưa gặp (tin tức đó)."
+    ],
+    "answer": 2,
+    "explanation": "Khi được hỏi có xem tin tức không, câu trả lời tự nhiên nhất là hỏi lại xem đó là tin tức gì. Lựa chọn 1 mang tính chất hỏi ngược lại, không trực tiếp trả lời câu hỏi. Lựa chọn 3 dùng sai ngữ cảnh, 'お目にかかる' là kính ngữ của '会う' (gặp).",
+    "q": 146
+  },
+  {
+    "prompt": "あれ？小林さんが会議に遅れてくるはずないんだけどね。",
+    "prompt_vi": "Ơ? Lẽ ra anh Kobayashi không thể đến muộn cuộc họp được mà nhỉ.",
+    "options": [
+      "何かあったのかもしれないね。",
+      "いつも遅れてくるんだ。",
+      "もう来てるの？いつも早いね。"
+    ],
+    "options_vi": [
+      "Có lẽ đã có chuyện gì đó xảy ra.",
+      "Anh ấy luôn đến muộn.",
+      "Anh ấy đến rồi à? Luôn đến sớm nhỉ."
+    ],
+    "answer": 1,
+    "explanation": "Khi thấy một người đáng lẽ không thể đến muộn lại đến muộn, câu trả lời hợp lý là suy đoán có thể đã xảy ra chuyện gì đó. Lựa chọn 2 nói về thói quen thường ngày, không phù hợp với ngữ cảnh 'lẽ ra không thể'. Lựa chọn 3 mâu thuẫn với lời nói ban đầu.",
+    "q": 147
+  },
+  {
+    "prompt": "このパンフレット 頂いてもよろしいでしょうか？",
+    "prompt_vi": "Tôi có thể nhận tờ rơi này được không ạ?",
+    "options": [
+      "是非拝見させてください",
+      "では頂いておきます",
+      "どうぞお持ちください"
+    ],
+    "options_vi": [
+      "Xin hãy cho tôi xem.",
+      "Vậy tôi xin phép nhận nó.",
+      "Xin mời bạn cầm lấy."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang hỏi xin lấy cuốn brochure. Lựa chọn 3 là câu trả lời lịch sự và trực tiếp để cho phép người khác lấy. Lựa chọn 1 là lời đề nghị được xem, không phải cho phép lấy. Lựa chọn 2 là lời của người nhận sau khi được cho phép.",
+    "q": 148,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "先輩、来週のパーティーちっとも人が集まらなくて。",
+    "prompt_vi": "Anh/chị ơi, buổi tiệc tuần tới chẳng có ai tụ tập cả.",
+    "options": [
+      "みんな来たいんだね",
+      "たくさん集まってよかったよ",
+      "それは困ったね"
+    ],
+    "options_vi": [
+      "Mọi người muốn đến nhỉ.",
+      "Tốt quá vì đã tập hợp được nhiều người.",
+      "Thật là phiền phức nhỉ."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang phàn nàn về việc không có ai đến dự tiệc. Lựa chọn 3 \"Thật là phiền phức nhỉ.\" (それは困ったね) là câu đồng cảm và thể hiện sự hiểu vấn đề một cách tự nhiên. Lựa chọn 1 \"Mọi người muốn đến nhỉ.\" (みんな来たいんだね) mâu thuẫn với nội dung người nói. Lựa chọn 2 \"Tốt quá vì đã tập hợp được nhiều người.\" (たくさん集まってよかったよ) hoàn toàn sai vì người nói nói là không có ai tập hợp.",
+    "q": 149
+  },
+  {
+    "prompt": "吉田さんほど親切な人って、いないよね。",
+    "prompt_vi": "Người tốt bụng như anh/chị Yoshida thì không có đâu nhỉ.",
+    "options": [
+      "吉田さんって親切じゃないの？",
+      "あんな人なかなかいないと思う",
+      "親切な人がすごく多いってこと？"
+    ],
+    "options_vi": [
+      "Anh/chị Yoshida không tốt bụng sao?",
+      "Tôi nghĩ khó mà có người như vậy.",
+      "Ý bạn là có rất nhiều người tốt bụng sao?"
+    ],
+    "answer": 2,
+    "explanation": "Câu nói \"吉田さんほど親切な人って、いないよね\" (Người tốt bụng như anh/chị Yoshida thì không có đâu nhỉ) là một lời khen ngợi và khẳng định sự đặc biệt của anh/chị Yoshida. Lựa chọn 2 \"Tôi nghĩ khó mà có người như vậy.\" (あんな人なかなかいないと思う) là câu đáp lại tự nhiên nhất, đồng tình với ý kiến người nói và nhấn mạnh sự hiếm có của người tốt bụng như Yoshida. Lựa chọn 1 \"Anh/chị Yoshida không tốt bụng sao?\" (吉田さんって親切じゃないの？) đặt nghi vấn ngược lại, không phù hợp. Lựa chọn 3 \"Ý bạn là có rất nhiều người tốt bụng sao?\" (親切な人がすごく多いってこと？) hiểu sai ý người nói, người nói đang ám chỉ Yoshida là người đặc biệt, không phải có nhiều người như vậy.",
+    "q": 150
+  },
+  {
+    "prompt": "池田さん、もうすぐお客さん来るから先に会議室の暖房つけといて",
+    "prompt_vi": "Anh Ikeda, sắp có khách đến rồi, anh làm ơn bật lò sưởi phòng họp trước đi.",
+    "options": [
+      "あ、少し前に着けました。",
+      "すぐ消します。すみません。",
+      "まだ着いていましたか？"
+    ],
+    "options_vi": [
+      "À, tôi đã bật cách đây một chút rồi.",
+      "Tôi sẽ tắt ngay. Xin lỗi.",
+      "Nó vẫn còn bật à?"
+    ],
+    "answer": 1,
+    "explanation": "Người nói yêu cầu bật lò sưởi. Lựa chọn 1 là câu trả lời tự nhiên nhất, xác nhận đã thực hiện yêu cầu. Lựa chọn 2 không liên quan. Lựa chọn 3 hỏi lại, không phù hợp với tình huống.",
+    "q": 151
+  },
+  {
+    "prompt": "はい、昼ごはんできたよ。冷めないうちに食べて。",
+    "prompt_vi": "Vâng, cơm trưa xong rồi. Ăn kẻo nguội.",
+    "options": [
+      "わあ、本当に冷たそう。",
+      "じゃ、さっそくいただくね。",
+      "ええ、まだ食べちゃダメ？"
+    ],
+    "options_vi": [
+      "Ồ, trông có vẻ lạnh thật.",
+      "Vậy, tôi xin phép ăn ngay nhé.",
+      "Hả, vẫn chưa được ăn à?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói thông báo đã chuẩn bị bữa trưa và khuyên ăn ngay kẻo nguội. Lựa chọn 2 là lời đáp tự nhiên, thể hiện sự đồng ý và chuẩn bị ăn. Lựa chọn 1 không liên quan. Lựa chọn 3 hỏi lại một cách không hợp lý.",
+    "q": 152
+  },
+  {
+    "prompt": "山田君遅いね。電話した方がいいんじゃない？",
+    "prompt_vi": "Anh Yamada muộn nhỉ. Có lẽ nên gọi điện thoại cho anh ấy thì hơn?",
+    "options": [
+      "うん、そうしようか。",
+      "それは良くなかったね。",
+      "早く来た方がいいよ。"
+    ],
+    "options_vi": [
+      "Ừm, vậy đi.",
+      "Thế thì không tốt rồi.",
+      "Anh nên đến sớm hơn thì tốt hơn."
+    ],
+    "answer": 1,
+    "explanation": "Người nói đề nghị gọi điện cho anh Yamada vì anh ấy đến muộn. Lựa chọn 1 là câu đồng ý với đề nghị. Lựa chọn 2 không liên quan. Lựa chọn 3 khuyên anh Yamada đến sớm hơn, không phải là phản hồi cho đề nghị gọi điện.",
+    "q": 153
+  },
+  {
+    "prompt": "森田さん、風はどうですか？調子は戻りましたか？",
+    "prompt_vi": "Anh Morita, anh thấy đỡ hơn chưa? Sức khỏe đã hồi phục chưa?",
+    "options": [
+      "もう戻ることにしました。",
+      "元気になれるといいですね。",
+      "おかげさまで、もうすっかり。"
+    ],
+    "options_vi": [
+      "Tôi đã quyết định sẽ quay lại rồi.",
+      "Thật tốt nếu anh khỏe lại.",
+      "Nhờ ơn anh, tôi đã khỏe hẳn rồi."
+    ],
+    "answer": 3,
+    "explanation": "Câu hỏi \"調子は戻りましたか？\" (Sức khỏe đã hồi phục chưa?) hỏi về tình trạng sức khỏe. Lựa chọn 3 \"おかげさまで、もうすっかり。\" (Nhờ ơn anh, tôi đã khỏe hẳn rồi.) là câu trả lời trực tiếp và tự nhiên nhất, thể hiện sự hồi phục. Lựa chọn 1 không liên quan. Lựa chọn 2 là lời chúc, không phải câu trả lời trực tiếp.",
+    "q": 154
+  },
+  {
+    "prompt": "服を買いに行きたいんだけど、今日一緒に行ってくれない？",
+    "prompt_vi": "Tôi muốn đi mua quần áo, hôm nay cậu có thể đi cùng tôi không?",
+    "options": [
+      "今あまり欲しくないな。",
+      "明日なら暇なんだけど。",
+      "一緒に行ってもらったらどう？"
+    ],
+    "options_vi": [
+      "Bây giờ tôi không muốn lắm.",
+      "Nếu là ngày mai thì tôi rảnh.",
+      "Nếu được đi cùng thì sao nhỉ?"
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là lời mời đi mua sắm \"今日一緒に行ってくれない？\" (Hôm nay cậu có thể đi cùng tôi không?). Lựa chọn 2 \"明日なら暇なんだけど。\" (Nếu là ngày mai thì tôi rảnh.) là lời từ chối khéo léo và đưa ra một lựa chọn thay thế (ngày mai), rất tự nhiên trong giao tiếp. Lựa chọn 1 thể hiện sự không muốn đi, nhưng không đưa ra giải pháp thay thế. Lựa chọn 3 là một câu hỏi ngược lại, không phải là câu trả lời trực tiếp cho lời mời.",
+    "q": 155
+  },
+  {
+    "prompt": "佐藤さん、昨日の会議の報告書き終わった？",
+    "prompt_vi": "Anh Sato, anh viết xong báo cáo cuộc họp hôm qua chưa?",
+    "options": [
+      "報告、やっと完成したんですか？",
+      "あ、できたので見ていただけますか？",
+      "会議ならもう終わったみたいですよ。"
+    ],
+    "options_vi": [
+      "Báo cáo, cuối cùng cũng hoàn thành rồi ạ?",
+      "À, tôi làm xong rồi, anh xem giúp tôi được không?",
+      "Cuộc họp thì hình như đã kết thúc rồi ạ."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là \"昨日の会議の報告書き終わった？\" (Viết xong báo cáo cuộc họp hôm qua chưa?). Lựa chọn 2 \"あ、できたので見ていただけますか？\" (À, tôi làm xong rồi, anh xem giúp tôi được không?) là câu trả lời trực tiếp nhất, xác nhận đã làm xong và đề nghị người hỏi xem. Lựa chọn 1 là câu hỏi ngược lại, thể hiện sự ngạc nhiên. Lựa chọn 3 trả lời về cuộc họp, không phải về việc viết báo cáo.",
+    "q": 156
+  },
+  {
+    "prompt": "先輩、田中さんに会いたいんですが連絡先を御存知ですか？",
+    "prompt_vi": "Anh/chị ơi, em muốn gặp anh Tanaka nhưng anh/chị có biết thông tin liên lạc của anh ấy không ạ?",
+    "options": [
+      "いつ連絡取ったの？",
+      "メールアドレスでいい？",
+      "会って聞いてみたら？"
+    ],
+    "options_vi": [
+      "Khi nào thì liên lạc?",
+      "Địa chỉ email được không?",
+      "Thử gặp rồi hỏi xem sao?"
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là xin thông tin liên lạc, nên câu trả lời phù hợp nhất là hỏi xem địa chỉ email có được không. Lựa chọn 1 hỏi về thời điểm liên lạc, không liên quan. Lựa chọn 3 khuyên nên đi gặp trực tiếp để hỏi, nhưng người hỏi đang muốn xin thông tin liên lạc để tránh gặp mặt.",
+    "q": 157
+  },
+  {
+    "prompt": "失礼ですが、こちらのお店の方でいらっしゃいますか？",
+    "prompt_vi": "Xin lỗi, anh/chị có phải là người của cửa hàng này không ạ?",
+    "options": [
+      "いいえ、違いますけど",
+      "それは分かりません",
+      "私はよく来ています"
+    ],
+    "options_vi": [
+      "Không, tôi không phải ạ.",
+      "Cái đó thì tôi không biết.",
+      "Tôi thường xuyên đến đây."
+    ],
+    "answer": 1,
+    "explanation": "Câu hỏi là xác nhận xem người đối diện có phải nhân viên cửa hàng không. Nếu không phải thì câu trả lời tự nhiên nhất là phủ định và có thể thêm một chút giải thích. Lựa chọn 1 phủ định trực tiếp. Lựa chọn 2 nói không biết, không phù hợp. Lựa chọn 3 nói mình thường đến đây, có thể là khách hàng, nhưng không trực tiếp trả lời câu hỏi có phải nhân viên không.",
+    "q": 158
+  },
+  {
+    "prompt": "田中さん、部長にあんなこと言って、部長が怒るのも当然だよ。",
+    "prompt_vi": "Tanaka này, nói những lời như vậy với trưởng phòng thì việc trưởng phòng tức giận cũng là đương nhiên thôi.",
+    "options": [
+      "つい、これからは気をつけてます",
+      "確かに私も意外でした",
+      "部長は怒ってないんですか？"
+    ],
+    "options_vi": [
+      "Vâng, từ giờ em sẽ cẩn thận hơn.",
+      "Thật vậy, tôi cũng thấy ngạc nhiên.",
+      "Trưởng phòng không tức giận ạ?"
+    ],
+    "answer": 1,
+    "explanation": "Câu nói trên là lời trách mắng Tanaka vì đã làm trưởng phòng tức giận. Lựa chọn 1 thể hiện sự nhận lỗi và hứa sẽ cẩn thận hơn, là phản ứng phù hợp khi bị nhắc nhở. Lựa chọn 2 nói rằng người nói cũng ngạc nhiên, không phù hợp với ngữ cảnh trách mắng. Lựa chọn 3 hỏi lại xem trưởng phòng có tức giận không, đi ngược lại với ý của câu nói ban đầu.",
+    "q": 159
+  },
+  {
+    "prompt": "あと1時間でパーティー始まるから、もう料理並べとこうか。",
+    "prompt_vi": "Còn 1 tiếng nữa là tiệc bắt đầu rồi, dọn đồ ăn ra đi nhỉ?",
+    "options": [
+      "え、もう並べてあるの？",
+      "え、始まってからだと遅いよ。",
+      "え、ちょっと早くない？"
+    ],
+    "options_vi": [
+      "Ơ, đã bày ra rồi ư?",
+      "Ơ, đến lúc bắt đầu mới bày thì muộn mất.",
+      "Ơ, hơi sớm nhỉ?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói muốn dọn đồ ăn ra trước khi tiệc bắt đầu. Lựa chọn 2 là đáp án phù hợp nhất vì nó đồng tình với ý kiến cần làm sớm và chỉ ra rằng làm sau khi tiệc bắt đầu sẽ muộn. Lựa chọn 1 hỏi lại xem đã bày chưa, không phải là phản ứng tự nhiên. Lựa chọn 3 cho rằng làm bây giờ là hơi sớm, đi ngược lại ý muốn của người nói.",
+    "q": 160
+  },
+  {
+    "prompt": "田中さん、今度の旅行、田中さんも行くでしょう？",
+    "prompt_vi": "Anh Tanaka, chuyến đi lần này anh Tanaka cũng đi đúng không?",
+    "options": [
+      "行ったみたいだよう。",
+      "もちろん行くよ。",
+      "え？中止になったの？"
+    ],
+    "options_vi": [
+      "Hình như đã đi rồi.",
+      "Tất nhiên là tôi đi rồi.",
+      "Ơ? Bị hủy rồi à?"
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là xác nhận việc anh Tanaka có đi du lịch không. Lựa chọn 2 là câu trả lời trực tiếp và khẳng định việc sẽ đi. Lựa chọn 1 nói 'hình như đã đi rồi' không phù hợp với ngữ cảnh câu hỏi về tương lai. Lựa chọn 3 hỏi 'bị hủy rồi à?' là một câu hỏi hoàn toàn khác và không liên quan.",
+    "q": 161
+  },
+  {
+    "prompt": "Dさん、漢字は毎日練習するようにしてくださいね。",
+    "prompt_vi": "Bạn D, hãy cố gắng luyện tập Kanji hàng ngày nhé.",
+    "options": [
+      "練習しなくてもいいんですか？",
+      "毎日漢字教えてあげましょうか？",
+      "はい、今日からそうします。"
+    ],
+    "options_vi": [
+      "Không cần luyện tập cũng được ạ?",
+      "Tôi dạy Kanji hàng ngày cho bạn nhé?",
+      "Vâng, tôi sẽ làm vậy từ hôm nay."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang yêu cầu bạn D luyện tập Kanji hàng ngày. Lựa chọn 3 là sự đồng ý và xác nhận sẽ thực hiện yêu cầu đó. Lựa chọn 1 hỏi ngược lại liệu có thể không luyện tập không, đi ngược lại yêu cầu. Lựa chọn 2 đề nghị dạy Kanji, không phải là phản ứng trực tiếp với yêu cầu luyện tập.",
+    "q": 162
+  },
+  {
+    "prompt": "私、今度スピーチ大会に出ることになったんだ。",
+    "prompt_vi": "Tớ, lần này tớ đã quyết định sẽ tham gia cuộc thi hùng biện.",
+    "options": [
+      "次は参加できるといいね。",
+      "すごいね。聞きに行くね。",
+      "どうして出ないの？"
+    ],
+    "options_vi": [
+      "Lần sau mà tham gia được thì tốt nhỉ.",
+      "Tuyệt vời quá! Tớ sẽ đến nghe.",
+      "Sao lại không tham gia?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói thông báo về việc tham gia cuộc thi hùng biện. Lựa chọn 2 thể hiện sự ngạc nhiên và ủng hộ, đồng thời bày tỏ ý định đến xem, là phản ứng tự nhiên nhất. Lựa chọn 1 nói về lần sau, không liên quan trực tiếp đến thông báo hiện tại. Lựa chọn 3 hỏi lý do không tham gia, trái ngược với thông báo đã quyết định tham gia.",
+    "q": 163
+  },
+  {
+    "prompt": "加藤さん、昨日頼んだ資料整理、あとどのぐらい残ってる？",
+    "prompt_vi": "Anh Kato, việc sắp xếp tài liệu em nhờ hôm qua, còn lại khoảng bao nhiêu vậy ạ?",
+    "options": [
+      "3時間過ぎました。",
+      "もうすぐ終わると思います。",
+      "まだそんなに残っているんですか？"
+    ],
+    "options_vi": [
+      "Đã qua 3 tiếng rồi.",
+      "Em nghĩ là sắp xong rồi ạ.",
+      "Vẫn còn nhiều đến vậy sao ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là về tiến độ công việc còn lại. Lựa chọn 2 trả lời trực tiếp về việc sắp hoàn thành, là câu trả lời phù hợp nhất. Lựa chọn 1 nói về thời gian đã trôi qua, không trực tiếp trả lời về khối lượng công việc còn lại. Lựa chọn 3 thể hiện sự ngạc nhiên vì còn nhiều, có thể đúng nhưng lựa chọn 2 là câu trả lời trực tiếp và tích cực hơn về tiến độ.",
+    "q": 164
+  },
+  {
+    "prompt": "山田先輩、あの来週の勉強会、私も参加させてください。",
+    "prompt_vi": "Anh Yamada, ừm, buổi học nhóm tuần tới, cho em tham gia với ạ.",
+    "options": [
+      "うん。できるだけ行くね。",
+      "ぜひ来て。",
+      "じゃあ、また今度来て。"
+    ],
+    "options_vi": [
+      "Ừ. Anh sẽ đi nếu có thể.",
+      "Nhất định hãy đến nhé.",
+      "Vậy thì, lần sau lại đến nhé."
+    ],
+    "answer": 2,
+    "explanation": "Người nói muốn xin tham gia buổi học nhóm. Lựa chọn 2 là lời mời nhiệt tình và chấp nhận yêu cầu, rất tự nhiên. Lựa chọn 1 nói \"sẽ đi nếu có thể\", không trực tiếp trả lời việc cho phép người khác tham gia. Lựa chọn 3 nói \"lần sau lại đến\", có vẻ như từ chối hoặc không khuyến khích tham gia lần này.",
+    "q": 165
+  },
+  {
+    "prompt": "りさん、帰る時窓を閉めるの忘れないでね。",
+    "prompt_vi": "Rin, lúc về nhớ đóng cửa sổ nhé.",
+    "options": [
+      "はい、閉めて帰ります。",
+      "いいんですか？ありがとうございます。",
+      "開けておきます。"
+    ],
+    "options_vi": [
+      "Vâng, tôi sẽ đóng rồi về.",
+      "Có được không ạ? Cảm ơn bạn.",
+      "Tôi sẽ để mở."
+    ],
+    "answer": 1,
+    "explanation": "Người nói nhờ đóng cửa sổ, nên đáp án 1 \"Vâng, tôi sẽ đóng rồi về\" là phù hợp nhất. Đáp án 2 không liên quan. Đáp án 3 \"Tôi sẽ để mở\" trái ngược với yêu cầu.",
+    "q": 166
+  },
+  {
+    "prompt": "あの、何か書くものお借りできますか？",
+    "prompt_vi": "Xin lỗi, tôi có thể mượn tạm cái gì đó để viết được không?",
+    "options": [
+      "まだお返ししていません。",
+      "すみません、結構です。",
+      "こちらのペンをお使いください。"
+    ],
+    "options_vi": [
+      "Tôi vẫn chưa trả lại.",
+      "Xin lỗi, không cần đâu.",
+      "Bạn hãy dùng cây bút này."
+    ],
+    "answer": 3,
+    "explanation": "Người nói muốn mượn đồ để viết, nên đáp án 3 \"Bạn hãy dùng cây bút này\" là phù hợp nhất. Đáp án 1 \"Tôi vẫn chưa trả lại\" không liên quan. Đáp án 2 \"Xin lỗi, không cần đâu\" có thể hiểu là từ chối cho mượn nhưng không tự nhiên bằng việc đưa ra đồ vật.",
+    "q": 167
+  },
+  {
+    "prompt": "サッカー部の森君、マラソン選手としても期待されてるらしいよ。",
+    "prompt_vi": "Nghe nói bạn Mori của đội bóng đá cũng được kỳ vọng là vận động viên marathon đấy.",
+    "options": [
+      "そうなんだ。マラソンもできるんだね。",
+      "マラソンはあまり得意じゃないんだね。",
+      "森君でも苦手なことはあるんだね。"
+    ],
+    "options_vi": [
+      "Vậy à. Vậy là cậu ấy cũng chạy được marathon nhỉ.",
+      "Vậy là bạn ấy không giỏi lắm về marathon nhỉ.",
+      "Vậy là ngay cả Mori cũng có những điều không giỏi nhỉ."
+    ],
+    "answer": 1,
+    "explanation": "Câu nói cho biết Mori được kỳ vọng là vận động viên marathon. Đáp án 1 \"Vậy à. Vậy là cậu ấy cũng chạy được marathon nhỉ.\" thể hiện sự ngạc nhiên và xác nhận thông tin một cách tự nhiên. Đáp án 2 và 3 lại cho rằng Mori không giỏi marathon, đi ngược lại thông tin ban đầu.",
+    "q": 168
+  },
+  {
+    "prompt": "パーティーの買い物、手伝ってほしいんだけど",
+    "prompt_vi": "Việc mua sắm cho bữa tiệc, tớ muốn nhờ cậu giúp một tay.",
+    "options": [
+      "うん、いいよ。いつ行く？",
+      "え、僕一で行くの？",
+      "気持ちは嬉しいんだけど。"
+    ],
+    "options_vi": [
+      "Ừ, được thôi. Đi lúc nào?",
+      "Ể, tớ đi một mình á?",
+      "Tớ cảm kích tấm lòng của cậu nhưng mà..."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời đồng ý và hỏi thêm thông tin, rất tự nhiên. Câu 2 hiểu sai ý, cho rằng chỉ có mình người nói đi. Câu 3 thể hiện sự từ chối khéo léo nhưng không phù hợp với ngữ cảnh này.",
+    "q": 169
+  },
+  {
+    "prompt": "コーヒーのお代わり、いかがですか？",
+    "prompt_vi": "Bạn có muốn gọi thêm cà phê không?",
+    "options": [
+      "じゃあ、もう一杯。",
+      "コーヒーのままで大丈夫です。",
+      "香りですか？いい香りです。"
+    ],
+    "options_vi": [
+      "Vậy thì, cho thêm một ly nữa.",
+      "Để nguyên cà phê là được rồi ạ.",
+      "Là mùi hương ạ? Mùi hương rất thơm."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là lời yêu cầu gọi thêm, phù hợp khi được hỏi có muốn thêm hay không. Câu 2 là lời từ chối, không phù hợp với câu hỏi 'có muốn thêm không'. Câu 3 trả lời về mùi hương, không liên quan đến việc có muốn gọi thêm hay không.",
+    "q": 170
+  },
+  {
+    "prompt": "明日から休みが１週間取れるとしたらどうする？",
+    "prompt_vi": "Nếu từ ngày mai có thể nghỉ một tuần thì cậu sẽ làm gì?",
+    "options": [
+      "じゃあ、ゆっくり休んでね。",
+      "休み、１週間になったの？やった！",
+      "うーん、家の片付けたいな。"
+    ],
+    "options_vi": [
+      "Vậy thì, hãy nghỉ ngơi thư thả nhé.",
+      "Nghỉ được một tuần rồi hả? Tuyệt quá!",
+      "Ừm, tớ muốn dọn dẹp nhà cửa."
+    ],
+    "answer": 3,
+    "explanation": "Câu 3 đưa ra một kế hoạch cụ thể cho kỳ nghỉ, phù hợp với câu hỏi 'sẽ làm gì'. Câu 1 là lời khuyên, không phải là hành động của người được hỏi. Câu 2 thể hiện sự ngạc nhiên và vui mừng, nhưng không trực tiếp trả lời câu hỏi về kế hoạch.",
+    "q": 171
+  },
+  {
+    "prompt": "森さん、私、傘が二つあるのですが、よければ一つお使いになりませんか？",
+    "prompt_vi": "Anh/chị Mori này, tôi có hai cái ô, nếu anh/chị muốn thì có thể dùng một cái không?",
+    "options": [
+      "あ、一つ壊れちゃったんですね。",
+      "すみません、お代します。",
+      "どうぞ、使ってください。"
+    ],
+    "options_vi": [
+      "À, một cái bị hỏng rồi à.",
+      "Xin lỗi, tôi sẽ trả tiền.",
+      "Cứ tự nhiên sử dụng nhé."
+    ],
+    "answer": 2,
+    "explanation": "Người nói đang đề nghị cho mượn ô vì có hai cái. Lựa chọn 2, \"すみません、お代します\" (Xin lỗi, tôi sẽ trả tiền), là một cách từ chối hoặc chấp nhận với điều kiện, thể hiện sự lịch sự và không muốn làm phiền người khác. Nó ngụ ý rằng người nghe không muốn nhận miễn phí mà muốn đền đáp hoặc trả lại giá trị của món đồ. Lựa chọn 1 sai vì hiểu nhầm lý do đề nghị. Lựa chọn 3 là câu nói của người đề nghị, không phải người được đề nghị.",
+    "q": 172,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "お父さん、お客様がいらっしゃったんだけど、クッキーか何かある？",
+    "prompt_vi": "Bố ơi, có khách đến, có bánh quy hay gì đó không ạ?",
+    "options": [
+      "チョコレートならありますけど。",
+      "ありがとうございます。いただきます。",
+      "クッキーの他にですか？"
+    ],
+    "options_vi": [
+      "Nếu là sô cô la thì có ạ.",
+      "Cảm ơn ạ. Con nhận ạ.",
+      "Ngoài bánh quy ra ạ?"
+    ],
+    "answer": 1,
+    "explanation": "Người hỏi đang tìm đồ ăn nhẹ cho khách. Lựa chọn 1 là đề nghị một món đồ ăn khác (sô cô la) có thể thay thế cho bánh quy, là một câu trả lời hợp lý. Lựa chọn 2 là cảm ơn và nhận, nhưng không rõ là nhận cái gì. Lựa chọn 3 hỏi lại, không trực tiếp giải quyết yêu cầu.",
+    "q": 173
+  },
+  {
+    "prompt": "去年の授業のノート、コピーさせてもらいたいんだけど、風邪で休んじゃって。",
+    "prompt_vi": "Tôi muốn xin photo lại vở ghi chép bài giảng năm ngoái, vì tôi bị ốm nên đã nghỉ.",
+    "options": [
+      "どうして自分でコピーしないの？",
+      "僕はノートがあるからいいよ。",
+      "いいけど、授業までに返してね。"
+    ],
+    "options_vi": [
+      "Sao cậu không tự photo?",
+      "Tớ có vở ghi chép nên không sao.",
+      "Được thôi, nhưng trả lại tớ trước giờ học nhé."
+    ],
+    "answer": 3,
+    "explanation": "Người nói xin phép photo vở ghi chép. Lựa chọn 3 là đồng ý cho mượn vở ghi chép và đưa ra điều kiện, là câu đáp tự nhiên nhất. Lựa chọn 1 mang tính chất trách móc. Lựa chọn 2 là từ chối một cách gián tiếp vì bản thân không cần, nhưng không phải là câu trả lời trực tiếp cho việc cho mượn vở ghi chép.",
+    "q": 174
+  },
+  {
+    "prompt": "ジョンさん、今日はこの交流会で<bos>imeni kakarete yokattaです。",
+    "prompt_vi": "Anh John này, hôm nay tôi thật may mắn khi được gặp anh ở buổi giao lưu này.",
+    "options": [
+      "いえ、こちらこそ。",
+      "是非拝見したいです。",
+      "楽しみにしています。"
+    ],
+    "options_vi": [
+      "Không, tôi mới là người nên nói vậy.",
+      "Tôi nhất định muốn xem.",
+      "Tôi rất mong chờ."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là cách đáp lại lịch sự và tự nhiên nhất khi ai đó nói họ may mắn khi gặp mình. Câu 2 và 3 không phù hợp với ngữ cảnh này.",
+    "q": 175
+  },
+  {
+    "prompt": "会議の日程変わったこと、山田さんにも連絡しないといけないね。",
+    "prompt_vi": "Việc lịch họp thay đổi, cũng phải báo cho anh Yamada nữa nhỉ.",
+    "options": [
+      "会議行けないんですか？",
+      "私から伝えておきます。",
+      "あ、山田さんから聞いたんですね。"
+    ],
+    "options_vi": [
+      "Bạn không đi họp được à?",
+      "Tôi sẽ báo cho anh ấy.",
+      "À, bạn nghe từ anh Yamada à?"
+    ],
+    "answer": 2,
+    "explanation": "Khi ai đó nói cần phải báo cho người khác, câu đáp lại tự nhiên nhất là đề nghị mình sẽ làm việc đó. Câu 1 hỏi về việc đi họp, câu 3 giả định người nói đã biết thông tin từ người kia, không phải là phản hồi trực tiếp cho việc cần báo tin.",
+    "q": 176
+  },
+  {
+    "prompt": "このお菓子、甘くないからいくら食べても飽きないね。",
+    "prompt_vi": "Bánh này không ngọt nên ăn bao nhiêu cũng không chán nhỉ.",
+    "options": [
+      "そんなに安かったの？",
+      "つい食べすぎちゃうよ。",
+      "それじゃ甘いのにしようか。"
+    ],
+    "options_vi": [
+      "Nó rẻ vậy sao?",
+      "Cứ thế này thì ăn hơi nhiều mất.",
+      "Vậy thì chúng ta đổi sang cái ngọt nhé?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói khen bánh không ngọt nên ăn không chán. Câu 2 là phản hồi tự nhiên, đồng tình rằng vì nó không chán nên dễ ăn nhiều. Câu 1 hỏi về giá cả, câu 3 đề nghị đổi sang loại ngọt, không liên quan trực tiếp đến việc bánh ăn không chán.",
+    "q": 177
+  },
+  {
+    "prompt": "あれ？会議でもらった資料、間違って捨てちゃったみたい。",
+    "prompt_vi": "Ơ? Hình như tôi đã vứt nhầm tài liệu nhận được ở cuộc họp rồi.",
+    "options": [
+      "う、資料を間違えてた？",
+      "待って、まだ捨てないで。",
+      "本当？一緒に探そうか？"
+    ],
+    "options_vi": [
+      "Ơ, cậu nhầm tài liệu à?",
+      "Khoan đã, đừng vứt vội.",
+      "Thật à? Chúng ta cùng tìm nhé?"
+    ],
+    "answer": 3,
+    "explanation": "Người nói thông báo rằng họ đã vứt nhầm tài liệu. Lựa chọn 3 là câu đáp tự nhiên nhất, thể hiện sự ngạc nhiên và đề nghị giúp đỡ tìm kiếm. Lựa chọn 1 chỉ đơn thuần hỏi lại, không thể hiện sự giúp đỡ. Lựa chọn 2 lại yêu cầu dừng lại, nhưng người nói đã vứt rồi nên không còn tác dụng.",
+    "q": 178
+  },
+  {
+    "prompt": "先生、明日はサッカーの練習ないんですよね？",
+    "prompt_vi": "Thưa thầy, ngày mai không có buổi tập bóng đá đúng không ạ?",
+    "options": [
+      "サッカーをするのは久しぶりだね。",
+      "うん。明日運動場が使えないんだよ。",
+      "分かった。みんなにも伝えておくよ。"
+    ],
+    "options_vi": [
+      "Lâu rồi mới đá bóng nhỉ.",
+      "Ừ. Ngày mai không dùng được sân vận động đâu.",
+      "Tôi hiểu rồi. Tôi sẽ nói lại cho mọi người."
+    ],
+    "answer": 2,
+    "explanation": "Người nói hỏi về việc không có buổi tập bóng đá. Lựa chọn 2 giải thích lý do tại sao không có buổi tập (sân vận động không dùng được), đây là câu trả lời trực tiếp và hợp lý nhất. Lựa chọn 1 nói về việc lâu rồi mới đá bóng, không liên quan trực tiếp đến câu hỏi. Lựa chọn 3 nói rằng sẽ truyền đạt lại, nhưng người hỏi là học sinh hỏi giáo viên, nên giáo viên trả lời là hợp lý hơn.",
+    "q": 179
+  },
+  {
+    "prompt": "スピーチ大会に出ようかと思ってるんだ。",
+    "prompt_vi": "Tôi đang nghĩ đến việc tham gia cuộc thi hùng biện.",
+    "options": [
+      "もう出たの？",
+      "そう。出ないんだ。",
+      "じゃあ応援に行くね。"
+    ],
+    "options_vi": [
+      "Bạn tham gia rồi à?",
+      "Vậy à. Bạn không tham gia à.",
+      "Vậy thì tôi sẽ đi cổ vũ cho bạn nhé."
+    ],
+    "answer": 3,
+    "explanation": "Người nói bày tỏ ý định tham gia cuộc thi. Lựa chọn 3 là câu đáp thể hiện sự ủng hộ và động viên, rất tự nhiên trong tình huống này. Lựa chọn 1 hỏi liệu đã tham gia chưa, có thể đúng nhưng không thể hiện sự quan tâm bằng lựa chọn 3. Lựa chọn 2 lại nói rằng không tham gia, trái ngược với ý định của người nói.",
+    "q": 180
+  },
+  {
+    "prompt": "あの、この図書館ではガムを噛んではいけないことになっているんですが",
+    "prompt_vi": "À, ở thư viện này thì có quy định là không được nhai kẹo cao su, nhưng mà...",
+    "options": [
+      "どうしていいんですか",
+      "あ、失いませんでした。すぐ捨てます。",
+      "ガムはダメじゃないんですね"
+    ],
+    "options_vi": [
+      "Tôi phải làm sao đây?",
+      "À, tôi xin lỗi. Tôi sẽ vứt ngay.",
+      "Kẹo cao su thì không bị cấm nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Người nói đang thông báo về một quy định. Lựa chọn 2 thể hiện sự nhận lỗi và hành động sửa sai, là phản ứng tự nhiên nhất. Lựa chọn 1 hỏi lý do, không phù hợp với tình huống. Lựa chọn 3 hiểu sai quy định.",
+    "q": 181
+  },
+  {
+    "prompt": "あ、休みがもっと長かったらいいんだけどなあ",
+    "prompt_vi": "À, ước gì kỳ nghỉ dài hơn nữa thì tốt nhỉ...",
+    "options": [
+      "休んじゃったんだ",
+      "長くてよかったね",
+      "本当、ゆっくりしたいよね"
+    ],
+    "options_vi": [
+      "Bạn đã nghỉ rồi à.",
+      "Dài thế thì tốt rồi nhỉ.",
+      "Thật đấy, muốn nghỉ ngơi thư thả nhỉ."
+    ],
+    "answer": 3,
+    "explanation": "Người nói đang bày tỏ mong muốn kỳ nghỉ dài hơn. Lựa chọn 3 đồng cảm và chia sẻ mong muốn đó. Lựa chọn 1 không liên quan. Lựa chọn 2 hiểu sai ý, vì người nói đang ước kỳ nghỉ dài hơn chứ không phải nó đã dài.",
+    "q": 182
+  },
+  {
+    "prompt": "あの、この旅行のパンフレット持って帰っても構いませんか",
+    "prompt_vi": "À, tôi mang cái tờ rơi du lịch này về nhà có được không ạ?",
+    "options": [
+      "どうぞ。他ににもございますよ。",
+      "あ、いらないんですね。",
+      "そんなことないですよ。"
+    ],
+    "options_vi": [
+      "Xin mời. Chúng tôi còn có những cái khác nữa.",
+      "À, bạn không cần cái đó à.",
+      "Không có chuyện đó đâu."
+    ],
+    "answer": 1,
+    "explanation": "Người nói hỏi xin mang tờ rơi về. Lựa chọn 1 là câu trả lời đồng ý và còn gợi ý thêm, rất lịch sự và phù hợp. Lựa chọn 2 hiểu sai ý, cho rằng người hỏi không cần. Lựa chọn 3 không liên quan đến câu hỏi.",
+    "q": 183
+  },
+  {
+    "prompt": "会議の後もパソコンそのままつけといて",
+    "prompt_vi": "Sau cuộc họp thì cứ để máy tính bật nguyên như vậy nhé.",
+    "options": [
+      "じゃ、消しておきますね。",
+      "まだお使いになるんですね。",
+      "パソコン、切ってあるんですね。"
+    ],
+    "options_vi": [
+      "Vậy thì tôi sẽ tắt nó đi nhé.",
+      "Anh/chị vẫn còn dùng ạ?",
+      "Máy tính đã tắt rồi nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Người nói yêu cầu để máy tính bật, nên câu trả lời phù hợp nhất là xác nhận lại xem người nghe có còn sử dụng máy tính nữa không. Lựa chọn 1 sai vì yêu cầu là để bật. Lựa chọn 3 sai vì nó trái ngược với yêu cầu.",
+    "q": 184
+  },
+  {
+    "prompt": "あ、雨。もうやんでるよ。",
+    "prompt_vi": "A, mưa. Tạnh rồi đấy.",
+    "options": [
+      "ああ、よく降ってるね。",
+      "傘させばいいですよ。",
+      "じゃ、出かけましょうか。"
+    ],
+    "options_vi": [
+      "À, mưa to nhỉ.",
+      "Bạn có thể dùng ô mà.",
+      "Vậy thì, chúng ta đi ra ngoài nhé?"
+    ],
+    "answer": 3,
+    "explanation": "Người nói thông báo rằng trời đã tạnh mưa (\"もうやんでるよ\"). Lựa chọn 3, \"じゃ、出かけましょうか\" (Vậy thì, chúng ta ra ngoài nhé?), là một phản ứng tự nhiên khi điều kiện (mưa tạnh) đã cho phép thực hiện một hoạt động (ra ngoài) mà có thể họ đang chờ đợi. Lựa chọn 1 mâu thuẫn với thông tin trời đã tạnh. Lựa chọn 2 không phù hợp vì trời đã tạnh mưa.",
+    "q": 185,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "石田さん来ないね。ずっと駅で待っていても仕方ないね。",
+    "prompt_vi": "Anh Ishida không đến nhỉ. Cứ đợi mãi ở ga cũng không có ích gì.",
+    "options": [
+      "そうだな。もう行っちゃおうか。",
+      "待った方がいいんだな。",
+      "そう。石田さんそろそろ着くんだね。"
+    ],
+    "options_vi": [
+      "Đúng vậy. Chúng ta đi thôi nhỉ?",
+      "Phải đợi thì hơn nhỉ.",
+      "Vậy à. Anh Ishida sắp đến rồi nhỉ."
+    ],
+    "answer": 1,
+    "explanation": "Người nói cảm thấy đợi mãi mà không có kết quả nên đề nghị đi. Lựa chọn 1 thể hiện sự đồng tình và đề xuất hành động tiếp theo. Lựa chọn 2 trái ngược với ý kiến 'không có ích gì'. Lựa chọn 3 không phù hợp vì người nói đang phàn nàn về việc anh Ishida chưa đến.",
+    "q": 186
+  },
+  {
+    "prompt": "夜一人でドライブに行くのは危なくない？",
+    "prompt_vi": "Đi lái xe một mình vào ban đêm có nguy hiểm không?",
+    "options": [
+      "僕一人に運転させないでよ。",
+      "気をつけて運転するから平気だよ。",
+      "全然心配してないの？"
+    ],
+    "options_vi": [
+      "Đừng để tôi lái xe một mình.",
+      "Tôi sẽ lái xe cẩn thận nên không sao đâu.",
+      "Bạn không hề lo lắng chút nào sao?"
+    ],
+    "answer": 2,
+    "explanation": "Câu 2 là đáp án tự nhiên nhất vì người nói trấn an người hỏi rằng mình sẽ lái xe cẩn thận nên không có vấn đề gì. Câu 1 mang ý nghĩa yêu cầu người khác không cho mình lái xe một mình, không phù hợp với ngữ cảnh. Câu 3 là câu hỏi ngược lại, không phải là lời đáp.",
+    "q": 187
+  },
+  {
+    "prompt": "色々お世話になりました。",
+    "prompt_vi": "Tôi đã nhận được nhiều sự giúp đỡ từ anh/chị.",
+    "options": [
+      "お願いします。",
+      "こちらこそ。",
+      "大丈夫です。"
+    ],
+    "options_vi": [
+      "Xin nhờ anh/chị.",
+      "Tôi cũng vậy.",
+      "Không sao đâu."
+    ],
+    "answer": 2,
+    "explanation": "Câu 2 là cách đáp lễ phổ biến và tự nhiên nhất khi ai đó nói \"Cảm ơn vì đã giúp đỡ tôi\". Câu này có nghĩa là \"Tôi cũng cảm ơn anh/chị\". Câu 1 \"Xin nhờ anh/chị\" không phù hợp. Câu 3 \"Không sao đâu\" thường dùng để từ chối lời xin lỗi hoặc thể hiện sự không có vấn đề gì, không phù hợp trong trường hợp này.",
+    "q": 188
+  },
+  {
+    "prompt": "今度出張で海外に行くんだって？いいな。",
+    "prompt_vi": "Nghe nói lần tới bạn đi công tác nước ngoài phải không? Thật tuyệt.",
+    "options": [
+      "本当に忙しい出張だったよ。",
+      "じゃあお土産買ってきてね。",
+      "遊びじゃなくて仕事だから。"
+    ],
+    "options_vi": [
+      "Đó là một chuyến công tác thực sự bận rộn.",
+      "Vậy thì mua quà về cho tôi nhé.",
+      "Vì đây là công việc chứ không phải đi chơi."
+    ],
+    "answer": 3,
+    "explanation": "Người nói bày tỏ sự ghen tị (\"いいな\") về chuyến công tác nước ngoài sắp tới của người nghe. Lựa chọn 3, \"遊びじゃなくて仕事だから\" (Vì đó là công việc chứ không phải đi chơi), là một phản ứng phổ biến để làm rõ rằng chuyến đi không phải là một kỳ nghỉ, mà là trách nhiệm công việc, nhằm giảm bớt sự ghen tị hoặc thể hiện sự thực tế. Lựa chọn 1 sai thì chuyến đi là tương lai. Lựa chọn 2 là một lời yêu cầu, không phải phản ứng trực tiếp với cảm xúc của người nói.",
+    "q": 189,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "佐藤君のおかげで会議の準備、早めに終わったよ。",
+    "prompt_vi": "Nhờ có Sato, việc chuẩn bị cho cuộc họp đã kết thúc sớm.",
+    "options": [
+      "また手伝うから、いつでも言って。",
+      "手伝ってくれてありがとう。",
+      "何から始めればいい？"
+    ],
+    "options_vi": [
+      "Lần sau tớ sẽ giúp, lúc nào cũng được nhé.",
+      "Cảm ơn vì đã giúp tớ.",
+      "Bắt đầu từ đâu bây giờ?"
+    ],
+    "answer": 1,
+    "explanation": "Người nói cảm ơn Sato-kun vì đã giúp đỡ hoàn thành công việc sớm. Lựa chọn 1, \"また手伝うから、いつでも言って\" (Tôi sẽ giúp đỡ lần nữa, cứ nói bất cứ lúc nào), là một phản ứng khiêm tốn và sẵn lòng giúp đỡ trong tương lai, thể hiện sự nhiệt tình và tinh thần đồng đội. Lựa chọn 2 là câu cảm ơn, không phải lời đáp lại khi được cảm ơn. Lựa chọn 3 không phù hợp vì công việc đã hoàn thành.",
+    "q": 190,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "鈴木さん、ピザが届きましたよ。冷めないうちに食べませんか？",
+    "prompt_vi": "Suzuki-san, pizza đã đến rồi. Chúng ta ăn khi còn nóng nhé?",
+    "options": [
+      "後で食べるっていうことですか？",
+      "じゃあ、温かいのうちに。ありがとうございます。",
+      "冷めちゃんたんですか？"
+    ],
+    "options_vi": [
+      "Ý bạn là ăn sau ạ?",
+      "Vậy thì, ăn khi còn nóng nhé. Cảm ơn bạn.",
+      "Nó bị nguội rồi ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Câu nói [じゃあ、温かいのうちに。ありがとうございます。] là lời đồng ý và cảm ơn phù hợp nhất với lời mời ăn pizza khi còn nóng. Lựa chọn 1 hỏi lại ý nghĩa câu nói, không tự nhiên. Lựa chọn 3 hỏi về tình trạng của pizza, không phù hợp với lời mời.",
+    "q": 191
+  },
+  {
+    "prompt": "すごい雨だね。やみそうにないね。",
+    "prompt_vi": "Mưa to thật nhỉ. Có vẻ không tạnh đâu nhỉ.",
+    "options": [
+      "雨、やんでよかったですね。",
+      "ずっと降りそうですね。",
+      "傘はいらないでしょうね。"
+    ],
+    "options_vi": [
+      "May quá mưa đã tạnh rồi.",
+      "Có vẻ sẽ mưa mãi nhỉ.",
+      "Chắc không cần ô đâu nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Câu nói [ずっと降りそうですね。] là lời đồng tình và bổ sung ý nghĩa cho câu nói ban đầu về cơn mưa to, có vẻ không tạnh. Lựa chọn 1 trái ngược với nội dung câu nói. Lựa chọn 3 không hợp lý vì trời mưa to thì cần ô.",
+    "q": 192
+  },
+  {
+    "prompt": "肉ばかり食べてないで、少しは野菜も食べなさい。",
+    "prompt_vi": "Đừng có chỉ ăn thịt, hãy ăn một chút rau nữa đi.",
+    "options": [
+      "野菜は食べなくてもいいってこと？",
+      "肉だけじゃなくて野菜も食べてるよ。",
+      "肉だけ食べなきゃいけないの？"
+    ],
+    "options_vi": [
+      "Ý anh/chị là không cần ăn rau cũng được à?",
+      "Không chỉ có thịt đâu, em/tôi cũng ăn rau nữa.",
+      "Em/Tôi phải chỉ ăn thịt thôi sao?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói đang khuyên nên ăn thêm rau, nên câu trả lời tự nhiên nhất là khẳng định mình cũng đang ăn rau. Lựa chọn 1 hiểu sai ý, lựa chọn 3 hiểu ngược lại ý muốn nói.",
+    "q": 193
+  },
+  {
+    "prompt": "りさん、この書類、コピーだけじゃなくてホチキスで留めるのも頼んだよね？",
+    "prompt_vi": "Ri-san, tớ đã nhờ cậu không chỉ photo tài liệu này mà còn đóng ghim nữa đúng không?",
+    "options": [
+      "あ、うっかりしてました。すぐやります。",
+      "ホチキスはしなくていいんですか？",
+      "コピーだけだったんですね。"
+    ],
+    "options_vi": [
+      "À, tôi đã quên mất. Tôi sẽ làm ngay.",
+      "Vậy không cần đóng ghim ạ?",
+      "Vậy là chỉ cần photo thôi ạ."
+    ],
+    "answer": 1,
+    "explanation": "Người nói nhờ làm hai việc (photo và đóng ghim). Lựa chọn 1 thể hiện sự nhận lỗi và hứa sẽ làm ngay, là phản ứng tự nhiên nhất khi bị nhắc nhở. Lựa chọn 2 hỏi lại về việc đóng ghim, có thể đúng nhưng không trực tiếp nhận lỗi. Lựa chọn 3 hiểu sai yêu cầu ban đầu.",
+    "q": 194
+  },
+  {
+    "prompt": "新しい商品のアイデアは、消費者から募集した方が良いのではないでしょうか？",
+    "prompt_vi": "Ý tưởng cho sản phẩm mới, có lẽ nên thu thập từ người tiêu dùng thì tốt hơn nhỉ?",
+    "options": [
+      "そうですね。募集する方向でいきましょう。",
+      "じゃあ、募集をやめるってことですか？",
+      "消費者からは募集しないんですね。"
+    ],
+    "options_vi": [
+      "Đúng vậy. Chúng ta hãy đi theo hướng thu thập ý kiến nhé.",
+      "Vậy là chúng ta sẽ không thu thập ý kiến nữa sao?",
+      "Vậy là sẽ không thu thập từ người tiêu dùng ạ."
+    ],
+    "answer": 1,
+    "explanation": "Người nói đề xuất một ý tưởng và hỏi ý kiến. Lựa chọn 1 đồng tình và đề xuất thực hiện theo hướng đó, là câu trả lời phù hợp nhất. Lựa chọn 2 và 3 hiểu sai hoặc phủ định ý kiến ban đầu.",
+    "q": 195
+  },
+  {
+    "prompt": "先輩のカメラ、今週一杯お借りしてもよろしいでしょうか？",
+    "prompt_vi": "Em mượn tạm máy ảnh của anh/chị tuần này được không ạ?",
+    "options": [
+      "ちょうど借りようと思っていたから",
+      "じゃあ、なるべく早く返すから",
+      "うん、しばらく使う予定ないから"
+    ],
+    "options_vi": [
+      "Vì em cũng vừa định mượn",
+      "Vậy thì, em sẽ trả sớm nhất có thể",
+      "Ừ, vì anh/chị chưa có kế hoạch dùng trong một thời gian"
+    ],
+    "answer": 3,
+    "explanation": "Câu 3 là tự nhiên nhất vì người nói đồng ý cho mượn và đưa ra lý do là bản thân chưa có kế hoạch sử dụng. Câu 1 hơi kỳ vì không liên quan trực tiếp đến việc cho mượn. Câu 2 tuy có vẻ đồng ý nhưng cách nói hơi thiếu lịch sự và không trực tiếp.",
+    "q": 202
+  },
+  {
+    "prompt": "最近毎日料理してるんだけど、少しもうまくならないんだよ。",
+    "prompt_vi": "Dạo này ngày nào tôi cũng nấu ăn, thế mà vẫn không giỏi lên chút nào.",
+    "options": [
+      "少ししかうまくなれないの？",
+      "毎日頑張ってるからだね。",
+      "誰か上手な人に教えてもらったら？"
+    ],
+    "options_vi": [
+      "Chỉ không giỏi lên được một chút thôi sao?",
+      "Là vì bạn cố gắng mỗi ngày mà.",
+      "Hay là bạn thử nhờ người giỏi dạy xem?"
+    ],
+    "answer": 3,
+    "explanation": "Câu 3 là lời khuyên tự nhiên nhất khi nghe ai đó phàn nàn về việc không tiến bộ. Câu 1 nghe như đang hỏi lại, không phải là phản ứng thông thường. Câu 2 có vẻ an ủi nhưng không mang tính giải quyết vấn đề.",
+    "q": 203
+  },
+  {
+    "prompt": "昨日せっかく映画に誘ってくれたのに、行けなくて悪かったね。",
+    "prompt_vi": "Tiếc thật đấy, hôm qua đã được mời đi xem phim mà tôi lại không đi được.",
+    "options": [
+      "それは残念だね。",
+      "あ、気にしないで。",
+      "本当にごめんなさい。"
+    ],
+    "options_vi": [
+      "Thật đáng tiếc nhỉ.",
+      "À, đừng bận tâm.",
+      "Thực sự xin lỗi bạn."
+    ],
+    "answer": 2,
+    "explanation": "Người nói đang xin lỗi vì đã không thể đi xem phim theo lời mời. Lựa chọn 2, \"あ、気にしないで\" (À, đừng bận tâm), là một phản ứng tự nhiên và lịch sự để trấn an người xin lỗi, cho thấy rằng người mời không cảm thấy phiền lòng hay thất vọng. Lựa chọn 1 là một lời tiếc nuối, nhưng không trực tiếp trấn an người xin lỗi. Lựa chọn 3 là lời xin lỗi, không phải lời đáp lại khi người khác xin lỗi.",
+    "q": 204,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "prompt": "あの 、 すみません 。 この ペン ちょっと お 借り でき ます か ?",
+    "prompt_vi": "À, xin lỗi. Tôi có thể mượn cây bút này một chút được không ạ?",
+    "options": [
+      "あ 、 お 使い ください 。",
+      "すぐ お 返し し ます 。",
+      "大変 結構 です 。"
+    ],
+    "options_vi": [
+      "Ồ, xin mời dùng ạ.",
+      "Tôi sẽ trả lại ngay ạ.",
+      "Rất tốt ạ."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là một lời đề nghị mượn bút. Lựa chọn 1 là câu trả lời tự nhiên nhất, thể hiện sự đồng ý cho mượn một cách lịch sự. Lựa chọn 2 là câu mà người mượn sẽ nói, không phải người cho mượn. Lựa chọn 3 thường dùng để bày tỏ sự hài lòng hoặc từ chối lịch sự, không phù hợp trong ngữ cảnh này.",
+    "q": 73
+  },
+  {
+    "prompt": "田中さん 、 この 書類 な ん です が 、 見 て いただけ ませ ん か ?",
+    "prompt_vi": "Anh Tanaka, về tài liệu này, anh có thể xem giúp tôi được không ạ?",
+    "options": [
+      "いい です が 、 何 の 書類 です か ?",
+      "一緒 に 見 に 行き ませ ん か ?",
+      "今 ご覧 に なっ て い ます 。"
+    ],
+    "options_vi": [
+      "Được thôi, nhưng đó là loại tài liệu gì vậy?",
+      "Chúng ta cùng đi xem không?",
+      "Bây giờ tôi đang xem rồi."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là lời đề nghị nhờ xem tài liệu. Lựa chọn 1 là câu trả lời tự nhiên nhất, thể hiện sự đồng ý nhưng muốn biết thêm thông tin về tài liệu. Lựa chọn 2 không phù hợp vì '見に行く' (đi xem) thường dùng cho việc đi đến một địa điểm để xem, không phải xem tài liệu đang ở trước mặt. Lựa chọn 3 là một câu khẳng định hành động đang diễn ra, không phải là câu trả lời cho lời đề nghị.",
+    "q": 74
+  },
+  {
+    "prompt": "駅前 に でき た ラーメン 屋 に 行っ て み ない ? 美味しい らしい よ 。",
+    "prompt_vi": "Đi thử quán mì ramen mới mở trước ga không? Nghe nói ngon lắm đó.",
+    "options": [
+      "どうしても 行け ない の ?",
+      "私 も 行き たい と 思っ て た ん だ 。",
+      "食べ に 行っ て どう だっ た ?"
+    ],
+    "options_vi": [
+      "Dù thế nào cũng không đi được sao?",
+      "Tôi cũng đang nghĩ là muốn đi đó.",
+      "Đi ăn rồi thì thế nào?"
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là một lời rủ rê, gợi ý đi ăn. Lựa chọn 2 là câu trả lời tự nhiên nhất, thể hiện sự đồng tình và hứng thú với lời rủ rê. Lựa chọn 1 không phù hợp vì người nói chưa hề bày tỏ sự không thể đi. Lựa chọn 3 là câu hỏi về trải nghiệm đã qua, không phù hợp với lời rủ rê hiện tại.",
+    "q": 75
+  },
+  {
+    "prompt": "先輩 、 さっき いただい た 資料 の こと で お 聞き し たい こと が ある ん です が 。",
+    "prompt_vi": "Senpai, em có điều muốn hỏi về tài liệu em vừa nhận lúc nãy ạ.",
+    "options": [
+      "どこ で 聞い た の？",
+      "どの 資料 が 欲しい の？",
+      "うん 、 どんな こと？"
+    ],
+    "options_vi": [
+      "Bạn đã nghe ở đâu vậy?",
+      "Bạn muốn tài liệu nào?",
+      "Ừ, chuyện gì vậy?"
+    ],
+    "answer": 3,
+    "explanation": "Người nói muốn hỏi về tài liệu đã nhận. Lựa chọn 3 là câu đáp tự nhiên nhất, thể hiện sự sẵn lòng lắng nghe. Lựa chọn 1 hỏi 'nghe ở đâu' không phù hợp với ngữ cảnh 'muốn hỏi'. Lựa chọn 2 hỏi 'muốn tài liệu nào' cũng không phù hợp vì người nói đã nhận tài liệu rồi.",
+    "q": 112
+  },
+  {
+    "prompt": "お料理 、 冷めないうちに どうぞ お召し上がりください。",
+    "prompt_vi": "Món ăn, xin mời quý khách dùng khi còn nóng ạ.",
+    "options": [
+      "はい 。 では 早速 いただきます 。",
+      "では 冷めてから いただく ん です ね 。",
+      "冷たいうちに いただきます 。"
+    ],
+    "options_vi": [
+      "Vâng. Vậy tôi xin phép dùng ngay ạ.",
+      "Vậy là tôi sẽ ăn sau khi nó nguội phải không ạ?",
+      "Tôi sẽ ăn khi nó còn lạnh."
+    ],
+    "answer": 1,
+    "explanation": "Người nói mời dùng món ăn khi còn nóng. Lựa chọn 1 là câu đáp lịch sự và phù hợp nhất, thể hiện sự chấp nhận lời mời và sẽ ăn ngay. Lựa chọn 2 và 3 đều trái ngược với ý 'ăn khi còn nóng' (samenai uchi ni).",
+    "q": 113
+  },
+  {
+    "prompt": "あ 、 アパート の 部屋 の 鍵 、 かけずに 出 て き ちゃっ た か も しれ ない 。",
+    "prompt_vi": "Ôi, có lẽ tôi đã ra ngoài mà không khóa cửa phòng căn hộ mất rồi.",
+    "options": [
+      "部屋 に 忘れ物 し ちゃっ た の？",
+      "帰って 確かめ た 方 が いい ん じゃ ない？",
+      "かけ て き た ん なら 大丈夫 だ ね 。"
+    ],
+    "options_vi": [
+      "Bạn đã để quên đồ trong phòng à?",
+      "Hay là bạn nên về kiểm tra xem sao?",
+      "Nếu đã khóa rồi thì không sao đâu nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Người nói lo lắng vì có thể đã không khóa cửa. Lựa chọn 2 là lời khuyên hợp lý và hữu ích nhất trong tình huống này. Lựa chọn 1 không liên quan đến việc khóa cửa. Lựa chọn 3 mâu thuẫn với lời nói của người kia ('có lẽ đã không khóa').",
+    "q": 114
+  },
+  {
+    "prompt": "電話でお願いした資料、取りに来たんですけど。",
+    "prompt_vi": "Tôi đến lấy tài liệu mà tôi đã yêu cầu qua điện thoại.",
+    "options": [
+      "じゃあ、すぐ作ってきて。",
+      "そこにあるんで、持ってって。",
+      "机の上に置いといて。"
+    ],
+    "options_vi": [
+      "Vậy thì, làm ngay rồi mang đến đây.",
+      "Nó ở đằng kia, bạn cầm lấy đi.",
+      "Để nó trên bàn đi."
+    ],
+    "answer": 2,
+    "explanation": "Người nói đến để lấy tài liệu đã yêu cầu. Lựa chọn 2 là câu trả lời tự nhiên nhất, chỉ ra nơi tài liệu đang ở và mời người nói lấy đi. Lựa chọn 1 sai vì tài liệu đã được yêu cầu, không phải mới làm. Lựa chọn 3 là yêu cầu đặt tài liệu xuống, không phải đưa cho người đến lấy.",
+    "q": 196
+  },
+  {
+    "prompt": "加藤さん、明日のパーティー行くでしょ？クラスのみんなも行くって。",
+    "prompt_vi": "Kato-san, ngày mai bạn sẽ đi dự tiệc chứ? Mọi người trong lớp cũng nói là sẽ đi đấy.",
+    "options": [
+      "うん、できれば行きたいんだけど。",
+      "すぐにクラスのみんなを誘ってよ。",
+      "パーティー明日 に しようか。"
+    ],
+    "options_vi": [
+      "Ừm, nếu có thể thì tôi muốn đi.",
+      "Hãy mời mọi người trong lớp ngay đi.",
+      "Chúng ta chuyển bữa tiệc sang ngày mai nhé?"
+    ],
+    "answer": 1,
+    "explanation": "Người hỏi đang xác nhận việc Kato-san có đi dự tiệc hay không. Lựa chọn 1 là câu trả lời tự nhiên nhất, thể hiện mong muốn đi nếu có thể. Lựa chọn 2 không phù hợp vì người hỏi đã nói mọi người trong lớp cũng đi. Lựa chọn 3 sai vì bữa tiệc đã được xác định là vào ngày mai.",
+    "q": 197
+  },
+  {
+    "prompt": "私、先輩にアルバイト紹介してもらうことになったんだ。",
+    "prompt_vi": "Tớ được senpai giới thiệu việc làm thêm rồi đấy.",
+    "options": [
+      "よかったね。どんなバイト？",
+      "新しいバイト始めてみてどう？",
+      "先輩にバイト手伝ってもらうの？"
+    ],
+    "options_vi": [
+      "Tốt quá nhỉ. Việc làm thêm gì vậy?",
+      "Thử bắt đầu công việc làm thêm mới thấy thế nào?",
+      "Bạn sẽ nhờ senpai giúp đỡ công việc làm thêm à?"
+    ],
+    "answer": 1,
+    "explanation": "Người nói thông báo tin vui là được senpai giới thiệu việc làm thêm. Lựa chọn 1 là phản ứng tự nhiên nhất, chúc mừng và hỏi thêm chi tiết về công việc. Lựa chọn 2 không phù hợp vì công việc mới chỉ được giới thiệu, chưa bắt đầu. Lựa chọn 3 hiểu sai ý 'giới thiệu' thành 'giúp đỡ'.",
+    "q": 198
+  },
+  {
+    "prompt": "これ は いつ まで に 払わ なく ちゃ いけ ませ ん か？",
+    "prompt_vi": "Cái này phải thanh toán trước khi nào ạ?",
+    "options": [
+      "1 回 で お 願い し ます。",
+      "ええ、払わなくちゃいけません。",
+      "できるだけ早く払ってください。"
+    ],
+    "options_vi": [
+      "Xin hãy thanh toán một lần.",
+      "Vâng, phải thanh toán ạ.",
+      "Xin hãy thanh toán càng sớm càng tốt."
+    ],
+    "answer": 3,
+    "explanation": "Câu hỏi là \"phải thanh toán trước khi nào?\", lựa chọn 3 \"Xin hãy thanh toán càng sớm càng tốt\" là câu trả lời phù hợp nhất về thời gian. Lựa chọn 1 nói về số lần thanh toán, lựa chọn 2 chỉ xác nhận việc phải thanh toán chứ không trả lời về thời hạn.",
+    "q": 199
+  },
+  {
+    "prompt": "1 ヶ月 の 長い 休み が 取れ たら 何 し たい？",
+    "prompt_vi": "Nếu được nghỉ dài một tháng thì bạn muốn làm gì?",
+    "options": [
+      "やっぱり 旅行 が いい な。",
+      "それなら 夏休み を 取る よ。",
+      "うち で 休ん だ 方 が よかっ た よ。"
+    ],
+    "options_vi": [
+      "Quả nhiên là đi du lịch thì tốt nhỉ.",
+      "Vậy thì tôi sẽ nghỉ hè.",
+      "Lẽ ra nên nghỉ ở nhà thì tốt hơn."
+    ],
+    "answer": 1,
+    "explanation": "Câu hỏi là \"Nếu được nghỉ dài một tháng thì bạn muốn làm gì?\", lựa chọn 1 \"Quả nhiên là đi du lịch thì tốt nhỉ\" thể hiện mong muốn về hoạt động trong kỳ nghỉ. Lựa chọn 2 không phù hợp vì câu hỏi đã giả định có kỳ nghỉ, không phải là việc có nên nghỉ hay không. Lựa chọn 3 là một lời hối tiếc về quá khứ, không phải kế hoạch cho tương lai.",
+    "q": 200
+  },
+  {
+    "prompt": "あの、窓 を 閉め て もらえ ない でしょう か？",
+    "prompt_vi": "À, bạn có thể đóng cửa sổ giúp tôi được không?",
+    "options": [
+      "すみません。お願いします。",
+      "はい、わかりました。",
+      "そう です ね。開け ましょう。"
+    ],
+    "options_vi": [
+      "Xin lỗi. Xin hãy giúp tôi.",
+      "Vâng, tôi hiểu rồi.",
+      "Ừm. Hãy mở ra nào."
+    ],
+    "answer": 2,
+    "explanation": "Câu hỏi là một lời đề nghị lịch sự \"Bạn có thể đóng cửa sổ giúp tôi được không?\". Lựa chọn 2 \"Vâng, tôi hiểu rồi\" là câu trả lời chấp nhận lời đề nghị một cách lịch sự. Lựa chọn 1 là một lời yêu cầu ngược lại từ người nói. Lựa chọn 3 là hành động ngược lại với yêu cầu (mở thay vì đóng).",
+    "q": 201
+  },
+  {
+    "prompt": "木村君、これ社長が書かれた本なんですよ。",
+    "prompt_vi": "Kimura, đây là cuốn sách do giám đốc viết đấy.",
+    "options": [
+      "あ、拝見します。",
+      "はい、お見せします。",
+      "では、お目にかかります。"
+    ],
+    "options_vi": [
+      "À, tôi sẽ xem ạ.",
+      "Vâng, tôi sẽ cho xem ạ.",
+      "Vậy thì, tôi sẽ gặp ngài."
+    ],
+    "answer": 1,
+    "explanation": "Người nói giới thiệu một cuốn sách do giám đốc viết. Lựa chọn 1 '拝見します' (haiken shimasu) là kính ngữ của '見る' (miru - xem/đọc), thể hiện sự tôn trọng khi nhận được một vật phẩm hoặc thông tin. Lựa chọn 2 'お見せします' (omise shimasu) có nghĩa là 'tôi sẽ cho xem', không phù hợp vì Kimura là người được xem. Lựa chọn 3 'お目にかかります' (omen ni kakarimasu) có nghĩa là 'tôi sẽ gặp', không liên quan đến việc xem sách.",
+    "q": 205
+  },
+  {
+    "prompt": "お客様、お茶のおかわりいかがですか？",
+    "prompt_vi": "Quý khách, quý khách có muốn thêm trà không ạ?",
+    "options": [
+      "いいえ、もう結構です。",
+      "他の飲み物はいりません。",
+      "じゃあ、代わってください。"
+    ],
+    "options_vi": [
+      "Không, đủ rồi ạ.",
+      "Tôi không cần đồ uống khác.",
+      "Vậy thì, hãy thay đổi đi ạ."
+    ],
+    "answer": 1,
+    "explanation": "Người nói hỏi khách hàng có muốn thêm trà không. Lựa chọn 1 'もう結構です' (mou kekkou desu) là cách từ chối lịch sự, có nghĩa là 'đủ rồi, tôi không cần nữa'. Lựa chọn 2 '他の飲み物はいりません' (hoka no nomimono wa irimasen) không trả lời trực tiếp câu hỏi về việc thêm trà. Lựa chọn 3 '代わってください' (kawatte kudasai) có nghĩa là 'hãy thay đổi/thay thế', không phù hợp với ngữ cảnh.",
+    "q": 206
+  },
+  {
+    "prompt": "あ、課長。お出かけですか？今にも雨が降り出しそうですよ。",
+    "prompt_vi": "À, Trưởng phòng. Anh/chị định ra ngoài ạ? Trời trông có vẻ sắp mưa đến nơi rồi đấy.",
+    "options": [
+      "あ、やみそうなんだ。よかった。",
+      "じゃあ、傘持って行った方がよさそうだね。",
+      "もう降り出したの？"
+    ],
+    "options_vi": [
+      "À, có vẻ sắp tạnh rồi. May quá.",
+      "Vậy thì, có lẽ nên mang ô đi thì hơn nhỉ.",
+      "Đã mưa rồi sao?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói cảnh báo trưởng phòng rằng trời sắp mưa. Lựa chọn 2 '傘持って行った方がよさそうだね' (kasa motte itta hou ga yosasou da ne) là một phản ứng hợp lý và tự nhiên khi được cảnh báo về mưa sắp tới. Lựa chọn 1 'やみそうなんだ' (yamisou nanda) có nghĩa là 'có vẻ sắp tạnh', mâu thuẫn với thông tin 'sắp mưa'. Lựa chọn 3 'もう降り出したの？' (mou furidashita no?) có nghĩa là 'đã mưa rồi sao?', cũng mâu thuẫn vì người nói chỉ nói 'sắp mưa'.",
+    "q": 207
+  },
+  {
+    "prompt": "あの、明日の食事会なんですが、どうしても行けなくなったんです。",
+    "prompt_vi": "À, về buổi tiệc ăn uống ngày mai, tôi không thể đi được rồi.",
+    "options": [
+      "はっきり決まったら教えてください。",
+      "よかったです。今からでも出席可能ですから。",
+      "そうですか。欠席ですね。わかりました。"
+    ],
+    "options_vi": [
+      "Khi nào quyết định rõ ràng thì hãy cho tôi biết nhé.",
+      "May quá. Từ bây giờ vẫn có thể tham dự được mà.",
+      "Vậy à. Anh/chị vắng mặt à. Tôi hiểu rồi."
+    ],
+    "answer": 3,
+    "explanation": "Người nói thông báo không thể tham gia buổi tiệc. Lựa chọn 3 là phản hồi tự nhiên nhất, thể hiện sự tiếp nhận thông tin và hiểu rõ tình hình. Lựa chọn 1 sai vì người nói đã quyết định không đi, không phải chưa rõ ràng. Lựa chọn 2 sai vì người nói không thể đi, nên việc nói 'may quá' và 'vẫn có thể tham dự' là không phù hợp.",
+    "q": 208
+  },
+  {
+    "prompt": "ああ、グループ発表明日だよね。今日中に準備終わらせなきゃね。",
+    "prompt_vi": "À, buổi thuyết trình nhóm là ngày mai phải không. Phải hoàn thành chuẩn bị trong hôm nay thôi nhỉ.",
+    "options": [
+      "やっと終わったね。",
+      "間に合うように頑張ろうね。",
+      "あ、今日準備しなくていいんだね。"
+    ],
+    "options_vi": [
+      "Cuối cùng cũng xong rồi nhỉ.",
+      "Cố gắng để kịp giờ nhé.",
+      "À, hôm nay không cần chuẩn bị cũng được nhỉ."
+    ],
+    "answer": 2,
+    "explanation": "Người nói nhắc nhở về việc thuyết trình nhóm vào ngày mai và cần hoàn thành chuẩn bị trong hôm nay. Lựa chọn 2 là phản hồi phù hợp nhất, thể hiện sự đồng tình và khuyến khích cùng cố gắng để hoàn thành đúng hạn. Lựa chọn 1 sai vì việc chuẩn bị chưa xong. Lựa chọn 3 sai vì người nói đã nhấn mạnh cần phải chuẩn bị trong hôm nay.",
+    "q": 209
+  },
+  {
+    "prompt": "最近、野田先生、いつ行っても研究室にいらっしゃらなくて。",
+    "prompt_vi": "Gần đây, thầy Noda, lúc nào tôi đến phòng nghiên cứu cũng không thấy thầy ấy ở đó.",
+    "options": [
+      "いつもいらっしゃるの？",
+      "研究室には行ってみた？",
+      "そうなの？まずメールで約束したら？"
+    ],
+    "options_vi": [
+      "Lúc nào thầy ấy cũng có mặt à?",
+      "Bạn đã thử đến phòng nghiên cứu chưa?",
+      "Vậy à? Trước tiên thử hẹn qua email xem sao?"
+    ],
+    "answer": 3,
+    "explanation": "Người nói than phiền rằng không gặp được thầy Noda ở phòng nghiên cứu. Lựa chọn 3 là phản hồi tự nhiên nhất, thể hiện sự ngạc nhiên và đưa ra một gợi ý giải pháp hợp lý. Lựa chọn 1 sai vì người nói vừa nói là không gặp được thầy. Lựa chọn 2 sai vì người nói đã nói 'lúc nào tôi đến phòng nghiên cứu cũng không thấy', tức là đã đến rồi.",
+    "q": 210
+  },
+  {
+    "prompt": "このコピーの機械、最近動かなくなることがあるんだよ。",
+    "prompt_vi": "Cái máy photocopy này, gần đây thỉnh thoảng nó không hoạt động được.",
+    "options": [
+      "もう全然動かないの？",
+      "ああ、直してもらったんだね。",
+      "修理頼んだ方がいいね。"
+    ],
+    "options_vi": [
+      "Nó đã hoàn toàn không hoạt động rồi sao?",
+      "À, bạn đã được sửa rồi nhỉ.",
+      "Nên nhờ sửa chữa thì hơn nhỉ."
+    ],
+    "answer": 3,
+    "explanation": "Người nói than phiền rằng máy photocopy thỉnh thoảng không hoạt động. Lựa chọn 3 là một lời khuyên hợp lý và tự nhiên cho tình trạng này. Lựa chọn 1 hỏi liệu máy đã hoàn toàn không hoạt động, điều này không khớp với 'thỉnh thoảng không hoạt động'. Lựa chọn 2 nói rằng máy đã được sửa, nhưng vấn đề vẫn đang diễn ra.",
+    "q": 211
+  },
+  {
+    "prompt": "明日海に行くの楽しみだね。道が混んでないといいね。",
+    "prompt_vi": "Mai đi biển vui nhỉ. Mong là đường không bị tắc.",
+    "options": [
+      "混まなくてよかったね。",
+      "混むのは嫌だよね。",
+      "え？明日は混んでないの？"
+    ],
+    "options_vi": [
+      "May quá không bị tắc nhỉ.",
+      "Bị tắc đường thì ghét thật nhỉ.",
+      "Hả? Mai không bị tắc đường sao?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói bày tỏ hy vọng đường không bị tắc vào ngày mai. Lựa chọn 2 là một câu đồng tình tự nhiên với cảm xúc đó ('Bị tắc đường thì ghét thật nhỉ'). Lựa chọn 1 dùng thì quá khứ ('may quá không bị tắc') không phù hợp vì sự việc chưa xảy ra. Lựa chọn 3 hiểu nhầm lời nói của người nói là một sự thật chứ không phải là một hy vọng.",
+    "q": 212
+  },
+  {
+    "prompt": "昨日貸してくれた漫画、読んでたら時間が経つのを忘れてたよ。",
+    "prompt_vi": "Cuốn truyện tranh cậu cho tớ mượn hôm qua, đọc mãi mà quên cả thời gian luôn.",
+    "options": [
+      "そうでしょ？面白いよね。",
+      "あ、好きじゃなかった？",
+      "え？どこかに忘れたの？"
+    ],
+    "options_vi": [
+      "Đúng không? Hay mà nhỉ.",
+      "Ơ, cậu không thích à?",
+      "Hả? Cậu quên ở đâu rồi à?"
+    ],
+    "answer": 1,
+    "explanation": "Người nói bày tỏ sự thích thú với cuốn truyện tranh đến mức quên cả thời gian. Lựa chọn 1 là một câu đồng tình và xác nhận sự hấp dẫn của truyện ('Đúng không? Hay mà nhỉ.') Lựa chọn 2 hiểu sai ý người nói, vì 'quên cả thời gian' thể hiện sự thích thú chứ không phải không thích. Lựa chọn 3 hiểu nhầm 'quên thời gian' thành 'quên đồ vật'.",
+    "q": 213
+  },
+  {
+    "prompt": "ねえ、うちの会社で営業部の木村さんほどパソコンに詳しい人はいないよね。",
+    "prompt_vi": "Này, ở công ty chúng ta, không có ai am hiểu máy tính bằng anh Kimura của phòng kinh doanh đâu nhỉ?",
+    "options": [
+      "木村さんに聞けば何でもわかるよね。",
+      "木村さん、パソコンのこと全然知らないよね。",
+      "え？木村さん、どこにもいないの？"
+    ],
+    "options_vi": [
+      "Nếu hỏi anh Kimura thì cái gì cũng biết nhỉ.",
+      "Anh Kimura, anh ấy hoàn toàn không biết gì về máy tính nhỉ.",
+      "Hả? Anh Kimura không có ở đâu cả à?"
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu khen anh Kimura rất am hiểu máy tính. Lựa chọn 1 đồng tình với ý này, cho rằng anh ấy là nguồn thông tin tốt. Lựa chọn 2 phủ nhận điều đó, và lựa chọn 3 lạc đề.",
+    "q": 214
+  },
+  {
+    "prompt": "リーさん、日本に来てからどっか旅行に行った？",
+    "prompt_vi": "Anh Lee, từ khi đến Nhật, anh đã đi du lịch ở đâu chưa?",
+    "options": [
+      "結構いろんなとこ行ったよ。",
+      "そこはまだ行ってないんだ。",
+      "じゃあ、温泉は？"
+    ],
+    "options_vi": [
+      "Tôi đã đi khá nhiều nơi rồi.",
+      "Chỗ đó tôi vẫn chưa đi.",
+      "Vậy thì suối nước nóng thì sao?"
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu hỏi một câu hỏi chung chung về việc đi du lịch. Lựa chọn 1 trả lời trực tiếp và phù hợp. Lựa chọn 2 ngụ ý đã có một địa điểm cụ thể được nhắc đến, nhưng thực tế không có. Lựa chọn 3 là một câu hỏi gợi ý, không phải câu trả lời trực tiếp.",
+    "q": 215
+  },
+  {
+    "prompt": "西野さん、西野さんマラソン初めてだったのに、よく最後まで走ったね。",
+    "prompt_vi": "Anh Nishino, anh Nishino, dù đây là lần đầu tiên anh chạy marathon, nhưng anh đã chạy đến cùng thật tốt nhỉ.",
+    "options": [
+      "みんなの応援があったからだよ。",
+      "最後まで走れなくて悔しいよ。",
+      "おめでとう。頑張ったね。"
+    ],
+    "options_vi": [
+      "Là nhờ có sự cổ vũ của mọi người đó.",
+      "Tôi tiếc vì không thể chạy đến cùng.",
+      "Chúc mừng nhé. Cậu đã cố gắng rồi."
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là lời khen ngợi Nishino-san đã hoàn thành cuộc chạy marathon. Lựa chọn 1 là một cách khiêm tốn và lịch sự để đáp lại lời khen, thể hiện sự biết ơn. Lựa chọn 2 phủ nhận lời khen, và lựa chọn 3 là lời chúc mừng dành cho người khác, không phải lời đáp lại.",
+    "q": 216
+  },
+  {
+    "prompt": "ちょっとお腹空いたな。お菓子か何か持ってない？",
+    "prompt_vi": "Hơi đói bụng rồi. Cậu có mang theo bánh kẹo hay gì không?",
+    "options": [
+      "お菓子は嫌なの？",
+      "あ、チョコレートあるよ。",
+      "ありがとう、食べたい。"
+    ],
+    "options_vi": [
+      "Cậu không thích bánh kẹo à?",
+      "À, tớ có sô cô la đây.",
+      "Cảm ơn, tớ muốn ăn."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là một câu hỏi về việc có mang theo đồ ăn vặt không. Lựa chọn 2 trực tiếp trả lời câu hỏi bằng cách đề nghị món đồ mình có. Lựa chọn 1 hỏi ngược lại về sở thích, không phù hợp. Lựa chọn 3 là câu trả lời sau khi đã được đề nghị, không phải là câu đáp lại câu hỏi ban đầu.",
+    "q": 217
+  },
+  {
+    "prompt": "林さん、今日はお目にかかれて本当に良かったです。",
+    "prompt_vi": "Anh Hayashi, hôm nay thật sự rất vui được gặp anh.",
+    "options": [
+      "こちらこそ。またお会いしましょう。",
+      "ぜひお目にかかりたいです。",
+      "もう見たんですか？"
+    ],
+    "options_vi": [
+      "Tôi cũng vậy. Hẹn gặp lại.",
+      "Tôi rất muốn được gặp.",
+      "Anh đã xem rồi à?"
+    ],
+    "answer": 1,
+    "explanation": "Câu mở đầu là lời bày tỏ sự vui mừng khi được gặp mặt. Lựa chọn 1 là cách đáp lại lịch sự và tự nhiên nhất, thể hiện sự đồng tình và mong muốn gặp lại. Lựa chọn 2 thể hiện mong muốn gặp trong tương lai, không phù hợp với ngữ cảnh đã gặp rồi. Lựa chọn 3 hoàn toàn không liên quan.",
+    "q": 218
+  },
+  {
+    "prompt": "森さん、出張の書類のことでちょっと教えていただきたいことがあるんですが。",
+    "prompt_vi": "Anh Mori, về tài liệu công tác, tôi có một điều muốn nhờ anh chỉ giáo một chút.",
+    "options": [
+      "ぜひ教えてください。",
+      "どんなことですか？",
+      "いただいたことがありますよ。"
+    ],
+    "options_vi": [
+      "Nhất định hãy chỉ cho tôi.",
+      "Là chuyện gì vậy?",
+      "Tôi đã từng nhận được rồi."
+    ],
+    "answer": 2,
+    "explanation": "Câu mở đầu là lời mở đầu cho một yêu cầu giúp đỡ hoặc muốn được chỉ dẫn. Lựa chọn 2 là câu hỏi tự nhiên nhất để mời người nói trình bày cụ thể vấn đề. Lựa chọn 1 là câu yêu cầu người khác chỉ cho mình, không phải là câu đáp lại khi mình được hỏi. Lựa chọn 3 không liên quan đến ngữ cảnh.",
+    "q": 219
+  },
+  {
+    "prompt": "和田さん、明日の映画の約束、できれば明後日に変えてもらいたいんだけど。",
+    "prompt_vi": "Anh Wada, cuộc hẹn xem phim ngày mai, nếu được thì tôi muốn đổi sang ngày kia.",
+    "options": [
+      "明後日はだめなんだね。",
+      "明日に変えてくれるの？ありがとう。",
+      "明後日？大丈夫だよ。"
+    ],
+    "options_vi": [
+      "Ngày kia không được à?",
+      "Bạn đổi sang ngày mai cho tôi à? Cảm ơn.",
+      "Ngày kia à? Được thôi."
+    ],
+    "answer": 3,
+    "explanation": "Người nói muốn đổi lịch hẹn từ ngày mai sang ngày kia. Lựa chọn 3 \"Ngày kia à? Được thôi.\" là câu trả lời đồng ý trực tiếp và tự nhiên nhất. Lựa chọn 1 là câu hỏi ngược lại, không phải câu trả lời. Lựa chọn 2 hiểu sai ý, nghĩ rằng người nói muốn đổi sang ngày mai.",
+    "q": 220
+  },
+  {
+    "prompt": "トムさん、昼ご飯できたよ。冷めないうちにどうぞ。",
+    "prompt_vi": "Tom-san, cơm trưa xong rồi đấy. Mời ăn khi còn nóng nhé.",
+    "options": [
+      "え、冷めてからの方がいいですか？",
+      "じゃ、早速いただきます。",
+      "暑いの苦手だからよかった。"
+    ],
+    "options_vi": [
+      "Ơ, để nguội rồi ăn thì tốt hơn à?",
+      "Vậy thì, tôi ăn ngay đây.",
+      "Vì tôi không thích đồ nóng nên tốt quá."
+    ],
+    "answer": 2,
+    "explanation": "Người nói mời ăn cơm trưa khi còn nóng. Lựa chọn 2 \"Vậy thì, tôi ăn ngay đây.\" là câu đáp lại tự nhiên và lịch sự nhất, thể hiện sự chấp nhận lời mời. Lựa chọn 1 và 3 đều hiểu sai hoặc đi ngược lại ý của người mời.",
+    "q": 221
+  },
+  {
+    "prompt": "山本さん、社長が社長室に来るようにって。",
+    "prompt_vi": "Yamamoto-san, giám đốc bảo anh đến phòng giám đốc.",
+    "options": [
+      "あ、はい。すぐ行きます。",
+      "ここで、お待ちすればいいんですね？",
+      "じゃ、社長にそうお伝えします。"
+    ],
+    "options_vi": [
+      "À, vâng. Tôi đi ngay đây.",
+      "Tôi đợi ở đây là được phải không?",
+      "Vậy thì, tôi sẽ nói lại với giám đốc như vậy."
+    ],
+    "answer": 1,
+    "explanation": "Người nói truyền đạt lời nhắn từ giám đốc yêu cầu anh Yamamoto đến phòng giám đốc. Lựa chọn 1 \"À, vâng. Tôi đi ngay đây.\" là câu trả lời xác nhận và hành động theo yêu cầu một cách tự nhiên nhất. Lựa chọn 2 hiểu sai yêu cầu, còn lựa chọn 3 thì nhầm lẫn vai trò người nhận tin.",
+    "q": 222
+  },
+  {
+    "prompt": "村上さん、部長から資料預かってくれてるよね。",
+    "prompt_vi": "Anh Murakami, anh đang giữ tài liệu từ trưởng phòng phải không?",
+    "options": [
+      "資料お受け取りになったんですね。",
+      "部長に渡してくださったんですか？",
+      "あ、こちらの資料です。どうぞ。"
+    ],
+    "options_vi": [
+      "À, anh đã nhận tài liệu rồi nhỉ.",
+      "Anh đã đưa cho trưởng phòng rồi sao?",
+      "À, đây là tài liệu này. Mời anh."
+    ],
+    "answer": 3,
+    "explanation": "Câu mở đầu hỏi xác nhận rằng anh Murakami đang giữ tài liệu từ trưởng phòng. Lựa chọn 3 là câu đáp tự nhiên nhất, xác nhận có tài liệu và đưa ra. Lựa chọn 1 là câu hỏi xác nhận lại việc nhận tài liệu, không trực tiếp đáp lại ý muốn của người nói. Lựa chọn 2 hỏi ngược lại là đã đưa tài liệu cho trưởng phòng chưa, điều này mâu thuẫn với câu hỏi ban đầu.",
+    "q": 223
+  }
+]

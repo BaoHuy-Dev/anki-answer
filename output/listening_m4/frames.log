@@ -1,0 +1,17 @@
+  q1: end_time=34.84 red=95
+  q2: end_time=65.0 red=101
+  q3: end_time=94.88 red=95
+  q20: end_time=590.46 red=95
+  q40: end_time=1231.32 red=103
+  q60: end_time=1879.42 red=108
+  q80: end_time=2525.16 red=100
+Traceback (most recent call last):
+  File "G:\Project\anki-answer\scripts\answer_frames_run.py", line 76, in <module>
+    run(sys.argv[1] if len(sys.argv) > 1 else "m4")
+  File "G:\Project\anki-answer\scripts\answer_frames_run.py", line 71, in run
+    found = sum(1 for a in answers if a["answer_official"])
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "G:\Project\anki-answer\scripts\answer_frames_run.py", line 71, in <genexpr>
+    found = sum(1 for a in answers if a["answer_official"])
+                                      ~^^^^^^^^^^^^^^^^^^^
+KeyError: 'answer_official'

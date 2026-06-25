@@ -1,0 +1,482 @@
+[
+  {
+    "q": 1,
+    "red_total": 95,
+    "end_time": 34.84,
+    "answer_official": 2
+  },
+  {
+    "q": 2,
+    "red_total": 101,
+    "end_time": 65.0,
+    "answer_official": 3
+  },
+  {
+    "q": 3,
+    "red_total": 95,
+    "end_time": 94.88,
+    "answer_official": 2
+  },
+  {
+    "q": 4,
+    "red_total": 91,
+    "end_time": 120.14,
+    "answer_official": 1
+  },
+  {
+    "q": 5,
+    "red_total": 95,
+    "end_time": 147.46,
+    "answer_official": 3
+  },
+  {
+    "q": 6,
+    "red_total": 113,
+    "end_time": 175.1,
+    "answer_official": 1
+  },
+  {
+    "q": 7,
+    "red_total": 89,
+    "end_time": 201.5,
+    "answer_official": 2
+  },
+  {
+    "q": 8,
+    "red_total": 93,
+    "end_time": 232.02,
+    "answer_official": 3
+  },
+  {
+    "q": 9,
+    "red_total": 97,
+    "end_time": 265.14,
+    "answer_official": 1
+  },
+  {
+    "q": 10,
+    "red_total": 96,
+    "end_time": 295.12,
+    "answer_official": 2
+  },
+  {
+    "q": 11,
+    "red_total": 100,
+    "end_time": 325.1,
+    "answer_official": 3
+  },
+  {
+    "q": 12,
+    "red_total": 93,
+    "end_time": 355.66,
+    "answer_official": 1
+  },
+  {
+    "q": 13,
+    "red_total": 104,
+    "end_time": 384.84,
+    "answer_official": 3
+  },
+  {
+    "q": 14,
+    "red_total": 96,
+    "end_time": 410.04,
+    "answer_official": 3
+  },
+  {
+    "q": 15,
+    "red_total": 104,
+    "end_time": 439.52,
+    "answer_official": 1
+  },
+  {
+    "q": 16,
+    "red_total": 77,
+    "end_time": 470.26,
+    "answer_official": 2
+  },
+  {
+    "q": 17,
+    "red_total": 106,
+    "end_time": 504.88,
+    "answer_official": 3
+  },
+  {
+    "q": 18,
+    "red_total": 106,
+    "end_time": 530.68,
+    "answer_official": 1
+  },
+  {
+    "q": 19,
+    "red_total": 91,
+    "end_time": 560.5,
+    "answer_official": 2
+  },
+  {
+    "q": 20,
+    "red_total": 95,
+    "end_time": 590.46,
+    "answer_official": 1
+  },
+  {
+    "q": 21,
+    "red_total": 99,
+    "end_time": 621.2,
+    "answer_official": 3
+  },
+  {
+    "q": 22,
+    "red_total": 101,
+    "end_time": 650.22,
+    "answer_official": 3
+  },
+  {
+    "q": 23,
+    "red_total": 104,
+    "end_time": 680.0,
+    "answer_official": 1
+  },
+  {
+    "q": 24,
+    "red_total": 82,
+    "end_time": 710.34,
+    "answer_official": 2
+  },
+  {
+    "q": 25,
+    "red_total": 84,
+    "end_time": 740.52,
+    "answer_official": 2
+  },
+  {
+    "q": 26,
+    "red_total": 115,
+    "end_time": 769.6,
+    "answer_official": 1
+  },
+  {
+    "q": 27,
+    "red_total": 93,
+    "end_time": 800.84,
+    "answer_official": 2
+  },
+  {
+    "q": 28,
+    "red_total": 97,
+    "end_time": 834.58,
+    "answer_official": 3
+  },
+  {
+    "q": 29,
+    "red_total": 89,
+    "end_time": 867.72,
+    "answer_official": 2
+  },
+  {
+    "q": 30,
+    "red_total": 123,
+    "end_time": 897.16,
+    "answer_official": 3
+  },
+  {
+    "q": 31,
+    "red_total": 95,
+    "end_time": 926.76,
+    "answer_official": 1
+  },
+  {
+    "q": 32,
+    "red_total": 106,
+    "end_time": 956.3,
+    "answer_official": 1
+  },
+  {
+    "q": 33,
+    "red_total": 116,
+    "end_time": 989.92,
+    "answer_official": 1
+  },
+  {
+    "q": 34,
+    "red_total": 104,
+    "end_time": 1024.32,
+    "answer_official": 1
+  },
+  {
+    "q": 35,
+    "red_total": 96,
+    "end_time": 1054.78,
+    "answer_official": 3
+  },
+  {
+    "q": 36,
+    "red_total": 97,
+    "end_time": 1086.52,
+    "answer_official": 2
+  },
+  {
+    "q": 37,
+    "red_total": 101,
+    "end_time": 1124.4,
+    "answer_official": 1
+  },
+  {
+    "q": 38,
+    "red_total": 100,
+    "end_time": 1164.54,
+    "answer_official": 2
+  },
+  {
+    "q": 39,
+    "red_total": 88,
+    "end_time": 1197.26,
+    "answer_official": 2
+  },
+  {
+    "q": 40,
+    "red_total": 103,
+    "end_time": 1231.32,
+    "answer_official": 1
+  },
+  {
+    "q": 41,
+    "red_total": 104,
+    "end_time": 1266.42,
+    "answer_official": 2
+  },
+  {
+    "q": 42,
+    "red_total": 108,
+    "end_time": 1299.72,
+    "answer_official": 1
+  },
+  {
+    "q": 43,
+    "red_total": 115,
+    "end_time": 1334.94,
+    "answer_official": 3
+  },
+  {
+    "q": 44,
+    "red_total": 73,
+    "end_time": 1367.72,
+    "answer_official": 2
+  },
+  {
+    "q": 45,
+    "red_total": 111,
+    "end_time": 1400.26,
+    "answer_official": 2
+  },
+  {
+    "q": 46,
+    "red_total": 113,
+    "end_time": 1434.78,
+    "answer_official": 1
+  },
+  {
+    "q": 47,
+    "red_total": 97,
+    "end_time": 1465.08,
+    "answer_official": 2
+  },
+  {
+    "q": 48,
+    "red_total": 107,
+    "end_time": 1495.08,
+    "answer_official": 3
+  },
+  {
+    "q": 49,
+    "red_total": 102,
+    "end_time": 1531.1,
+    "answer_official": 1
+  },
+  {
+    "q": 50,
+    "red_total": 98,
+    "end_time": 1566.68,
+    "answer_official": 3
+  },
+  {
+    "q": 51,
+    "red_total": 96,
+    "end_time": 1599.96,
+    "answer_official": 2
+  },
+  {
+    "q": 52,
+    "red_total": 103,
+    "end_time": 1626.42,
+    "answer_official": 1
+  },
+  {
+    "q": 53,
+    "red_total": 106,
+    "end_time": 1660.38,
+    "answer_official": 2
+  },
+  {
+    "q": 54,
+    "red_total": 94,
+    "end_time": 1689.32,
+    "answer_official": 1
+  },
+  {
+    "q": 55,
+    "red_total": 102,
+    "end_time": 1718.32,
+    "answer_official": 1
+  },
+  {
+    "q": 56,
+    "red_total": 97,
+    "end_time": 1749.26,
+    "answer_official": 3
+  },
+  {
+    "q": 57,
+    "red_total": 100,
+    "end_time": 1781.06,
+    "answer_official": 2
+  },
+  {
+    "q": 58,
+    "red_total": 100,
+    "end_time": 1812.76,
+    "answer_official": 3
+  },
+  {
+    "q": 59,
+    "red_total": 99,
+    "end_time": 1850.12,
+    "answer_official": 1
+  },
+  {
+    "q": 60,
+    "red_total": 108,
+    "end_time": 1879.42,
+    "answer_official": 1
+  },
+  {
+    "q": 61,
+    "red_total": 101,
+    "end_time": 1906.64,
+    "answer_official": 2
+  },
+  {
+    "q": 62,
+    "red_total": 88,
+    "end_time": 1935.02,
+    "answer_official": 2
+  },
+  {
+    "q": 63,
+    "red_total": 105,
+    "end_time": 1969.76,
+    "answer_official": 3
+  },
+  {
+    "q": 64,
+    "red_total": 103,
+    "end_time": 2000.54,
+    "answer_official": 2
+  },
+  {
+    "q": 65,
+    "red_total": 102,
+    "end_time": 2027.8,
+    "answer_official": 1
+  },
+  {
+    "q": 66,
+    "red_total": 98,
+    "end_time": 2055.62,
+    "answer_official": 1
+  },
+  {
+    "q": 67,
+    "red_total": 99,
+    "end_time": 2086.66,
+    "answer_official": 3
+  },
+  {
+    "q": 68,
+    "red_total": 97,
+    "end_time": 2124.92,
+    "answer_official": 2
+  },
+  {
+    "q": 69,
+    "red_total": 101,
+    "end_time": 2156.02,
+    "answer_official": 1
+  },
+  {
+    "q": 70,
+    "red_total": 104,
+    "end_time": 2189.86,
+    "answer_official": 3
+  },
+  {
+    "q": 71,
+    "red_total": 113,
+    "end_time": 2229.9,
+    "answer_official": 3
+  },
+  {
+    "q": 72,
+    "red_total": 95,
+    "end_time": 2264.84,
+    "answer_official": 2
+  },
+  {
+    "q": 73,
+    "red_total": 100,
+    "end_time": 2300.16,
+    "answer_official": 2
+  },
+  {
+    "q": 74,
+    "red_total": 100,
+    "end_time": 2331.74,
+    "answer_official": 1
+  },
+  {
+    "q": 75,
+    "red_total": 95,
+    "end_time": 2361.16,
+    "answer_official": 3
+  },
+  {
+    "q": 76,
+    "red_total": 95,
+    "end_time": 2394.56,
+    "answer_official": 2
+  },
+  {
+    "q": 77,
+    "red_total": 109,
+    "end_time": 2424.98,
+    "answer_official": 2
+  },
+  {
+    "q": 78,
+    "red_total": 105,
+    "end_time": 2455.84,
+    "answer_official": 3
+  },
+  {
+    "q": 79,
+    "red_total": 99,
+    "end_time": 2492.12,
+    "answer_official": 1
+  },
+  {
+    "q": 80,
+    "red_total": 100,
+    "end_time": 2525.16,
+    "answer_official": 3
+  }
+]

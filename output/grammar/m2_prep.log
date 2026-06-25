@@ -1,0 +1,15 @@
+  classify [12/152]
+  classify [24/152]
+  classify [36/152]
+  classify [48/152]
+  classify [60/152]
+  classify [72/152]
+  classify [84/152]
+  classify [96/152]
+  classify [108/152]
+  classify [120/152]
+  classify [132/152]
+  classify [144/152]
+  classify [152/152]
+prep: 152 cards classified into clean labels
+deck2: 137 raw labels -> 126 canonical

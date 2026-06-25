@@ -1,0 +1,7 @@
+trans: 13 câu cần xử lý (models=['gemini-2.5-flash', 'gemini-2.5-flash-lite'], batch=3)
+  [3/13] batch [211, 212, 213] ok=3
+  [6/13] batch [214, 215, 216] ok=3
+  [9/13] batch [217, 218, 219] ok=3
+  [12/13] batch [220, 221, 222] ok=3
+  [13/13] batch [223] ok=1
+trans done: 223/223

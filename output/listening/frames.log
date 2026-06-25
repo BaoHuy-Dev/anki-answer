@@ -1,0 +1,15 @@
+  q1: end_time=30.01 red=57
+  q2: end_time=59.82 red=48
+  q3: end_time=89.95 red=55
+  q20: end_time=624.93 red=44
+  q40: end_time=1274.93 red=78
+  q60: end_time=1950.24 red=75
+  q80: end_time=2621.87 red=46
+  q100: end_time=3295.13 red=52
+  q120: end_time=3969.91 red=41
+  q140: end_time=4670.04 red=76
+  q160: end_time=5346.01 red=971
+  q180: end_time=6014.94 red=63
+  q200: end_time=6660.16 red=45
+  q220: end_time=7334.9 red=67
+m5: lưu 223 khung start+end (đọc đáp án ở bước read_circle)

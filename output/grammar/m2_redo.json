@@ -1,0 +1,6480 @@
+[
+  {
+    "note_id": 1780328966051,
+    "question": "昨日、本屋で小説2冊____ ★ ____本を1冊買った。",
+    "fragments": [
+      "① と",
+      "② の",
+      "③ について",
+      "④ レポートの書き方"
+    ],
+    "image": "image_import_00c7265b57f1_slide_0001.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③",
+    "corrected": false,
+    "new": {
+      "id": 1780328966051,
+      "question": "昨日、本屋で小説2冊____ ★ ____本を1冊買った。",
+      "fragments": [
+        "① と",
+        "② の",
+        "③ について",
+        "④ レポートの書き方"
+      ],
+      "completed_sentence": "昨日、本屋で小説2冊とレポートの書き方についての本を1冊買った。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ について",
+      "tip": "• Nhìn thấy 「と」 (①) ngay sau 「小説2冊」, ta biết nó dùng để nối danh từ.\n• Sau 「と」 sẽ là danh từ thứ hai, ở đây là 「レポートの書き方」 (④).\n• Cụm 「レポートの書き方」 (④) là một danh từ, sau đó là 「について」 (③) để nói \"về cách viết báo cáo\".\n• Cuối cùng, 「について」 (③) cần nối với danh từ 「本」 bằng trợ từ 「の」 (②). Vậy thứ tự là ①→④→③→②. Mảnh ở ★ là ③.",
+      "grammar_point": "N1とN2, Nについて, NのN"
+    }
+  },
+  {
+    "note_id": 1780328966579,
+    "question": "A「あの喫茶店、____ ____ ★ ____ があるよ。入ってみない?」 B「いいね。」",
+    "fragments": [
+      "① で",
+      "② か何か",
+      "③ テレビ",
+      "④ 見たこと"
+    ],
+    "image": "image_import_2f97c0fee572_slide_0002.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "gemini_order": [
+      3,
+      2,
+      1,
+      4,
+      4
+    ],
+    "order": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "old_answer": "④ 見たこと",
+    "corrected": true,
+    "new": {
+      "id": 1780328966579,
+      "question": "A「あの喫茶店、____ ____ ★ ____ があるよ。入ってみない?」 B「いいね。」",
+      "fragments": [
+        "① で",
+        "② か何か",
+        "③ テレビ",
+        "④ 見たこと"
+      ],
+      "completed_sentence": "A「あの喫茶店、テレビか何かで見たことがあるよ。入ってみない?」 B「いいね。」",
+      "correct_order": "③→②→①→④",
+      "star_answer": "① で",
+      "tip": "• Cụm 「〜か何か」 (②) thường đi sau danh từ để chỉ sự không chắc chắn, vậy 「テレビ」 (③) sẽ đứng trước nó: 「テレビか何か」.\n• 「見たことがある」 (④) là một cụm cố định, nghĩa là \"đã từng nhìn thấy\".\n• 「で」 (①) đứng trước 「見たことがある」 để chỉ phương tiện (trên TV): 「〜で見たことがある」. Ghép lại: 「テレビか何かで見たことがある」. Thứ tự là ③→②→①→④. Mảnh ở ★ là ①.",
+      "grammar_point": "Nか何か, NでV, Vたことがある"
+    }
+  },
+  {
+    "note_id": 1780328967131,
+    "question": "弾けば____ ____ ★ ____自分でもわかり、とても楽しい。",
+    "fragments": [
+      "① 上手に",
+      "② ひくほど",
+      "③ なっていくのが",
+      "④ 弾けるように"
+    ],
+    "image": "image_import_52f4165bb417_slide_0003.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "④ 弾けるように",
+    "corrected": false,
+    "new": {
+      "id": 1780328967131,
+      "question": "弾けば____ ____ ★ ____自分でもわかり、とても楽しい。",
+      "fragments": [
+        "① 上手に",
+        "② ひくほど",
+        "③ なっていくのが",
+        "④ 弾けるように"
+      ],
+      "completed_sentence": "弾けば弾くほど上手に弾けるようになっていくのが自分でもわかり、とても楽しい。",
+      "correct_order": "②→①→④→③",
+      "star_answer": "④ 弾けるように",
+      "tip": "• Nhận diện ngay cấu trúc 「VばVほど」. Ở đây là 「弾けば」, vậy mảnh tiếp theo phải là 「ひくほど」 (②).\n• Sau đó là trạng từ 「上手に」 (①) bổ nghĩa cho động từ.\n• Cụm 「〜ようになる」 (trở nên có thể làm gì) là một cấu trúc cố định. Vậy sau 「上手に」 sẽ là 「弾けるように」 (④).\n• Cuối cùng, 「なっていくのが」 (③) hoàn thành ý \"trở nên như thế nào đó\". Thứ tự là ②→①→④→③. Mảnh ở ★ là ④.",
+      "grammar_point": "VばVほど, Vるようになる, Vていく"
+    }
+  },
+  {
+    "note_id": 1780328967681,
+    "question": "今の会社に就職したときに、北町で一人暮らしを始めた。会社から遠い____ ____ ★ ____からだ。",
+    "fragments": [
+      "① 北町を選んだ",
+      "② のは",
+      "③ ずっと北町に住んでみたかった",
+      "④ のに"
+    ],
+    "image": "image_import_8df5f529ed29_slide_0004.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "old_answer": "② のは",
+    "corrected": false,
+    "new": {
+      "id": 1780328967681,
+      "question": "今の会社に就職したときに、北町で一人暮らしを始めた。会社から遠い____ ____ ★ ____からだ。",
+      "fragments": [
+        "① 北町を選んだ",
+        "② のは",
+        "③ ずっと北町に住んでみたかった",
+        "④ のに"
+      ],
+      "completed_sentence": "今の会社に就職したときに、北町で一人暮らしを始めた。会社から遠いのに北町を選んだのはずっと北町に住んでみたかったからだ。",
+      "correct_order": "④→①→②→③",
+      "star_answer": "② のは",
+      "tip": "• Cụm 「会社から遠い」 (xa công ty) và 「北町を選んだ」 (chọn Kitamachi) có ý nghĩa đối lập, nên cần dùng 「のに」 (④) để nối: 「会社から遠いのに」.\n• Sau đó là hành động 「北町を選んだ」 (①).\n• Cả cụm 「会社から遠いのに北町を選んだ」 được danh từ hóa bằng 「の」 và làm chủ ngữ bằng 「は」: 「〜のは」 (②).\n• Cuối cùng, giải thích lý do bằng 「〜からだ」, vậy mảnh cuối là 「ずっと北町に住んでみたかった」 (③). Thứ tự là ④→①→②→③. Mảnh ở ★ là ②.",
+      "grammar_point": "V/A/Na/Nのに, V/A/Na/Nのは〜からだ"
+    }
+  },
+  {
+    "note_id": 1780328968213,
+    "question": "お風呂は家の中でも特にカビが生えやすい場所だ。カビを防ぐ____ ____ ★ ____ 重要らしい。",
+    "fragments": [
+      "① ことが",
+      "② 使った後",
+      "③ ぬれたままにしない",
+      "④ ためには"
+    ],
+    "image": "image_import_6b2375e38c6a_slide_0005.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "old_answer": "③ ぬれたままにしない",
+    "corrected": false,
+    "new": {
+      "id": 1780328968213,
+      "question": "お風呂は家の中でも特にカビが生えやすい場所だ。カビを防ぐ____ ____ ★ ____ 重要らしい。",
+      "fragments": [
+        "① ことが",
+        "② 使った後",
+        "③ ぬれたままにしない",
+        "④ ためには"
+      ],
+      "completed_sentence": "お風呂は家の中でも特にカビが生えやすい場所だ。カビを防ぐためには使った後ぬれたままにしないことが重要らしい。",
+      "correct_order": "④→②→③→①",
+      "star_answer": "③ ぬれたままにしない",
+      "tip": "• Cụm 「カビを防ぐ」 (ngăn nấm mốc) cần mục đích, nên dùng 「ためには」 (④): 「カビを防ぐためには」.\n• Sau đó là hành động cần làm: 「使った後」 (②) (sau khi dùng).\n• Tiếp theo là hành động cụ thể: 「ぬれたままにしない」 (③) (không để ẩm ướt).\n• Cả cụm 「使った後ぬれたままにしない」 được danh từ hóa bằng 「こと」 (①) để làm chủ ngữ cho 「が重要らしい」. Thứ tự là ④→②→③→①. Mảnh ở ★ là ③.",
+      "grammar_point": "Vるためには, Vた後, Vないこと, Nが重要だ"
+    }
+  },
+  {
+    "note_id": 1780328968743,
+    "question": "今年の夏も暑いが、____ ____ ★ ____ ずっと涼しく感じる。",
+    "fragments": [
+      "① 異常な",
+      "② 比べると",
+      "③ 暑さだった",
+      "④ 去年の夏に"
+    ],
+    "image": "image_import_3f9803ac6ce4_slide_0006.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "order": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "old_answer": "④ 去年の夏に",
+    "corrected": false,
+    "new": {
+      "id": 1780328968743,
+      "question": "今年の夏も暑いが、____ ____ ★ ____ ずっと涼しく感じる。",
+      "fragments": [
+        "① 異常な",
+        "② 比べると",
+        "③ 暑さだった",
+        "④ 去年の夏に"
+      ],
+      "completed_sentence": "今年の夏も暑いが、異常な暑さだった去年の夏に比べるとずっと涼しく感じる。",
+      "correct_order": "①→③→④→②",
+      "star_answer": "④ 去年の夏に",
+      "tip": "• Cụm 「〜に比べると」 (②) là một cấu trúc so sánh cố định, vậy nó sẽ đứng cuối cùng trong cụm so sánh.\n• Trước 「に比べると」 (②) phải là danh từ hoặc mệnh đề danh từ. Ở đây là 「去年の夏」 (④).\n• 「異常な」 (①) là tính từ đuôi な, bổ nghĩa cho danh từ 「暑さ」 (③).\n• 「暑さだった」 (③) là danh từ + trợ từ 「だ」 (quá khứ) để mô tả 「去年の夏」. Ghép lại: 「異常な暑さだった去年の夏に比べると」. Thứ tự là ①→③→④→②. Mảnh ở ★ là ④.",
+      "grammar_point": "Nに比べると, AなN, NだったN"
+    }
+  },
+  {
+    "note_id": 1780328969284,
+    "question": "A「明後日のサッカーの試合、応援に行くね。天気予報では曇りと言っていたけど、雨だったら中止になる？」 B「ありがとう。もし____ ____ ★ ____、応援には無理して来なくてもいいよ。」",
+    "fragments": [
+      "① 雨が降ったら",
+      "② 試合は",
+      "③ 雨が降ったとしても",
+      "④ 中止にならないんだけど"
+    ],
+    "image": "image_import_2f4c4f9acb9c_slide_0007.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      4
+    ],
+    "order": [
+      3,
+      2,
+      4
+    ],
+    "old_answer": "② 試合は",
+    "corrected": false,
+    "new": {
+      "id": 1780328969284,
+      "question": "A「明後日のサッカーの試合、応援に行くね。天気予報では曇りと言っていたけど、雨だったら中止になる？」 B「ありがとう。もし____ ____ ★ ____、応援には無理して来なくてもいいよ。」",
+      "fragments": [
+        "① 雨が降ったら",
+        "② 試合は",
+        "③ 雨が降ったとしても",
+        "④ 中止にならないんだけど"
+      ],
+      "completed_sentence": "もし雨が降ったとしても試合は中止にならないんだけど、応援には無理して来なくてもいいよ。",
+      "correct_order": "③→②→④",
+      "star_answer": "④ 中止にならないんだけど",
+      "tip": "• Cụm ngữ pháp 「もし〜としても」 (dù cho/ngay cả khi) là một cặp cố định, vậy ③ 雨が降ったとしても sẽ đứng đầu vế điều kiện.\n• Sau đó, cần một chủ ngữ cho vế sau, đó là 「試合は」 (②).\n• Cuối cùng, 「中止にならないんだけど」 (④) hoàn thành vế điều kiện, với 「〜んだけど」 diễn tả sự giải thích hoặc tiền đề cho vế sau.",
+      "grammar_point": "〜としても"
+    }
+  },
+  {
+    "note_id": 1780328969847,
+    "question": "山川大学では、新入生が ____ ____ ★ ____ について、毎年4月にアンケート調査を行っている。",
+    "fragments": [
+      "① 大学生活",
+      "② 持っている",
+      "③ に対して",
+      "④ イメージ"
+    ],
+    "image": "image_import_b488e83c3c6b_slide_0008.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "② 持っている",
+    "corrected": false,
+    "new": {
+      "id": 1780328969847,
+      "question": "山川大学では、新入生が ____ ____ ★ ____ について、毎年4月にアンケート調査を行っている。",
+      "fragments": [
+        "① 大学生活",
+        "② 持っている",
+        "③ に対して",
+        "④ イメージ"
+      ],
+      "completed_sentence": "山川大学では、新入生が大学生活に対して持っているイメージについて、毎年4月にアンケート調査を行っている。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② 持っている",
+      "tip": "• Tìm cụm danh từ lớn: 「イメージについて」 (về hình ảnh). Hình ảnh gì? 「持っているイメージ」 (hình ảnh đang có).\n• Có hình ảnh về cái gì? 「大学生活に対して」 (đối với cuộc sống đại học).\n• Ghép các mảnh theo thứ tự: ①大学生活 → ③に対して → ②持っている → ④イメージ.",
+      "grammar_point": "Nに対してV"
+    }
+  },
+  {
+    "note_id": 1780328970390,
+    "question": "来週の夫の誕生日には、____ ____ ★ ____ つもりだ。",
+    "fragments": [
+      "① 最近",
+      "② プレゼントする",
+      "③ かばんを",
+      "④ 欲しがっている"
+    ],
+    "image": "image_import_1c467dcc7f4e_slide_0009.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③ かばんを",
+    "corrected": false,
+    "new": {
+      "id": 1780328970390,
+      "question": "来週の夫の誕生日には、____ ____ ★ ____ つもりだ。",
+      "fragments": [
+        "① 最近",
+        "② プレゼントする",
+        "③ かばんを",
+        "④ 欲しがっている"
+      ],
+      "completed_sentence": "来週の夫の誕生日には、最近欲しがっているかばんをプレゼントするつもりだ。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ かばんを",
+      "tip": "• Động từ chính là 「プレゼントする」 (②). Tặng cái gì? 「かばんを」 (③) sẽ đi với 「プレゼントする」.\n• Túi xách như thế nào? 「欲しがっているかばん」 (④+③) là túi xách mà anh ấy đang muốn.\n• Muốn từ khi nào? 「最近」 (①) bổ nghĩa cho 「欲しがっている」. Vậy thứ tự là ①→④→③→②.",
+      "grammar_point": "Vたがっている"
+    }
+  },
+  {
+    "note_id": 1780328970928,
+    "question": "私は、健康の ____ ____ ★ ____ 。",
+    "fragments": [
+      "① している",
+      "② ために",
+      "③ 毎日8時間以上寝る",
+      "④ ように"
+    ],
+    "image": "image_import_4d26ad75f3f3_slide_0010.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "old_answer": "④ ように",
+    "corrected": false,
+    "new": {
+      "id": 1780328970928,
+      "question": "私は、健康の ____ ____ ★ ____ 。",
+      "fragments": [
+        "① している",
+        "② ために",
+        "③ 毎日8時間以上寝る",
+        "④ ように"
+      ],
+      "completed_sentence": "私は、健康のために毎日8時間以上寝るようにしている。",
+      "correct_order": "②→③→④→①",
+      "star_answer": "④ ように",
+      "tip": "• Cụm cố định: 「〜のために」 (vì/để). Vậy ② ために sẽ đứng sau 「健康の」.\n• Cụm cố định: 「〜ようにしている」 (cố gắng làm gì). Vậy ④ ように và ① している sẽ đi liền nhau ở cuối câu.\n• Động từ chính 「毎日8時間以上寝る」 (③) sẽ đứng trước 「ようにしている」. Thứ tự đúng là ②→③→④→①.",
+      "grammar_point": "Vる/ないようにする"
+    }
+  },
+  {
+    "note_id": 1780328971473,
+    "question": "部長が ____ ____ ★ ____ クッキーがとてもおいしいので、私も東京に行くことがあったら、買おうと思う。",
+    "fragments": [
+      "① たびに",
+      "② 買ってきてくれる",
+      "③ お土産の",
+      "④ 東京へ出張に行く"
+    ],
+    "image": "image_import_cb0cb41f570d_slide_0011.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "old_answer": "② 買ってきてくれる",
+    "corrected": false,
+    "new": {
+      "id": 1780328971473,
+      "question": "部長が ____ ____ ★ ____ クッキーがとてもおいしいので、私も東京に行くことがあったら、買おうと思う。",
+      "fragments": [
+        "① たびに",
+        "② 買ってきてくれる",
+        "③ お土産の",
+        "④ 東京へ出張に行く"
+      ],
+      "completed_sentence": "部長が東京へ出張に行くたびに買ってきてくれるお土産のクッキーがとてもおいしいので、私も東京に行くことがあったら、買おうと思う。",
+      "correct_order": "④→①→②→③",
+      "star_answer": "② 買ってきてくれる",
+      "tip": "• Cụm cố định: 「Vるたびに」 (mỗi khi V). Vậy ④ 東京へ出張に行く sẽ đi với ① たびに.\n• Cụm danh từ lớn: 「お土産のクッキー」 (bánh quy quà lưu niệm). Vậy ③ お土産の sẽ đứng trước 「クッキー」.\n• Động từ 「買ってきてくれる」 (②) bổ nghĩa cho 「お土産のクッキー」. Thứ tự đúng là ④→①→②→③.",
+      "grammar_point": "Vるたびに"
+    }
+  },
+  {
+    "note_id": 1780328972026,
+    "question": "私はこの図書館が好きだ。広くて本の数が多い ____ ____ ★ ____ いい。",
+    "fragments": [
+      "① 景色を楽しみながら",
+      "② 大きな窓から海が見えて",
+      "③ だけでなく",
+      "④ 読書ができるのも"
+    ],
+    "image": "image_import_68047c19572f_slide_0012.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "order": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "old_answer": "① 景色を楽しみながら",
+    "corrected": false,
+    "new": {
+      "id": 1780328972026,
+      "question": "私はこの図書館が好きだ。広くて本の数が多い ____ ____ ★ ____ いい。",
+      "fragments": [
+        "① 景色を楽しみながら",
+        "② 大きな窓から海が見えて",
+        "③ だけでなく",
+        "④ 読書ができるのも"
+      ],
+      "completed_sentence": "私はこの図書館が好きだ。広くて本の数が多いだけでなく大きな窓から海が見えて景色を楽しみながら読書ができるのもいい。",
+      "correct_order": "③→②→①→④",
+      "star_answer": "① 景色を楽しみながら",
+      "tip": "• Cụm cố định: 「〜だけでなく〜もいい」 (không chỉ A mà B cũng tốt). Vậy ③ だけでなく sẽ đứng sau vế thứ nhất.\n• Tìm động từ chính của vế sau: 「読書ができる」 (có thể đọc sách). Làm gì trong khi đọc sách? 「景色を楽しみながら」 (①) sẽ đi với 「読書ができる」.\n• Cảnh gì? 「大きな窓から海が見えて」 (②) bổ nghĩa cho 「景色を楽しみながら」. Thứ tự đúng là ③→②→①→④.",
+      "grammar_point": "〜だけでなく〜も"
+    }
+  },
+  {
+    "note_id": 1780328972585,
+    "question": "朝、近所のパン屋の前を通ると、パン ____ ____ ★ ____ する。",
+    "fragments": [
+      "① が",
+      "② 焼ける",
+      "③ の",
+      "④ いいにおい"
+    ],
+    "image": "image_import_d95abf2555e9_slide_0013.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "④ いいにおい",
+    "corrected": false,
+    "new": {
+      "id": 1780328972585,
+      "question": "朝、近所のパン屋の前を通ると、パン ____ ____ ★ ____ する。",
+      "fragments": [
+        "① が",
+        "② 焼ける",
+        "③ の",
+        "④ いいにおい"
+      ],
+      "completed_sentence": "朝、近所のパン屋の前を通ると、パン の 焼ける いいにおい が する。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ いいにおい",
+      "tip": "• Tìm cặp cố định: 「いいにおい が する」 (có mùi thơm) là một cụm từ rất hay đi cùng nhau. Vậy `④ いいにおい` và `① が` phải đứng cạnh nhau, với `① が` ngay trước 「する」.\n• Ghép phần đầu: 「パン の 焼ける」 (bánh mì đang nướng/mùi bánh mì nướng) là cách diễn đạt tự nhiên. Vậy `③ の` và `② 焼ける` đi liền nhau.\n• Sắp xếp: Ghép các mảnh lại ta được 「パン の 焼ける いいにおい が する」. Mảnh ở vị trí ★ là `④ いいにおい`.",
+      "grammar_point": "NのVる + いいにおいがする"
+    }
+  },
+  {
+    "note_id": 1780328973142,
+    "question": "平日はなかなか運動する時間がないので、日常生活の中で、エレベーターではなくて階段を ____ ____ ★ ____ とかしている。",
+    "fragments": [
+      "① とか",
+      "② 歩く",
+      "③ 使う",
+      "④ スピードを速くする"
+    ],
+    "image": "image_import_5726784ed5b1_slide_0014.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "gemini_order": [
+      3,
+      1,
+      2,
+      4,
+      3,
+      1,
+      2,
+      4,
+      4
+    ],
+    "order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "old_answer": "④ スピードを速くする",
+    "corrected": true,
+    "new": {
+      "id": 1780328973142,
+      "question": "平日はなかなか運動する時間がないので、日常生活の中で、エレベーターではなくて階段を ____ ____ ★ ____ とかしている。",
+      "fragments": [
+        "① とか",
+        "② 歩く",
+        "③ 使う",
+        "④ スピードを速くする"
+      ],
+      "completed_sentence": "平日はなかなか運動する時間がないので、日常生活の中で、エレベーターではなくて階段を 使う とか 歩く スピードを速くする とかしている。",
+      "correct_order": "③→①→②→④",
+      "star_answer": "② 歩く",
+      "tip": "• Tìm cấu trúc cặp: Cấu trúc 「〜とか〜とかする」 dùng để liệt kê các hành động tương tự nhau (làm những việc như A, B...). Vậy ta cần tìm hai hành động.\n• Hành động 1: 「階段を 使う」 (dùng cầu thang) là một hành động rõ ràng. Vậy `③ 使う` đứng đầu.\n• Hành động 2: 「歩く スピードを速くする」 (tăng tốc độ đi bộ) là một cụm động từ hoàn chỉnh. Vậy `② 歩く` và `④ スピードを速くする` đi liền nhau.\n• Sắp xếp: Ghép lại ta có 「使う とか 歩く スピードを速くする とかしている」. Mảnh ở vị trí ★ là `② 歩く`.",
+      "grammar_point": "Vる とか Vる とかする"
+    }
+  },
+  {
+    "note_id": 1780328973677,
+    "question": "森田「西山さん、新しいアルバイトはどうですか。」 西山「始めた ____ ____ ★ ____ 大変ですが、楽しいです。」",
+    "fragments": [
+      "① 多くて",
+      "② 覚えなければいけない",
+      "③ ことが",
+      "④ ばかりなので"
+    ],
+    "image": "image_import_6712ddc54b82_slide_0015.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "gemini_order": [
+      4,
+      2,
+      3,
+      1,
+      4,
+      2,
+      3,
+      1,
+      1
+    ],
+    "order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "old_answer": "① 多くて",
+    "corrected": true,
+    "new": {
+      "id": 1780328973677,
+      "question": "森田「西山さん、新しいアルバイトはどうですか。」 西山「始めた ____ ____ ★ ____ 大変ですが、楽しいです。」",
+      "fragments": [
+        "① 多くて",
+        "② 覚えなければいけない",
+        "③ ことが",
+        "④ ばかりなので"
+      ],
+      "completed_sentence": "森田「西山さん、新しいアルバイトはどうですか。」 西山「始めた ばかりなので 覚えなければいけない ことが 多くて 大変ですが、楽しいです。」",
+      "correct_order": "④→②→③→①",
+      "star_answer": "③ ことが",
+      "tip": "• Tìm mỏ neo đầu câu: 「始めた」 (đã bắt đầu) thường đi với 「ばかりなので」 (vì vừa mới...). Vậy `④ ばかりなので` đứng ngay sau 「始めた」.\n• Tìm cụm danh từ: 「覚えなければいけない」 (phải nhớ/học) là một mệnh đề bổ nghĩa cho danh từ. Danh từ phù hợp ở đây là 「こと」 (việc/điều). Vậy `② 覚えなければいけない` và `③ ことが` đi liền nhau.\n• Tìm liên từ: 「〜が多くて」 (có nhiều, và...) dùng để nối hai vế câu, diễn tả nguyên nhân. Vậy `① 多くて` đứng cuối cùng trong chuỗi nguyên nhân.\n• Sắp xếp: Ghép lại ta có 「始めた ばかりなので 覚えなければいけない ことが 多くて」. Mảnh ở vị trí ★ là `③ ことが`.",
+      "grammar_point": "Vたばかり, Vなければならない, NがV"
+    }
+  },
+  {
+    "note_id": 1780328974222,
+    "question": "初めて登山をしたとき、山の上からの景色を見て、____ ____ ★ ____ と感動した。",
+    "fragments": [
+      "① きれいな",
+      "② なんて",
+      "③ なんだろう",
+      "④ 眺め"
+    ],
+    "image": "image_import_38c918fffde7_slide_0016.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "④ 眺め",
+    "corrected": false,
+    "new": {
+      "id": 1780328974222,
+      "question": "初めて登山をしたとき、山の上からの景色を見て、____ ____ ★ ____ と感動した。",
+      "fragments": [
+        "① きれいな",
+        "② なんて",
+        "③ なんだろう",
+        "④ 眺め"
+      ],
+      "completed_sentence": "初めて登山をしたとき、山の上からの景色を見て、なんて きれいな 眺め なんだろう と感動した。",
+      "correct_order": "②→①→④→③",
+      "star_answer": "④ 眺め",
+      "tip": "• Tìm cấu trúc cảm thán: Cụm từ 「なんて〜なんだろう」 (Thật là ~ biết bao!) dùng để diễn tả sự ngạc nhiên, cảm thán. Vậy `② なんて` đứng đầu và `③ なんだろう` đứng cuối cụm này.\n• Tìm tính từ và danh từ: 「きれいな」 (đẹp) là tính từ đuôi na, bổ nghĩa cho danh từ 「眺め」 (cảnh vật/phong cảnh). Vậy `① きれいな` và `④ 眺め` đi liền nhau.\n• Sắp xếp: Ghép lại ta có 「なんて きれいな 眺め なんだろう」. Mảnh ở vị trí ★ là `④ 眺め`.",
+      "grammar_point": "なんて〜なんだろう"
+    }
+  },
+  {
+    "note_id": 1780328974774,
+    "question": "田中「ねえ、知ってる? 営業課の山下さん、来月 ____ ____ ★ ____」 石川「え、そうなんだ。 知らなかった。」",
+    "fragments": [
+      "① 結婚するんだ",
+      "② って",
+      "③ と",
+      "④ 受付の林さん"
+    ],
+    "image": "image_import_1cb41b5d06e9_slide_0017.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "old_answer": "① 結婚するんだ",
+    "corrected": false,
+    "new": {
+      "id": 1780328974774,
+      "question": "田中「ねえ、知ってる? 営業課の山下さん、来月 ____ ____ ★ ____」 石川「え、そうなんだ。 知らなかった。」",
+      "fragments": [
+        "① 結婚するんだ",
+        "② って",
+        "③ と",
+        "④ 受付の林さん"
+      ],
+      "completed_sentence": "田中「ねえ、知ってる? 営業課の山下さん、来月 受付の林さん と 結婚するんだ って」 石川「え、そうなんだ。 知らなかった。」",
+      "correct_order": "④→③→①→②",
+      "star_answer": "① 結婚するんだ",
+      "tip": "• Tìm mỏ neo cuối câu: 「〜って」 (`② って`) thường dùng để trích dẫn lời nói hoặc tin đồn một cách thân mật, đứng cuối câu trích dẫn.\n• Tìm động từ chính: 「来月」 (tháng tới) thường đi với hành động sẽ xảy ra. 「結婚するんだ」 (sẽ kết hôn) là động từ phù hợp. Vậy `① 結婚するんだ` đứng trước `② って`.\n• Tìm đối tượng: 「結婚する」 (kết hôn) thường đi với 「Nと」 (kết hôn với N). Vậy 「受付の林さん」 (`④ 受付の林さん`) và 「と」 (`③ と`) đi liền nhau.\n• Sắp xếp: Ghép lại ta có 「受付の林さん と 結婚するんだ って」. Mảnh ở vị trí ★ là `① 結婚するんだ`.",
+      "grammar_point": "Nと結婚する, 〜って"
+    }
+  },
+  {
+    "note_id": 1780328975334,
+    "question": "私は歌手の石川あかりが大好きだ。彼女＿＿＿＿★＿＿いないと思う。",
+    "fragments": [
+      "① 声がきれいな",
+      "② は",
+      "③ 歌手",
+      "④ ほど"
+    ],
+    "image": "image_import_514b9ca7f785_slide_0018.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "old_answer": "①",
+    "corrected": false,
+    "new": {
+      "id": 1780328975334,
+      "question": "私は歌手の石川あかりが大好きだ。彼女＿＿＿＿★＿＿いないと思う。",
+      "fragments": [
+        "① 声がきれいな",
+        "② は",
+        "③ 歌手",
+        "④ ほど"
+      ],
+      "completed_sentence": "私は歌手の石川あかりが大好きだ。彼女 ほど 声がきれいな 歌手 は いないと思う。",
+      "correct_order": "④→①→③→②",
+      "star_answer": "③ 歌手",
+      "tip": "• Tìm cấu trúc so sánh: Cấu trúc 「Nほど〜はいない」 (không có ai/cái gì ~ bằng N) dùng để diễn tả sự so sánh tuyệt đối. Vậy `④ ほど` đứng sau 「彼女」 và `② は` đứng cuối cùng trong cụm so sánh.\n• Tìm cụm bổ nghĩa: 「声がきれいな」 (có giọng hát đẹp) là một cụm tính từ bổ nghĩa cho danh từ 「歌手」 (ca sĩ). Vậy `① 声がきれいな` và `③ 歌手` đi liền nhau.\n• Sắp xếp: Ghép lại ta có 「彼女 ほど 声がきれいな 歌手 は いないと思う」. Mảnh ở vị trí ★ là `③ 歌手`.",
+      "grammar_point": "Nほど〜はいない"
+    }
+  },
+  {
+    "note_id": 1780328975869,
+    "question": "最近は野菜や魚などの食料品も____ ____ ★ ____ ニュースで知った。",
+    "fragments": [
+      "① 人が",
+      "② 増えてきている",
+      "③ インターネットで買う",
+      "④ ということを"
+    ],
+    "image": "image_import_72e4c959584d_slide_0019.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "gemini_order": [
+      3,
+      1,
+      2,
+      4,
+      2
+    ],
+    "order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "old_answer": "② 増えてきている",
+    "corrected": true,
+    "new": {
+      "id": 1780328975869,
+      "question": "最近は野菜や魚などの食料品も____ ____ ★ ____ ニュースで知った。",
+      "fragments": [
+        "① 人が",
+        "② 増えてきている",
+        "③ インターネットで買う",
+        "④ ということを"
+      ],
+      "completed_sentence": "最近は野菜や魚などの食料品もインターネットで買う人が増えてきているということをニュースで知った。",
+      "correct_order": "③→①→②→④",
+      "star_answer": "② 増えてきている",
+      "tip": "• Tìm cặp cố định: `インターネットで買う` (③) bổ nghĩa cho `人が` (①) tạo thành `インターネットで買う人` (người mua trên mạng).\n• `人が増えてきている` (①→②) là cụm động từ chỉ sự tăng lên của số người.\n• Cuối cùng, `〜ということを知った` (biết được rằng...) là cấu trúc cố định để kết thúc câu.",
+      "grammar_point": "Vる/N + が増える/減る, 〜ということを知る"
+    }
+  },
+  {
+    "note_id": 1780328976427,
+    "question": "(大学で) 中山「林先輩、ゼミの発表で使う資料を作ったんですが、____ ____ ★ ____でしょうか。」",
+    "fragments": [
+      "① もらえない",
+      "② ところがあるので",
+      "③ 一度チェックして",
+      "④ 自信がない"
+    ],
+    "image": "image_import_c3e5b5f1c5b9_slide_0020.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "old_answer": "③ 一度チェックして",
+    "corrected": false,
+    "new": {
+      "id": 1780328976427,
+      "question": "(大学で) 中山「林先輩、ゼミの発表で使う資料を作ったんですが、____ ____ ★ ____でしょうか。」",
+      "fragments": [
+        "① もらえない",
+        "② ところがあるので",
+        "③ 一度チェックして",
+        "④ 自信がない"
+      ],
+      "completed_sentence": "林先輩、ゼミの発表で使う資料を作ったんですが、自信がないところがあるので一度チェックしてもらえないでしょうか。",
+      "correct_order": "④→②→③→①",
+      "star_answer": "③ 一度チェックして",
+      "tip": "• Tìm cặp cố định: `自信がない` (④) + `ところがあるので` (②) tạo thành `自信がないところがあるので` (vì có những chỗ không tự tin).\n• Tìm cấu trúc nhờ vả lịch sự: `一度チェックして` (③) + `もらえないでしょうか` (①) tạo thành `一度チェックしてもらえないでしょうか` (liệu có thể kiểm tra giúp tôi một lần được không?).\n• Ghép hai cụm lại theo thứ tự lý do rồi đến yêu cầu.",
+      "grammar_point": "Vる/Vない + ところがある, Vて + もらえないでしょうか"
+    }
+  },
+  {
+    "note_id": 1780328976970,
+    "question": "今朝は急いでいたから、____ ____ ★ ____してしまった。",
+    "fragments": [
+      "① 玄関の電気を消すのを",
+      "② きて",
+      "③ 家を出て",
+      "④ 忘れて"
+    ],
+    "image": "image_import_8af27098c5d3_slide_0021.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③ 家を出て",
+    "corrected": false,
+    "new": {
+      "id": 1780328976970,
+      "question": "今朝は急いでいたから、____ ____ ★ ____してしまった。",
+      "fragments": [
+        "① 玄関の電気を消すのを",
+        "② きて",
+        "③ 家を出て",
+        "④ 忘れて"
+      ],
+      "completed_sentence": "今朝は急いでいたから、玄関の電気を消すのを忘れて家を出てきてしまった。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ 家を出て",
+      "tip": "• Tìm cặp cố định: `〜のを忘れて` (quên làm gì đó). Ở đây là `玄関の電気を消すのを` (①) + `忘れて` (④).\n• Tìm chuỗi hành động: `忘れて` (④) + `家を出て` (③) + `きて` (②) tạo thành `忘れて家を出てきてしまった` (quên rồi ra khỏi nhà mất rồi).\n• `〜てしまう` ở cuối câu thể hiện sự hối tiếc hoặc hoàn thành một hành động không mong muốn.",
+      "grammar_point": "Vる + のを忘れる, Vて + しまう, Vて + くる"
+    }
+  },
+  {
+    "note_id": 1780328977529,
+    "question": "読書が趣味の友人は、いつどんな本を読んだかを____ ____ ★ ____そうだ。",
+    "fragments": [
+      "① 必ずノートに記録する",
+      "② 忘れない",
+      "③ ように",
+      "④ ことにしている"
+    ],
+    "image": "image_import_5e7f6588b79b_slide_0022.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "old_answer": "① 必ずノートに記録する",
+    "corrected": false,
+    "new": {
+      "id": 1780328977529,
+      "question": "読書が趣味の友人は、いつどんな本を読んだかを____ ____ ★ ____そうだ。",
+      "fragments": [
+        "① 必ずノートに記録する",
+        "② 忘れない",
+        "③ ように",
+        "④ ことにしている"
+      ],
+      "completed_sentence": "読書が趣味の友人は、いつどんな本を読んだかを忘れないように必ずノートに記録することにしているそうだ。",
+      "correct_order": "②→③→①→④",
+      "star_answer": "① 必ずノートに記録する",
+      "tip": "• Tìm cặp cố định: `Vないように` (để không...). Ở đây là `忘れない` (②) + `ように` (③).\n• `忘れないように` (để không quên) thì làm gì? `必ずノートに記録する` (①) (nhất định ghi vào sổ).\n• Tìm cấu trúc chỉ thói quen/quyết định: `Vることにしている` (tạo thói quen làm gì). Ở đây là `記録することにしている` (①→④).",
+      "grammar_point": "Vない + ように, Vる + ことにしている"
+    }
+  },
+  {
+    "note_id": 1780328978085,
+    "question": "パソコンや携帯電話の____ ____ ★ ____原因で、頭が痛くなることもあるそうだ。",
+    "fragments": [
+      "① が",
+      "② による",
+      "③ 見すぎ",
+      "④ 目の疲れ"
+    ],
+    "image": "image_import_3e9ba7750533_slide_0023.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "④ 目の疲れ",
+    "corrected": false,
+    "new": {
+      "id": 1780328978085,
+      "question": "パソコンや携帯電話の____ ____ ★ ____原因で、頭が痛くなることもあるそうだ。",
+      "fragments": [
+        "① が",
+        "② による",
+        "③ 見すぎ",
+        "④ 目の疲れ"
+      ],
+      "completed_sentence": "パソコンや携帯電話の見すぎによる目の疲れが原因で、頭が痛くなることもあるそうだ。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ 目の疲れ",
+      "tip": "• `パソコンや携帯電話の` bổ nghĩa cho `見すぎ` (③) tạo thành `見すぎ` (xem quá nhiều).\n• Tìm cấu trúc chỉ nguyên nhân: `N1によるN2` (N2 do N1 gây ra). Ở đây là `見すぎ` (③) + `による` (②) + `目の疲れ` (④).\n• Cuối cùng, `Nが原因で` (do N là nguyên nhân). Ở đây là `目の疲れ` (④) + `が` (①) + `原因で`.",
+      "grammar_point": "Vすぎ, NによるN, Nが原因で"
+    }
+  },
+  {
+    "note_id": 1780328978636,
+    "question": "何回____ ★ ____嫌になってしまったのだ。",
+    "fragments": [
+      "① 上手に弾けない",
+      "② 練習しても",
+      "③ なかなか",
+      "④ 曲があって"
+    ],
+    "image": "image_import_8b951598d82a_slide_0024.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "old_answer": "①",
+    "corrected": false,
+    "new": {
+      "id": 1780328978636,
+      "question": "何回____ ★ ____嫌になってしまったのだ。",
+      "fragments": [
+        "① 上手に弾けない",
+        "② 練習しても",
+        "③ なかなか",
+        "④ 曲があって"
+      ],
+      "completed_sentence": "何回練習してもなかなか上手に弾けない曲があって嫌になってしまったのだ。",
+      "correct_order": "②→③→①→④",
+      "star_answer": "③ なかなか",
+      "tip": "• Tìm cặp cố định: `何回Vても` (dù V bao nhiêu lần đi nữa). Ở đây là `何回練習しても` (②).\n• Tìm cặp cố định: `なかなかVない` (mãi mà không V được). Ở đây là `なかなか` (③) + `上手に弾けない` (①).\n• `曲があって` (④) đứng trước để giải thích lý do/bối cảnh dẫn đến việc `嫌になってしまった` (đã ghét rồi).",
+      "grammar_point": "Vても, なかなか〜ない, Vてしまう, Nがあって"
+    }
+  },
+  {
+    "note_id": 1780328979185,
+    "question": "失敗をすることは誰にでもある。大切な____ ____ ★ ____考えて、同じ失敗を繰り返さないようにすることだ。",
+    "fragments": [
+      "① 失敗をしてしまった",
+      "② どうして",
+      "③ のか",
+      "④ のは"
+    ],
+    "image": "image_import_a93d01daeb28_slide_0025.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "gemini_order": [
+      4,
+      2,
+      1,
+      3,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "③ のか",
+    "corrected": true,
+    "new": {
+      "id": 1780328979185,
+      "question": "失敗をすることは誰にでもある。大切な____ ____ ★ ____考えて、同じ失敗を繰り返さないようにすることだ。",
+      "fragments": [
+        "① 失敗をしてしまった",
+        "② どうして",
+        "③ のか",
+        "④ のは"
+      ],
+      "completed_sentence": "失敗をすることは誰にでもある。大切な**のは** **どうして** **失敗をしてしまった** **のか**考えて、同じ失敗を繰り返さないようにすることだ。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① 失敗をしてしまった",
+      "tip": "• 「大切なのは〜だ」 là một cấu trúc quen thuộc, nên 「大切な」 sẽ đi với mảnh ghép 「④ のは」.\n• Cụm từ hỏi lý do 「どうして〜のか」 là một cặp không thể tách rời, nên 「② どうして」 sẽ đi với 「③ のか」.\n• 「失敗をしてしまった」 là hành động được hỏi lý do, nên nó sẽ nằm giữa 「どうして」 và 「のか」.",
+      "grammar_point": "〜のは〜だ, どうして〜のか"
+    }
+  },
+  {
+    "note_id": 1780328979723,
+    "question": "南「西川さんの誕生日に、何かがプレゼントをあげない?」 森「いいね。 スポーツが好きだと言っていた____ ____ ★ ____?」。",
+    "fragments": [
+      "① いいんじゃない",
+      "② から",
+      "③ とか",
+      "④ タオル"
+    ],
+    "image": "image_import_25121ef3bca2_slide_0026.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "③ とか",
+    "corrected": false,
+    "new": {
+      "id": 1780328979723,
+      "question": "南「西川さんの誕生日に、何かがプレゼントをあげない?」 森「いいね。 スポーツが好きだと言っていた____ ____ ★ ____?」。",
+      "fragments": [
+        "① いいんじゃない",
+        "② から",
+        "③ とか",
+        "④ タオル"
+      ],
+      "completed_sentence": "南「西川さんの誕生日に、何かがプレゼントをあげない?」 森「いいね。 スポーツが好きだと言っていた**から** **タオル** **とか** **いいんじゃない**?」。",
+      "correct_order": "②→④→③→①",
+      "star_answer": "③ とか",
+      "tip": "• 「〜と言っていたから」 là cách nói đưa ra lý do, nên 「② から」 sẽ nối ngay sau 「と言っていた」.\n• 「タオルとか」 là cách đưa ra ví dụ, nên 「④ タオル」 và 「③ とか」 là một cặp.\n• 「〜いいんじゃない？」 là cách đưa ra gợi ý, nên nó sẽ đứng cuối câu hỏi.",
+      "grammar_point": "〜から, 〜とか, 〜んじゃない"
+    }
+  },
+  {
+    "note_id": 1780328980288,
+    "question": "司会者「本日は、鳥の____ ____ ★ ____見ることができる様々な鳥について、お話をしていただきます。」",
+    "fragments": [
+      "① 専門家で",
+      "② 都会で",
+      "③ いらっしゃる",
+      "④ 花子先生に"
+    ],
+    "image": "image_import_6f2cfb3f8b24_slide_0027.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "order": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "old_answer": "④ 花子先生に",
+    "corrected": false,
+    "new": {
+      "id": 1780328980288,
+      "question": "司会者「本日は、鳥の____ ____ ★ ____見ることができる様々な鳥について、お話をしていただきます。」",
+      "fragments": [
+        "① 専門家で",
+        "② 都会で",
+        "③ いらっしゃる",
+        "④ 花子先生に"
+      ],
+      "completed_sentence": "司会者「本日は、鳥の**専門家で** **いらっしゃる** **花子先生に** **都会で**見ることができる様々な鳥について、お話をしていただきます。」",
+      "correct_order": "①→③→④→②",
+      "star_answer": "④ 花子先生に",
+      "tip": "• Cụm từ kính ngữ 「専門家でいらっしゃる」 (là chuyên gia) là một cặp đi liền nhau.\n• 「〜に」 thường chỉ người thực hiện hành động trong cấu trúc 「〜に〜ていただく」 (nhận được sự giúp đỡ từ ai đó).\n• 「都会で」 (ở thành phố) bổ nghĩa cho 「見ることができる」 (có thể nhìn thấy), nên nó sẽ đứng trước cụm động từ này.",
+      "grammar_point": "〜でいらっしゃる, 〜に〜ていただく, 〜で見ることができる"
+    }
+  },
+  {
+    "note_id": 1780328980837,
+    "question": "留学している息子____ ____ ★ ____毎日楽しく過ごしていると書かれていて安心した。",
+    "fragments": [
+      "① メール",
+      "② から",
+      "③ に",
+      "④ の"
+    ],
+    "image": "image_import_4384f3b79230_slide_0028.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "old_answer": "① メール",
+    "corrected": false,
+    "new": {
+      "id": 1780328980837,
+      "question": "留学している息子____ ____ ★ ____毎日楽しく過ごしていると書かれていて安心した。",
+      "fragments": [
+        "① メール",
+        "② から",
+        "③ に",
+        "④ の"
+      ],
+      "completed_sentence": "留学している息子**から** **の** **メール** **に**毎日楽しく過ごしていると書かれていて安心した。",
+      "correct_order": "②→④→①→③",
+      "star_answer": "① メール",
+      "tip": "• Cụm 「〜からのメール」 (email từ ai đó) là một cách nói thông dụng, nên 「② から」 và 「④ の」 sẽ đi với 「① メール」.\n• Trợ từ 「に」 thường dùng để chỉ nơi chốn hoặc phương tiện chứa thông tin (ví dụ: 「メールに書かれている」 - được viết trong email).\n• Ghép lại ta có 「息子からのメールに」 (trong email từ con trai).",
+      "grammar_point": "〜からの〜に"
+    }
+  },
+  {
+    "note_id": 1780328981399,
+    "question": "来週から一か月間、出張で東京に行く。 東京には、____ ____ ★ ____ 一緒に食事でもしたいと思う。",
+    "fragments": [
+      "① いるので",
+      "② いる間に",
+      "③ 友達が",
+      "④ 東京に"
+    ],
+    "image": "image_import_ebcea00c1d1f_slide_0029.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "old_answer": "④ 東京に",
+    "corrected": false,
+    "new": {
+      "id": 1780328981399,
+      "question": "来週から一か月間、出張で東京に行く。 東京には、____ ____ ★ ____ 一緒に食事でもしたいと思う。",
+      "fragments": [
+        "① いるので",
+        "② いる間に",
+        "③ 友達が",
+        "④ 東京に"
+      ],
+      "completed_sentence": "来週から一か月間、出張で東京に行く。 東京には、**友達が** **いるので** **東京に** **いる間に** 一緒に食事でもしたいと思う。",
+      "correct_order": "③→①→④→②",
+      "star_answer": "④ 東京に",
+      "tip": "• 「友達がいるので」 (vì có bạn bè) là một cụm chỉ lý do, nên 「③ 友達が」 và 「① いるので」 là một cặp.\n• 「東京にいる間に」 (trong khi ở Tokyo) là một cụm chỉ khoảng thời gian, nên 「④ 東京に」 và 「② いる間に」 là một cặp.\n• Cả hai cụm này đều bổ nghĩa cho hành động 「食事でもしたい」 (muốn ăn uống).",
+      "grammar_point": "〜ので, 〜間に"
+    }
+  },
+  {
+    "note_id": 1780328981956,
+    "question": "バイオリンが ____ ____ ★ ____ こんなに面白い楽器はないと感じる。",
+    "fragments": [
+      "① 1年前に習い始めたのだが",
+      "② ひくほど",
+      "③ 弾けば",
+      "④ 弾けるようになりたくて"
+    ],
+    "image": "image_import_ff24cf2d4ae6_slide_0030.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "old_answer": "③ 弾けば",
+    "corrected": false,
+    "new": {
+      "id": 1780328981956,
+      "question": "バイオリンが ____ ____ ★ ____ こんなに面白い楽器はないと感じる。",
+      "fragments": [
+        "① 1年前に習い始めたのだが",
+        "② ひくほど",
+        "③ 弾けば",
+        "④ 弾けるようになりたくて"
+      ],
+      "completed_sentence": "バイオリンが **弾けるようになりたくて** **1年前に習い始めたのだが** **弾けば** **ひくほど** こんなに面白い楽器はないと感じる。",
+      "correct_order": "④→①→③→②",
+      "star_answer": "③ 弾けば",
+      "tip": "• Cấu trúc 「Vば〜Vほど」 (càng V càng...) là một cặp ngữ pháp cố định, nên 「③ 弾けば」 và 「② ひくほど」 phải đi liền nhau.\n• 「〜たくて」 (muốn làm gì đó, nên) chỉ lý do hoặc mong muốn.\n• 「〜のだが」 (nhưng mà) dùng để nối hai vế câu có ý đối lập hoặc bổ sung thông tin.",
+      "grammar_point": "Vば〜Vほど, 〜たくて, 〜のだが"
+    }
+  },
+  {
+    "note_id": 1780328982514,
+    "question": "A「お誕生日おめでとう。これ、プレゼントだよ」 B「わあ、かばんだ、ちょうど ____ ____ ★ ____ んだ。ありがとう」。",
+    "fragments": [
+      "① こういう色の",
+      "② ほしい",
+      "③ と思っていた",
+      "④ かばんが"
+    ],
+    "image": "image_import_bb656ab07b65_slide_0031.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "old_answer": "② ほしい",
+    "corrected": false,
+    "new": {
+      "id": 1780328982514,
+      "question": "A「お誕生日おめでとう。これ、プレゼントだよ」 B「わあ、かばんだ、ちょうど ____ ____ ★ ____ んだ。ありがとう」。",
+      "fragments": [
+        "① こういう色の",
+        "② ほしい",
+        "③ と思っていた",
+        "④ かばんが"
+      ],
+      "completed_sentence": "わあ、かばんだ、ちょうどこういう色のかばんがほしいと思っていたんだ。ありがとう。",
+      "correct_order": "①→④→②→③",
+      "star_answer": "② ほしい",
+      "tip": "• Tìm cặp đi liền nhau: 「こういう色の」 (①) bổ nghĩa cho danh từ 「かばんが」 (④). Ghép thành 「こういう色のかばんが」.\n• Cặp tiếp theo là 「ほしい」 (②) và 「と思っていた」 (③) tạo thành cụm 「ほしいと思っていた」 (đã nghĩ là muốn).\n• Ghép lại: 「ちょうど」 + 「①④」 + 「②③」 + 「んだ」。\n• Mảnh ở vị trí ★ là mảnh thứ 3 trong chuỗi.",
+      "grammar_point": "Nがほしい (muốn N), Vたい (muốn V), Vたいと思っている (đang nghĩ là muốn V)"
+    }
+  },
+  {
+    "note_id": 1780328983063,
+    "question": "都会と田舎には違うところも多いがどちらも人が働き、____ ____ ★ ____ 。",
+    "fragments": [
+      "① という点で",
+      "② 違いは",
+      "③ 生活している",
+      "④ ない"
+    ],
+    "image": "image_import_5c44a19824b4_slide_0032.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "old_answer": "② 違いは",
+    "corrected": false,
+    "new": {
+      "id": 1780328983063,
+      "question": "都会と田舎には違うところも多いがどちらも人が働き、____ ____ ★ ____ 。",
+      "fragments": [
+        "① という点で",
+        "② 違いは",
+        "③ 生活している",
+        "④ ない"
+      ],
+      "completed_sentence": "都会と田舎には違うところも多いがどちらも人が働き、生活しているという点で違いはない。",
+      "correct_order": "③→①→②→④",
+      "star_answer": "② 違いは",
+      "tip": "• Tìm cặp đi liền nhau: 「生活している」 (③) là động từ, thường đi với 「という点で」 (①) để tạo thành 「生活しているという点で」 (về điểm là đang sinh sống).\n• Cặp còn lại là 「違いは」 (②) và 「ない」 (④) tạo thành 「違いはない」 (không có sự khác biệt).\n• Ghép lại: 「どちらも人が働き、」 + 「③①」 + 「②④」。\n• Mảnh ở vị trí ★ là mảnh thứ 3 trong chuỗi.",
+      "grammar_point": "Vている (đang V), 〜という点で (về điểm là), 違いはない (không có sự khác biệt)"
+    }
+  },
+  {
+    "note_id": 1780328983626,
+    "question": "私は、森先生の授業を受けてから数学が好きになった ____ ____ ★ ____ いないと思う。",
+    "fragments": [
+      "① 先生は",
+      "② あの",
+      "③ 先生ほど",
+      "④ わかりやすく教えてくれる"
+    ],
+    "image": "image_import_3276625f742a_slide_0033.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "old_answer": "④ わかりやすく教えてくれる",
+    "corrected": false,
+    "new": {
+      "id": 1780328983626,
+      "question": "私は、森先生の授業を受けてから数学が好きになった ____ ____ ★ ____ いないと思う。",
+      "fragments": [
+        "① 先生は",
+        "② あの",
+        "③ 先生ほど",
+        "④ わかりやすく教えてくれる"
+      ],
+      "completed_sentence": "私は、森先生の授業を受けてから数学が好きになったあの先生ほどわかりやすく教えてくれる先生はいないと思う。",
+      "correct_order": "②→③→④→①",
+      "star_answer": "④ わかりやすく教えてくれる",
+      "tip": "• Tìm cặp đi liền nhau: 「あの」 (②) bổ nghĩa cho danh từ 「先生ほど」 (③). Ghép thành 「あの先生ほど」 (bằng thầy đó).\n• Cụm 「わかりやすく教えてくれる」 (④) mô tả cách dạy của giáo viên.\n• Cấu trúc so sánh phủ định 「〜ほど〜ない」 (không ~ bằng ~) là mấu chốt. Ghép 「あの先生ほど」 + 「わかりやすく教えてくれる」 + 「先生は」 (①) + 「いないと思う」。\n• Mảnh ở vị trí ★ là mảnh thứ 3 trong chuỗi.",
+      "grammar_point": "NほどVない (không V bằng N), Vてくれる (làm V cho ai đó), わかりやすく (một cách dễ hiểu)"
+    }
+  },
+  {
+    "note_id": 1780328984185,
+    "question": "「今日は、コーラを使った鶏肉の煮物を紹介します。鶏肉は____ ____ ★ ____ 知っていますか。」",
+    "fragments": [
+      "① 煮ることで",
+      "② 柔らかく",
+      "③ コーラで",
+      "④ なるのを"
+    ],
+    "image": "image_import_4fdd1d1026ec_slide_0034.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "old_answer": "② 柔らかく",
+    "corrected": false,
+    "new": {
+      "id": 1780328984185,
+      "question": "「今日は、コーラを使った鶏肉の煮物を紹介します。鶏肉は____ ____ ★ ____ 知っていますか。」",
+      "fragments": [
+        "① 煮ることで",
+        "② 柔らかく",
+        "③ コーラで",
+        "④ なるのを"
+      ],
+      "completed_sentence": "鶏肉はコーラで煮ることで柔らかくなるのを知っていますか。",
+      "correct_order": "③→①→②→④",
+      "star_answer": "② 柔らかく",
+      "tip": "• Tìm cặp đi liền nhau: 「コーラで」 (③) chỉ phương tiện, đi với 「煮ることで」 (①) chỉ cách thức. Ghép thành 「コーラで煮ることで」 (bằng cách ninh với Coca).\n• Cặp tiếp theo là 「柔らかく」 (②) và 「なるのを」 (④). 「柔らかく」 là trạng từ bổ nghĩa cho 「なる」 (trở nên). Ghép thành 「柔らかくなるのを」 (việc trở nên mềm).\n• Ghép lại: 「鶏肉は」 + 「③①」 + 「②④」 + 「知っていますか」。\n• Mảnh ở vị trí ★ là mảnh thứ 3 trong chuỗi.",
+      "grammar_point": "NでV (V bằng N), Vることで (bằng cách V), AdjくV (V một cách Adj), Vるのを知っていますか (bạn có biết việc V không?)"
+    }
+  },
+  {
+    "note_id": 1780328984715,
+    "question": "山下「今度、北森町に行くんだけど、北森町のレストランでどこかいいところ、知ってる?」 南「私はあまり知らないんだけど、田中さん ____ ____ ★ ____ どう?」。",
+    "fragments": [
+      "① が",
+      "② 聞いてみたら",
+      "③ から",
+      "④ 北森町に住んでいる"
+    ],
+    "image": "image_import_9fcadb98088b_slide_0035.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③ から",
+    "corrected": false,
+    "new": {
+      "id": 1780328984715,
+      "question": "山下「今度、北森町に行くんだけど、北森町のレストランでどこかいいところ、知ってる?」 南「私はあまり知らないんだけど、田中さん ____ ____ ★ ____ どう?」。",
+      "fragments": [
+        "① が",
+        "② 聞いてみたら",
+        "③ から",
+        "④ 北森町に住んでいる"
+      ],
+      "completed_sentence": "私はあまり知らないんだけど、田中さんが北森町に住んでいるから聞いてみたらどう?",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ から",
+      "tip": "• Tìm cặp đi liền nhau: 「田中さん」 + 「が」 (①) là chủ ngữ. Sau đó là mệnh đề bổ nghĩa 「北森町に住んでいる」 (④). Ghép thành 「田中さんが北森町に住んでいる」 (anh Tanaka, người sống ở Kitamori-cho).\n• 「から」 (③) ở đây mang nghĩa 'vì vậy/nên', nối mệnh đề lý do với lời đề nghị. Cụm 「聞いてみたら」 (②) + 「どう?」 là cấu trúc đề nghị 「Vたらどう?」 (thử V xem sao?).\n• Ghép lại: 「田中さん」 + 「①④」 + 「③」 + 「②」 + 「どう?」。\n• Mảnh ở vị trí ★ là mảnh thứ 3 trong chuỗi.",
+      "grammar_point": "NがV (N làm V), Vている (đang V), 〜から (vì vậy/nên), Vてみる (thử V), Vたらどうですか (thử V xem sao?)"
+    }
+  },
+  {
+    "note_id": 1780328985262,
+    "question": "林「タンさんは、夏休みに国へ帰りますか。」 タン「いいえ、今年は帰りません。日本で ____ ____ ★ ____ なので楽しみです。」",
+    "fragments": [
+      "① 今年が",
+      "② 過ごすのは",
+      "③ 初めて",
+      "④ 夏休みを"
+    ],
+    "image": "image_import_b1da20c4c368_slide_0036.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "① 今年が",
+    "corrected": false,
+    "new": {
+      "id": 1780328985262,
+      "question": "林「タンさんは、夏休みに国へ帰りますか。」 タン「いいえ、今年は帰りません。日本で ____ ____ ★ ____ なので楽しみです。」",
+      "fragments": [
+        "① 今年が",
+        "② 過ごすのは",
+        "③ 初めて",
+        "④ 夏休みを"
+      ],
+      "completed_sentence": "いいえ、今年は帰りません。日本で夏休みを過ごすのは今年が初めてなので楽しみです。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① 今年が",
+      "tip": "• Tìm cặp đi liền nhau: 「夏休みを」 (④) là tân ngữ, đi với động từ 「過ごすのは」 (②) (việc trải qua). Ghép thành 「夏休みを過ごすのは」 (việc trải qua kỳ nghỉ hè).\n• Cặp tiếp theo là 「今年が」 (①) và 「初めて」 (③) tạo thành 「今年が初めて」 (năm nay là lần đầu tiên).\n• Ghép lại: 「日本で」 + 「④②」 + 「①③」 + 「なので楽しみです」。\n• Mảnh ở vị trí ★ là mảnh thứ 3 trong chuỗi.",
+      "grammar_point": "NをV (V N), Vるの (danh từ hóa động từ), Nが初めて (lần đầu tiên của N), 〜なので (vì vậy/nên)"
+    }
+  },
+  {
+    "note_id": 1780328985807,
+    "question": "さくら大学の周りには、レストランや喫茶店などの____ ____ ★ ____ある。",
+    "fragments": [
+      "① 中心に",
+      "② 飲食店を",
+      "③ いろいろな店が",
+      "④ 本屋や美容院など"
+    ],
+    "image": "image_import_d5ee6d065331_slide_0037.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "④ 本屋や美容院など",
+    "corrected": false,
+    "new": {
+      "id": 1780328985807,
+      "question": "さくら大学の周りには、レストランや喫茶店などの____ ____ ★ ____ある。",
+      "fragments": [
+        "① 中心に",
+        "② 飲食店を",
+        "③ いろいろな店が",
+        "④ 本屋や美容院など"
+      ],
+      "completed_sentence": "さくら大学の周りには、レストランや喫茶店などの飲食店を中心に本屋や美容院などいろいろな店がある。",
+      "correct_order": "②→①→④→③",
+      "star_answer": "④ 本屋や美容院など",
+      "tip": "• Tìm cặp cố định: 「〜を」 + 「中心に」 là một cụm từ cố định, nghĩa là 'lấy... làm trung tâm'. Ghép ②飲食店を và ①中心に.\n• Sau 「〜など」 thường là một danh từ tổng quát hơn hoặc một danh từ khác cùng loại. Ở đây, 「本屋や美容院など」 là các ví dụ khác, sau đó là 「いろいろな店が」 để tổng kết.\n• Sắp xếp theo cấu trúc: 「AやBなどのCを中心にDやEなどのFがある」.",
+      "grammar_point": "〜を中心に, 〜や〜など"
+    }
+  },
+  {
+    "note_id": 1780328986344,
+    "question": "この小学生は ____ ____ ★ ____ 問題を簡単に解いてしまう。",
+    "fragments": [
+      "① 大人",
+      "② ような",
+      "③ 解けない",
+      "④ でも"
+    ],
+    "image": "image_import_4fbe5c931b2d_slide_0038.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③ 解けない",
+    "corrected": false,
+    "new": {
+      "id": 1780328986344,
+      "question": "この小学生は ____ ____ ★ ____ 問題を簡単に解いてしまう。",
+      "fragments": [
+        "① 大人",
+        "② ような",
+        "③ 解けない",
+        "④ でも"
+      ],
+      "completed_sentence": "この小学生は大人でも解けないような問題を簡単に解いてしまう。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ 解けない",
+      "tip": "• Tìm cụm cố định: 「〜でも解けない」 là một cụm từ chỉ sự khó khăn, nghĩa là 'ngay cả... cũng không giải được'. Ghép ①大人 + ④でも + ③解けない.\n• 「〜ような」 luôn đứng sau một mệnh đề hoặc danh từ để bổ nghĩa cho danh từ tiếp theo. Ở đây, 「大人でも解けない」 là mệnh đề bổ nghĩa cho 「問題」 thông qua 「ような」.\n• Thứ tự hợp lý là: [người/vật] + [trợ từ でも] + [động từ phủ định] + [ような] + [danh từ].",
+      "grammar_point": "〜でも〜ない, 〜ような"
+    }
+  },
+  {
+    "note_id": 1780328986908,
+    "question": "去年、初めて一人で海外を旅行した。行く前は心配なこともあったが、____ ____ ★ ____だった。",
+    "fragments": [
+      "① 楽しいこと",
+      "② ばかり",
+      "③ 旅行していた",
+      "④ 2週間は"
+    ],
+    "image": "image_import_e07879cddf65_slide_0039.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "gemini_order": [
+      3,
+      4,
+      1,
+      2,
+      1
+    ],
+    "order": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "old_answer": "① 楽しいこと",
+    "corrected": true,
+    "new": {
+      "id": 1780328986908,
+      "question": "去年、初めて一人で海外を旅行した。行く前は心配なこともあったが、____ ____ ★ ____だった。",
+      "fragments": [
+        "① 楽しいこと",
+        "② ばかり",
+        "③ 旅行していた",
+        "④ 2週間は"
+      ],
+      "completed_sentence": "去年、初めて一人で海外を旅行した。行く前は心配なこともあったが、旅行していた2週間は楽しいことばかりだった。",
+      "correct_order": "③→④→①→②",
+      "star_answer": "① 楽しいこと",
+      "tip": "• Tìm cặp cố định: 「〜ばかりだった」 là một cấu trúc ngữ pháp phổ biến, nghĩa là 'toàn là/chỉ toàn là'. Ghép ①楽しいこと + ②ばかり.\n• Tìm chủ ngữ: Cụm 「旅行していた2週間は」 (hai tuần tôi đã đi du lịch) là chủ ngữ cho vế sau, nên ③旅行していた và ④2週間は đi liền nhau.\n• Sắp xếp theo cấu trúc: [Chủ ngữ] + は + [Danh từ] + ばかりだった.",
+      "grammar_point": "〜ばかり, Vていた"
+    }
+  },
+  {
+    "note_id": 1780328987470,
+    "question": "A「昨日は日曜日だったから、遊園地は人が多かったでしょう？」 B「いや、____ ____ ★ ____ いませんでしたよ。」",
+    "fragments": [
+      "① いた",
+      "② こんで",
+      "③ ほど",
+      "④ 思って"
+    ],
+    "image": "image_import_5a77e3fc7809_slide_0040.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "old_answer": "③ ほど",
+    "corrected": false,
+    "new": {
+      "id": 1780328987470,
+      "question": "A「昨日は日曜日だったから、遊園地は人が多かったでしょう？」 B「いや、____ ____ ★ ____ いませんでしたよ。」",
+      "fragments": [
+        "① いた",
+        "② こんで",
+        "③ ほど",
+        "④ 思って"
+      ],
+      "completed_sentence": "B「いや、思っていたほどこんでいませんでしたよ。」",
+      "correct_order": "④→①→③→②",
+      "star_answer": "③ ほど",
+      "tip": "• Tìm cụm cố định: 「〜ほど〜ない」 là cấu trúc so sánh 'không... bằng/như...'. Ở đây, 「思っていたほどこんでいませんでした」 nghĩa là 'không đông như tôi đã nghĩ'.\n• Ghép động từ thể て + いた: 「思って」 và 「いた」 tạo thành 「思っていた」 (đã nghĩ/đang nghĩ).\n• Sắp xếp theo cấu trúc: [Mệnh đề/Danh từ] + ほど + [Tính từ/Động từ phủ định].",
+      "grammar_point": "〜ほど〜ない, Vていた"
+    }
+  },
+  {
+    "note_id": 1780328988000,
+    "question": "一人暮らしを始めて、両親が毎日仕事を ____ ____ ★ ____ 大変なことだったか、よくわかった。",
+    "fragments": [
+      "① どれだけ",
+      "② しながら",
+      "③ 食事の準備や洗濯を",
+      "④ してくれていたことが"
+    ],
+    "image": "image_import_b8eeff086fb2_slide_0041.png",
+    "needs_ocr": false,
+    "user_order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "gemini_order": [
+      2,
+      3,
+      4,
+      1,
+      1
+    ],
+    "order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "old_answer": "① どれだけ",
+    "corrected": true,
+    "new": {
+      "id": 1780328988000,
+      "question": "一人暮らしを始めて、両親が毎日仕事を ____ ____ ★ ____ 大変なことだったか、よくわかった。",
+      "fragments": [
+        "① どれだけ",
+        "② しながら",
+        "③ 食事の準備や洗濯を",
+        "④ してくれていたことが"
+      ],
+      "completed_sentence": "一人暮らしを始めて、両親が毎日仕事をしながら食事の準備や洗濯をしてくれていたことがどれだけ大変なことだったか、よくわかった。",
+      "correct_order": "②→③→④→①",
+      "star_answer": "④ してくれていたことが",
+      "tip": "• Tìm cặp cố định: 「〜ながら」 luôn đứng sau thân động từ (Vます bỏ ます) để chỉ hành động song song. Ở đây, 「仕事を」 + 「しながら」 (vừa làm việc).\n• Tìm động từ chính: Sau 「食事の準備や洗濯を」 phải là một động từ, ở đây là 「してくれていた」 (đã làm cho tôi).\n• Cụm 「〜ことがどれだけ大変だったか」 là cấu trúc hỏi về mức độ khó khăn. Ghép 「してくれていたことが」 + 「どれだけ」.",
+      "grammar_point": "Vながら, Vてくれる, どれだけ〜か"
+    }
+  },
+  {
+    "note_id": 1780328988544,
+    "question": "患者「先生、おふろに入ってもいいんでしょうか。」医者「____ ____ ★ ____ いいですよ」。",
+    "fragments": [
+      "① なって",
+      "② いたら",
+      "③ 熱が下がって",
+      "④ あしたに"
+    ],
+    "image": "image_import_1675a920cba1_slide_0042.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "old_answer": "③ 熱が下がって",
+    "corrected": false,
+    "new": {
+      "id": 1780328988544,
+      "question": "患者「先生、おふろに入ってもいいんでしょうか。」医者「____ ____ ★ ____ いいですよ」。",
+      "fragments": [
+        "① なって",
+        "② いたら",
+        "③ 熱が下がって",
+        "④ あしたに"
+      ],
+      "completed_sentence": "医者「あしたになって熱が下がっていたらいいですよ」。",
+      "correct_order": "④→①→③→②",
+      "star_answer": "③ 熱が下がって",
+      "tip": "• Tìm cặp cố định: 「〜になって」 là cấu trúc chỉ sự thay đổi trạng thái hoặc thời điểm. Ghép ④あしたに + ①なって (đến ngày mai).\n• Tìm điều kiện: 「〜ていたら」 là cấu trúc điều kiện, nghĩa là 'nếu đã/đang...'. Ghép ③熱が下がって + ②いたら (nếu sốt đã hạ).\n• Sắp xếp theo logic thời gian và điều kiện: 'Đến ngày mai' (thời gian) + 'nếu sốt đã hạ' (điều kiện) + 'thì được' (kết quả).",
+      "grammar_point": "〜になって, Vていたら, Vたらいい"
+    }
+  },
+  {
+    "note_id": 1780328989100,
+    "question": "先生「みなさんは一度 ____ ____ ★ ____ と思う人はいますか。」",
+    "fragments": [
+      "① 会ってみたい",
+      "② いい",
+      "③ で",
+      "④ から"
+    ],
+    "image": "image_import_040e5d74d682_slide_0043.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1,
+      4,
+      3,
+      2,
+      4,
+      1,
+      3
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "③ で",
+    "corrected": true,
+    "new": {
+      "id": 1780328989100,
+      "question": "先生「みなさんは一度 ____ ____ ★ ____ と思う人はいますか。」",
+      "fragments": [
+        "① 会ってみたい",
+        "② いい",
+        "③ で",
+        "④ から"
+      ],
+      "completed_sentence": "先生「みなさんは一度でいいから会ってみたいと思う人はいますか。」",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ から",
+      "tip": "• 「一度でいいから」 là một cụm từ cố định, có nghĩa là \"chỉ cần một lần thôi cũng được, nên...\".\n• Ghép ③「で」 và ②「いい」 thành 「でいい」.\n• Sau đó nối với ④「から」 để tạo thành 「でいいから」.\n• Cuối cùng, ①「会ってみたい」 là động từ chính của vế sau.",
+      "grammar_point": "〜でいいから"
+    }
+  },
+  {
+    "note_id": 1780328989631,
+    "question": "A「パーティーの料理はどうでしたか。」 B「おいしかったです。＿ ＿ ★ ＿ わかりませんが、お刺身がおいしかったです。」",
+    "fragments": [
+      "① という",
+      "② 何",
+      "③ か",
+      "④ 魚"
+    ],
+    "image": "image_import_bb777eb58a41_slide_0044.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "④ 魚",
+    "corrected": false,
+    "new": {
+      "id": 1780328989631,
+      "question": "A「パーティーの料理はどうでしたか。」 B「おいしかったです。＿ ＿ ★ ＿ わかりませんが、お刺身がおいしかったです。」",
+      "fragments": [
+        "① という",
+        "② 何",
+        "③ か",
+        "④ 魚"
+      ],
+      "completed_sentence": "おいしかったです。何という魚かわかりませんが、お刺身がおいしかったです。",
+      "correct_order": "②→①→④→③",
+      "star_answer": "④ 魚",
+      "tip": "• Cụm từ 「何という〜か」 dùng để hỏi \"cái gì đó tên là gì\".\n• Ghép ②「何」 và ①「という」 thành 「何という」.\n• Sau đó nối với ④「魚」 để tạo thành 「何という魚」.\n• Cuối cùng, ③「か」 đi với 「わかりませんが」 để tạo thành cấu trúc \"không biết là cái gì đó\".",
+      "grammar_point": "何という〜か"
+    }
+  },
+  {
+    "note_id": 1780328990162,
+    "question": "A「京都旅行の写真を早く送って。」 B「送る ____ ____ ★ ____ から、もう少し待って」。",
+    "fragments": [
+      "① 選んでいる",
+      "② 写真を",
+      "③ 今",
+      "④ ところだ"
+    ],
+    "image": "image_import_ca176169dfb7_slide_0045.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "old_answer": "① 選んでいる",
+    "corrected": false,
+    "new": {
+      "id": 1780328990162,
+      "question": "A「京都旅行の写真を早く送って。」 B「送る ____ ____ ★ ____ から、もう少し待って」。",
+      "fragments": [
+        "① 選んでいる",
+        "② 写真を",
+        "③ 今",
+        "④ ところだ"
+      ],
+      "completed_sentence": "送る写真を今選んでいるところだから、もう少し待って。",
+      "correct_order": "②→③→①→④",
+      "star_answer": "① 選んでいる",
+      "tip": "• 「Vているところだ」 là cấu trúc ngữ pháp N3 diễn tả hành động đang diễn ra.\n• ②「写真を」 là tân ngữ cho động từ 「選んでいる」.\n• ③「今」 là trạng từ chỉ thời gian, thường đứng trước động từ.\n• Ghép ③「今」 và ①「選んでいる」 thành 「今選んでいる」, sau đó nối với ④「ところだ」.",
+      "grammar_point": "Vているところだ"
+    }
+  },
+  {
+    "note_id": 1780328990693,
+    "question": "私は料理が ____ ____ ★ ____ ほとんどない。",
+    "fragments": [
+      "① 苦手で",
+      "② 料理は",
+      "③ 作れる",
+      "④ レシピを見ずに"
+    ],
+    "image": "image_import_e2e9b5a4846b_slide_0046.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③ 作れる",
+    "corrected": false,
+    "new": {
+      "id": 1780328990693,
+      "question": "私は料理が ____ ____ ★ ____ ほとんどない。",
+      "fragments": [
+        "① 苦手で",
+        "② 料理は",
+        "③ 作れる",
+        "④ レシピを見ずに"
+      ],
+      "completed_sentence": "私は料理が苦手でレシピを見ずに作れる料理はほとんどない。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ 作れる",
+      "tip": "• Tìm \"mỏ neo\" đầu câu: \"私は料理が\" thường đi với tính từ chỉ khả năng như \"苦手だ\". Vậy ① 苦手で là mảnh đầu tiên.\n• Tìm cặp mảnh ghép: \"レシピを見ずに\" (mà không nhìn công thức) và \"作れる\" (có thể làm) là một cặp logic.\n• Cụm cuối \"作れる料理はほとんどない\" (hầu như không có món nào có thể làm được) là một cấu trúc rất tự nhiên.\n• Ghép lại: 私は料理が ①苦手で ④レシピを見ずに ③作れる ②料理は ほとんどない。",
+      "grammar_point": "Vずに, Vれる, Aで, Vる+N"
+    }
+  },
+  {
+    "note_id": 1780328991228,
+    "question": "この島は、空から ____ ____ ★ ____ 耳島」と呼ばれています。",
+    "fragments": [
+      "① 形",
+      "② にみえることから",
+      "③ 人の耳のような",
+      "④ 見ると"
+    ],
+    "image": "image_import_70810ff7e6ad_slide_0047.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "old_answer": "① 形",
+    "corrected": false,
+    "new": {
+      "id": 1780328991228,
+      "question": "この島は、空から ____ ____ ★ ____ 耳島」と呼ばれています。",
+      "fragments": [
+        "① 形",
+        "② にみえることから",
+        "③ 人の耳のような",
+        "④ 見ると"
+      ],
+      "completed_sentence": "この島は、空から見ると人の耳のような形にみえることから「耳島」と呼ばれています。",
+      "correct_order": "④→③→①→②",
+      "star_answer": "① 形",
+      "tip": "• Tìm \"mỏ neo\" đầu câu: \"空から\" (từ trên trời) thường đi với động từ nhìn/thấy. Vậy ④ 見ると (khi nhìn) là mảnh đầu tiên.\n• Tìm cặp mảnh ghép: \"人の耳のような\" (giống tai người) và \"形\" (hình dạng) là một cặp mô tả tự nhiên.\n• Cụm cuối \"にみえることから\" (từ việc trông giống như) là cấu trúc giải thích lý do, thường đứng trước \"と呼ばれています\".\n• Ghép lại: この島は、空から ④見ると ③人の耳のような ①形 ②にみえることから 「耳島」と呼ばれています。",
+      "grammar_point": "Vると, Nのような, Vる+ことから"
+    }
+  },
+  {
+    "note_id": 1781518534945,
+    "question": "",
+    "fragments": [],
+    "image": "paste-a780721f5502438539ad168a7815e2257157ca56.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "gemini_order": null,
+    "order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1781518534945,
+      "question": "7 初めてアルバイトをして、お金を稼ぐ___ ___ ★ ___ わかった。",
+      "fragments": [
+        "① ことか",
+        "② 大変な",
+        "③ ことが",
+        "④ どれだけ"
+      ],
+      "completed_sentence": "初めてアルバイトをして、お金を稼ぐことがどれだけ大変なことかわかった。",
+      "correct_order": "③→④→②→①",
+      "star_answer": "② 大変な",
+      "tip": "• Tìm cặp cố định: Cụm 「どれだけ〜か」 hoặc 「どれだけ〜ことか」 dùng để diễn tả mức độ 'đến mức nào' hoặc 'biết bao'. Ở đây, 「どれだけ」(④) sẽ đi với tính từ 「大変な」(②) tạo thành 「どれだけ大変な」.\n• Sau tính từ đuôi な như 「大変な」 (②) thường là danh từ 「こと」 (①) để bổ nghĩa, tạo thành 「大変なこと」. Cuối cùng, 「か」 (①) biến nó thành câu cảm thán/câu hỏi.\n• Cụm 「〜ことがわかった」 là cấu trúc cố định có nghĩa 'đã hiểu ra rằng...'. Vậy nên, 「お金を稼ぐ」 (kiếm tiền) sẽ đi với 「ことが」 (③) để tạo thành chủ ngữ cho vế sau.\n• Ghép lại ta có: 「お金を稼ぐことが」 (③) + 「どれだけ」 (④) + 「大変な」 (②) + 「ことか」 (①) + 「わかった」。Vị trí ★ là mảnh thứ 3, tức là ②.",
+      "grammar_point": "〜ことがわかる, どれだけ〜か/ことか"
+    }
+  },
+  {
+    "note_id": 1781518614471,
+    "question": "",
+    "fragments": [],
+    "image": "paste-8d6cae10f58f2e8cc662a5e850dcc09acae75f5f.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "gemini_order": null,
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1781518614471,
+      "question": "今日、昼食の後、図書館へ行って本を読んでいたら___★___。",
+      "fragments": [
+        "① ので",
+        "② 外が暗くなっていた",
+        "③ 驚いた",
+        "④ いつのまにか"
+      ],
+      "completed_sentence": "今日、昼食の後、図書館へ行って本を読んでいたら、いつのまにか外が暗くなっていたので驚いた。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① ので",
+      "tip": "• Tìm cặp nguyên nhân - kết quả: 「外が暗くなっていた (trời tối)」 là nguyên nhân, 「驚いた (ngạc nhiên)」 là kết quả. Vậy, 「② 外が暗くなっていた」 + 「① ので」 + 「③ 驚いた」 là một cụm cố định (②→①→③).\n• Tìm trạng từ: 「いつのまにか (lúc nào không hay)」 (④) thường đứng trước một sự việc xảy ra mà mình không nhận ra. Nó rất hợp với 「外が暗くなっていた (trời tối)」. Vậy, 「④ いつのまにか」 sẽ đứng trước 「② 外が暗くなっていた」 (④→②).\n• Ghép các mảnh lại: Từ (④→②) và (②→①→③), ta có thứ tự hoàn chỉnh là ④→②→①→③. Mảnh ở vị trí ★ (chỗ trống thứ 3) là ①.",
+      "grammar_point": "〜ので, いつのまにか"
+    }
+  },
+  {
+    "note_id": 1781518675227,
+    "question": "",
+    "fragments": [],
+    "image": "paste-1dbba66f457fa95ae00d5348ef8ba0fdcef1a7d2.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "gemini_order": null,
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1781518675227,
+      "question": "9 このチーズケーキの＿＿＿★＿＿＿、誰でも簡単に作れると思う。",
+      "fragments": [
+        "① だから",
+        "② 作り方は",
+        "③ だけ",
+        "④ 材料を混ぜて冷やす"
+      ],
+      "completed_sentence": "このチーズケーキの作り方は材料を混ぜて冷やすだけだから、誰でも簡単に作れると思う。",
+      "correct_order": "②→④→③→①",
+      "star_answer": "④ 材料を混ぜて冷やす",
+      "tip": "• Mảnh `このチーズケーキの` cần một danh từ để hoàn thiện chủ ngữ. `作り方は` (②) là danh từ + trợ từ `は`, rất hợp lý để đi sau `の`.\n• Sau `作り方は`, cần mô tả cách làm. `材料を混ぜて冷やす` (④) là một cụm động từ mô tả hành động, phù hợp để giải thích cách làm.\n• Cụm `Vるだけだから` (chỉ cần làm V là đủ, nên...) là một cấu trúc ngữ pháp phổ biến để giải thích lý do. Ghép ④ + ③ + ① tạo thành `材料を混ぜて冷やすだけだから`.\n• Vị trí ★ là mảnh thứ hai trong chuỗi, vậy đáp án là ④.",
+      "grammar_point": "NのV方, Vるだけ, Vるだけだから"
+    }
+  },
+  {
+    "note_id": 1780329065808,
+    "question": "この喫茶店はコーヒー ( ) ( ) ★ ( ) おいしい。",
+    "fragments": [
+      "① などの",
+      "② スパゲッティ",
+      "③ 料理も",
+      "④ だけでなく"
+    ],
+    "image": "image_import_810863053dc7_slide_0001.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "① などの",
+    "corrected": false,
+    "new": {
+      "id": 1780329065808,
+      "question": "この喫茶店はコーヒー ( ) ( ) ★ ( ) おいしい。",
+      "fragments": [
+        "① などの",
+        "② スパゲッティ",
+        "③ 料理も",
+        "④ だけでなく"
+      ],
+      "completed_sentence": "この喫茶店はコーヒーだけでなくスパゲッティなどの料理もおいしい。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① などの",
+      "tip": "• Cấu trúc 「AだけでなくBも」 có nghĩa là \"không chỉ A mà B cũng\".\n• 「スパゲッティなどの料理」 có nghĩa là \"những món ăn như spaghetti\".\n• Ghép ④「だけでなく」 sau 「コーヒー」.\n• Sau đó, ghép ②「スパゲッティ」 với ①「などの」 để tạo thành 「スパゲッティなどの」.\n• Cuối cùng, nối với ③「料理も」.",
+      "grammar_point": "〜だけでなく〜も, 〜など"
+    }
+  },
+  {
+    "note_id": 1780329066363,
+    "question": "映画館で) 妻「私、ちょっとジュース買いに行ってくるね。」 夫「うん。あ、でも、映画が____ ____ ★ ____よ。急いでね。」",
+    "fragments": [
+      "① しかない",
+      "② 始まる",
+      "③ あと3分",
+      "④ まで"
+    ],
+    "image": "image_import_b6e69aaf7d2d_slide_0002.png",
+    "needs_ocr": false,
+    "user_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "④ まで",
+    "corrected": true,
+    "new": {
+      "id": 1780329066363,
+      "question": "映画館で) 妻「私、ちょっとジュース買いに行ってくるね。」 夫「うん。あ、でも、映画が____ ____ ★ ____よ。急いでね。」",
+      "fragments": [
+        "① しかない",
+        "② 始まる",
+        "③ あと3分",
+        "④ まで"
+      ],
+      "completed_sentence": "映画が始まるまであと3分しかないよ。急いでね。",
+      "correct_order": "②→④→③→①",
+      "star_answer": "③ あと3分",
+      "tip": "• Cấu trúc cố định 「Vる＋まで」 (cho đến khi V) ghép ② 始まる và ④ まで lại thành 「始まるまで」.\n• Cấu trúc 「〜しかない」 (chỉ còn ~) thường đi sau một lượng hoặc thời gian, ghép ③ あと3分 và ① しかない lại thành 「あと3分しかない」.\n• Ghép hai cụm lại ta được: 「始まるまであと3分しかない」.",
+      "grammar_point": "Vるまで, 〜しかない"
+    }
+  },
+  {
+    "note_id": 1780329066898,
+    "question": "今度の日曜日に友人の結婚式がある。____ ____ ★ ____だが。",
+    "fragments": [
+      "① の",
+      "② いい",
+      "③ 晴れる",
+      "④ と"
+    ],
+    "image": "image_import_5668596274fc_slide_0003.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "old_answer": "① の",
+    "corrected": true,
+    "new": {
+      "id": 1780329066898,
+      "question": "今度の日曜日に友人の結婚式がある。____ ____ ★ ____だが。",
+      "fragments": [
+        "① の",
+        "② いい",
+        "③ 晴れる",
+        "④ と"
+      ],
+      "completed_sentence": "今度の日曜日に友人の結婚式がある。晴れるといいのだが。",
+      "correct_order": "③→④→②→①",
+      "star_answer": "② いい",
+      "tip": "• Cấu trúc 「Vる/Vない＋といい」 (mong là V/không V) ghép ③ 晴れる và ④ と lại thành 「晴れると」.\n• Cụm 「〜といい」 thường được theo sau bởi 「の」 để kết thúc câu một cách nhẹ nhàng, thường là 「〜といいのだが」 (mong là... nhưng mà...). Ghép ② いい và ① の lại thành 「いいの」.\n• Ghép hai cụm lại ta được: 「晴れるといいのだが」.",
+      "grammar_point": "Vるといい"
+    }
+  },
+  {
+    "note_id": 1780329067455,
+    "question": "うちから学校まで自転車で40分かかる。電車なら20分だが、朝の____ ____ ★ ____ 自転車で通っている。",
+    "fragments": [
+      "① こんでいる電車は",
+      "② よい運動になるから",
+      "③ 嫌いだし",
+      "④ 自転車で通っている"
+    ],
+    "image": "image_import_2b864818680d_slide_0004.png",
+    "needs_ocr": false,
+    "user_order": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "order": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "old_answer": "② よい運動になるから",
+    "corrected": true,
+    "new": {
+      "id": 1780329067455,
+      "question": "うちから学校まで自転車で40分かかる。電車なら20分だが、朝の____ ____ ★ ____ 自転車で通っている。",
+      "fragments": [
+        "① こんでいる電車は",
+        "② よい運動になるから",
+        "③ 嫌いだし",
+        "④ 自転車で通っている"
+      ],
+      "completed_sentence": "うちから学校まで自転車で40分かかる。電車なら20分だが、朝のこんでいる電車は嫌いだし、自転車で通っているよい運動になるから。",
+      "correct_order": "①→③→④→②",
+      "star_answer": "④ 自転車で通っている",
+      "tip": "• 「朝の＋名詞」: Ghép 「朝の」 với ① こんでいる電車は để có 「朝のこんでいる電車は」 (tàu điện đông đúc buổi sáng).\n• Cấu trúc liệt kê lý do 「〜し、〜し」: Ghép ③ 嫌いだし với cụm trước để có 「こんでいる電車は嫌いだし」 (ghét tàu điện đông đúc, và...).\n• Cấu trúc 「Vている＋から」 (vì đang V): Ghép ④ 自転車で通っている với ② よい運動になるから để có 「自転車で通っているよい運動になるから」 (vì đi xe đạp là một bài tập tốt).\n• Ghép lại ta được: 「朝のこんでいる電車は嫌いだし、自転車で通っているよい運動になるから。」 (Lưu ý: Phần `自転車で通っている` ở cuối câu hỏi được hiểu là mảnh ghép ④, không phải là phần cố định của câu hỏi để tránh trùng lặp và tạo câu có nghĩa).",
+      "grammar_point": "〜し〜し, Vている, 〜から"
+    }
+  },
+  {
+    "note_id": 1780329067997,
+    "question": "昨日父に、来週友達と旅行に行く____ ____ ★ ____頼んだが、断られてしまった。",
+    "fragments": [
+      "① と",
+      "② 車を",
+      "③ ので",
+      "④ 使わせてほしい"
+    ],
+    "image": "image_import_2eef066b324b_slide_0005.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "④ 使わせてほしい",
+    "corrected": false,
+    "new": {
+      "id": 1780329067997,
+      "question": "昨日父に、来週友達と旅行に行く____ ____ ★ ____頼んだが、断られてしまった。",
+      "fragments": [
+        "① と",
+        "② 車を",
+        "③ ので",
+        "④ 使わせてほしい"
+      ],
+      "completed_sentence": "昨日父に、来週友達と旅行に行くので車を使わせてほしいと頼んだが、断られてしまった。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ 使わせてほしい",
+      "tip": "• Cấu trúc 「Vので」 (vì V): Ghép 「旅行に行く」 với ③ ので để có 「旅行に行くので」 (vì sẽ đi du lịch).\n• Cấu trúc 「名詞＋を＋Vさせてほしい」 (muốn được cho phép V danh từ): Ghép ② 車を với ④ 使わせてほしい để có 「車を使わせてほしい」 (muốn được dùng xe).\n• Cấu trúc 「〜と頼む」 (nhờ rằng...): Ghép cụm trên với ① と và 「頼んだ」 để có 「車を使わせてほしいと頼んだ」.\n• Ghép lại ta được: 「旅行に行くので車を使わせてほしいと頼んだ」.",
+      "grammar_point": "Vので, Vさせてほしい, 〜と頼む"
+    }
+  },
+  {
+    "note_id": 1780329068569,
+    "question": "昨日初めて花川駅に行った。花川駅まで____ ____ ★ ____、電車に乗る前に駅員に聞いた。",
+    "fragments": [
+      "① わからなくて",
+      "② どの電車で",
+      "③ いちばん早く着くのか",
+      "④ 行けば"
+    ],
+    "image": "image_import_f2dc314e8bab_slide_0006.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "③ いちばん早く着くのか",
+    "corrected": false,
+    "new": {
+      "id": 1780329068569,
+      "question": "昨日初めて花川駅に行った。花川駅まで____ ____ ★ ____、電車に乗る前に駅員に聞いた。",
+      "fragments": [
+        "① わからなくて",
+        "② どの電車で",
+        "③ いちばん早く着くのか",
+        "④ 行けば"
+      ],
+      "completed_sentence": "昨日初めて花川駅に行った。花川駅までどの電車で行けばいちばん早く着くのかわからなくて、電車に乗る前に駅員に聞いた。",
+      "correct_order": "②→④→③→①",
+      "star_answer": "③ いちばん早く着くのか",
+      "tip": "• Cấu trúc 「疑問詞＋で＋Vば」 (nếu đi bằng phương tiện nào): Ghép ② どの電車で với ④ 行けば để có 「どの電車で行けば」.\n• Cấu trúc 「Vば＋疑問詞＋Vるのか」 (nếu V thì... nào V): Ghép cụm trên với ③ いちばん早く着くのか để có 「行けばいちばん早く着くのか」 (nếu đi thì tàu nào đến nhanh nhất).\n• Cấu trúc 「〜のか＋わからなくて」 (vì không biết là...): Ghép cụm trên với ① わからなくて để có 「〜のかわからなくて」.\n• Ghép lại ta được: 「どの電車で行けばいちばん早く着くのかわからなくて」.",
+      "grammar_point": "疑問詞＋で, Vば, 〜のか, Vなくて"
+    }
+  },
+  {
+    "note_id": 1780329069126,
+    "question": "A「ねえ、明日のパーティー行く？会場のレストランが駅から遠くてちょっと不便だから、行こうか迷ってるんだけど。」B「私、車で____ ____ ★ ____あげるよ。」",
+    "fragments": [
+      "① もし",
+      "② 乗せていって",
+      "③ 行くんだったら",
+      "④ 行くつもりだから"
+    ],
+    "image": "image_import_179066ac143f_slide_0007.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "gemini_order": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "old_answer": "③ 行くんだったら",
+    "corrected": true,
+    "new": {
+      "id": 1780329069126,
+      "question": "A「ねえ、明日のパーティー行く？会場のレストランが駅から遠くてちょっと不便だから、行こうか迷ってるんだけど。」B「私、車で____ ____ ★ ____あげるよ。」",
+      "fragments": [
+        "① もし",
+        "② 乗せていって",
+        "③ 行くんだったら",
+        "④ 行くつもりだから"
+      ],
+      "completed_sentence": "私、車で行くつもりだから、もし行くんだったら乗せていってあげるよ。",
+      "correct_order": "④→①→③→②",
+      "star_answer": "③ 行くんだったら",
+      "tip": "• Cấu trúc 「Vるつもりだから」 (vì tôi định V): Ghép 「車で」 với ④ 行くつもりだから để có 「車で行くつもりだから」.\n• Cấu trúc giả định 「もし〜んだったら」 (nếu mà bạn V thì...): Ghép ① もし với ③ 行くんだったら để có 「もし行くんだったら」.\n• Cấu trúc 「Vていってあげる」 (tôi sẽ V đi cho bạn): Ghép cụm trên với ② 乗せていって và 「あげるよ」 để có 「乗せていってあげるよ」.\n• Ghép lại ta được: 「車で行くつもりだから、もし行くんだったら乗せていってあげるよ。」",
+      "grammar_point": "Vるつもりだ, もし〜んだったら, Vてあげる"
+    }
+  },
+  {
+    "note_id": 1780329069681,
+    "question": "母は、姉が____ ____ ★ ____泣きそうな顔をしていた。",
+    "fragments": [
+      "① 今にも",
+      "② 大学に合格したという",
+      "③ 知らせを聞いて",
+      "④ 一番行きたがっていた"
+    ],
+    "image": "image_import_daa2c73edbc6_slide_0008.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "old_answer": "① 今にも",
+    "corrected": true,
+    "new": {
+      "id": 1780329069681,
+      "question": "母は、姉が____ ____ ★ ____泣きそうな顔をしていた。",
+      "fragments": [
+        "① 今にも",
+        "② 大学に合格したという",
+        "③ 知らせを聞いて",
+        "④ 一番行きたがっていた"
+      ],
+      "completed_sentence": "母は、姉が一番行きたがっていた大学に合格したという知らせを聞いて今にも泣きそうな顔をしていた。",
+      "correct_order": "④→②→③→①",
+      "star_answer": "③ 知らせを聞いて",
+      "tip": "• Tìm cặp cố định: 「〜という」 (②) đứng trước danh từ (知らせ ③). Vậy ②→③ là một cặp.\n• 「一番行きたがっていた」 (④) bổ nghĩa cho 「大学」 (trong ②). Vậy ④→② là một cặp.\n• 「今にも〜そうだ」 (①) là ngữ pháp cố định, đứng cuối cụm bổ nghĩa cho 「泣きそうな顔」.\n• Ghép lại: ④→②→③→①.",
+      "grammar_point": "〜という, Vたがる, 今にも〜そうだ"
+    }
+  },
+  {
+    "note_id": 1780329070257,
+    "question": "田中「山下さんって、パソコンにすごく詳しいよね。」 木村「うん、大学生の( ) ( ) ★ ( )のよ。」",
+    "fragments": [
+      "① とき",
+      "② アルバイトしていた",
+      "③ みたいだ",
+      "④ コンピューター会社で"
+    ],
+    "image": "image_import_bab4db4d0544_slide_0009.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "old_answer": "② アルバイトしていた",
+    "corrected": false,
+    "new": {
+      "id": 1780329070257,
+      "question": "田中「山下さんって、パソコンにすごく詳しいよね。」 木村「うん、大学生の( ) ( ) ★ ( )のよ。」",
+      "fragments": [
+        "① とき",
+        "② アルバイトしていた",
+        "③ みたいだ",
+        "④ コンピューター会社で"
+      ],
+      "completed_sentence": "うん、大学生のときコンピューター会社でアルバイトしていたみたいだのよ。",
+      "correct_order": "①→④→②→③",
+      "star_answer": "② アルバイトしていた",
+      "tip": "• Tìm cặp cố định: 「大学生のとき」 (①) là cụm danh từ chỉ thời gian.\n• 「〜で」 (④) chỉ địa điểm hành động, đứng trước động từ 「アルバイトしていた」 (②). Vậy ④→② là một cặp.\n• 「〜みたいだ」 (③) là ngữ pháp phỏng đoán, đứng cuối câu.\n• Ghép lại: ①→④→②→③.",
+      "grammar_point": "〜のとき, 〜で (địa điểm), 〜みたいだ"
+    }
+  },
+  {
+    "note_id": 1780329070826,
+    "question": "半年前から____ ____ ★ ____終わってしまった。",
+    "fragments": [
+      "① とうとう",
+      "② 見ていた",
+      "③ 毎週",
+      "④ 大好きなドラマが"
+    ],
+    "image": "image_import_b4e3cdc2247d_slide_0010.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "④ 大好きなドラマが",
+    "corrected": false,
+    "new": {
+      "id": 1780329070826,
+      "question": "半年前から____ ____ ★ ____終わってしまった。",
+      "fragments": [
+        "① とうとう",
+        "② 見ていた",
+        "③ 毎週",
+        "④ 大好きなドラマが"
+      ],
+      "completed_sentence": "半年前から毎週見ていた大好きなドラマがとうとう終わってしまった。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ 大好きなドラマが",
+      "tip": "• Tìm cặp cố định: 「毎週」 (③) là trạng từ chỉ tần suất, bổ nghĩa cho động từ 「見ていた」 (②). Vậy ③→② là một cặp.\n• Cụm 「毎週見ていた」 bổ nghĩa cho danh từ 「大好きなドラマ」 (④). Vậy (③②)→④ là một cụm.\n• 「とうとう」 (①) là trạng từ chỉ kết quả cuối cùng, đứng trước động từ chính 「終わってしまった」.\n• Ghép lại: ③→②→④→①.",
+      "grammar_point": "Vていた, 〜が (chủ ngữ), とうとう"
+    }
+  },
+  {
+    "note_id": 1780329071389,
+    "question": "田中「木村さん、仕事はどうですか。」 木村「会社に入ってまだ少ししか____ ____ ★ ____ですが、毎日楽しいです。」",
+    "fragments": [
+      "① ので",
+      "② たっていない",
+      "③ ばかり",
+      "④ わからないこと"
+    ],
+    "image": "image_import_be723f07c43c_slide_0011.png",
+    "needs_ocr": false,
+    "user_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "gemini_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "③ ばかり",
+    "corrected": true,
+    "new": {
+      "id": 1780329071389,
+      "question": "田中「木村さん、仕事はどうですか。」 木村「会社に入ってまだ少ししか____ ____ ★ ____ですが、毎日楽しいです。」",
+      "fragments": [
+        "① ので",
+        "② たっていない",
+        "③ ばかり",
+        "④ わからないこと"
+      ],
+      "completed_sentence": "会社に入ってまだ少ししかたっていないのでわからないことばかりですが、毎日楽しいです。",
+      "correct_order": "②→①→④→③",
+      "star_answer": "④ わからないこと",
+      "tip": "• Tìm cặp cố định: 「少ししか〜ない」 là cấu trúc cố định. 「たっていない」 (②) là dạng phủ định của 「たつ」. Vậy 「少ししかたっていない」.\n• 「〜ので」 (①) là liên từ chỉ nguyên nhân, đứng sau động từ/tính từ. Vậy ②→① là một cặp.\n• 「〜ばかり」 (③) đứng sau danh từ hoặc Vる/Vて để chỉ \"toàn là\", \"chỉ toàn\". 「わからないこと」 (④) là danh từ. Vậy ④→③ là một cặp.\n• Ghép lại: ②→①→④→③.",
+      "grammar_point": "〜しか〜ない, 〜ので, 〜ばかり"
+    }
+  },
+  {
+    "note_id": 1780329071945,
+    "question": "私 ____ ____ ★ ____ なのは、家族の幸せだ。",
+    "fragments": [
+      "① で",
+      "② じんせい",
+      "③ にとって",
+      "④ 一番大切"
+    ],
+    "image": "image_import_15055325ef72_slide_0012.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "gemini_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "old_answer": "② じんせい",
+    "corrected": true,
+    "new": {
+      "id": 1780329071945,
+      "question": "私 ____ ____ ★ ____ なのは、家族の幸せだ。",
+      "fragments": [
+        "① で",
+        "② じんせい",
+        "③ にとって",
+        "④ 一番大切"
+      ],
+      "completed_sentence": "私にとってじんせいで一番大切なのは、家族の幸せだ。",
+      "correct_order": "③→②→①→④",
+      "star_answer": "① で",
+      "tip": "• Tìm cặp cố định: 「〜にとって」 (③) là ngữ pháp chỉ quan điểm, đứng sau danh từ (私).\n• 「人生で」 (②→①) là cụm chỉ phạm vi \"trong cuộc đời\".\n• 「一番大切」 (④) là cụm tính từ, bổ nghĩa cho 「なのは」.\n• Ghép lại: ③→②→①→④.",
+      "grammar_point": "〜にとって, 〜で (phạm vi), 一番〜"
+    }
+  },
+  {
+    "note_id": 1780329072506,
+    "question": "この映画は昔から大好きで今まで____ ____ ★ ____感動して泣いてしまう。",
+    "fragments": [
+      "① 見ても",
+      "② 何度も",
+      "③ 見たけれど",
+      "④ 何度"
+    ],
+    "image": "image_import_487cf522e07a_slide_0013.png",
+    "needs_ocr": false,
+    "user_order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "gemini_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "old_answer": "① 見ても",
+    "corrected": true,
+    "new": {
+      "id": 1780329072506,
+      "question": "この映画は昔から大好きで今まで____ ____ ★ ____感動して泣いてしまう。",
+      "fragments": [
+        "① 見ても",
+        "② 何度も",
+        "③ 見たけれど",
+        "④ 何度"
+      ],
+      "completed_sentence": "この映画は昔から大好きで今まで何度も見たけれど何度見ても感動して泣いてしまう。",
+      "correct_order": "②→③→④→①",
+      "star_answer": "④ 何度",
+      "tip": "• Tìm cặp cố định: 「何度も〜けれど」 (②→③) là cấu trúc \"đã làm nhiều lần nhưng...\".\n• 「何度〜ても」 (④→①) là cấu trúc \"dù bao nhiêu lần đi nữa cũng...\".\n• Hai vế này tạo thành một câu phức: \"Dù đã xem nhiều lần rồi nhưng dù xem bao nhiêu lần cũng...\".\n• Ghép lại: ②→③→④→①.",
+      "grammar_point": "〜けれど, 何度〜ても"
+    }
+  },
+  {
+    "note_id": 1780329073058,
+    "question": "新しい家は、駅に近くて便利なのだが、窓が ____ ____ ★ ____ 聞こえてきて、うるさいと感じる ことがある 。",
+    "fragments": [
+      "① ある",
+      "② 大通り側に",
+      "③ せいで",
+      "④ 車の音が"
+    ],
+    "image": "image_import_ca775584f89f_slide_0014.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "order": [
+      2,
+      1,
+      3,
+      4
+    ],
+    "old_answer": "③ せいで",
+    "corrected": false,
+    "new": {
+      "id": 1780329073058,
+      "question": "新しい家は、駅に近くて便利なのだが、窓が ____ ____ ★ ____ 聞こえてきて、うるさいと感じる ことがある 。",
+      "fragments": [
+        "① ある",
+        "② 大通り側に",
+        "③ せいで",
+        "④ 車の音が"
+      ],
+      "completed_sentence": "新しい家は、駅に近くて便利なのだが、窓が大通り側にあるせいで車の音が聞こえてきて、うるさいと感じることがある。",
+      "correct_order": "②→①→③→④",
+      "star_answer": "③ せいで",
+      "tip": "• 「窓が」の後には場所を表す「大通り側に」が続き、「ある」で「窓が大通り側にある」という状態を表します。\n• 「〜のせいで」は、前の文や名詞が原因で悪い結果が起こることを示す接続表現です。ここでは「窓が大通り側にある」という状況が原因なので、「ある」の後に「せいで」が続きます。\n• 「車の音が聞こえてきて」は、その結果として何が聞こえるかを説明しています。",
+      "grammar_point": "〜のせいで"
+    }
+  },
+  {
+    "note_id": 1780329073610,
+    "question": "林さんの奥さんは料理がとても上手で、ハンバーグが特においしいらしい。林さんは奥さんの____ ____ ★ ____ ものはないとよく言っている。",
+    "fragments": [
+      "① 作る",
+      "② ほど",
+      "③ ハンバーグ",
+      "④ おいしい"
+    ],
+    "image": "image_import_cb566c1bf71d_slide_0015.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "② ほど",
+    "corrected": false,
+    "new": {
+      "id": 1780329073610,
+      "question": "林さんの奥さんは料理がとても上手で、ハンバーグが特においしいらしい。林さんは奥さんの____ ____ ★ ____ ものはないとよく言っている。",
+      "fragments": [
+        "① 作る",
+        "② ほど",
+        "③ ハンバーグ",
+        "④ おいしい"
+      ],
+      "completed_sentence": "林さんの奥さんは料理がとても上手で、ハンバーグが特においしいらしい。林さんは奥さんの作るハンバーグほどおいしいものはないとよく言っている。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② ほど",
+      "tip": "• 「奥さんの」は「作る」を修飾し、「作る」は「ハンバーグ」を修飾して「奥さんの作るハンバーグ」という塊を作ります。\n• 「〜ほど〜ものはない」は「〜が一番だ」という意味を表す比較の文型です。\n• 「奥さんの作るハンバーグ」の後に「ほど」が続き、その後に「おいしい」が来ることで「奥さんの作るハンバーグほどおいしいものはない」という形になります。",
+      "grammar_point": "〜ほど〜ものはない"
+    }
+  },
+  {
+    "note_id": 1780329074181,
+    "question": "____ ____ ★ ____ のことを思い出す。",
+    "fragments": [
+      "① 食事をするたびに",
+      "② 妻との初めてのデートで",
+      "③ 来たとき",
+      "④ このレストランで"
+    ],
+    "image": "image_import_881ecfcfb9f0_slide_0016.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "gemini_order": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "old_answer": "③ 来たとき",
+    "corrected": true,
+    "new": {
+      "id": 1780329074181,
+      "question": "____ ____ ★ ____ のことを思い出す。",
+      "fragments": [
+        "① 食事をするたびに",
+        "② 妻との初めてのデートで",
+        "③ 来たとき",
+        "④ このレストランで"
+      ],
+      "completed_sentence": "このレストランで食事をするたびに、妻との初めてのデートで来たときのことを思い出す。",
+      "correct_order": "④→①→②→③",
+      "star_answer": "② 妻との初めてのデートで",
+      "tip": "• 「〜たびに」は「〜するたびに」の形で、ある行動を繰り返すたびに何かが起こることを示します。ここでは「食事をするたびに」が塊です。\n• 「〜で」は場所や状況、手段を表す助詞です。ここでは「このレストランで」と「デートで」が使われています。\n• 「〜とき」は「〜したとき」の形で、ある時点を表します。ここでは「来たとき」が塊です。\n• 全体として「このレストランで食事をするたびに、妻との初めてのデートで来たときのことを思い出す」という文になります。",
+      "grammar_point": "〜たびに, 〜とき"
+    }
+  },
+  {
+    "note_id": 1780329074740,
+    "question": "課長「山田さん、資料の整理をやってもらえますか。来週の金曜____ ____ ★ ____、できるときにお願いします」。",
+    "fragments": [
+      "① ですから",
+      "② で",
+      "③ いい",
+      "④ まで"
+    ],
+    "image": "image_import_2297763bd7c9_slide_0017.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "gemini_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "old_answer": "② で",
+    "corrected": true,
+    "new": {
+      "id": 1780329074740,
+      "question": "課長「山田さん、資料の整理をやってもらえますか。来週の金曜____ ____ ★ ____、できるときにお願いします」。",
+      "fragments": [
+        "① ですから",
+        "② で",
+        "③ いい",
+        "④ まで"
+      ],
+      "completed_sentence": "課長「山田さん、資料の整理をやってもらえますか。来週の金曜まででいいですから、できるときにお願いします」。",
+      "correct_order": "④→②→③→①",
+      "star_answer": "③ いい",
+      "tip": "• 「〜まで」は期限を表す助詞です。「来週の金曜まで」で「来週の金曜日を期限として」という意味になります。\n• 「〜でいい」は「〜で十分だ、〜で構わない」という意味を表します。「まででいい」で「〜を期限とすれば十分だ」となります。\n• 「〜ですから」は理由を述べる接続助詞です。「〜でいいですから」で「〜で構わないので」と、相手への配慮を示します。",
+      "grammar_point": "〜まででいい, 〜ですから"
+    }
+  },
+  {
+    "note_id": 1780329075297,
+    "question": "私は、もし自分が ____ ____ ★ ____ 看護師の仕事をしています。",
+    "fragments": [
+      "① 考えながら",
+      "② ということを",
+      "③ 患者だったら",
+      "④ どうしてほしいか"
+    ],
+    "image": "image_import_db4a12d2d023_slide_0018.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "gemini_order": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "old_answer": "① 考えながら",
+    "corrected": true,
+    "new": {
+      "id": 1780329075297,
+      "question": "私は、もし自分が ____ ____ ★ ____ 看護師の仕事をしています。",
+      "fragments": [
+        "① 考えながら",
+        "② ということを",
+        "③ 患者だったら",
+        "④ どうしてほしいか"
+      ],
+      "completed_sentence": "私は、もし自分が患者だったらどうしてほしいかということを考えながら看護師の仕事をしています。",
+      "correct_order": "③→④→②→①",
+      "star_answer": "② ということを",
+      "tip": "• 「もし〜だったら」は仮定の表現です。「もし自分が患者だったら」で「もし私が患者であるならば」となります。\n• 「〜てほしい」は「〜してほしい」の形で、相手に何かをしてほしいという願望を表します。疑問詞「どう」と組み合わせて「どうしてほしいか」となります。\n• 「〜かということを」は、疑問文を名詞句として受け、その内容について述べる際に使います。ここでは「どうしてほしいか」の内容を受けます。\n• 「Vながら」は「〜しながら」の形で、二つの動作が同時に行われることを示します。",
+      "grammar_point": "V-たら, V-てほしい, 〜かということ, V-ながら"
+    }
+  },
+  {
+    "note_id": 1780329075857,
+    "question": "私はエアコンの風が好きではないので、夏の夜、暑くて ____ ____ ★ ____、自分の部屋ではエアコンを使いません。",
+    "fragments": [
+      "① どうしても",
+      "② とき",
+      "③ 寝られない",
+      "④ 以外"
+    ],
+    "image": "image_import_69a3a276a569_slide_0019.png",
+    "needs_ocr": false,
+    "user_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "② とき",
+    "corrected": false,
+    "new": {
+      "id": 1780329075857,
+      "question": "私はエアコンの風が好きではないので、夏の夜、暑くて ____ ____ ★ ____、自分の部屋ではエアコンを使いません。",
+      "fragments": [
+        "① どうしても",
+        "② とき",
+        "③ 寝られない",
+        "④ 以外"
+      ],
+      "completed_sentence": "私はエアコンの風が好きではないので、夏の夜、暑くてどうしても寝られないとき以外、自分の部屋ではエアコンを使いません。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② とき",
+      "tip": "• 「どうしても」は「何が何でも、どうしても」という意味で、困難な状況や強い意志を表します。ここでは「寝られない」を強調しています。\n• 「Vられない」は可能形の否定で「〜できない」という意味です。「寝られない」で「眠ることができない」となります。\n• 「〜とき」は「〜する時」の形で、ある時点や状況を表します。ここでは「どうしても寝られないとき」が塊です。\n• 「〜以外」は「〜を除いて」という意味で、例外を示します。全体で「どうしても寝られないときを除いて」となります。",
+      "grammar_point": "どうしても, V-られない, 〜とき以外"
+    }
+  },
+  {
+    "note_id": 1780329076410,
+    "question": "最近、田中さんは元気がない。心配だが、何が ____ ____ ★ ____ してあげられない。",
+    "fragments": [
+      "① 聞いても",
+      "② あったのか",
+      "③ 何も",
+      "④ 答えてくれないので"
+    ],
+    "image": "image_import_5b39f58b15da_slide_0020.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "④ 答えてくれないので",
+    "corrected": false,
+    "new": {
+      "id": 1780329076410,
+      "question": "最近、田中さんは元気がない。心配だが、何が ____ ____ ★ ____ してあげられない。",
+      "fragments": [
+        "① 聞いても",
+        "② あったのか",
+        "③ 何も",
+        "④ 答えてくれないので"
+      ],
+      "completed_sentence": "最近、田中さんは元気がない。心配だが、何が あったのか 聞いても 答えてくれないので 何も してあげられない。",
+      "correct_order": "②→①→④→③",
+      "star_answer": "③ 何も",
+      "tip": "• Tìm cặp cố định: 「何が〜あったのか」 (②) là một cụm từ tự nhiên để hỏi 'chuyện gì đã xảy ra'.\n• Nối tiếp lý do: 「聞いても」 (①) (dù có hỏi) dẫn đến kết quả là 「答えてくれないので」 (④) (vì không trả lời).\n• Cụm phủ định: 「何も〜ない」 (③) là cấu trúc cố định, nên 「何もしてあげられない」 là phần cuối câu.\n• Thứ tự đúng là ②→①→④→③. Mảnh ở vị trí ★ là ③ 何も.",
+      "grammar_point": "Vても, 〜ので, 何も〜ない"
+    }
+  },
+  {
+    "note_id": 1780329076961,
+    "question": "この辺りは自然が多く、いつかこういうところに住んでみたいと思うが、近くに買い物できる場所がないので、____ ____ ★ ____ のは大変そうだ。",
+    "fragments": [
+      "① 私には",
+      "② できない",
+      "③ 生活する",
+      "④ 車の運転が"
+    ],
+    "image": "image_import_e6535d02bc4b_slide_0021.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "gemini_order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "② できない",
+    "corrected": true,
+    "new": {
+      "id": 1780329076961,
+      "question": "この辺りは自然が多く、いつかこういうところに住んでみたいと思うが、近くに買い物できる場所がないので、____ ____ ★ ____ のは大変そうだ。",
+      "fragments": [
+        "① 私には",
+        "② できない",
+        "③ 生活する",
+        "④ 車の運転が"
+      ],
+      "completed_sentence": "この辺りは自然が多く、いつかこういうところに住んでみたいと思うが、近くに買い物できる場所がないので、車の運転が できない 私には 生活する のは大変そうだ。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① 私には",
+      "tip": "• Tìm cặp cố định: 「〜ができない」 là cấu trúc 'không thể làm gì'. Ghép 「車の運転が」 (④) với 「できない」 (②).\n• Xác định đối tượng: 「私には」 (①) (đối với tôi) thường đứng sau một khả năng hoặc tình trạng.\n• Cấu trúc 「Vる のは大変だ」: Động từ trước 「のは」 phải là thể từ điển. 「生活する」 (③) (sinh hoạt) phù hợp.\n• Thứ tự đúng là ④→②→①→③. Mảnh ở vị trí ★ là ① 私には.",
+      "grammar_point": "Vることは〜, 〜には, Vるのが大変だ"
+    }
+  },
+  {
+    "note_id": 1780329077510,
+    "question": "レストランAは ____ ____ ★ ____ なかなか予約がとれない人気店になった。",
+    "fragments": [
+      "① 雑誌か",
+      "② で",
+      "③ 何か",
+      "④ 紹介されてから"
+    ],
+    "image": "image_import_8493db929a9b_slide_0022.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "② で",
+    "corrected": false,
+    "new": {
+      "id": 1780329077510,
+      "question": "レストランAは ____ ____ ★ ____ なかなか予約がとれない人気店になった。",
+      "fragments": [
+        "① 雑誌か",
+        "② で",
+        "③ 何か",
+        "④ 紹介されてから"
+      ],
+      "completed_sentence": "レストランAは 雑誌か 何か で 紹介されてから なかなか予約がとれない人気店になった。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "④ 紹介されてから",
+      "tip": "• Tìm cặp cố định: 「〜か何か」 (①→③) là cụm từ 'cái gì đó hoặc đại loại thế'.\n• Giới từ chỉ phương tiện: 「〜で」 (②) (bằng/trên) thường đi sau danh từ chỉ phương tiện truyền thông, ví dụ 「雑誌か何かで」.\n• Cấu trúc thời gian: 「Vてから」 (④) (sau khi làm gì) chỉ một hành động xảy ra sau hành động khác. 「紹介されてから」 (sau khi được giới thiệu) là hợp lý.\n• Thứ tự đúng là ①→③→②→④. Mảnh ở vị trí ★ là ④ 紹介されてから.",
+      "grammar_point": "〜か何か, 〜で, Vてから"
+    }
+  },
+  {
+    "note_id": 1780329078087,
+    "question": "B「本当にすばらしいですね。____ ____ ★ ____ ありません。」",
+    "fragments": [
+      "① 夕日は",
+      "② 見たことが",
+      "③ きれいな",
+      "④ こんなに"
+    ],
+    "image": "image_import_68979053aecb_slide_0023.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "old_answer": "① 夕日は",
+    "corrected": false,
+    "new": {
+      "id": 1780329078087,
+      "question": "B「本当にすばらしいですね。____ ____ ★ ____ ありません。」",
+      "fragments": [
+        "① 夕日は",
+        "② 見たことが",
+        "③ きれいな",
+        "④ こんなに"
+      ],
+      "completed_sentence": "B「本当にすばらしいですね。こんなに きれいな 夕日は 見たことが ありません。」",
+      "correct_order": "④→③→①→②",
+      "star_answer": "② 見たことが",
+      "tip": "• Trạng từ cường điệu: 「こんなに」 (④) (đến mức này) thường đi trước tính từ. Ghép với 「きれいな」 (③).\n• Tính từ bổ nghĩa danh từ: 「きれいな」 (③) bổ nghĩa cho danh từ 「夕日は」 (①) (hoàng hôn).\n• Cấu trúc kinh nghiệm: 「Vたことがありません」 (chưa từng làm gì) là cấu trúc cố định. Ghép 「見たことが」 (②) với 「ありません」.\n• Thứ tự đúng là ④→③→①→②. Mảnh ở vị trí ★ là ② 見たことが.",
+      "grammar_point": "こんなに〜, Vたことがある"
+    }
+  },
+  {
+    "note_id": 1780329078639,
+    "question": "昨日、テレビでテニスの試合を見た。____ ____ ★ ____ 最後まで本当にどきどきした。",
+    "fragments": [
+      "① 試合で",
+      "② どちらが",
+      "③ おかしくない",
+      "④ 勝っても"
+    ],
+    "image": "image_import_93138ead3a0e_slide_0024.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "③ おかしくない",
+    "corrected": false,
+    "new": {
+      "id": 1780329078639,
+      "question": "昨日、テレビでテニスの試合を見た。____ ____ ★ ____ 最後まで本当にどきどきした。",
+      "fragments": [
+        "① 試合で",
+        "② どちらが",
+        "③ おかしくない",
+        "④ 勝っても"
+      ],
+      "completed_sentence": "昨日、テレビでテニスの試合を見た。どちらが 勝っても おかしくない 試合で 最後まで本当にどきどきした。",
+      "correct_order": "②→④→③→①",
+      "star_answer": "① 試合で",
+      "tip": "• Cấu trúc 「どちらがVても」: 「どちらが」 (②) (bên nào) thường đi với động từ thể 「〜ても」 (④) (dù có thắng).\n• Cấu trúc 「Vてもおかしくない」: 「おかしくない」 (③) (không có gì lạ) thường đi sau động từ thể 「〜ても」 (④).\n• Cụm danh từ bổ nghĩa: Cả cụm 「どちらが勝ってもおかしくない」 bổ nghĩa cho danh từ 「試合で」 (①) (trong trận đấu).\n• Thứ tự đúng là ②→④→③→①. Mảnh ở vị trí ★ là ① 試合で.",
+      "grammar_point": "どちらがVても, Vてもおかしくない"
+    }
+  },
+  {
+    "note_id": 1780329079291,
+    "question": "子供には、親の ____ ____ ★ ____ 習わせたほうがいいと思う。",
+    "fragments": [
+      "① 習わせるのではなく",
+      "② 子供の",
+      "③ 興味があるものを",
+      "④ 習わせたいものを"
+    ],
+    "image": "image_import_f420570c311c_slide_0025.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "old_answer": "② 子供の",
+    "corrected": false,
+    "new": {
+      "id": 1780329079291,
+      "question": "子供には、親の ____ ____ ★ ____ 習わせたほうがいいと思う。",
+      "fragments": [
+        "① 習わせるのではなく",
+        "② 子供の",
+        "③ 興味があるものを",
+        "④ 習わせたいものを"
+      ],
+      "completed_sentence": "子供には、親の 習わせたいものを 習わせるのではなく 子供の 興味があるものを 習わせたほうがいいと思う。",
+      "correct_order": "④→①→②→③",
+      "star_answer": "③ 興味があるものを",
+      "tip": "• Cấu trúc so sánh đối lập: 「AのではなくB」 (không phải A mà là B). A là 「親の習わせたいものを」 (④) (những gì bố mẹ muốn dạy).\n• Nối vế đối lập: 「習わせるのではなく」 (①) (không phải là dạy) nối với vế A.\n• Vế B: 「子供の」 (②) (của trẻ con) bổ nghĩa cho 「興味があるものを」 (③) (những thứ mà chúng có hứng thú).\n• Thứ tự đúng là ④→①→②→③. Mảnh ở vị trí ★ là ③ 興味があるものを.",
+      "grammar_point": "〜のではなく〜, Vたほうがいい"
+    }
+  },
+  {
+    "note_id": 1780329079825,
+    "question": "来月、大学のスピーチ大会に出る。全部覚える ____ ____ ★ ____ つもりだ。",
+    "fragments": [
+      "① ようにする",
+      "② たくさん練習して",
+      "③ まで",
+      "④ メモを見ないで話せる"
+    ],
+    "image": "image_import_ff81e585c385_slide_0026.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "gemini_order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "④ メモを見ないで話せる",
+    "corrected": true,
+    "new": {
+      "id": 1780329079825,
+      "question": "来月、大学のスピーチ大会に出る。全部覚える ____ ____ ★ ____ つもりだ。",
+      "fragments": [
+        "① ようにする",
+        "② たくさん練習して",
+        "③ まで",
+        "④ メモを見ないで話せる"
+      ],
+      "completed_sentence": "来月、大学のスピーチ大会に出る。全部覚えるまでたくさん練習してメモを見ないで話せるようにするつもりだ。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ メモを見ないで話せる",
+      "tip": "• Tìm cặp ngữ pháp 「Vるまで」 (cho đến khi V). Ở đây là 「覚えるまで」.\n• Tìm cặp 「Vれるようにする」 (cố gắng để có thể V). Ở đây là 「話せるようにする」.\n• 「練習して」 (luyện tập rồi) thường đứng trước kết quả hoặc mục tiêu đạt được.",
+      "grammar_point": "〜まで, 〜て, 〜ようにする"
+    }
+  },
+  {
+    "note_id": 1780329080371,
+    "question": "この写真の鳥はとても珍しくて、この鳥の____ ____ ★ ____そうだ。",
+    "fragments": [
+      "① 見る機会がない",
+      "② 専門家でも",
+      "③ なかなか",
+      "④ 研究をしている"
+    ],
+    "image": "image_import_a20086dea44e_slide_0027.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "old_answer": "① 見る機会がない",
+    "corrected": true,
+    "new": {
+      "id": 1780329080371,
+      "question": "この写真の鳥はとても珍しくて、この鳥の____ ____ ★ ____そうだ。",
+      "fragments": [
+        "① 見る機会がない",
+        "② 専門家でも",
+        "③ なかなか",
+        "④ 研究をしている"
+      ],
+      "completed_sentence": "この写真の鳥はとても珍しくて、この鳥の研究をしている専門家でもなかなか見る機会がないそうだ。",
+      "correct_order": "④→②→③→①",
+      "star_answer": "③ なかなか",
+      "tip": "• Tìm cụm danh từ bổ nghĩa: 「研究をしている専門家」 (chuyên gia đang nghiên cứu).\n• Tìm cặp ngữ pháp 「なかなかVない」 (khó mà V được). Ở đây là 「なかなか見る機会がない」.\n• 「専門家でも」 (ngay cả chuyên gia cũng) là chủ ngữ cho hành động 「見る機会がない」.",
+      "grammar_point": "〜ている, 〜でも, なかなか〜ない"
+    }
+  },
+  {
+    "note_id": 1780329080917,
+    "question": "春から大学生になる娘には、____ ____ ★ ____ できない 経験をいろいろしてほしい。",
+    "fragments": [
+      "① にも",
+      "② にしか",
+      "③ 勉強以外",
+      "④ 大学時代"
+    ],
+    "image": "image_import_0821e2c080ce_slide_0028.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "old_answer": "④ 大学時代",
+    "corrected": false,
+    "new": {
+      "id": 1780329080917,
+      "question": "春から大学生になる娘には、____ ____ ★ ____ できない 経験をいろいろしてほしい。",
+      "fragments": [
+        "① にも",
+        "② にしか",
+        "③ 勉強以外",
+        "④ 大学時代"
+      ],
+      "completed_sentence": "春から大学生になる娘には、勉強以外にも大学時代にしかできない経験をいろいろしてほしい。",
+      "correct_order": "③→①→④→②",
+      "star_answer": "④ 大学時代",
+      "tip": "• Tìm cặp ngữ pháp 「〜にしかできない」 (chỉ có thể làm ở/vào/bởi...). 「できない」 là mỏ neo cuối cùng.\n• 「勉強以外にも」 (ngoài việc học ra thì cũng...) là một cụm bổ nghĩa cho 「経験」.\n• Ghép lại thành 「大学時代にしかできない経験」 (những trải nghiệm chỉ có thể có được trong thời đại học).",
+      "grammar_point": "〜にしか〜ない, 〜以外にも"
+    }
+  },
+  {
+    "note_id": 1780329081455,
+    "question": "土曜日は買い物をしたい友人と食事をしたりし、日曜日は____ ____ ★ ____ 私の好きな週末の過ごし方だ。",
+    "fragments": [
+      "① のが",
+      "② という",
+      "③ 家で過ごす",
+      "④ どこにも出かけずに"
+    ],
+    "image": "image_import_5199f29d2bcb_slide_0029.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "order": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "old_answer": "② という",
+    "corrected": false,
+    "new": {
+      "id": 1780329081455,
+      "question": "土曜日は買い物をしたい友人と食事をしたりし、日曜日は____ ____ ★ ____ 私の好きな週末の過ごし方だ。",
+      "fragments": [
+        "① のが",
+        "② という",
+        "③ 家で過ごす",
+        "④ どこにも出かけずに"
+      ],
+      "completed_sentence": "土曜日は買い物をしたい友人と食事をしたりし、日曜日はどこにも出かけずに家で過ごすというのが私の好きな週末の過ごし方だ。",
+      "correct_order": "④→③→②→①",
+      "star_answer": "② という",
+      "tip": "• Tìm cặp ngữ pháp 「VずにVる」 (làm V mà không V). Ở đây là 「どこにも出かけずに家で過ごす」.\n• Tìm cặp 「Vるというの」 (việc V đó). Ở đây là 「家で過ごすというのが」.\n• Cấu trúc 「〜のが〜だ」 biến một mệnh đề thành chủ ngữ của câu.",
+      "grammar_point": "〜ずに, 〜という, 〜のが"
+    }
+  },
+  {
+    "note_id": 1780329082030,
+    "question": "客「すみません。15分ぐらい前に案内をお願いして、しばらくここで待ってって____ ★ ____ まだですか。」",
+    "fragments": [
+      "① 待っているんです",
+      "② 言われた",
+      "③ から",
+      "④ けど"
+    ],
+    "image": "image_import_e3fd47e8bff0_slide_0030.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "old_answer": "①",
+    "corrected": false,
+    "new": {
+      "id": 1780329082030,
+      "question": "客「すみません。15分ぐらい前に案内をお願いして、しばらくここで待ってって____ ★ ____ まだですか。」",
+      "fragments": [
+        "① 待っているんです",
+        "② 言われた",
+        "③ から",
+        "④ けど"
+      ],
+      "completed_sentence": "客「すみません。15分ぐらい前に案内をお願いして、しばらくここで待ってって言われたから待っているんですけどまだですか。」",
+      "correct_order": "②→③→①→④",
+      "star_answer": "③ から",
+      "tip": "• Tìm cặp ngữ pháp 「Vてって言われた」 (bị nói là hãy V). Ở đây là 「待ってって言われた」.\n• Tìm cặp 「VたからVているんですけど」 (vì đã V nên tôi đang V, nhưng...).\n• 「〜けど」 thường đứng cuối một mệnh đề để nối với câu hỏi hoặc ý đối lập.",
+      "grammar_point": "〜てって言う, 〜から, 〜ている, 〜けど"
+    }
+  },
+  {
+    "note_id": 1780329082584,
+    "question": "歴史を____ ____ ★ ____進学を決めた。",
+    "fragments": [
+      "① 勉強すればするほど",
+      "② 歴史学科への",
+      "③ と思うようになって",
+      "④ もっと学びたい"
+    ],
+    "image": "image_import_82de0a076d26_slide_0031.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③ と思うようになって",
+    "corrected": false,
+    "new": {
+      "id": 1780329082584,
+      "question": "歴史を____ ____ ★ ____進学を決めた。",
+      "fragments": [
+        "① 勉強すればするほど",
+        "② 歴史学科への",
+        "③ と思うようになって",
+        "④ もっと学びたい"
+      ],
+      "completed_sentence": "歴史を勉強すればするほどもっと学びたいと思うようになって歴史学科への進学を決めた。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ と思うようになって",
+      "tip": "• Tìm cặp ngữ pháp 「VばVるほど」 (càng V càng...). Ở đây là 「勉強すればするほど」.\n• Tìm cặp 「Vたいと思うようになる」 (dần dần nghĩ rằng muốn V). Ở đây là 「もっと学びたいと思うようになって」.\n• 「歴史学科への進学」 (việc học lên khoa lịch sử) là một cụm danh từ.",
+      "grammar_point": "VばVるほど, 〜たいと思うようになる, 〜への"
+    }
+  },
+  {
+    "note_id": 1780329083150,
+    "question": "今日は、久しぶりに家族 ____ ____ ★ ____ 過ごした。",
+    "fragments": [
+      "① で",
+      "② を",
+      "③ 5人",
+      "④ 楽しい休み"
+    ],
+    "image": "image_import_66df45c36301_slide_0032.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "old_answer": "④ 楽しい休み",
+    "corrected": false,
+    "new": {
+      "id": 1780329083150,
+      "question": "今日は、久しぶりに家族 ____ ____ ★ ____ 過ごした。",
+      "fragments": [
+        "① で",
+        "② を",
+        "③ 5人",
+        "④ 楽しい休み"
+      ],
+      "completed_sentence": "今日は、久しぶりに家族5人で楽しい休みを過ごした。",
+      "correct_order": "③→①→④→②",
+      "star_answer": "④ 楽しい休み",
+      "tip": "• Tìm cặp cố định: 「家族」と「5人」は人数を表すので、「家族5人」と繋がります。\n• 「〜で」は人数を表す助詞なので、「家族5人で」となります。\n• 動詞「過ごした」の目的語は「楽しい休み」なので、「楽しい休みを過ごした」と繋がります。\n• 全体で「家族5人で楽しい休みを過ごした」という自然な流れになります。",
+      "grammar_point": "N + 数詞 + で (số lượng người/vật), N + を + V (tân ngữ của động từ)"
+    }
+  },
+  {
+    "note_id": 1780329083710,
+    "question": "駅前の店のラーメンは、濃い ____ ____ ★ ____ 私はちょっと苦手だ。",
+    "fragments": [
+      "① 味が",
+      "② いい",
+      "③ 好きな人には",
+      "④ かもしれないが"
+    ],
+    "image": "image_import_754ddd797e85_slide_0033.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "② いい",
+    "corrected": false,
+    "new": {
+      "id": 1780329083710,
+      "question": "駅前の店のラーメンは、濃い ____ ____ ★ ____ 私はちょっと苦手だ。",
+      "fragments": [
+        "① 味が",
+        "② いい",
+        "③ 好きな人には",
+        "④ かもしれないが"
+      ],
+      "completed_sentence": "駅前の店のラーメンは、濃い味が好きな人にはいいかもしれないが、私はちょっと苦手だ。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② いい",
+      "tip": "• 「濃い」は「味」を修飾するので、「濃い味が」と繋がります。\n• 「好きな人には」と「いい」はセットで「好きな人にはいい」（đối với người thích thì tốt）となります。\n• 「いい」の後に「かもしれないが」が続くことで、「có lẽ là tốt, nhưng...」という譲歩の表現になります。\n• 全体で「濃い味が好きな人にはいいかもしれないが」という流れで、後の「私はちょっと苦手だ」と繋がります。",
+      "grammar_point": "N + には (đối với), V/Adj + かもしれない (có lẽ), V/Adj + が (nhưng/tuy nhiên)"
+    }
+  },
+  {
+    "note_id": 1780329084272,
+    "question": "久しぶりにふるさとに帰ったが、昔は何もなかった ____ ____ ★ ____ 見て驚いた。",
+    "fragments": [
+      "① のを",
+      "② すっかり",
+      "③ 駅の周りが",
+      "④ 変わっている"
+    ],
+    "image": "image_import_9a5f7f5eeb01_slide_0034.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "④ 変わっている",
+    "corrected": false,
+    "new": {
+      "id": 1780329084272,
+      "question": "久しぶりにふるさとに帰ったが、昔は何もなかった ____ ____ ★ ____ 見て驚いた。",
+      "fragments": [
+        "① のを",
+        "② すっかり",
+        "③ 駅の周りが",
+        "④ 変わっている"
+      ],
+      "completed_sentence": "久しぶりにふるさとに帰ったが、昔は何もなかった駅の周りがすっかり変わっているのを見て驚いた。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ 変わっている",
+      "tip": "• 「昔は何もなかった」は「駅の周り」を修飾する節なので、「昔は何もなかった駅の周りが」と繋がります。\n• 「すっかり」は副詞で「変わっている」を修飾するので、「すっかり変わっている」となります。\n• 「変わっている」という状態を「見て驚いた」ので、動詞の後に「のを」を付けて名詞化し、目的語にします。\n• 全体で「駅の周りがすっかり変わっているのを見て驚いた」という自然な流れになります。",
+      "grammar_point": "N + が (chủ ngữ), Adverb + V (trạng từ bổ nghĩa cho động từ), V-ている (trạng thái/kết quả), V-ている + のを + 見る (nhìn thấy điều gì đó đang xảy ra)"
+    }
+  },
+  {
+    "note_id": 1780329084823,
+    "question": "これまでの人生の中で ____ ____ ★ ____ 日はない。",
+    "fragments": [
+      "① 日ほど",
+      "② 自分の子供が",
+      "③ うれしかった",
+      "④ 生まれた"
+    ],
+    "image": "image_import_6bed3e5a4963_slide_0035.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "old_answer": "① 日ほど",
+    "corrected": false,
+    "new": {
+      "id": 1780329084823,
+      "question": "これまでの人生の中で ____ ____ ★ ____ 日はない。",
+      "fragments": [
+        "① 日ほど",
+        "② 自分の子供が",
+        "③ うれしかった",
+        "④ 生まれた"
+      ],
+      "completed_sentence": "これまでの人生の中で自分の子供が生まれた日ほどうれしかった日はない。",
+      "correct_order": "②→④→①→③",
+      "star_answer": "① 日ほど",
+      "tip": "• 「自分の子供が」と「生まれた」はセットで「自分の子供が生まれた」（con tôi ra đời）となります。\n• 「生まれた」は「日」を修飾するので、「生まれた日」となります。\n• 「〜ほど〜ない」は「không... bằng...」という比較の表現なので、「生まれた日ほどうれしかった日はない」と繋がります。\n• 全体で「自分の子供が生まれた日ほどうれしかった日はない」という、よく使われる表現になります。",
+      "grammar_point": "N + が (chủ ngữ), V-た + 日 (ngày mà V), N + ほど + Adj/V + ない (không Adj/V bằng N)"
+    }
+  },
+  {
+    "note_id": 1780329085378,
+    "question": "今回の彼の新曲は、友情がテーマになっている ____ ★ ____ 大きく違う。",
+    "fragments": [
+      "① 彼の曲と",
+      "② 発表されてきた",
+      "③ という点で",
+      "④ これまでに"
+    ],
+    "image": "image_import_b0a908ef82b0_slide_0036.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "old_answer": "②",
+    "corrected": false,
+    "new": {
+      "id": 1780329085378,
+      "question": "今回の彼の新曲は、友情がテーマになっている ____ ★ ____ 大きく違う。",
+      "fragments": [
+        "① 彼の曲と",
+        "② 発表されてきた",
+        "③ という点で",
+        "④ これまでに"
+      ],
+      "completed_sentence": "今回の彼の新曲は、友情がテーマになっているという点でこれまでに発表されてきた彼の曲と大きく違う。",
+      "correct_order": "③→④→②→①",
+      "star_answer": "④ これまでに",
+      "tip": "• 「友情がテーマになっている」という内容を説明するのに「という点で」（ở điểm là）が続きます。\n• 「大きく違う」は比較の対象が必要なので、「〜と違う」という形になります。よって「彼の曲と」が最後に来ます。\n• 「これまでに」は「発表されてきた」を修飾し、「これまでに発表されてきた」は「彼の曲」を修飾します。\n• 全体で「友情がテーマになっているという点で、これまでに発表されてきた彼の曲と大きく違う」という流れになります。",
+      "grammar_point": "N/Clause + という点で (ở điểm là), N + と + 違う (khác với N), V-てくる (hành động tiếp diễn đến hiện tại)"
+    }
+  },
+  {
+    "note_id": 1780329085931,
+    "question": "実家にある冷蔵庫は30年も____ ____ ★ ____、親はまだ買い換えないと言っている。",
+    "fragments": [
+      "① いつ壊れてもおかしくない",
+      "② 古いもので",
+      "③ のに",
+      "④ 使っている"
+    ],
+    "image": "image_import_6aa2a4f1c630_slide_0037.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "① いつ壊れてもおかしくない",
+    "corrected": false,
+    "new": {
+      "id": 1780329085931,
+      "question": "実家にある冷蔵庫は30年も____ ____ ★ ____、親はまだ買い換えないと言っている。",
+      "fragments": [
+        "① いつ壊れてもおかしくない",
+        "② 古いもので",
+        "③ のに",
+        "④ 使っている"
+      ],
+      "completed_sentence": "実家にある冷蔵庫は30年も使っている古いものでいつ壊れてもおかしくないのに、親はまだ買い換えないと言っている。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① いつ壊れてもおかしくない",
+      "tip": "• 「30年も」は「使っている」と繋がって「30年も使っている」（đã dùng 30 năm）となります。\n• 「古いもので」は「古いものなので」のように理由や状態を表し、次の文に繋がります。\n• 「いつ壊れてもおかしくない」は「いつ壊れても不思議ではない」（không có gì lạ nếu hỏng bất cứ lúc nào）という意味で、状態を表します。\n• 「〜のに」は逆接を表すので、「いつ壊れてもおかしくないのに」（mặc dù có thể hỏng bất cứ lúc nào）と繋がります。",
+      "grammar_point": "V-ている (trạng thái/thời gian), N + で (lý do/trạng thái, thường là 〜もので), V-てもおかしくない (không có gì lạ nếu V), Clause + のに (mặc dù/dù cho)"
+    }
+  },
+  {
+    "note_id": 1780329086488,
+    "question": "97 ____ ____ ★ ____ 遅れているそうです。",
+    "fragments": [
+      "① 駅ビルの建設工事が",
+      "② 予定だったが",
+      "③ あと半年で",
+      "④ 終わる"
+    ],
+    "image": "image_import_56c262c0345f_slide_0038.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "gemini_order": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "old_answer": "④ 終わる",
+    "corrected": true,
+    "new": {
+      "id": 1780329086488,
+      "question": "97 ____ ____ ★ ____ 遅れているそうです。",
+      "fragments": [
+        "① 駅ビルの建設工事が",
+        "② 予定だったが",
+        "③ あと半年で",
+        "④ 終わる"
+      ],
+      "completed_sentence": "あと半年で終わる予定だったが、駅ビルの建設工事が遅れているそうです。",
+      "correct_order": "③→④→②→①",
+      "star_answer": "② 予定だったが",
+      "tip": "• Tìm cặp cố định: 「あと半年で」(③) + 「終わる」(④) = 'kết thúc trong nửa năm nữa'.\n• Cặp tiếp theo: 「終わる」(④) + 「予定だったが」(②) = 'đã dự định kết thúc, nhưng...'.\n• Ghép lại: ③→④→②. Mảnh còn lại ① là chủ ngữ của vế sau, đứng sau dấu phẩy.",
+      "grammar_point": "Vる予定だったが"
+    }
+  },
+  {
+    "note_id": 1780329087065,
+    "question": "プレゼントをするときは、贈る相手の ____ ____ ★ ____ 時間も楽しい。",
+    "fragments": [
+      "① 選ぶ",
+      "② ことを",
+      "③ どれにするか",
+      "④ 考えながら"
+    ],
+    "image": "image_import_93e0f9e3b4b3_slide_0039.png",
+    "needs_ocr": false,
+    "user_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "gemini_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "② ことを",
+    "corrected": true,
+    "new": {
+      "id": 1780329087065,
+      "question": "プレゼントをするときは、贈る相手の ____ ____ ★ ____ 時間も楽しい。",
+      "fragments": [
+        "① 選ぶ",
+        "② ことを",
+        "③ どれにするか",
+        "④ 考えながら"
+      ],
+      "completed_sentence": "プレゼントをするときは、贈る相手のことを考えながらどれにするか選ぶ時間も楽しい。",
+      "correct_order": "②→④→③→①",
+      "star_answer": "③ どれにするか",
+      "tip": "• Cụm 「贈る相手の」 (của người nhận) sẽ bổ nghĩa cho 「こと」 (②). Vậy, 「贈る相手のこと」.\n• 「〜ながら」 (④) thường đi sau động từ thể ます bỏ ます, ở đây là 「考えながら」 (vừa nghĩ).\n• 「どれにするか」 (③) là cụm từ chỉ sự lựa chọn, thường đi với động từ 「選ぶ」 (①). Vậy, 「どれにするか選ぶ」 (chọn cái nào).\n• Ghép lại: 「贈る相手の②ことを④考えながら③どれにするか①選ぶ時間も楽しい。」",
+      "grammar_point": "Nのこと, Vながら, Vるか"
+    }
+  },
+  {
+    "note_id": 1780329087624,
+    "question": "このパソコン教室には様々なコースがあります。基礎コースは、パソコンの____ ____ ★ ____ぴったりです。",
+    "fragments": [
+      "① コースなので",
+      "② 初めて習う方に",
+      "③ なれるための",
+      "④ 基本的な使い方に"
+    ],
+    "image": "image_import_3a062cae3eb8_slide_0040.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "old_answer": "① コースなので",
+    "corrected": false,
+    "new": {
+      "id": 1780329087624,
+      "question": "このパソコン教室には様々なコースがあります。基礎コースは、パソコンの____ ____ ★ ____ぴったりです。",
+      "fragments": [
+        "① コースなので",
+        "② 初めて習う方に",
+        "③ なれるための",
+        "④ 基本的な使い方に"
+      ],
+      "completed_sentence": "このパソコン教室には様々なコースがあります。基礎コースは、パソコンの基本的な使い方になれるためのコースなので、初めて習う方にぴったりです。",
+      "correct_order": "④→③→①→②",
+      "star_answer": "① コースなので",
+      "tip": "• Tìm cặp cố định: 「使い方に」(④) + 「なれるための」(③) = 'để làm quen với cách dùng'.\n• Cụm 「なれるための」 (③) bổ nghĩa cho danh từ 「コース」. Vậy, 「なれるためのコース」.\n• 「コースなので」(①) là lý do. Cụm này giải thích cho vế sau 「初めて習う方に」(②) + 「ぴったりです」 (rất phù hợp với người mới học).\n• Ghép lại: ④→③→①→②.",
+      "grammar_point": "Nに慣れる, VるためのN, Nなので, Nにぴったり"
+    }
+  },
+  {
+    "note_id": 1780329088197,
+    "question": "エアコンから ____ ____ ★ ____ かというと、冷たい空気は暖かい空気より重いからだ。",
+    "fragments": [
+      "① 冷たい空気が",
+      "② 出た",
+      "③ どうして",
+      "④ 部屋の下の方に行くのは"
+    ],
+    "image": "image_import_02d7fd231ac3_slide_0041.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "④ 部屋の下の方に行くのは",
+    "corrected": false,
+    "new": {
+      "id": 1780329088197,
+      "question": "エアコンから ____ ____ ★ ____ かというと、冷たい空気は暖かい空気より重いからだ。",
+      "fragments": [
+        "① 冷たい空気が",
+        "② 出た",
+        "③ どうして",
+        "④ 部屋の下の方に行くのは"
+      ],
+      "completed_sentence": "エアコンから出た冷たい空気が部屋の下の方に行くのはどうしてかというと、冷たい空気は暖かい空気より重いからだ。",
+      "correct_order": "②→①→④→③",
+      "star_answer": "④ 部屋の下の方に行くのは",
+      "tip": "• Cặp cố định: 「エアコンから」(từ điều hòa) + 「出た」(②) = 'thoát ra từ điều hòa'.\n• Cụm 「出た」(②) bổ nghĩa cho 「冷たい空気が」(①) = 'không khí lạnh thoát ra'. Vậy, ②→①.\n• Cụm 「冷たい空気が」(①) là chủ ngữ của hành động 「部屋の下の方に行くのは」(④) = 'việc không khí lạnh đi xuống phía dưới phòng'. Vậy, ①→④.\n• Cụm cuối cùng: 「〜のは」(④) + 「どうしてかというと」(③) = 'nếu hỏi tại sao lại là việc ~ thì...'. Vậy, ④→③.\n• Ghép lại: ②→①→④→③.",
+      "grammar_point": "Vるのはどうしてかというと〜からだ, VたN"
+    }
+  },
+  {
+    "note_id": 1782227281399,
+    "question": "",
+    "fragments": [],
+    "image": "paste-9b1488ff8e15404bc507e2a8c843c3a1a640dd41.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "gemini_order": null,
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227281399,
+      "question": "54 息子は、サッカークラブの練習がきついと___ ___ ★ ___ 好きだ からと思う。",
+      "fragments": [
+        "① よく言っているが",
+        "② やっぱりサッカーが",
+        "③ 続けているのは",
+        "④ それでもやめずに"
+      ],
+      "completed_sentence": "息子は、サッカークラブの練習がきついとよく言っているがそれでもやめずに続けているのはやっぱりサッカーが好きだからと思う。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ 続けているのは",
+      "tip": "• Mảnh ① 「よく言っているが」 (thường nói là... nhưng) kết thúc bằng 「が」, báo hiệu một ý đối lập. Ý đối lập là dù khó nhưng vẫn không bỏ cuộc. \n• Mảnh ④ 「それでもやめずに」 (dù vậy vẫn không bỏ) nối tiếp ý đối lập sau 「が」. Cụm 「やめずに」 (không bỏ) cần một hành động tiếp theo, đó là 「続けている」 (tiếp tục). Vậy ④→③ là một cặp. \n• Mảnh ③ 「続けているのは」 (việc tiếp tục là/lý do tiếp tục là) là cấu trúc nhấn mạnh, cần một chủ ngữ hoặc lý do. Mảnh ② 「やっぱりサッカーが」 (rốt cuộc là bóng đá) sẽ là chủ ngữ cho 「好きだから」 (vì thích). Vậy ③→② là một cặp. \n• Ghép lại ta có ①→④→③→②. Vị trí ★ là mảnh thứ 3, tức là ③.",
+      "grammar_point": "Vる/Vない + が, それでも, Vずに, 〜のは〜だ"
+    }
+  },
+  {
+    "note_id": 1782227407255,
+    "question": "",
+    "fragments": [],
+    "image": "paste-f770c2da7813bed44c6b9af1eea997a2294e335b.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "gemini_order": null,
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227407255,
+      "question": "56 昨日父に、来週友達と旅行に行く＿＿＿＿★＿＿＿＿頼んだが、断られてしまった。",
+      "fragments": [
+        "① と",
+        "② 車を",
+        "③ ので",
+        "④ 使わせてほしい"
+      ],
+      "completed_sentence": "昨日父に、来週友達と旅行に行くので車を使わせてほしいと頼んだが、断られてしまった。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ 使わせてほしい",
+      "tip": "• Nhìn vào cuối câu có 「頼んだが」 (đã nhờ vả), ta biết đây là một lời thỉnh cầu. Lời thỉnh cầu thường được trích dẫn bằng 「と」. Vậy, mảnh ① と sẽ đứng ngay trước 「頼んだが」.\n• Cấu trúc 「Vさせてほしい」 (muốn được cho phép làm V) là một cụm cố định. Ở đây, 「④ 使わせてほしい」 (muốn được cho phép dùng) sẽ đi với tân ngữ 「② 車を」 (xe) thành 「車を使わせてほしい」.\n• 「来週友達と旅行に行く」 (đi du lịch với bạn tuần sau) là lý do, nên sẽ đi với 「③ ので」 (vì). \n• Ghép lại: Lý do + ので + Nội dung thỉnh cầu + と + 頼んだ。=> 来週友達と旅行に行く ③ ので ② 車を ④ 使わせてほしい ① と 頼んだが... Thứ tự là ③→②→④→①. Mảnh ở vị trí ★ là mảnh thứ 3, tức ④.",
+      "grammar_point": "Vさせてほしい, 〜ので, 〜と頼む"
+    }
+  },
+  {
+    "note_id": 1782227429713,
+    "question": "",
+    "fragments": [],
+    "image": "paste-54b371d20d4c1f709466a5dc421ccccbcb40efcc.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "gemini_order": null,
+    "order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227429713,
+      "question": "さくら大学は、学生 ___ ★ ___ について、アンケート調査を行った。",
+      "fragments": [
+        "① に対する",
+        "② の",
+        "③ 考え方",
+        "④ 働くこと"
+      ],
+      "completed_sentence": "さくら大学は、学生の働くことに対する考え方について、アンケート調査を行った。",
+      "correct_order": "②→④→①→③",
+      "star_answer": "④ 働くこと",
+      "tip": "•  Tìm cặp cố định: 「に対する」(①) thường đi với danh từ phía sau để tạo thành 「N1に対するN2」. Ở đây có 「考え方」(③) là danh từ, nên ①→③ là một cặp (đối với cách suy nghĩ). \n•  Tiếp theo, 「の」(②) thường nối danh từ với danh từ hoặc danh từ với 「Vこと」. Ở đây có 「学生」 và 「働くこと」(④), nên 「学生の働くこと」(②→④) là một cụm (việc làm của học sinh).\n•  Ghép các mảnh lại: 「学生の働くこと」(②→④) + 「に対する」(①) + 「考え方」(③) tạo thành cụm danh từ lớn 「学生の働くことに対する考え方」.\n•  Thứ tự đúng là ②→④→①→③. Mảnh ở vị trí ★ (thứ hai) là ④.",
+      "grammar_point": "N1に対するN2, Vること, NのN"
+    }
+  },
+  {
+    "note_id": 1782227451835,
+    "question": "",
+    "fragments": [],
+    "image": "paste-faa9a48de8f8b50970f4ed875a04bf093758509e.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "gemini_order": null,
+    "order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227451835,
+      "question": "食事の___ ___ ★ ___ 汚してしまった。",
+      "fragments": [
+        "① ときに",
+        "② ばかりの",
+        "③ 白いTシャツを",
+        "④ 買った"
+      ],
+      "completed_sentence": "食事のときに買ったばかりの白いTシャツを汚してしまった。",
+      "correct_order": "①→④→②→③",
+      "star_answer": "② ばかりの",
+      "tip": "• Nhìn thấy 「買った」 (thể た của động từ) và 「ばかりの」, ta ghép ngay thành 「買ったばかりの」 (vừa mới mua). Đây là một cụm bổ nghĩa cho danh từ.\n• Cụm 「買ったばかりの」 sẽ bổ nghĩa cho danh từ 「白いTシャツ」 (áo T-shirt trắng). Vậy ta có 「買ったばかりの白いTシャツを」.\n• Ghép với phần đầu 「食事のときに」 (vào lúc ăn cơm) và phần cuối 「汚してしまった」 (đã làm bẩn mất rồi), ta được câu hoàn chỉnh.\n• Vị trí ★ là mảnh thứ 3 trong chuỗi, chính là 「② ばかりの」.",
+      "grammar_point": "Vたばかり"
+    }
+  },
+  {
+    "note_id": 1782227522445,
+    "question": "",
+    "fragments": [],
+    "image": "paste-d696f2ef1151df9aae2abca6647f20bb7ef21dd3.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "gemini_order": null,
+    "order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227522445,
+      "question": "61 X高校とY高校のバスケットボールの試合は10時開始の予定だったが、大雨＿＿＿＿★＿＿＿＿になった。",
+      "fragments": [
+        "① のため",
+        "② による",
+        "③ 11時開始",
+        "④ 電車の遅れ"
+      ],
+      "completed_sentence": "X高校とY高校のバスケットボールの試合は10時開始の予定だったが、大雨による電車の遅れのため11時開始になった。",
+      "correct_order": "②→④→①→③",
+      "star_answer": "① のため",
+      "tip": "• Nhìn `大雨` (danh từ) và `②による` (Nによる: do/bởi vì N). Ghép `大雨` + `②による` để tạo nguyên nhân. \n• Sau `による` thường là một danh từ chỉ nguyên nhân hoặc kết quả trực tiếp. `④電車の遅れ` (trì hoãn tàu điện) là một danh từ hợp lý. Ghép `②による` + `④電車の遅れ`. \n• Cụm `大雨による電車の遅れ` (việc tàu điện bị trễ do mưa lớn) là một nguyên nhân. Sau nguyên nhân thường là `①のため` (Nのため: vì N). Ghép `④電車の遅れ` + `①のため`. \n• Cuối cùng, `①のため` dẫn đến kết quả gì? `③11時開始` (bắt đầu lúc 11 giờ) + `になった`. Thứ tự là `②→④→①→③`. Mảnh ở vị trí ★ (thứ 3) là `① のため`.",
+      "grammar_point": "Nによる, Nのため"
+    }
+  },
+  {
+    "note_id": 1782227544584,
+    "question": "",
+    "fragments": [],
+    "image": "paste-95825599f7126935d8f0d042332eff107ad3dd32.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "gemini_order": null,
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227544584,
+      "question": "62 　昨日行った桜動物園には、500種類以上の動物がいた。あんなにいろいろな ___ ★ ___ ないだろう。",
+      "fragments": [
+        "① 動物が",
+        "② なかなか",
+        "③ 動物園は",
+        "④ 見られる"
+      ],
+      "completed_sentence": "昨日行った桜動物園には、500種類以上の動物がいた。あんなにいろいろな動物が見られる動物園はなかなかいないだろう。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ 動物園は",
+      "tip": "• Tìm cặp ngữ pháp cố định: 「なかなか」 (②) luôn đi với thể phủ định của động từ/tính từ để tạo thành 「なかなか～ない」 (khó mà, mãi mà không). Ở cuối câu có 「ないだろう」, nên ② sẽ đứng ngay trước 「ないだろう」.\n• Ghép chủ ngữ và động từ: 「あんなにいろいろな」 (nhiều loại như thế kia) sẽ bổ nghĩa cho 「動物が」 (①). Động vật thì 「見られる」 (④ - được nhìn thấy). Vậy ta có 「あんなにいろいろな動物が見られる」 (①→④).\n• Cụm 「あんなにいろいろな動物が見られる」 này bổ nghĩa cho 「動物園」 (sở thú). Vậy, 「あんなにいろいろな動物が見られる動物園は」 (①→④→③).\n• Cuối cùng, 「動物園は」 (③) thì 「なかなかいないだろう」 (khó mà có được). Vậy thứ tự hoàn chỉnh là ①→④→③→②. Vị trí ★ là mảnh thứ 3, tức là ③.",
+      "grammar_point": "V-られる, なかなか～ない, Nは, Nが, ～だろう"
+    }
+  },
+  {
+    "note_id": 1782227634191,
+    "question": "",
+    "fragments": [],
+    "image": "paste-5b09e9f1b1a04bb380de030ad7f5289461eefd2c.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "gemini_order": null,
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227634191,
+      "question": "64 20階建ての大きいマンションが＿＿＿★＿＿＿昼でも部屋の中が暗い。",
+      "fragments": [
+        "① 隣に",
+        "② 私の家に",
+        "③ 建ったことで",
+        "④ 日が当たらなくなって"
+      ],
+      "completed_sentence": "20階建ての大きいマンションが隣に建ったことで私の家に日が当たらなくなって昼でも部屋の中が暗い。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② 私の家に",
+      "tip": "• Tìm cặp ngữ pháp: 「建った」 (được xây) là động từ thể た, nên nó sẽ đi với 「ことで」 (③) để tạo thành cụm nguyên nhân 「建ったことで」 (vì đã được xây). \n• Ghép các mảnh còn lại: 「隣に」 (① bên cạnh) sẽ đi với 「建ったことで」 (③) để chỉ nơi xây dựng. 「私の家に」 (② vào nhà tôi) sẽ đi với 「日が当たらなくなって」 (④ mặt trời không còn chiếu nữa) để chỉ hậu quả. \n• Nối các cụm: 「マンションが隣に建ったことで」 (nguyên nhân) → 「私の家に日が当たらなくなって」 (hậu quả) → 「昼でも部屋の中が暗い。」 (kết quả cuối cùng). Thứ tự đúng là ①→③→②→④. \n• Vị trí ★ là mảnh thứ 3, vậy đáp án là ②.",
+      "grammar_point": "Vた＋ことで, 〜に, 〜て"
+    }
+  },
+  {
+    "note_id": 1782227685817,
+    "question": "",
+    "fragments": [],
+    "image": "paste-e82ac280c630debfdc30fefa3d2082851b0499d8.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "gemini_order": null,
+    "order": [
+      2,
+      3,
+      4,
+      1
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227685817,
+      "question": "66 なかなか英語の単語が覚えられないので、英語の得意な友達が ___ ★ ___ ___ しました。",
+      "fragments": [
+        "① ことに",
+        "② やっていた",
+        "③ ように",
+        "④ 何度も書いてみる"
+      ],
+      "completed_sentence": "なかなか英語の単語が覚えられないので、英語の得意な友達が やっていたように 何度も書いてみる ことに しました。",
+      "correct_order": "②→③→④→①",
+      "star_answer": "③ ように",
+      "tip": "• Tìm cặp ngữ pháp: 「Vた + ように」 (như là/giống như) => ② やっていた + ③ ように. Vậy ②③ đi liền nhau.\n• Tìm cặp ngữ pháp: 「Vる + ことにする」 (quyết định làm gì) => ④ 何度も書いてみる + ① ことに. Vậy ④① đi liền nhau.\n• Ghép lại ta có: 「やっていたように」 (②③) và 「何度も書いてみることにしました」 (④①). Thứ tự đúng là ②→③→④→①.\n• Vị trí ★ là mảnh thứ hai, tương ứng với ③ ように.",
+      "grammar_point": "Vたように, Vることにする"
+    }
+  },
+  {
+    "note_id": 1782227719114,
+    "question": "",
+    "fragments": [],
+    "image": "paste-2ae4f6db86e63dfe14e5e18c59cfe68f6a7b5dbd.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "gemini_order": null,
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227719114,
+      "question": "67 半年前から___ ___ ★ ___終わってしまった。",
+      "fragments": [
+        "① とうとう",
+        "② 見ていた",
+        "③ 毎週",
+        "④ 大好きなドラマが"
+      ],
+      "completed_sentence": "半年前から毎週見ていた大好きなドラマがとうとう終わってしまった。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ 大好きなドラマが",
+      "tip": "• Tìm cặp cố định: `毎週` (mỗi tuần) là trạng từ chỉ tần suất, thường đi với động từ chỉ hành động lặp lại như `見ていた` (đã xem). Ghép `③毎週` + `②見ていた`.\n• Tìm chủ ngữ: `大好きなドラマ` (bộ phim yêu thích) là danh từ, cần trợ từ `が` để làm chủ ngữ. Ghép `④大好きなドラマが`.\n• Tìm trạng từ: `とうとう` (cuối cùng thì) thường đứng ngay trước động từ chính để nhấn mạnh kết quả, đặc biệt khi đi với `〜てしまった`. Ghép `①とうとう` + `終わってしまった`.\n• Sắp xếp: `半年前から` (từ nửa năm trước) + `③②` (mỗi tuần đã xem) + `④` (bộ phim yêu thích) + `①` (cuối cùng thì) + `終わってしまった` (đã kết thúc). Vị trí ★ là mảnh thứ 3, vậy đáp án là `④ 大好きなドラマが`.",
+      "grammar_point": "V-ていた, 〜が, とうとう〜てしまった"
+    }
+  },
+  {
+    "note_id": 1782227774454,
+    "question": "",
+    "fragments": [],
+    "image": "paste-488c27028ca2d24db6b5248cc145b148ebd72bdc.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "gemini_order": null,
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227774454,
+      "question": "68 大川橋は ___ ★ ___ 「めがね橋」とも呼ばれている。",
+      "fragments": [
+        "① している",
+        "② 形を",
+        "③ ことから",
+        "④ めがねのような"
+      ],
+      "completed_sentence": "大川橋はめがねのような形をしていることから、「めがね橋」とも呼ばれている。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "② 形を",
+      "tip": "• Tìm cặp cố định: 「めがねのような」 (giống như kính) phải đi với danh từ mà nó bổ nghĩa, ở đây là 「形を」 (hình dáng). Vậy ④→②.\n• Tiếp theo, 「形を」 (hình dáng + trợ từ を) cần một động từ. 「している」 (đang có/làm) là phù hợp nhất để tạo thành 「形をしている」 (có hình dáng). Vậy ②→①.\n• Cuối cùng, cụm 「Vている + ことから」 là một cấu trúc ngữ pháp chỉ nguyên nhân, nghĩa là 'từ việc/bởi vì'. Vậy ①→③.\n• Ghép lại ta có ④→②→①→③. Mảnh ở vị trí ★ là mảnh thứ hai, tức là ②.",
+      "grammar_point": "Nのような, Nをしている, Vる/Vた/Nの+ことから"
+    }
+  },
+  {
+    "note_id": 1782227825363,
+    "question": "",
+    "fragments": [],
+    "image": "paste-29b7d29fc6d66a53f681f14a0331ed6ac5c901a9.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "gemini_order": null,
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782227825363,
+      "question": "70 (会社で) 西川「林さん、来週のセミナーのポスター、知りませんか。さっき___ ___ ★ ___入ってたんですけど、気づいたら箱がなくなってて。」",
+      "fragments": [
+        "① まで.",
+        "② あった",
+        "③ あそこに",
+        "④ 白い段ボール箱に"
+      ],
+      "completed_sentence": "さっきまで あそこに あった 白い段ボール箱に 入ってたんですけど、気づいたら箱がなくなってて。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② あった",
+      "tip": "• Nhận thấy `入ってた` (đã ở trong) cần một địa điểm. `白い段ボール箱に` (④) là địa điểm, nên `④` đứng cuối cùng trước `入ってた`.\n• Cụm `あそこに あった` (③ + ②) có nghĩa là \"đã ở đằng kia\", thường dùng để bổ nghĩa cho danh từ chỉ địa điểm.\n• Vậy, `あそこに あった` (③→②) sẽ bổ nghĩa cho `白い段ボール箱に` (④), tạo thành `あそこに あった 白い段ボール箱に`.\n• `さっき` (vừa nãy) thường đi với `まで` (①) tạo thành `さっきまで` (cho đến vừa nãy). Thứ tự đúng là `①→③→②→④`. Mảnh ở vị trí ★ là `② あった`.",
+      "grammar_point": "NにV (chỉ địa điểm), Vた N (mệnh đề quan hệ)"
+    }
+  },
+  {
+    "note_id": 1780328860332,
+    "question": "この家に引っ越してきて、もう ____ ____ ★ ____ だけです。",
+    "fragments": [
+      "① まだ",
+      "② のに",
+      "③ 半年になる",
+      "④ 住所を覚えている"
+    ],
+    "image": "image_import_783619e32d4e_slide_0001.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "order": [
+      3,
+      2,
+      1,
+      4
+    ],
+    "old_answer": "① まだ",
+    "corrected": false,
+    "new": {
+      "id": 1780328860332,
+      "question": "この家に引っ越してきて、もう ____ ____ ★ ____ だけです。",
+      "fragments": [
+        "① まだ",
+        "② のに",
+        "③ 半年になる",
+        "④ 住所を覚えている"
+      ],
+      "completed_sentence": "この家に引っ越してきて、もう半年になるのに、まだ住所を覚えているだけです。",
+      "correct_order": "③→②→①→④",
+      "star_answer": "① まだ",
+      "tip": "• Cặp cố định: 「半年になる」(③) + 「のに」(②) = 'mặc dù đã nửa năm rồi'.\n• Cặp cố định: 「まだ」(①) + 「だけです」 (chỉ) thường đi với động từ. Vậy, 「まだ」(①) + 「住所を覚えている」(④) + 「だけです」 = 'chỉ mới nhớ được địa chỉ thôi'.\n• Ghép hai cụm lại: ③→②→①→④.",
+      "grammar_point": "Vるのに, Vるだけ"
+    }
+  },
+  {
+    "note_id": 1780328860877,
+    "question": "毎年、X社には多くの新入社員が入るが、仕事が ____ ____ ★ ____ 多いそうだ。",
+    "fragments": [
+      "① あまりに忙しくて",
+      "② やめてしまう",
+      "③ 社員が",
+      "④ 3年以内に"
+    ],
+    "image": "image_import_b756ac6c0832_slide_0002.png",
+    "needs_ocr": false,
+    "user_order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "gemini_order": [
+      1,
+      3,
+      4,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "old_answer": "④ 3年以内に",
+    "corrected": true,
+    "new": {
+      "id": 1780328860877,
+      "question": "毎年、X社には多くの新入社員が入るが、仕事が ____ ____ ★ ____ 多いそうだ。",
+      "fragments": [
+        "① あまりに忙しくて",
+        "② やめてしまう",
+        "③ 社員が",
+        "④ 3年以内に"
+      ],
+      "completed_sentence": "毎年、X社には多くの新入社員が入るが、仕事があまりに忙しくて3年以内にやめてしまう社員が多いそうだ。",
+      "correct_order": "①→④→②→③",
+      "star_answer": "② やめてしまう",
+      "tip": "• Cụm 「仕事が」 (công việc) sẽ đi với tính từ chỉ trạng thái công việc: 「あまりに忙しくて」(①) = 'quá bận rộn nên...'.\n• Cụm 「3年以内に」(④) (trong vòng 3 năm) là mốc thời gian cho hành động 「やめてしまう」(②) (nghỉ việc). Vậy, ④→②.\n• Cụm 「やめてしまう」(②) bổ nghĩa cho danh từ 「社員が」(③) (nhân viên). Vậy, 「やめてしまう社員が」 (nhân viên nghỉ việc).\n• Ghép lại: ①→④→②→③. Cụm này bổ nghĩa cho 「社員が」 là chủ ngữ của vế sau.",
+      "grammar_point": "あまりに〜て, 期間以内に, Vてしまう, VるN"
+    }
+  },
+  {
+    "note_id": 1780328861417,
+    "question": "この島は、空から ____ ____ ★ ____ 「耳島」と呼ばれています",
+    "fragments": [
+      "① 形に",
+      "② 見えることから",
+      "③ 人の耳のような",
+      "④ 見ると"
+    ],
+    "image": "image_import_558e5236402c_slide_0003.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "old_answer": "① 形に",
+    "corrected": false,
+    "new": {
+      "id": 1780328861417,
+      "question": "この島は、空から ____ ____ ★ ____ 「耳島」と呼ばれています",
+      "fragments": [
+        "① 形に",
+        "② 見えることから",
+        "③ 人の耳のような",
+        "④ 見ると"
+      ],
+      "completed_sentence": "この島は、空から見ると人の耳のような形に見えることから「耳島」と呼ばれています。",
+      "correct_order": "④→③→①→②",
+      "star_answer": "① 形に",
+      "tip": "• Tìm cặp 「空から見ると」 (nhìn từ trên trời) để bắt đầu câu.\n• Cụm 「人の耳のような形に」 (có hình dạng như tai người) là một mảnh ghép hoàn chỉnh.\n• Cuối cùng, 「〜ことから」 (từ việc...) là ngữ pháp chỉ nguyên nhân, đứng sau động từ thể từ điển hoặc danh từ.",
+      "grammar_point": "Vると, 〜のような, 〜ことから"
+    }
+  },
+  {
+    "note_id": 1780328861977,
+    "question": "一人暮らしを始めて3か月が過ぎたが、家に ____ ____ ★ ____ いつも思う。",
+    "fragments": [
+      "① 誰もいない",
+      "② 話し相手が",
+      "③ 寂し",
+      "④ のは"
+    ],
+    "image": "image_import_28e5e59463e8_slide_0004.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "④ のは",
+    "corrected": false,
+    "new": {
+      "id": 1780328861977,
+      "question": "一人暮らしを始めて3か月が過ぎたが、家に ____ ____ ★ ____ いつも思う。",
+      "fragments": [
+        "① 誰もいない",
+        "② 話し相手が",
+        "③ 寂し",
+        "④ のは"
+      ],
+      "completed_sentence": "一人暮らしを始めて3か月が過ぎたが、家に話し相手が誰もいないのは寂しいといつも思う。",
+      "correct_order": "②→①→④→③",
+      "star_answer": "④ のは",
+      "tip": "• Cụm 「話し相手が誰もいない」 (không có ai để nói chuyện) là một mảnh ghép tự nhiên.\n• 「〜のは寂しい」 (việc ~ thì cô đơn) là cách diễn đạt cảm xúc về một sự việc.\n• 「寂しい」 là tính từ đuôi い, ở đây dùng dạng gốc để kết thúc câu cảm thán (thường có と đi kèm).",
+      "grammar_point": "Nが誰もいない, 〜のは〜"
+    }
+  },
+  {
+    "note_id": 1780328862507,
+    "question": "30日以上 ____ ____ ★ ____ が、すぐ気にならなくなった",
+    "fragments": [
+      "① 日が",
+      "② 降らない",
+      "③ 続いている",
+      "④ 雨の"
+    ],
+    "image": "image_import_c9cc8f0bef2e_slide_0005.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "① 日が",
+    "corrected": false,
+    "new": {
+      "id": 1780328862507,
+      "question": "30日以上 ____ ____ ★ ____ が、すぐ気にならなくなった",
+      "fragments": [
+        "① 日が",
+        "② 降らない",
+        "③ 続いている",
+        "④ 雨の"
+      ],
+      "completed_sentence": "30日以上雨の降らない日が続いているが、すぐ気にならなくなった。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① 日が",
+      "tip": "• Cụm 「雨の降らない日」 (ngày không mưa) là một danh từ ghép, trong đó 「雨の降らない」 bổ nghĩa cho 「日」.\n• 「〜日が続いている」 (những ngày ~ tiếp diễn) là cấu trúc diễn tả sự liên tục của một trạng thái.\n• 「30日以上」 (hơn 30 ngày) là thời gian cho hành động 「続いている」.",
+      "grammar_point": "Vない + N, Vている"
+    }
+  },
+  {
+    "note_id": 1780328863039,
+    "question": "僕の家族は、両親と弟三人の六人家族です。 家族____ ____ ★ ____ だけでです。",
+    "fragments": [
+      "① は",
+      "② 女",
+      "③ 母",
+      "④ で"
+    ],
+    "image": "image_import_8e2c7ec559a0_slide_0006.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "gemini_order": [
+      1,
+      2,
+      4,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "④ で",
+    "corrected": true,
+    "new": {
+      "id": 1780328863039,
+      "question": "僕の家族は、両親と弟三人の六人家族です。 家族____ ____ ★ ____ だけでです。",
+      "fragments": [
+        "① は",
+        "② 女",
+        "③ 母",
+        "④ で"
+      ],
+      "completed_sentence": "僕の家族は、両親と弟三人の六人家族です。 家族で女は母だけでです。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① は",
+      "tip": "• 「家族で」 (trong gia đình) là cách giới hạn phạm vi.\n• 「女は」 (về phụ nữ) là cách đặt chủ đề.\n• 「母だけ」 (chỉ có mẹ) là phần kết luận cho chủ đề đó, tạo thành câu 「家族で女は母だけでです」.",
+      "grammar_point": "Nで, Nは, Nだけ"
+    }
+  },
+  {
+    "note_id": 1780328863566,
+    "question": "必ず ____ ____ ★ ____ すっかり忘れていた。",
+    "fragments": [
+      "① ことを",
+      "② 会議の資料の",
+      "③ 今日中に",
+      "④ 作らなくてはいけない"
+    ],
+    "image": "image_import_398de02873b1_slide_0007.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "old_answer": "② 会議の資料の",
+    "corrected": false,
+    "new": {
+      "id": 1780328863566,
+      "question": "必ず ____ ____ ★ ____ すっかり忘れていた。",
+      "fragments": [
+        "① ことを",
+        "② 会議の資料の",
+        "③ 今日中に",
+        "④ 作らなくてはいけない"
+      ],
+      "completed_sentence": "必ず今日中に作らなくてはいけない会議の資料のことをすっかり忘れていた。",
+      "correct_order": "③→④→②→①",
+      "star_answer": "② 会議の資料の",
+      "tip": "• Cụm 「今日中に作らなくてはいけない」 (phải làm xong trong hôm nay) là một mệnh đề bổ nghĩa cho danh từ.\n• Mệnh đề này bổ nghĩa cho 「会議の資料」 (tài liệu cuộc họp), tạo thành 「今日中に作らなくてはいけない会議の資料」.\n• 「〜のことを忘れていた」 (quên mất việc ~) là cấu trúc dùng để nói về việc quên một sự việc.",
+      "grammar_point": "Vなくてはいけない, Nのこと"
+    }
+  },
+  {
+    "note_id": 1780328864098,
+    "question": "先生「調べた結果を説明するとき、____ ____ ★ ____ なります。」",
+    "fragments": [
+      "① わかりやすく",
+      "② 示しながら",
+      "③ 表やグラフを",
+      "④ 説明すると"
+    ],
+    "image": "image_import_8bb6b5fc2d27_slide_0008.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "④ 説明すると",
+    "corrected": false,
+    "new": {
+      "id": 1780328864098,
+      "question": "先生「調べた結果を説明するとき、____ ____ ★ ____ なります。」",
+      "fragments": [
+        "① わかりやすく",
+        "② 示しながら",
+        "③ 表やグラフを",
+        "④ 説明すると"
+      ],
+      "completed_sentence": "先生「調べた結果を説明するとき、表やグラフを示しながら説明するとわかりやすくなります。」",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ 説明すると",
+      "tip": "• Cụm 「表やグラフを」 (biểu đồ và đồ thị) cần một động từ đi kèm, đó là 「示しながら」 (vừa chỉ ra).\n• 「〜を示しながら説明すると」 (nếu vừa chỉ ra ~ vừa giải thích) là cấu trúc Vながら + Vると.\n• 「わかりやすくなります」 (sẽ trở nên dễ hiểu) là kết quả của hành động giải thích.",
+      "grammar_point": "Vながら, Vると, Vやすく"
+    }
+  },
+  {
+    "note_id": 1780328864633,
+    "question": "昨日の夜、高校時代に、____ ____ ★ ____ たっていて、驚いた。",
+    "fragments": [
+      "① いつの間にか3時間も",
+      "② クラスだった",
+      "③ 友人と電話で話していたら",
+      "④ ずっと同じ"
+    ],
+    "image": "image_import_032a4e545121_slide_0009.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "old_answer": "③ 友人と電話で話していたら",
+    "corrected": false,
+    "new": {
+      "id": 1780328864633,
+      "question": "昨日の夜、高校時代に、____ ____ ★ ____ たっていて、驚いた。",
+      "fragments": [
+        "① いつの間にか3時間も",
+        "② クラスだった",
+        "③ 友人と電話で話していたら",
+        "④ ずっと同じ"
+      ],
+      "completed_sentence": "昨日の夜、高校時代に、ずっと同じクラスだった友人と電話で話していたらいつの間にか3時間もたっていて、驚いた。",
+      "correct_order": "④→②→③→①",
+      "star_answer": "③ 友人と電話で話していたら",
+      "tip": "• Cụm 「ずっと同じ」 (④) + 「クラスだった」 (②) bổ nghĩa cho 「友人」 (bạn cùng lớp). \n• Cấu trúc 「〜と電話で話していたら」 (③) là một mảnh ghép hoàn chỉnh, nối với danh từ chỉ người. \n• 「いつの間にか3時間もたっていて」 (①) là cụm chỉ thời gian trôi qua, đứng trước 「驚いた」. \n• Ghép lại ta có thứ tự ④→②→③→①.",
+      "grammar_point": "Vていたら"
+    }
+  },
+  {
+    "note_id": 1780328865187,
+    "question": "私は今住んでいるアパートは線路の近くにある。住み始めたころは、電車の通る____ ____ ★ ____が、すぐ気にならなくなった。",
+    "fragments": [
+      "① うるさいと",
+      "② こともあった",
+      "③ 音がして",
+      "④ 思う"
+    ],
+    "image": "image_import_41975a645e19_slide_0010.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "old_answer": "④ 思う",
+    "corrected": false,
+    "new": {
+      "id": 1780328865187,
+      "question": "私は今住んでいるアパートは線路の近くにある。住み始めたころは、電車の通る____ ____ ★ ____が、すぐ気にならなくなった。",
+      "fragments": [
+        "① うるさいと",
+        "② こともあった",
+        "③ 音がして",
+        "④ 思う"
+      ],
+      "completed_sentence": "私は今住んでいるアパートは線路の近くにある。住み始めたころは、電車の通る音がしてうるさいと思うこともあったが、すぐ気にならなくなった。",
+      "correct_order": "③→①→④→②",
+      "star_answer": "④ 思う",
+      "tip": "• Cụm 「音がして」 (③) là mảnh ghép chỉ âm thanh phát ra. \n• Cấu trúc 「〜と思う」 (nghĩ rằng...) được tạo bởi 「うるさいと」 (①) + 「思う」 (④). \n• Cụm 「〜こともあった」 (②) là cấu trúc chỉ 'cũng có lúc/chuyện...'. \n• Ghép lại ta có thứ tự ③→①→④→②.",
+      "grammar_point": "〜と思う, 〜こともある"
+    }
+  },
+  {
+    "note_id": 1780328865722,
+    "question": "娘が歌手になることには反対でしたが、娘も一生けんめい ____ ____ ★ ____ と思っています。",
+    "fragments": [
+      "① がんばろうとして",
+      "② 応援して",
+      "③ やろうか",
+      "④ いるので"
+    ],
+    "image": "image_import_bd87f8cc97ba_slide_0011.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "old_answer": "② 応援して",
+    "corrected": false,
+    "new": {
+      "id": 1780328865722,
+      "question": "娘が歌手になることには反対でしたが、娘も一生けんめい ____ ____ ★ ____ と思っています。",
+      "fragments": [
+        "① がんばろうとして",
+        "② 応援して",
+        "③ やろうか",
+        "④ いるので"
+      ],
+      "completed_sentence": "娘が歌手になることには反対でしたが、娘も一生けんめい がんばろうとしているので応援してやろうかと思っています。",
+      "correct_order": "①→④→②→③",
+      "star_answer": "② 応援して",
+      "tip": "• Cấu trúc 「Vようとしているので」 (vì đang cố gắng làm V) được tạo bởi 「がんばろうとして」 (①) + 「いるので」 (④). \n• Cụm 「応援して」 (②) + 「やろうか」 (③) + 「と思っています」 tạo thành 「Vてやろうかと思っています」 (đang nghĩ xem có nên làm V cho ai đó không). \n• Ghép lại ta có thứ tự ①→④→②→③.",
+      "grammar_point": "Vようとしている, Vので, Vてやる, Vようかと思う"
+    }
+  },
+  {
+    "note_id": 1780328866250,
+    "question": "ここにある家具は ____ ____ ★ ____ 使うかもしれないと思うと、捨てられない。",
+    "fragments": [
+      "① けれども",
+      "② いつかまた",
+      "③ 使っていない",
+      "④ 今はどれも"
+    ],
+    "image": "image_import_dfdc9f5a4748_slide_0012.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "old_answer": "① けれども",
+    "corrected": false,
+    "new": {
+      "id": 1780328866250,
+      "question": "ここにある家具は ____ ____ ★ ____ 使うかもしれないと思うと、捨てられない。",
+      "fragments": [
+        "① けれども",
+        "② いつかまた",
+        "③ 使っていない",
+        "④ 今はどれも"
+      ],
+      "completed_sentence": "ここにある家具は今はどれも使っていないけれどもいつかまた使うかもしれないと思うと、捨てられない。",
+      "correct_order": "④→③→①→②",
+      "star_answer": "① けれども",
+      "tip": "• Cụm 「今はどれも」 (④) + 「使っていない」 (③) là một vế câu chỉ trạng thái hiện tại. \n• 「〜けれども」 (①) là liên từ nối hai vế câu có ý đối lập (không dùng nhưng có thể dùng). \n• 「いつかまた」 (②) là trạng từ chỉ thời gian 'một lúc nào đó lại'. \n• Ghép lại ta có thứ tự ④→③→①→②.",
+      "grammar_point": "〜けれども, 〜かもしれない"
+    }
+  },
+  {
+    "note_id": 1780328866781,
+    "question": "書いた ____ ____ ★ ____ 手紙が引き出しにあった。",
+    "fragments": [
+      "① まま",
+      "② 忘れていた",
+      "③ 出すのを",
+      "④ 友達への"
+    ],
+    "image": "image_import_516c5e2739c2_slide_0013.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "② 忘れていた",
+    "corrected": false,
+    "new": {
+      "id": 1780328866781,
+      "question": "書いた ____ ____ ★ ____ 手紙が引き出しにあった。",
+      "fragments": [
+        "① まま",
+        "② 忘れていた",
+        "③ 出すのを",
+        "④ 友達への"
+      ],
+      "completed_sentence": "書いたまま出すのを忘れていた友達への手紙が引き出しにあった。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② 忘れていた",
+      "tip": "• Cấu trúc 「Vたまま」 (để nguyên trạng thái V) được tạo bởi 「書いた」 + 「まま」 (①). \n• Cấu trúc 「Vるのを忘れる」 (quên làm V) được tạo bởi 「出すのを」 (③) + 「忘れていた」 (②). \n• Cụm 「友達への手紙」 (④) là danh từ bổ nghĩa cho 'lá thư'. \n• Ghép lại ta có thứ tự ①→③→②→④.",
+      "grammar_point": "Vたまま, Vるのを忘れる, NへのN"
+    }
+  },
+  {
+    "note_id": 1780328867309,
+    "question": "A「空が暗いですね。」B「そうですね。雨が ____ ____ ★ ____ ですね。」",
+    "fragments": [
+      "① ない",
+      "② いつ",
+      "③ おかしく",
+      "④ 降っても"
+    ],
+    "image": "image_import_d1993bfb4be4_slide_0014.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "③ おかしく",
+    "corrected": false,
+    "new": {
+      "id": 1780328867309,
+      "question": "A「空が暗いですね。」B「そうですね。雨が ____ ____ ★ ____ ですね。」",
+      "fragments": [
+        "① ない",
+        "② いつ",
+        "③ おかしく",
+        "④ 降っても"
+      ],
+      "completed_sentence": "A「空が暗いですね。」B「そうですね。雨がいつ降ってもおかしくないですね。」",
+      "correct_order": "②→④→③→①",
+      "star_answer": "③ おかしく",
+      "tip": "• Đây là cấu trúc cố định 「いつVてもおかしくない」 (không có gì lạ nếu V xảy ra bất cứ lúc nào). \n• 「いつ」 (②) là trạng từ chỉ thời gian 'bất cứ lúc nào'. \n• 「降っても」 (④) là dạng Vても của 「降る」 (mưa). \n• 「おかしく」 (③) + 「ない」 (①) tạo thành 「おかしくない」 (không lạ). \n• Ghép lại ta có thứ tự ②→④→③→①.",
+      "grammar_point": "いつVてもおかしくない"
+    }
+  },
+  {
+    "note_id": 1780328867842,
+    "question": "B「ごめん。ちょうど出かける ____ ____ ★ ____ 私から電話するね。」",
+    "fragments": [
+      "① ゆっくり話す",
+      "② あとで",
+      "③ ところで",
+      "④ 時間がないから"
+    ],
+    "image": "image_import_d1c83c0d59a1_slide_0015.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "gemini_order": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "old_answer": "① ゆっくり話す",
+    "corrected": true,
+    "new": {
+      "id": 1780328867842,
+      "question": "B「ごめん。ちょうど出かける ____ ____ ★ ____ 私から電話するね。」",
+      "fragments": [
+        "① ゆっくり話す",
+        "② あとで",
+        "③ ところで",
+        "④ 時間がないから"
+      ],
+      "completed_sentence": "ごめん。ちょうど出かけるところでゆっくり話す時間がないからあとで私から電話するね。",
+      "correct_order": "③→①→④→②",
+      "star_answer": "④ 時間がないから",
+      "tip": "• Cụm 「出かけるところで」 (đang lúc chuẩn bị ra ngoài) là một cặp cố định (Vる + ところで). Vậy ③ đứng ngay sau 「出かける」.\n• 「ゆっくり話す」 (nói chuyện kỹ) cần một lý do để không thể thực hiện được, đó là 「時間がないから」 (vì không có thời gian). Vậy ① và ④ đi liền nhau.\n• Cuối câu có 「私から電話するね」 (tôi sẽ gọi điện cho bạn), ngụ ý là 「あとで」 (sau đó).",
+      "grammar_point": "Vる + ところで"
+    }
+  },
+  {
+    "note_id": 1780328868375,
+    "question": "私は、息子が____ ____ ★ ____ 見て、「どうしたの？」と声をかけた。",
+    "fragments": [
+      "① 顔を",
+      "② 何か",
+      "③ 言いたそうな",
+      "④ してるのを"
+    ],
+    "image": "image_import_9b518c0f88c5_slide_0016.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "order": [
+      2,
+      3,
+      1,
+      4
+    ],
+    "old_answer": "① 顔を",
+    "corrected": false,
+    "new": {
+      "id": 1780328868375,
+      "question": "私は、息子が____ ____ ★ ____ 見て、「どうしたの？」と声をかけた。",
+      "fragments": [
+        "① 顔を",
+        "② 何か",
+        "③ 言いたそうな",
+        "④ してるのを"
+      ],
+      "completed_sentence": "私は、息子が何か言いたそうな顔をしてるのを見て、「どうしたの？」と声をかけた。",
+      "correct_order": "②→③→①→④",
+      "star_answer": "① 顔を",
+      "tip": "• Cụm 「何か言いたそうな」 (trông như muốn nói điều gì đó) là một cặp cố định. Vậy ② và ③ đi liền nhau.\n• Cụm 「顔をしてるのを」 (đang làm cái mặt...) là một cách diễn đạt tự nhiên khi miêu tả biểu cảm khuôn mặt. Vậy ① và ④ đi liền nhau.\n• Ghép lại, ta có 「何か言いたそうな顔をしてるのを」 (đang làm cái mặt như muốn nói điều gì đó).",
+      "grammar_point": "Vたい + そうな + N, N + をする"
+    }
+  },
+  {
+    "note_id": 1780328868908,
+    "question": "この公園は、いろいろな花が咲きはじめる。____ ____ ★ ____ と聞いた。",
+    "fragments": [
+      "① 最も",
+      "② 時期が",
+      "③ 美しい",
+      "④ この"
+    ],
+    "image": "image_import_d3ee5b74ac25_slide_0017.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "gemini_order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "③ 美しい",
+    "corrected": true,
+    "new": {
+      "id": 1780328868908,
+      "question": "この公園は、いろいろな花が咲きはじめる。____ ____ ★ ____ と聞いた。",
+      "fragments": [
+        "① 最も",
+        "② 時期が",
+        "③ 美しい",
+        "④ この"
+      ],
+      "completed_sentence": "この公園は、いろいろな花が咲きはじめる。この時期が最も美しいと聞いた。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① 最も",
+      "tip": "• Cụm 「この時期が」 (thời điểm này) là một cặp cố định. Vậy ④ và ② đi liền nhau.\n• Cụm 「最も美しい」 (đẹp nhất) là cấu trúc so sánh nhất. Vậy ① và ③ đi liền nhau.\n• Ghép lại, ta có 「この時期が最も美しい」 (thời điểm này là đẹp nhất).",
+      "grammar_point": "最も〜 (superlative)"
+    }
+  },
+  {
+    "note_id": 1780328869443,
+    "question": "庭に植えたスイカは、これまでなかなか____ ____ ★ ____今年になっておいしいのができた。",
+    "fragments": [
+      "① あきらめないで",
+      "② ようやく",
+      "③ うまく育たなくなたが",
+      "④ 毎年チャレンジしていたら"
+    ],
+    "image": "image_import_40523cf0a88d_slide_0018.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "gemini_order": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "old_answer": "② ようやく",
+    "corrected": true,
+    "new": {
+      "id": 1780328869443,
+      "question": "庭に植えたスイカは、これまでなかなか____ ____ ★ ____今年になっておいしいのができた。",
+      "fragments": [
+        "① あきらめないで",
+        "② ようやく",
+        "③ うまく育たなくなたが",
+        "④ 毎年チャレンジしていたら"
+      ],
+      "completed_sentence": "庭に植えたスイカは、これまでなかなかうまく育たなかったが、あきらめないで毎年チャレンジしていたらようやく今年になっておいしいのができた。",
+      "correct_order": "③→①→④→②",
+      "star_answer": "④ 毎年チャレンジしていたら",
+      "tip": "• Cụm 「これまでなかなかうまく育たなかったが」 (cho đến nay mãi mà không lớn tốt được, nhưng) là một vế câu hoàn chỉnh, mở đầu cho sự chuyển biến. Vậy ③ đứng sau 「これまでなかなか」.\n• Cụm 「あきらめないで毎年チャレンジしていたら」 (nếu cứ thử thách mỗi năm mà không bỏ cuộc) là một điều kiện. Vậy ① và ④ đi liền nhau.\n• Cuối cùng, 「ようやく」 (cuối cùng thì) đứng trước kết quả tích cực 「おいしいのができた」 (đã có quả ngon).",
+      "grammar_point": "Vたら (conditional), Vないで (without doing V)"
+    }
+  },
+  {
+    "note_id": 1780328869975,
+    "question": "友達がけがで入院したと聞き、あわてて ____ ____ ★ ____ 元気で安心した。",
+    "fragments": [
+      "① 病院に行って",
+      "② 思って",
+      "③ みると",
+      "④ いたよりも"
+    ],
+    "image": "image_import_0adea13ad366_slide_0019.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "② 思って",
+    "corrected": false,
+    "new": {
+      "id": 1780328869975,
+      "question": "友達がけがで入院したと聞き、あわてて ____ ____ ★ ____ 元気で安心した。",
+      "fragments": [
+        "① 病院に行って",
+        "② 思って",
+        "③ みると",
+        "④ いたよりも"
+      ],
+      "completed_sentence": "友達がけがで入院したと聞き、あわてて病院に行ってみると、思っていたよりも元気で安心した。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② 思って",
+      "tip": "• Cụm 「病院に行ってみると」 (khi thử đến bệnh viện/đến bệnh viện thì thấy) là một cặp cố định (Vてみる + と). Vậy ① và ③ đi liền nhau.\n• Cụm 「思っていたよりも」 (hơn những gì đã nghĩ) là một cách diễn đạt so sánh rất phổ biến. Vậy ② và ④ đi liền nhau.\n• Ghép lại, ta có 「病院に行ってみると、思っていたよりも」 (khi đến bệnh viện thì thấy, hơn những gì đã nghĩ).",
+      "grammar_point": "Vてみる, Vてみると, Vていたよりも"
+    }
+  },
+  {
+    "note_id": 1780328870529,
+    "question": "子供のころに祖母が作ってくれたワンピースを、____ ____ ★ ____いる。",
+    "fragments": [
+      "① 着られなくなった",
+      "② 大切に持って",
+      "③ 今でも",
+      "④ 体が大きくなって"
+    ],
+    "image": "image_import_516c1fd2dce3_slide_0020.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "gemini_order": null,
+    "order": [
+      4,
+      1,
+      3,
+      2
+    ],
+    "old_answer": "① 着られなくなった",
+    "corrected": true,
+    "new": {
+      "id": 1780328870529,
+      "question": "子供のころに祖母が作ってくれたワンピースを、____ ____ ★ ____いる。",
+      "fragments": [
+        "① 着られなくなった",
+        "② 大切に持って",
+        "③ 今でも",
+        "④ 体が大きくなって"
+      ],
+      "completed_sentence": "子供のころに祖母が作ってくれたワンピースを、体が大きくなって着られなくなった今でも大切に持っている。",
+      "correct_order": "④→①→③→②",
+      "star_answer": "③ 今でも",
+      "tip": "• Cụm 「体が大きくなって着られなくなった」 (cơ thể lớn lên nên không mặc được nữa) là một chuỗi nguyên nhân - kết quả. Vậy ④ và ① đi liền nhau.\n• Cụm 「今でも大切に持っている」 (ngay cả bây giờ vẫn giữ gìn cẩn thận) là một cách diễn đạt tự nhiên. Vậy ③ và ② đi liền nhau.\n• Ghép lại, ta có 「着られなくなった今でも大切に持っている」 (ngay cả bây giờ khi không mặc được nữa vẫn giữ gìn cẩn thận).",
+      "grammar_point": "Vて (cause/reason), Vられなくなる (potential + become unable to), 今でも (even now)"
+    }
+  },
+  {
+    "note_id": 1780328871062,
+    "question": "(病院で) 村山「すみません。予約をした村山ですが。」 受付「はい、村山さんですね。では、そちらの ____ ____ ★ ____ ください。」",
+    "fragments": [
+      "① お待ち",
+      "② おかけ",
+      "③ いすに",
+      "④ になって"
+    ],
+    "image": "image_import_496be37b6884_slide_0021.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "④ になって",
+    "corrected": false,
+    "new": {
+      "id": 1780328871062,
+      "question": "(病院で) 村山「すみません。予約をした村山ですが。」 受付「はい、村山さんですね。では、そちらの ____ ____ ★ ____ ください。」",
+      "fragments": [
+        "① お待ち",
+        "② おかけ",
+        "③ いすに",
+        "④ になって"
+      ],
+      "completed_sentence": "では、そちらのいすにおかけになってお待ちください。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ になって",
+      "tip": "• Tìm cặp cố định: 「いすに」 (③) luôn đi với động từ ngồi, ở đây là 「おかけ」 (②) (từ おかけになる). \n• 「おかけになって」 (②④) là dạng て-form của kính ngữ 「おかけになる」 (ngồi). \n• Sau đó, 「お待ちください」 (① + ください) là một yêu cầu lịch sự khác. \n• Ghép lại: 「いすに おかけ になって お待ち ください。」",
+      "grammar_point": "Vて + Vてください (kính ngữ)"
+    }
+  },
+  {
+    "note_id": 1780328871612,
+    "question": "料理をする ____ ____ ★ ____ おいしく作れる。",
+    "fragments": [
+      "① 私でも",
+      "② ハンバーグだけは",
+      "③ それほど得意ではない",
+      "④ のが"
+    ],
+    "image": "image_import_e5b1c1e4d319_slide_0022.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "old_answer": "① 私でも",
+    "corrected": false,
+    "new": {
+      "id": 1780328871612,
+      "question": "料理をする ____ ____ ★ ____ おいしく作れる。",
+      "fragments": [
+        "① 私でも",
+        "② ハンバーグだけは",
+        "③ それほど得意ではない",
+        "④ のが"
+      ],
+      "completed_sentence": "料理をするのがそれほど得意ではない私でも、ハンバーグだけはおいしく作れる。",
+      "correct_order": "④→③→①→②",
+      "star_answer": "① 私でも",
+      "tip": "• Tìm cặp cố định: 「料理をする」 + 「のが」 (④) để danh từ hóa hành động. \n• 「〜のが得意ではない」 (④③) là cấu trúc 'không giỏi làm gì đó'. \n• 「私でも」 (①) nghĩa là 'ngay cả tôi cũng', thường đứng sau một mệnh đề nhượng bộ. \n• 「ハンバーグだけは」 (②) chỉ rõ đối tượng đặc biệt. Ghép lại: 「料理をするのがそれほど得意ではない 私でも ハンバーグだけは おいしく作れる。」",
+      "grammar_point": "Vる + のが + 得意ではない; N + でも; N + だけは"
+    }
+  },
+  {
+    "note_id": 1780328872160,
+    "question": "山村「はい。思いついた ____ ____ ★ ____ しているんです。」",
+    "fragments": [
+      "① 忘れて",
+      "② しまわないように",
+      "③ 必ず持ち歩くように",
+      "④ アイデアを"
+    ],
+    "image": "image_import_bd4e97ff2225_slide_0023.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "old_answer": "② しまわないように",
+    "corrected": false,
+    "new": {
+      "id": 1780328872160,
+      "question": "山村「はい。思いついた ____ ____ ★ ____ しているんです。」",
+      "fragments": [
+        "① 忘れて",
+        "② しまわないように",
+        "③ 必ず持ち歩くように",
+        "④ アイデアを"
+      ],
+      "completed_sentence": "はい。思いついたアイデアを忘れてしまわないように必ず持ち歩くようにしているんです。",
+      "correct_order": "④→①→②→③",
+      "star_answer": "② しまわないように",
+      "tip": "• Tìm cặp cố định: 「思いついた」 (động từ bổ nghĩa) + 「アイデアを」 (④) (danh từ bị bổ nghĩa). \n• 「忘れて」 (①) + 「しまわないように」 (②) là cấu trúc 'để không quên mất'. \n• 「必ず持ち歩くように」 (③) + 「しているんです」 là cấu trúc 'cố gắng/tạo thói quen luôn mang theo'. \n• Ghép lại: 「思いついた アイデアを 忘れて しまわないように 必ず持ち歩くように しているんです。」",
+      "grammar_point": "Vた + N; Vて + しまう; Vない + ように; Vる + ようにする"
+    }
+  },
+  {
+    "note_id": 1780328872688,
+    "question": "昨日の夜、誰も____ ____ ★ ____気がした",
+    "fragments": [
+      "① いない",
+      "② 聞こえた",
+      "③ 何か音が",
+      "④ 部屋から"
+    ],
+    "image": "image_import_a6bff450136d_slide_0024.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③ 何か音が",
+    "corrected": false,
+    "new": {
+      "id": 1780328872688,
+      "question": "昨日の夜、誰も____ ____ ★ ____気がした",
+      "fragments": [
+        "① いない",
+        "② 聞こえた",
+        "③ 何か音が",
+        "④ 部屋から"
+      ],
+      "completed_sentence": "昨日の夜、誰もいない部屋から何か音が聞こえた気がした。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ 何か音が",
+      "tip": "• Tìm cặp cố định: 「誰も」 (không ai) luôn đi với phủ định, ở đây là 「いない」 (①). \n• 「いない部屋から」 (①④) nghĩa là 'từ căn phòng không có ai'. \n• 「何か音が」 (③) là chủ ngữ cho động từ 'nghe thấy'. \n• 「聞こえた」 (②) là động từ 'nghe thấy'. Ghép lại: 「誰も いない 部屋から 何か音が 聞こえた 気がした。」",
+      "grammar_point": "誰も + Vない; Nから; Nが + V; Vた + 気がする"
+    }
+  },
+  {
+    "note_id": 1780328873233,
+    "question": "現在、市民運動公園の中に、大小 ( ) ( ) ★ ( ) 検討されている。",
+    "fragments": [
+      "① 体育館を",
+      "② 建設する",
+      "③ 二つの",
+      "④ という案が"
+    ],
+    "image": "image_import_d794b5a8e132_slide_0025.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "old_answer": "② 建設する",
+    "corrected": false,
+    "new": {
+      "id": 1780328873233,
+      "question": "現在、市民運動公園の中に、大小 ( ) ( ) ★ ( ) 検討されている。",
+      "fragments": [
+        "① 体育館を",
+        "② 建設する",
+        "③ 二つの",
+        "④ という案が"
+      ],
+      "completed_sentence": "現在、市民運動公園の中に、大小二つの体育館を建設するという案が検討されている。",
+      "correct_order": "③→①→②→④",
+      "star_answer": "② 建設する",
+      "tip": "• Tìm cặp cố định: 「大小」 (lớn nhỏ) + 「二つの」 (③) để bổ nghĩa cho danh từ số lượng. \n• 「体育館を」 (①) là tân ngữ, cần động từ 'xây dựng' là 「建設する」 (②). \n• Cụm 「体育館を建設する」 (①②) là nội dung của 'đề án'. \n• 「という案が」 (④) là cấu trúc 'đề án/ý tưởng rằng...', và là chủ ngữ của 「検討されている」. Ghép lại: 「大小 二つの 体育館を 建設する という案が 検討されている。」",
+      "grammar_point": "Nを + Vする; Vる + という + N; Nが + Vられる (受身形)"
+    }
+  },
+  {
+    "note_id": 1780328873779,
+    "question": "B「あしたは朝から____ ____ ★ ____ましょう。」",
+    "fragments": [
+      "① 忙しくなり",
+      "② 今日中に",
+      "③ そうですし",
+      "④ やってしまい"
+    ],
+    "image": "image_import_f4d025640a7c_slide_0026.png",
+    "needs_ocr": false,
+    "user_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "gemini_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "③ そうですし",
+    "corrected": true,
+    "new": {
+      "id": 1780328873779,
+      "question": "B「あしたは朝から____ ____ ★ ____ましょう。」",
+      "fragments": [
+        "① 忙しくなり",
+        "② 今日中に",
+        "③ そうですし",
+        "④ やってしまい"
+      ],
+      "completed_sentence": "あしたは朝から忙しくなりそうなので、今日中にやってしまいましょう。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② 今日中に",
+      "tip": "• Tìm cặp cố định: 「忙しくなり」 (①) + 「そうですし」 (③) tạo thành lý do 'có vẻ sẽ bận rộn'. \n• 「今日中に」 (②) là 'trong hôm nay', chỉ thời hạn. \n• 「やってしまい」 (④) + 「ましょう」 là cấu trúc 'hãy làm cho xong'. \n• Ghép lại: 「あしたは朝から 忙しくなり そうですし 今日中に やってしまい ましょう。」",
+      "grammar_point": "Vます + そうです; 〜し; N + 中に; Vて + しまう; Vましょう"
+    }
+  },
+  {
+    "note_id": 1780328874335,
+    "question": "仕事から帰って、娘に笑顔で____ ____ ★ ____幸せだといつも思う。",
+    "fragments": [
+      "① 私は本当に",
+      "② 「おかえり」と言われると",
+      "③ 娘がいる",
+      "④ こんなかわいい"
+    ],
+    "image": "image_import_805e351e27a3_slide_0027.png",
+    "needs_ocr": false,
+    "user_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "gemini_order": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "② 「おかえり」と言われると",
+    "corrected": true,
+    "new": {
+      "id": 1780328874335,
+      "question": "仕事から帰って、娘に笑顔で____ ____ ★ ____幸せだといつも思う。",
+      "fragments": [
+        "① 私は本当に",
+        "② 「おかえり」と言われると",
+        "③ 娘がいる",
+        "④ こんなかわいい"
+      ],
+      "completed_sentence": "仕事から帰って、娘に笑顔で「おかえり」と言われると、こんなかわいい娘がいる私は本当に幸せだといつも思う。",
+      "correct_order": "②→④→③→①",
+      "star_answer": "③ 娘がいる",
+      "tip": "• Cụm 「おかえり」と言われると (②) đi ngay sau 「娘に笑顔で」 (khi con gái cười nói 'con về rồi').\n• 「こんなかわいい」 (④) là tính từ, cần bổ nghĩa cho danh từ hoặc cụm danh từ. Ở đây là 「娘がいる」 (③).\n• Cặp ④③ 「こんなかわいい娘がいる」 (có một cô con gái đáng yêu như thế này) là một cụm danh từ lớn, sau đó là chủ ngữ 「私は本当に」 (①) để kết thúc câu.",
+      "grammar_point": "Vると, こんなN, Nがいる"
+    }
+  },
+  {
+    "note_id": 1780328874867,
+    "question": "川名寺は桜が ____ ____ ★ ____ 秋の景色もすばらしいです。",
+    "fragments": [
+      "① 桜だけでなく",
+      "② ことで",
+      "③ 有名ですが",
+      "④ きれいな"
+    ],
+    "image": "image_import_beb09fe9a385_slide_0028.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "order": [
+      4,
+      2,
+      3,
+      1
+    ],
+    "old_answer": "③ 有名ですが",
+    "corrected": false,
+    "new": {
+      "id": 1780328874867,
+      "question": "川名寺は桜が ____ ____ ★ ____ 秋の景色もすばらしいです。",
+      "fragments": [
+        "① 桜だけでなく",
+        "② ことで",
+        "③ 有名ですが",
+        "④ きれいな"
+      ],
+      "completed_sentence": "川名寺は桜がきれいなことで有名ですが、桜だけでなく秋の景色もすばらしいです。",
+      "correct_order": "④→②→③→①",
+      "star_answer": "③ 有名ですが",
+      "tip": "• 「桜が」 cần một tính từ để miêu tả, nên 「きれいな」 (④) là mảnh ghép đầu tiên.\n• Cấu trúc 「V/A + ことで」 (vì/bằng việc...) nên 「きれいな」 (④) và 「ことで」 (②) đi liền nhau.\n• 「ことで」 (②) thường đi với 「有名ですが」 (③) để nói về lý do nổi tiếng, và 「ですが」 (nhưng) tạo sự chuyển tiếp cho vế sau.\n• 「桜だけでなく」 (①) là cấu trúc 「Nだけでなく」 (không chỉ N) để bổ sung thông tin, đi trước 「秋の景色もすばらしいです」.",
+      "grammar_point": "N/V/A + ことで, N + だけでなく"
+    }
+  },
+  {
+    "note_id": 1780328875421,
+    "question": "父はいつも、「何も ____ ____ ★ ____ ほうがいい。」と言っている。",
+    "fragments": [
+      "① チャレンジして",
+      "② 失敗した",
+      "③ しないで",
+      "④ いるより"
+    ],
+    "image": "image_import_8ef6dff44af5_slide_0029.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "order": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "old_answer": "① チャレンジして",
+    "corrected": false,
+    "new": {
+      "id": 1780328875421,
+      "question": "父はいつも、「何も ____ ____ ★ ____ ほうがいい。」と言っている。",
+      "fragments": [
+        "① チャレンジして",
+        "② 失敗した",
+        "③ しないで",
+        "④ いるより"
+      ],
+      "completed_sentence": "父はいつも、「何も しないで いるより チャレンジして 失敗した ほうがいい。」と言っている。",
+      "correct_order": "③→④→①→②",
+      "star_answer": "① チャレンジして",
+      "tip": "• 「何も」 (không gì cả) thường đi với 「しないで」 (③) để tạo thành 「何もしないで」 (không làm gì cả).\n• Cấu trúc so sánh 「Vるより」 (hơn là làm V) nên 「しないで」 (③) và 「いるより」 (④) là cặp đi liền nhau.\n• Vế sau 「ほうがいい」 (tốt hơn) là hành động được khuyến khích, nên 「チャレンジして」 (①) là hành động tích cực.\n• 「チャレンジして」 (①) và 「失敗した」 (②) là cặp hành động liên tiếp 「VてV」 (làm V1 rồi V2).",
+      "grammar_point": "Vないで, Vるより, VてV, Vたほうがいい"
+    }
+  },
+  {
+    "note_id": 1780328875963,
+    "question": "A「ねえ、来週の日曜日、北町の美術館に行かない？」 B「いいね。あ、私、そこの割引券を持ってるよ。 その ____ ____ ★ ____ になるんだ。」",
+    "fragments": [
+      "① 三人",
+      "② 割引券一枚で",
+      "③ 二割引き",
+      "④ まで"
+    ],
+    "image": "image_import_2305319413ca_slide_0030.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "④ まで",
+    "corrected": false,
+    "new": {
+      "id": 1780328875963,
+      "question": "A「ねえ、来週の日曜日、北町の美術館に行かない？」 B「いいね。あ、私、そこの割引券を持ってるよ。 その ____ ____ ★ ____ になるんだ。」",
+      "fragments": [
+        "① 三人",
+        "② 割引券一枚で",
+        "③ 二割引き",
+        "④ まで"
+      ],
+      "completed_sentence": "A「ねえ、来週の日曜日、北町の美術館に行かない？」 B「いいね。あ、私、そこの割引券を持ってるよ。 その 割引券一枚で 三人 まで 二割引き になるんだ。」",
+      "correct_order": "②→①→④→③",
+      "star_answer": "④ まで",
+      "tip": "• 「その」 (cái đó) chỉ định 「割引券一枚で」 (②) (với một vé giảm giá).\n• 「三人」 (①) là số người, 「まで」 (④) là giới hạn (tối đa). Cặp 「三人まで」 (tối đa 3 người) là cặp bắt buộc.\n• Sau khi xác định số người và giới hạn, tiếp theo là mức giảm giá 「二割引き」 (③).\n• Cấu trúc 「N1で N2まで N3になる」 (Với N1, N2 được giảm N3).",
+      "grammar_point": "Nで, Nまで, N割引"
+    }
+  },
+  {
+    "note_id": 1780328876501,
+    "question": "(電話で) 配達員「お荷物の配達時間ですが、明日の夜8時ごろでいかがですか。」 客「その____ ____ ★ ____ので大丈夫です。お願いします。」",
+    "fragments": [
+      "① と思う",
+      "② 多分",
+      "③ 時間は",
+      "④ 家にいる"
+    ],
+    "image": "image_import_e80fbc341d2c_slide_0031.png",
+    "needs_ocr": false,
+    "user_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "gemini_order": [
+      3,
+      4,
+      1,
+      2
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "① と思う",
+    "corrected": true,
+    "new": {
+      "id": 1780328876501,
+      "question": "(電話で) 配達員「お荷物の配達時間ですが、明日の夜8時ごろでいかがですか。」 客「その____ ____ ★ ____ので大丈夫です。お願いします。」",
+      "fragments": [
+        "① と思う",
+        "② 多分",
+        "③ 時間は",
+        "④ 家にいる"
+      ],
+      "completed_sentence": "(電話で) 配達員「お荷物の配達時間ですが、明日の夜8時ごろでいかがですか。」 客「その 時間は 多分 家にいる と思うので大丈夫です。お願いします。」",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ 家にいる",
+      "tip": "• 「その」 (đó) chỉ định 「時間は」 (③) (thời gian đó).\n• 「多分」 (②) là phó từ, thường đứng trước động từ/tính từ để bổ nghĩa, nên đi trước 「家にいる」 (④).\n• Cặp 「多分家にいる」 (có lẽ sẽ ở nhà) là một cụm có nghĩa.\n• Cấu trúc 「Vる/Vている + と思う」 (tôi nghĩ là...) nên 「家にいる」 (④) và 「と思う」 (①) là cặp đi liền nhau.",
+      "grammar_point": "Nは, 多分V, Vると/Vていると思う"
+    }
+  },
+  {
+    "note_id": 1780328877033,
+    "question": "山下「田中さん、ABC大学のリュウ先生を知っていますか。」 田中「____ ____ ★ ____ありません。」",
+    "fragments": [
+      "① ありますが",
+      "② 会ったことは",
+      "③ 聞いたことが",
+      "④ お名前は"
+    ],
+    "image": "image_import_b693ef54bd74_slide_0032.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "gemini_order": [
+      4,
+      3,
+      2,
+      1
+    ],
+    "order": [
+      4,
+      3,
+      1,
+      2
+    ],
+    "old_answer": "② 会ったことは",
+    "corrected": true,
+    "new": {
+      "id": 1780328877033,
+      "question": "山下「田中さん、ABC大学のリュウ先生を知っていますか。」 田中「____ ____ ★ ____ありません。」",
+      "fragments": [
+        "① ありますが",
+        "② 会ったことは",
+        "③ 聞いたことが",
+        "④ お名前は"
+      ],
+      "completed_sentence": "山下「田中さん、ABC大学のリュウ先生を知っていますか。」 田中「お名前は 聞いたことが ありますが 会ったことは ありません。」",
+      "correct_order": "④→③→①→②",
+      "star_answer": "① ありますが",
+      "tip": "• 「お名前は」 (④) là chủ đề được nhắc đến đầu tiên (về tên thì...).\n• Cấu trúc 「Vたことがある」 (đã từng làm V) nên 「聞いたことが」 (③) là mảnh ghép tiếp theo.\n• 「聞いたことが」 (③) và 「ありますが」 (①) là cặp đi liền nhau, tạo thành 「聞いたことはありますが」 (tôi có nghe tên rồi, nhưng...). 「が」 (nhưng) tạo sự đối lập.\n• Vế đối lập là 「会ったことはありません」 (chưa từng gặp), nên 「会ったことは」 (②) là mảnh ghép cuối cùng.",
+      "grammar_point": "Nは, Vたことがある, Vます+が, Vたことはない"
+    }
+  },
+  {
+    "note_id": 1780328877566,
+    "question": "わたしが____ ____ ★ ____京都の高山寺がある。",
+    "fragments": [
+      "① 行ってみたい",
+      "② ひとつに",
+      "③ もっとも",
+      "④ 寺の"
+    ],
+    "image": "image_import_308b0d5e2742_slide_0033.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "old_answer": "④ 寺の",
+    "corrected": false,
+    "new": {
+      "id": 1780328877566,
+      "question": "わたしが____ ____ ★ ____京都の高山寺がある。",
+      "fragments": [
+        "① 行ってみたい",
+        "② ひとつに",
+        "③ もっとも",
+        "④ 寺の"
+      ],
+      "completed_sentence": "わたしがもっとも行ってみたい寺のひとつに京都の高山寺がある。",
+      "correct_order": "③→①→④→②",
+      "star_answer": "④ 寺の",
+      "tip": "• Cấu trúc 「もっとも〜たい」 (muốn... nhất) là mỏ neo, ghép ③ もっとも với ① 行ってみたい.\n• Cấu trúc 「〜のひとつに」 (một trong số...) là mỏ neo, đứng sau danh từ. Ở đây, 「寺の」 (của ngôi chùa) bổ nghĩa cho 「ひとつに」, tạo thành ④→②.\n• Ghép hai cụm lại: 「もっとも行ってみたい寺」 (ngôi chùa muốn đi nhất) + 「のひとつに」 (một trong số).",
+      "grammar_point": "もっとも〜たい, 〜のひとつに"
+    }
+  },
+  {
+    "note_id": 1780328878100,
+    "question": "『プレゼント』という映画を見て、この映画 ____ ____ ★ ____ 映画はないと思った。",
+    "fragments": [
+      "① ほど",
+      "② について",
+      "③ 人生",
+      "④ 考えさせられる"
+    ],
+    "image": "image_import_ced04481eb02_slide_0034.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "② について",
+    "corrected": false,
+    "new": {
+      "id": 1780328878100,
+      "question": "『プレゼント』という映画を見て、この映画 ____ ____ ★ ____ 映画はないと思った。",
+      "fragments": [
+        "① ほど",
+        "② について",
+        "③ 人生",
+        "④ 考えさせられる"
+      ],
+      "completed_sentence": "『プレゼント』という映画を見て、この映画ほど人生について考えさせられる映画はないと思った。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② について",
+      "tip": "• Cấu trúc 「〜ほど〜ない」 (không... bằng...) là mỏ neo quan trọng, mảnh ① ほど đứng đầu cụm.\n• Cấu trúc 「〜について」 (về, liên quan đến) luôn đứng sau danh từ. Ở đây, 「人生」 (cuộc đời) là danh từ, nên ghép ③→②.\n• Động từ 「考えさせられる」 (bị khiến cho suy nghĩ) sẽ đi sau 「〜について」, tạo thành 「人生について考えさせられる」.\n• Thứ tự đúng là ①→③→②→④.",
+      "grammar_point": "〜ほど〜ない, 〜について"
+    }
+  },
+  {
+    "note_id": 1780328878648,
+    "question": "友だちからの____ ____ ★ ____。",
+    "fragments": [
+      "① すっかり忘れていた",
+      "② メールがくるまで",
+      "③ ということを",
+      "④ 今日がレポートの締め切り日だった"
+    ],
+    "image": "image_import_8f76b5ddd922_slide_0035.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "③ ということを",
+    "corrected": false,
+    "new": {
+      "id": 1780328878648,
+      "question": "友だちからの____ ____ ★ ____。",
+      "fragments": [
+        "① すっかり忘れていた",
+        "② メールがくるまで",
+        "③ ということを",
+        "④ 今日がレポートの締め切り日だった"
+      ],
+      "completed_sentence": "友だちからのメールがくるまで、今日がレポートの締め切り日だったということをすっかり忘れていた。",
+      "correct_order": "②→④→③→①",
+      "star_answer": "③ ということを",
+      "tip": "• Cấu trúc 「〜まで」 (cho đến khi) là mỏ neo, đứng sau động từ. Ở đây là 「メールがくるまで」 (cho đến khi email đến), mảnh ② đứng đầu.\n• Cấu trúc 「〜ということを」 (việc rằng...) đứng sau một mệnh đề/câu. Ở đây, 「今日がレポートの締め切り日だった」 (hôm nay là hạn nộp báo cáo) là một mệnh đề, nên ghép ④→③.\n• Động từ 「忘れていた」 (đã quên) sẽ đi sau 「〜ということを」, tạo thành 「〜ということを忘れていた」. Ghép ③→①.\n• Thứ tự đúng là ②→④→③→①.",
+      "grammar_point": "〜まで, 〜ということを"
+    }
+  },
+  {
+    "note_id": 1780328879185,
+    "question": "中山「上田さんは、本当にこの仕事が好きなんですね。」 上田「はい、わたしは、____ ____ ★ ____ ないと思っているんです。」",
+    "fragments": [
+      "① ほど",
+      "② 仕事は",
+      "③ これ",
+      "④ おもしろい"
+    ],
+    "image": "image_import_f807c448723e_slide_0036.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "old_answer": "② 仕事は",
+    "corrected": false,
+    "new": {
+      "id": 1780328879185,
+      "question": "中山「上田さんは、本当にこの仕事が好きなんですね。」 上田「はい、わたしは、____ ____ ★ ____ ないと思っているんです。」",
+      "fragments": [
+        "① ほど",
+        "② 仕事は",
+        "③ これ",
+        "④ おもしろい"
+      ],
+      "completed_sentence": "はい、わたしは、これほど仕事はおもしろくないと思っているんです。",
+      "correct_order": "③→①→②→④",
+      "star_answer": "② 仕事は",
+      "tip": "• Cấu trúc 「〜ほど〜ない」 (không... bằng...) là mỏ neo. Mảnh ① ほど sẽ đi sau một danh từ/đại từ (③ これ).\n• 「仕事は」 (công việc thì) là chủ ngữ của vế sau, đứng trước tính từ 「おもしろい」 (thú vị).\n• Kết hợp với 「ない」 ở cuối câu, tạo thành 「これほど仕事はおもしろくない」 (công việc không thú vị đến mức này).\n• Thứ tự đúng là ③→①→②→④.",
+      "grammar_point": "〜ほど〜ない"
+    }
+  },
+  {
+    "note_id": 1780328879739,
+    "question": "この美術館には、19世紀の ____ ____ ★ ____ たくさんあります。",
+    "fragments": [
+      "① よって",
+      "② 画家たちに",
+      "③ 絵が",
+      "④ 描かれた"
+    ],
+    "image": "image_import_a8cbae30a213_slide_0037.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "order": [
+      2,
+      1,
+      4,
+      3
+    ],
+    "old_answer": "④ 描かれた",
+    "corrected": false,
+    "new": {
+      "id": 1780328879739,
+      "question": "この美術館には、19世紀の ____ ____ ★ ____ たくさんあります。",
+      "fragments": [
+        "① よって",
+        "② 画家たちに",
+        "③ 絵が",
+        "④ 描かれた"
+      ],
+      "completed_sentence": "この美術館には、19世紀の画家たちによって描かれた絵がたくさんあります。",
+      "correct_order": "②→①→④→③",
+      "star_answer": "④ 描かれた",
+      "tip": "• Cấu trúc bị động 「〜によって〜れる/られる」 (được/bị... bởi...). Ở đây, 「画家たちに」 (bởi các họa sĩ) đi với 「よって」 (bởi), tạo thành ②→①.\n• Động từ bị động 「描かれた」 (được vẽ) bổ nghĩa cho danh từ 「絵」 (bức tranh), tạo thành ④→③.\n• Cụm 「画家たちによって描かれた絵」 (những bức tranh được vẽ bởi các họa sĩ) là một cụm danh từ.\n• Thứ tự đúng là ②→①→④→③.",
+      "grammar_point": "〜によって, Vられる (thể bị động)"
+    }
+  },
+  {
+    "note_id": 1780328880283,
+    "question": "夏休みに行われた会社での実習は、わたしにとって、企業で ____ ____ ★ ____ いい機会になった。",
+    "fragments": [
+      "① 考える",
+      "② というのが",
+      "③ 働く",
+      "④ どういうことか"
+    ],
+    "image": "image_import_d11bf30d0b58_slide_0038.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "order": [
+      3,
+      2,
+      4,
+      1
+    ],
+    "old_answer": "④ どういうことか",
+    "corrected": false,
+    "new": {
+      "id": 1780328880283,
+      "question": "夏休みに行われた会社での実習は、わたしにとって、企業で ____ ____ ★ ____ いい機会になった。",
+      "fragments": [
+        "① 考える",
+        "② というのが",
+        "③ 働く",
+        "④ どういうことか"
+      ],
+      "completed_sentence": "夏休みに行われた会社での実習は、わたしにとって、企業で働くというのがどういうことか考えるいい機会になった。",
+      "correct_order": "③→②→④→①",
+      "star_answer": "④ どういうことか",
+      "tip": "• Cấu trúc 「Vる/N というのが」 (việc mà, cái gọi là...) dùng để định nghĩa hoặc giải thích. Ở đây, 「働く」 (làm việc) là động từ, nên ghép ③→②.\n• Cụm từ nghi vấn 「どういうことか」 (là việc gì, có nghĩa là gì) sẽ đi trước động từ 「考える」 (suy nghĩ), tạo thành 「どういうことか考える」 (suy nghĩ xem nó có nghĩa là gì). Ghép ④→①.\n• Cụm 「企業で働くというのがどういうことか考える」 (suy nghĩ xem việc làm việc ở công ty có nghĩa là gì).\n• Thứ tự đúng là ③→②→④→①.",
+      "grammar_point": "〜というのが, 〜どういうことか"
+    }
+  },
+  {
+    "note_id": 1780328880831,
+    "question": "母は「風邪をひかないのは、____ ____ ★ ____。」とよく言っている。",
+    "fragments": [
+      "① ジョギングの",
+      "② している",
+      "③ おかげだ",
+      "④ 毎朝"
+    ],
+    "image": "image_import_a5b92a28dfbe_slide_0039.png",
+    "needs_ocr": false,
+    "user_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "gemini_order": [
+      4,
+      1,
+      2,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "② している",
+    "corrected": true,
+    "new": {
+      "id": 1780328880831,
+      "question": "母は「風邪をひかないのは、____ ____ ★ ____。」とよく言っている。",
+      "fragments": [
+        "① ジョギングの",
+        "② している",
+        "③ おかげだ",
+        "④ 毎朝"
+      ],
+      "completed_sentence": "母は「風邪をひかないのは、毎朝しているジョギングのおかげだ。」とよく言っている。",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① ジョギングの",
+      "tip": "• Tìm cặp cố định: `〜のおかげだ` (nhờ có ~) là một cụm ngữ pháp. Vậy ① `ジョギングの` và ③ `おかげだ` sẽ đi liền nhau hoặc gần nhau.\n• `毎朝` (④) là trạng từ chỉ thời gian, thường đứng trước động từ `している` (②).\n• `している` (②) bổ nghĩa cho danh từ `ジョギング` (trong ①). Ghép lại thành `毎朝しているジョギングのおかげだ`.",
+      "grammar_point": "〜のおかげだ"
+    }
+  },
+  {
+    "note_id": 1780328881365,
+    "question": "A「今度のさよならパーティーで、みんなで歌う歌は、これでいいですか。」 B「すみません。この歌は好きなんですが、少しむずかしいです____ ____ ★ ____してほしいです。」",
+    "fragments": [
+      "① の",
+      "② ほか",
+      "③ に",
+      "④ から"
+    ],
+    "image": "image_import_6840fbf746d8_slide_0040.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "① の",
+    "corrected": false,
+    "new": {
+      "id": 1780328881365,
+      "question": "A「今度のさよならパーティーで、みんなで歌う歌は、これでいいですか。」 B「すみません。この歌は好きなんですが、少しむずかしいです____ ____ ★ ____してほしいです。」",
+      "fragments": [
+        "① の",
+        "② ほか",
+        "③ に",
+        "④ から"
+      ],
+      "completed_sentence": "B「すみません。この歌は好きなんですが、少しむずかしいですからほかのにしてほしいです。」",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① の",
+      "tip": "• `〜から` (④) thường đứng sau mệnh đề chỉ lý do: `むずかしいです` + `から`.\n• `ほかの` (②+①) là cụm danh từ 'cái khác'. `ほか` (②) + `の` (①) tạo thành `ほかの`.\n• `〜にしてほしい` (muốn chọn cái gì đó) là cấu trúc cuối. Vậy `ほかの` + `に` (③) + `してほしい`.",
+      "grammar_point": "〜から〜てほしい"
+    }
+  },
+  {
+    "note_id": 1780328881897,
+    "question": "最近、子どもがピアノを習いたいと言いだした。わたしは、子どもが____ ____ ★ ____と思っている。",
+    "fragments": [
+      "① したい",
+      "② やりたい",
+      "③ やらせて",
+      "④ と思うことは"
+    ],
+    "image": "image_import_5a6c092b03e7_slide_0041.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③ やらせて",
+    "corrected": false,
+    "new": {
+      "id": 1780328881897,
+      "question": "最近、子どもがピアノを習いたいと言いだした。わたしは、子どもが____ ____ ★ ____と思っている。",
+      "fragments": [
+        "① したい",
+        "② やりたい",
+        "③ やらせて",
+        "④ と思うことは"
+      ],
+      "completed_sentence": "最近、子どもがピアノを習いたいと言いだした。わたしは、子どもがしたいと思うことはやらせてやりたいと思っている。",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ やらせて",
+      "tip": "• Cụm `〜と思うことは` (④) thường đứng sau một mệnh đề. `子どもがしたい` (①) + `と思うことは` (④) tạo thành 'việc mà con muốn làm'.\n• Cụm `〜てやりたい` (muốn cho ai đó làm) là cấu trúc cuối. Vậy `やらせて` (③) + `やりたい` (②) tạo thành `やらせてやりたい`.\n• Ghép lại: `子どもがしたいと思うことはやらせてやりたい`.",
+      "grammar_point": "〜たいと思うこと、〜てやりたい"
+    }
+  },
+  {
+    "note_id": 1780328882431,
+    "question": "B「コンサートは7時からですから、そんなに____ ____ ★ ____と思いますよ。」",
+    "fragments": [
+      "① 早く",
+      "② 開いていない",
+      "③ まだ",
+      "④ 行っても"
+    ],
+    "image": "image_import_e0ada2f261f2_slide_0042.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "order": [
+      1,
+      4,
+      3,
+      2
+    ],
+    "old_answer": "③ まだ",
+    "corrected": false,
+    "new": {
+      "id": 1780328882431,
+      "question": "B「コンサートは7時からですから、そんなに____ ____ ★ ____と思いますよ。」",
+      "fragments": [
+        "① 早く",
+        "② 開いていない",
+        "③ まだ",
+        "④ 行っても"
+      ],
+      "completed_sentence": "B「コンサートは7時からですから、そんなに早く行ってもまだ開いていないと思いますよ。」",
+      "correct_order": "①→④→③→②",
+      "star_answer": "③ まだ",
+      "tip": "• `そんなに` (không đến mức đó) thường đi với phủ định. `〜ても` (dù có ~) là một cấu trúc.\n• `早く` (①) là trạng từ bổ nghĩa cho động từ `行く` (đi). Vậy `早く` + `行っても` (④) tạo thành `早く行っても` (dù có đi sớm).\n• `まだ〜ていない` (chưa ~) là một cấu trúc cố định. Vậy `まだ` (③) + `開いていない` (②) tạo thành `まだ開いていない`.",
+      "grammar_point": "〜ても、まだ〜ていない"
+    }
+  },
+  {
+    "note_id": 1780328882968,
+    "question": "田中先生の研究室で) 学生「田中先生はいらっしゃいますか。」 秘書「今、ほかの学生と話して____ ____ ★ ____ください。」",
+    "fragments": [
+      "① すこし",
+      "② から",
+      "③ 待って",
+      "④ いらっしゃいます"
+    ],
+    "image": "image_import_e98e11711a9e_slide_0043.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "order": [
+      4,
+      2,
+      1,
+      3
+    ],
+    "old_answer": "① すこし",
+    "corrected": false,
+    "new": {
+      "id": 1780328882968,
+      "question": "田中先生の研究室で) 学生「田中先生はいらっしゃいますか。」 秘書「今、ほかの学生と話して____ ____ ★ ____ください。」",
+      "fragments": [
+        "① すこし",
+        "② から",
+        "③ 待って",
+        "④ いらっしゃいます"
+      ],
+      "completed_sentence": "秘書「今、ほかの学生と話していらっしゃいますからすこし待ってください。」",
+      "correct_order": "④→②→①→③",
+      "star_answer": "① すこし",
+      "tip": "• `〜てください` (hãy làm ~) là cấu trúc cuối câu. Vậy `待って` (③) + `ください`.\n• `話して` + `いらっしゃいます` (④) là kính ngữ của `話している` (đang nói chuyện).\n• `〜から` (②) thường đứng sau mệnh đề chỉ lý do. Vậy `話していらっしゃいます` + `から`.\n• `すこし` (①) là trạng từ bổ nghĩa cho `待って` (③). Ghép lại: `話していらっしゃいますからすこし待ってください`.",
+      "grammar_point": "〜ていらっしゃる、〜から〜てください"
+    }
+  },
+  {
+    "note_id": 1780328883500,
+    "question": "ジョン「この『りかい』という言葉はどういう意味ですか。」 アリ「ああ、確か『わかる』____ ____ ★ ____ んですけど。」",
+    "fragments": [
+      "① 意味だった",
+      "② という",
+      "③ と思う",
+      "④ ような"
+    ],
+    "image": "image_import_c18f4caa10f8_slide_0044.png",
+    "needs_ocr": false,
+    "user_order": null,
+    "gemini_order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "order": [
+      2,
+      4,
+      1,
+      3
+    ],
+    "old_answer": "① 意味だった",
+    "corrected": false,
+    "new": {
+      "id": 1780328883500,
+      "question": "ジョン「この『りかい』という言葉はどういう意味ですか。」 アリ「ああ、確か『わかる』____ ____ ★ ____ んですけど。」",
+      "fragments": [
+        "① 意味だった",
+        "② という",
+        "③ と思う",
+        "④ ような"
+      ],
+      "completed_sentence": "アリ「ああ、確か『わかる』というような意味だったと思うんですけど。」",
+      "correct_order": "②→④→①→③",
+      "star_answer": "① 意味だった",
+      "tip": "• Cụm `〜というような` (giống như cái gọi là ~) là một cấu trúc cố định. Vậy `『わかる』` + `という` (②) + `ような` (④).\n• `〜意味だった` (đã là ý nghĩa ~) là một cụm danh từ. Vậy `ような` + `意味だった` (①).\n• `〜と思う` (tôi nghĩ ~) là cấu trúc cuối cùng trước `んですけど`. Ghép lại: `『わかる』というような意味だったと思う`.",
+      "grammar_point": "〜というような、〜と思う"
+    }
+  },
+  {
+    "note_id": 1782228581768,
+    "question": "",
+    "fragments": [],
+    "image": "paste-caeb07ac188cffd5f9cd8b9f4c73e42798726464.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "gemini_order": null,
+    "order": [
+      2,
+      4,
+      3,
+      1
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782228581768,
+      "question": "138 昨日のパーティーは、友だちと話していたら、ほとんど___ ___ ★ ___、あとでおなかがすいてしまった。",
+      "fragments": [
+        "① 終わってしまって",
+        "② 何も",
+        "③ うちに",
+        "④ 食べない"
+      ],
+      "completed_sentence": "昨日のパーティーは、友だちと話していたら、ほとんど何も食べないうちに終わってしまって、あとでおなかがすいてしまった。",
+      "correct_order": "②→④→③→①",
+      "star_answer": "③ うちに",
+      "tip": "• Nhìn `ほとんど` và `何も` (②) thường đi cùng nhau, tạo thành `ほとんど何も` (hầu như không có gì). \n• Sau `何も` (②) cần một động từ phủ định, nên ghép với `食べない` (④) thành `何も食べない` (không ăn gì cả). \n• Cụm `Vないうちに` là một ngữ pháp N3, nên ghép `食べない` (④) với `うちに` (③) thành `食べないうちに` (trước khi ăn). \n• Cuối cùng, `終わってしまって` (①) là hành động kết thúc, hợp lý để kết thúc vế câu trước khi chuyển sang `あとでおなかがすいてしまった`. \n• Thứ tự đúng là ②→④→③→①. Mảnh ở vị trí ★ là mảnh thứ 3, tức ③ うちに.",
+      "grammar_point": "Vないうちに"
+    }
+  },
+  {
+    "note_id": 1782228658859,
+    "question": "",
+    "fragments": [],
+    "image": "paste-9d4c25d1d7ada428fa7be66b745149f6b586ec3a.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "gemini_order": null,
+    "order": [
+      3,
+      4,
+      2,
+      1
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782228658859,
+      "question": "A「来週、試合＿＿＿ ★ ＿＿＿んですか。」B「すみません。」",
+      "fragments": [
+        "① 何をやっていた",
+        "② 練習に来ないで",
+        "③ なのに",
+        "④ ちっとも"
+      ],
+      "completed_sentence": "A「来週、試合なのにちっとも練習に来ないで何をやっていったんですか。」",
+      "correct_order": "③→④→②→①",
+      "star_answer": "② 練習に来ないで",
+      "tip": "• Tìm cặp cố định: 「試合」là danh từ, sau đó thường là 「なのに」(③) để tạo nghĩa \"mặc dù có trận đấu\". Ghép được 「試合なのに」.\n• 「ちっとも」(④) là phó từ luôn đi với thể phủ định. Ghép với 「練習に来ないで」(②) thành 「ちっとも練習に来ないで」 (hoàn toàn không đến luyện tập).\n• Cuối cùng, 「何をやっていったんですか」(①) là câu hỏi hoàn chỉnh.\n• Thứ tự là ③→④→②→①. Mảnh ở ★ là ②.",
+      "grammar_point": "〜なのに, ちっとも〜ない, Vないで"
+    }
+  },
+  {
+    "note_id": 1782228679645,
+    "question": "",
+    "fragments": [],
+    "image": "paste-da02743812e08b932221b90e0391f59d4143b5b1.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "gemini_order": null,
+    "order": [
+      3,
+      1,
+      4,
+      2
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782228679645,
+      "question": "142 あの美術館は曜日___ ___ ★ ___ 窓口で確認したほうがいいよ。",
+      "fragments": [
+        "① 閉まる時間",
+        "② 違うから",
+        "③ によって",
+        "④ が"
+      ],
+      "completed_sentence": "あの美術館は曜日によって閉まる時間が違うから窓口で確認したほうがいいよ。",
+      "correct_order": "③→①→④→②",
+      "star_answer": "④ が",
+      "tip": "• Nhìn vào `曜日` (ngày trong tuần) và mảnh `③ によって`. Cặp `Nによって` (tùy thuộc vào N) là ngữ pháp N3 quen thuộc, nên `曜日によって` là một cặp chắc chắn.\n• Tiếp theo, nhìn vào mảnh `① 閉まる時間` (thời gian đóng cửa) và mảnh `④ が`, rồi đến `② 違うから`. Cặp `Nが違う` (N khác nhau) là cấu trúc cơ bản, nên `閉まる時間が違うから` là một cụm hoàn chỉnh.\n• Ghép lại ta có: `曜日によって` (③) `閉まる時間` (①) `が` (④) `違うから` (②). Vị trí ★ là mảnh thứ 3, vậy đáp án là ④.",
+      "grammar_point": "Nによって"
+    }
+  },
+  {
+    "note_id": 1782228696975,
+    "question": "",
+    "fragments": [],
+    "image": "paste-a99b87e1cfb96c7d95e14a549f363037612c6883.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "gemini_order": null,
+    "order": [
+      1,
+      4,
+      2,
+      3
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782228696975,
+      "question": "143 自分で野菜を作ってみて、おいしい野菜を育てる___ ___ ★ ___わかりました。",
+      "fragments": [
+        "① ことが",
+        "② 大変な",
+        "③ ことか",
+        "④ どんなに"
+      ],
+      "completed_sentence": "自分で野菜を作ってみて、おいしい野菜を育てる ことが どんなに 大変な ことか わかりました。",
+      "correct_order": "①→④→②→③",
+      "star_answer": "② 大変な",
+      "tip": "• Tìm cặp cố định 「どんなに〜ことか」 (④...③) để diễn tả cảm xúc mạnh mẽ, sự nhận ra 'thật là/biết bao nhiêu'.\n• 「大変な」 (②) là tính từ đuôi な, sẽ đứng giữa 「どんなに」 và 「ことか」, tạo thành 「どんなに大変なことか」 (④→②→③).\n• Phía trước, 「育てる」 là động từ, cần 「ことが」 (①) để biến thành cụm danh từ làm chủ ngữ cho vế sau, tức là 「育てる ことが」.\n• Ghép lại ta có: 「育てる ことが どんなに大変なことか わかりました。」. Vị trí ★ là mảnh thứ 3, tức ②.",
+      "grammar_point": "V-ること, どんなに〜ことか"
+    }
+  },
+  {
+    "note_id": 1782228765889,
+    "question": "",
+    "fragments": [],
+    "image": "paste-abd1c3e7a584a6d026fd9191c8e769685776de4a.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "gemini_order": null,
+    "order": [
+      3,
+      1,
+      2,
+      4
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782228765889,
+      "question": "父も私も、今日 はかさがなくても＿＿＿＿ ★ ＿＿＿＿が、雨に降られてしまった。",
+      "fragments": [
+        "① だろう",
+        "② と思って",
+        "③ 大丈夫",
+        "④ 出かけた"
+      ],
+      "completed_sentence": "父も私も、今日 はかさがなくても大丈夫だろうと思って出かけたが、雨に降られてしまった。",
+      "correct_order": "③→①→②→④",
+      "star_answer": "② と思って",
+      "tip": "• Tìm cặp cố định: 「大丈夫 (③) + だろう (①)」 là một cụm từ chỉ sự phỏng đoán \"chắc là ổn\".\n• Tiếp theo, 「〜だろう (①) + と思って (②)」 là cấu trúc cố định \"nghĩ rằng chắc là...\". Vậy ta có chuỗi ③→①→②.\n• Cuối cùng, 「〜と思って (②) + 出かけた (④)」 là \"nghĩ vậy rồi đi ra ngoài\". Cả câu kết thúc bằng 「出かけたが」 (đi ra ngoài nhưng...).",
+      "grammar_point": "〜だろうと思って"
+    }
+  },
+  {
+    "note_id": 1782228788695,
+    "question": "",
+    "fragments": [],
+    "image": "paste-d7cee782c40fc69820ff6aaf35f1607b33bd2433.jpg",
+    "needs_ocr": true,
+    "user_order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "gemini_order": null,
+    "order": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "old_answer": "",
+    "corrected": true,
+    "new": {
+      "id": 1782228788695,
+      "question": "149 昨日動物園に行ったら、先月 ___ ___ ★ ___ 見ることができました。",
+      "fragments": [
+        "① 生まれた",
+        "② ライオンの",
+        "③ ばかりの",
+        "④ 赤ちゃんを"
+      ],
+      "completed_sentence": "昨日動物園に行ったら、先月生まれたばかりのライオンの赤ちゃんを見ることができました。",
+      "correct_order": "①→③→②→④",
+      "star_answer": "② ライオンの",
+      "tip": "• Tìm cặp cố định: 「VたばかりのN」 là một cấu trúc ngữ pháp quen thuộc (vừa mới V xong). Ở đây, ta có 「生まれた」(Vた) và 「ばかりの」(③). Vậy ①→③ là một cặp. \n• Tiếp theo, 「NのN」 là cấu trúc sở hữu (N1 của N2). Ta có 「ライオンの」(②) và 「赤ちゃんを」(④). Vậy ②→④ là một cặp. \n• Ghép lại, 「生まれたばかりの」 (vừa mới sinh) sẽ bổ nghĩa cho 「ライオンの赤ちゃんを」 (con sư tử con). \n• Vậy thứ tự đúng là ①→③→②→④. Mảnh ở vị trí ★ là mảnh thứ 3, tức là ②.",
+      "grammar_point": "VたばかりのN"
+    }
+  }
+]

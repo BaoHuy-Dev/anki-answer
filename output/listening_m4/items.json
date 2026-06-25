@@ -1,0 +1,1362 @@
+[
+  {
+    "situation": "先輩が忙しそうなので手伝いたいです。先輩に何と言いますか？",
+    "situation_vi": "Vì tiền bối trông có vẻ bận rộn nên tôi muốn giúp đỡ. Bạn sẽ nói gì với tiền bối?",
+    "options": [
+      "あの、手伝ってくれませんか？",
+      "あの、手伝いましょうか？",
+      "あの、手伝いませんか？"
+    ],
+    "options_vi": [
+      "À, anh/chị giúp tôi được không?",
+      "À, tôi giúp anh/chị nhé?",
+      "À, anh/chị không giúp tôi à?"
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là bạn muốn giúp đỡ tiền bối. Câu 2 \"手伝いましょうか？\" là cách đề nghị giúp đỡ một cách lịch sự. Câu 1 \"手伝ってくれませんか？\" là yêu cầu người khác giúp mình. Câu 3 \"手伝いませんか？\" là câu hỏi mang ý trách móc hoặc thắc mắc tại sao không giúp, không phù hợp.",
+    "q": 1
+  },
+  {
+    "situation": "試験に合格したので先生に伝えたいです。先生に何と言いますか？",
+    "situation_vi": "Vì đã đỗ kỳ thi nên tôi muốn báo cho giáo viên. Bạn sẽ nói gì với giáo viên?",
+    "options": [
+      "今回はおめでとうございます。",
+      "今度合格なさいました。",
+      "おかげさまで試験に受かりました。"
+    ],
+    "options_vi": [
+      "Lần này xin chúc mừng.",
+      "Lần tới đã đỗ rồi.",
+      "Nhờ ơn thầy/cô mà em đã đỗ kỳ thi."
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn đã đỗ kỳ thi và muốn báo tin cho giáo viên. Câu 3 \"おかげさまで試験に受かりました\" là cách nói khiêm tốn và biết ơn khi báo tin thành công của bản thân, ngụ ý rằng thành công đó có được một phần nhờ sự giúp đỡ của giáo viên. Câu 1 \"おめでとうございます\" là lời chúc mừng dành cho người khác. Câu 2 \"合格なさいました\" sử dụng kính ngữ cho hành động của người khác (giáo viên), không phải của bản thân.",
+    "q": 2
+  },
+  {
+    "situation": "友達と食事をしています。醤油を使いたいです。友達に何と言いますか？",
+    "situation_vi": "Bạn đang ăn cơm với bạn bè. Bạn muốn dùng xì dầu. Bạn sẽ nói gì với bạn bè?",
+    "options": [
+      "醤油取ろうか？",
+      "醤油取ってくれる？",
+      "醤油取ってあげようか？"
+    ],
+    "options_vi": [
+      "Lấy xì dầu cho cậu nhé?",
+      "Cậu lấy xì dầu cho tớ được không?",
+      "Tớ lấy xì dầu cho cậu nhé?"
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là bạn muốn dùng xì dầu và cần bạn bè đưa cho. Câu 2 \"醤油取ってくれる？\" là cách hỏi bạn bè một cách thân mật để nhờ họ đưa xì dầu cho mình. Câu 1 \"醤油取ろうか？\" và câu 3 \"醤油取ってあげようか？\" đều là cách đề nghị lấy xì dầu cho người khác, không phải là yêu cầu người khác đưa cho mình.",
+    "q": 3
+  },
+  {
+    "situation": "会社で、お客さんを部屋に案内しました。何と言いますか？",
+    "situation_vi": "Tại công ty, bạn đã dẫn khách hàng vào phòng. Bạn sẽ nói gì?",
+    "options": [
+      "どうぞおかけください。",
+      "座らせていただきます。",
+      "席をお取りしましょうか。"
+    ],
+    "options_vi": [
+      "Xin mời quý khách ngồi.",
+      "Tôi xin phép được ngồi.",
+      "Tôi lấy chỗ cho quý khách nhé?"
+    ],
+    "answer": 1,
+    "explanation": "Khi dẫn khách hàng vào phòng và muốn mời họ ngồi, câu 「どうぞおかけください」 (Xin mời quý khách ngồi) là cách nói lịch sự và phù hợp nhất. Câu 2 「座らせていただきます」 là cách nói khi bản thân mình xin phép được ngồi. Câu 3 「席をお取りしましょうか」 có nghĩa là 'Tôi lấy chỗ cho quý khách nhé?', thường dùng khi đặt chỗ hoặc chuẩn bị chỗ ngồi, không phù hợp bằng việc trực tiếp mời ngồi khi chỗ đã sẵn.",
+    "q": 4
+  },
+  {
+    "situation": "先輩が荷物をたくさん持っていて、大変そうです。何と言いますか？",
+    "situation_vi": "Tiền bối của bạn đang mang rất nhiều hành lý và trông có vẻ vất vả. Bạn sẽ nói gì?",
+    "options": [
+      "一つ運んでもらえませんか？",
+      "手伝ったら、いかがですか？",
+      "お持ちしましょうか？"
+    ],
+    "options_vi": [
+      "Anh/chị có thể mang giúp tôi một cái được không?",
+      "Nếu tôi giúp thì sao ạ?",
+      "Tôi mang giúp anh/chị nhé?"
+    ],
+    "answer": 3,
+    "explanation": "Khi thấy tiền bối vất vả và muốn giúp đỡ, câu 「お持ちしましょうか？」 (Tôi mang giúp anh/chị nhé?) là cách nói lịch sự và trực tiếp nhất để đề nghị giúp đỡ mang đồ. Câu 1 「一つ運んでもらえませんか？」 là bạn đang nhờ tiền bối mang đồ cho mình, hoàn toàn ngược lại. Câu 2 「手伝ったら、いかがですか？」 (Nếu tôi giúp thì sao ạ?) cũng là một cách đề nghị giúp đỡ nhưng không trực tiếp và tự nhiên bằng câu 3 trong tình huống này.",
+    "q": 5
+  },
+  {
+    "situation": "机の上に友達の帽子があります。何と言いますか？",
+    "situation_vi": "Có chiếc mũ của bạn bè trên bàn. Bạn sẽ nói gì?",
+    "options": [
+      "帽子、忘れてるんじゃない？",
+      "帽子、持っていかないで。",
+      "3"
+    ],
+    "options_vi": [
+      "Cậu không phải là đang quên mũ đấy chứ?",
+      "Đừng mang mũ đi.",
+      "3"
+    ],
+    "answer": 1,
+    "explanation": "Khi thấy chiếc mũ của bạn bè trên bàn, có khả năng họ đã quên, câu 「帽子、忘れてるんじゃない？」 (Cậu không phải là đang quên mũ đấy chứ?) là cách nói tự nhiên và phù hợp nhất để nhắc nhở bạn bè. Câu 2 「帽子、持っていかないで。」 (Đừng mang mũ đi) là một câu cấm đoán, không phù hợp với tình huống này. Lựa chọn 3 không có nội dung câu nói trong audio.",
+    "q": 6
+  },
+  {
+    "situation": "病院に先生のお見舞いに来ました。何と言いますか？",
+    "situation_vi": "Bạn đến bệnh viện thăm thầy giáo. Bạn sẽ nói gì?",
+    "options": [
+      "お見舞いにいらっしゃいませんか？",
+      "あの、具合はいかがですか？",
+      "よく来てくださいました。"
+    ],
+    "options_vi": [
+      "Thầy không đến thăm bệnh sao?",
+      "À, thầy thấy trong người thế nào ạ?",
+      "Cảm ơn bạn đã đến thăm."
+    ],
+    "answer": 2,
+    "explanation": "Trong tình huống đến thăm bệnh thầy giáo, câu hỏi phù hợp nhất là hỏi về tình trạng sức khỏe của thầy. Câu 2 \"あの、具合はいかがですか？\" (À, thầy thấy trong người thế nào ạ?) là cách nói lịch sự để hỏi thăm sức khỏe. Câu 1 \"お見舞いにいらっしゃいませんか？\" (Thầy không đến thăm bệnh sao?) là câu hỏi mời người khác đi thăm bệnh, không phù hợp với vai trò người đi thăm. Câu 3 \"よく来てくださいました。\" (Cảm ơn bạn đã đến thăm.) là câu mà người bệnh sẽ nói với người đến thăm, không phải câu người đi thăm nói.",
+    "q": 7
+  },
+  {
+    "situation": "会議の時間に間に合わないので、会社に電話をします。何と言いますか？",
+    "situation_vi": "Vì không kịp giờ họp nên bạn gọi điện đến công ty. Bạn sẽ nói gì?",
+    "options": [
+      "あの、少し早く着くと思います。",
+      "あの、少し急いでくれませんか？",
+      "あの、少し遅れそうなんですが。"
+    ],
+    "options_vi": [
+      "À, tôi nghĩ tôi sẽ đến sớm một chút.",
+      "À, bạn có thể nhanh lên một chút được không?",
+      "À, tôi e là sẽ đến muộn một chút."
+    ],
+    "answer": 3,
+    "explanation": "Trong tình huống không kịp giờ họp và gọi điện thông báo, câu phù hợp nhất là thông báo về việc mình sẽ đến muộn. Câu 3 \"あの、少し遅れそうなんですが。\" (À, tôi e là sẽ đến muộn một chút.) là cách nói lịch sự để thông báo việc đến muộn. Câu 1 \"あの、少し早く着くと思います。\" (À, tôi nghĩ tôi sẽ đến sớm một chút.) trái ngược với tình huống. Câu 2 \"あの、少し急いでくれませんか？\" (À, bạn có thể nhanh lên một chút được không?) là yêu cầu người khác nhanh lên, không phải thông báo về bản thân.",
+    "q": 8
+  },
+  {
+    "situation": "先生がたくさんの荷物を持っています。何と言いますか？",
+    "situation_vi": "Thầy giáo đang mang rất nhiều hành lý. Bạn sẽ nói gì?",
+    "options": [
+      "先生、お持ちしましょうか？",
+      "先生、持って差し上げますか？",
+      ""
+    ],
+    "options_vi": [
+      "Thầy ơi, để em mang giúp thầy nhé?",
+      "Thầy ơi, để em mang giúp thầy nhé?",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "Khi thấy thầy giáo mang nhiều hành lý và muốn giúp đỡ, cách nói lịch sự và tự nhiên nhất để đề nghị giúp đỡ là sử dụng cấu trúc \"お～しましょうか？\". Do đó, câu 1 \"先生、お持ちしましょうか？\" (Thầy ơi, để em mang giúp thầy nhé?) là phù hợp nhất. Câu 2 \"先生、持って差し上げますか？\" cũng có ý nghĩa tương tự nhưng cách diễn đạt \"持って差し上げますか\" không tự nhiên bằng \"お持ちしましょうか\" khi đưa ra lời đề nghị giúp đỡ. \"差し上げる\" thường dùng khi mình làm gì đó cho người trên, nhưng khi hỏi ý kiến thì \"お～しましょうか\" phổ biến hơn.",
+    "q": 9
+  },
+  {
+    "situation": "コーヒーを注文したのに紅茶が来ました。何と言いますか？",
+    "situation_vi": "Tôi đã gọi cà phê nhưng lại nhận được trà đen. Bạn sẽ nói gì?",
+    "options": [
+      "これはコーヒーというより紅茶ですか？",
+      "あのう、コーヒーを頼んだはずですけど。",
+      "どういうわけで紅茶を持ってきましたか？"
+    ],
+    "options_vi": [
+      "Cái này là trà đen hơn là cà phê phải không?",
+      "À, tôi nhớ là đã gọi cà phê mà.",
+      "Vì lý do gì mà bạn lại mang trà đen đến vậy?"
+    ],
+    "answer": 2,
+    "explanation": "Khách hàng đã gọi cà phê nhưng lại nhận được trà đen. Câu (2) \"あのう、コーヒーを頼んだはずですけど。\" (À, tôi nhớ là đã gọi cà phê mà.) là cách nói lịch sự và gián tiếp để chỉ ra lỗi sai trong đơn hàng, phù hợp trong tình huống này. Câu (1) \"これはコーヒーというより紅茶ですか？\" (Cái này là trà đen hơn là cà phê phải không?) thể hiện sự không chắc chắn về loại đồ uống, không trực tiếp chỉ ra lỗi. Câu (3) \"どういうわけで紅茶を持ってきましたか？\" (Vì lý do gì mà bạn lại mang trà đen đến vậy?) mang tính chất chất vấn, không lịch sự.",
+    "q": 10
+  },
+  {
+    "situation": "先生の本を見たいです。何と言いますか？",
+    "situation_vi": "Tôi muốn xem sách của thầy/cô giáo. Bạn sẽ nói gì?",
+    "options": [
+      "この本、見ていただけませんか？",
+      "この本、見せてもよろしいですか？",
+      "この本、見せていただけませんか？"
+    ],
+    "options_vi": [
+      "Cuốn sách này, thầy/cô có thể cho tôi xem được không?",
+      "Cuốn sách này, tôi xem có được không?",
+      "Cuốn sách này, thầy/cô có thể cho tôi xem được không?"
+    ],
+    "answer": 3,
+    "explanation": "Bạn muốn xem sách của thầy/cô giáo. Câu (3) \"この本、見せていただけませんか？\" (Thầy/cô có thể cho tôi xem cuốn sách này được không?) là cách nói lịch sự và tự nhiên nhất để yêu cầu người khác \"cho xem\" một vật gì đó. Câu (1) \"この本、見ていただけませんか？\" cũng là một cách hỏi lịch sự nhưng \"見せて\" (cho xem) thường được dùng hơn khi muốn người khác đưa vật đó cho mình xem. Câu (2) \"この本、見せてもよろしいですか？\" (Tôi cho xem cuốn sách này có được không?) là sai nghĩa vì bạn muốn \"xem\" chứ không phải \"cho xem\".",
+    "q": 11
+  },
+  {
+    "situation": "公園の花壇に入っている人に注意したいです。何と言いますか？",
+    "situation_vi": "Bạn muốn nhắc nhở người đang đi vào bồn hoa trong công viên. Bạn sẽ nói gì?",
+    "options": [
+      "花壇に入っちゃだめですよ。",
+      "花壇に入っちゃったんじゃないですか？",
+      ""
+    ],
+    "options_vi": [
+      "Không được vào bồn hoa đâu đấy.",
+      "Anh/chị đã lỡ vào bồn hoa rồi phải không?",
+      "(Không có lựa chọn nói)"
+    ],
+    "answer": 1,
+    "explanation": "Bạn muốn nhắc nhở người đang đi vào bồn hoa. Câu (1) \"花壇に入っちゃだめですよ。\" (Không được vào bồn hoa đâu đấy.) là lời nhắc nhở, cấm đoán trực tiếp và rõ ràng, phù hợp với tình huống. Câu (2) \"花壇に入っちゃったんじゃないですか？\" (Anh/chị đã lỡ vào bồn hoa rồi phải không?) mang tính chất hỏi hoặc xác nhận, không phải là lời nhắc nhở cấm đoán. Lựa chọn (3) không có nội dung.",
+    "q": 12
+  },
+  {
+    "situation": "友達が本を読んでいます。何の漫画か知りたいです。何と言いますか？",
+    "situation_vi": "Bạn của bạn đang đọc sách. Bạn muốn biết đó là sách gì. Bạn sẽ nói gì?",
+    "options": [
+      "何か読むものある？",
+      "本読んでみたら？",
+      "何読んでるの？"
+    ],
+    "options_vi": [
+      "Có gì để đọc không?",
+      "Thử đọc sách xem sao?",
+      "Bạn đang đọc gì vậy?"
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn muốn biết bạn mình đang đọc sách gì. Câu (3) '何読んでるの？' (Bạn đang đọc gì vậy?) là cách hỏi trực tiếp và phù hợp nhất. Câu (1) '何か読むものある？' (Có gì để đọc không?) là hỏi chung chung về việc có sách để đọc hay không. Câu (2) '本読んでみたら？' (Thử đọc sách xem sao?) là một lời gợi ý cho người khác đọc sách, không phải câu hỏi về nội dung sách đang đọc.",
+    "q": 13
+  },
+  {
+    "situation": "友達の家でトイレに行きたいです。何と言いますか？",
+    "situation_vi": "Ở nhà bạn, bạn muốn đi vệ sinh. Bạn sẽ nói gì?",
+    "options": [
+      "トイレに行って来たらどう？",
+      "手を洗ってきたところだけど。",
+      "トイレを借りてもいい？"
+    ],
+    "options_vi": [
+      "Sao bạn không đi vệ sinh đi?",
+      "Tôi vừa mới rửa tay xong.",
+      "Tôi có thể dùng nhà vệ sinh được không?"
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn muốn xin phép sử dụng nhà vệ sinh ở nhà bạn bè. Câu (3) 'トイレを借りてもいい？' (Tôi có thể dùng nhà vệ sinh được không?) là cách nói lịch sự và phù hợp nhất để xin phép. Câu (1) 'トイレに行って来たらどう？' (Sao bạn không đi vệ sinh đi?) là lời gợi ý cho người khác. Câu (2) '手を洗ってきたところだけど。' (Tôi vừa mới rửa tay xong.) không liên quan đến việc muốn đi vệ sinh.",
+    "q": 14
+  },
+  {
+    "situation": "会議で、みんなに机の上の資料を見てもらいたいです。何と言いますか？",
+    "situation_vi": "Trong cuộc họp, bạn muốn mọi người xem tài liệu trên bàn. Bạn sẽ nói gì?",
+    "options": [
+      "資料をご覧ください。",
+      "資料を拝見します。",
+      "資料を見せてくださいますか？"
+    ],
+    "options_vi": [
+      "Xin mời xem tài liệu.",
+      "Tôi xin phép xem tài liệu.",
+      "Bạn có thể cho tôi xem tài liệu được không?"
+    ],
+    "answer": 1,
+    "explanation": "Tình huống là bạn muốn yêu cầu mọi người trong cuộc họp xem tài liệu. Câu (1) '資料をご覧ください。' (Xin mời xem tài liệu.) sử dụng kính ngữ 'ご覧ください' (goran kudasai) là cách nói lịch sự và phù hợp nhất để yêu cầu một nhóm người xem tài liệu. Câu (2) '資料を拝見します。' (Tôi xin phép xem tài liệu.) là cách nói khiêm nhường khi bản thân mình xem tài liệu. Câu (3) '資料を見せてくださいますか？' (Bạn có thể cho tôi xem tài liệu được không?) là câu hỏi yêu cầu người khác đưa tài liệu cho mình xem, không phải yêu cầu mọi người cùng xem.",
+    "q": 15
+  },
+  {
+    "situation": "約束の時間より早く着いたので、ここで待ちたいです。何と言いますか？",
+    "situation_vi": "Vì đã đến sớm hơn giờ hẹn, tôi muốn đợi ở đây. Bạn sẽ nói gì?",
+    "options": [
+      "あの、ここで待っていただけてもいいですか？",
+      "あの、ここで待たせていただけませんか？",
+      "あの、ここで待ったら、いかがでしょうか？"
+    ],
+    "options_vi": [
+      "À, tôi đợi ở đây có được không ạ?",
+      "À, bạn có thể cho phép tôi đợi ở đây không ạ?",
+      "À, nếu tôi đợi ở đây thì sao ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là 2. \"あの、ここで待たせていただけませんか？\" là cách nói lịch sự để xin phép được làm gì đó (ở đây là \"đợi\"). Nó thể hiện ý muốn của người nói và xin sự cho phép từ người nghe. Lựa chọn 1 \"待っていただけてもいいですか？\" có nghĩa là \"Bạn có thể đợi giúp tôi được không?\", không phải là xin phép cho bản thân đợi. Lựa chọn 3 \"待ったら、いかがでしょうか？\" là một cách gợi ý hoặc hỏi ý kiến, không phải là xin phép cho bản thân đợi.",
+    "q": 16,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "situation": "大学を卒業しました。お世話になった先生に挨拶をします。何と言いますか？",
+    "situation_vi": "Tôi đã tốt nghiệp đại học. Tôi sẽ chào hỏi giáo viên đã giúp đỡ tôi. Bạn sẽ nói gì?",
+    "options": [
+      "卒業できたら嬉しいです。",
+      "卒業おめでとうございます。",
+      "おかげさまで卒業できました。"
+    ],
+    "options_vi": [
+      "Nếu tôi có thể tốt nghiệp thì thật vui.",
+      "Chúc mừng tốt nghiệp.",
+      "Nhờ ơn thầy/cô mà tôi đã có thể tốt nghiệp."
+    ],
+    "answer": 3,
+    "explanation": "Câu 3 「おかげさまで卒業できました」 là cách nói phù hợp nhất để bày tỏ lòng biết ơn đến giáo viên đã giúp đỡ mình tốt nghiệp. 「おかげさまで」 có nghĩa là \"nhờ ơn/nhờ sự giúp đỡ của ai đó\". Câu 1 là câu điều kiện, không phù hợp vì đã tốt nghiệp rồi. Câu 2 là lời chúc mừng, dùng để nói với người khác, không phải để nói về bản thân.",
+    "q": 17
+  },
+  {
+    "situation": "レストランで客の注文を聞きます。何と言いますか？",
+    "situation_vi": "Tại nhà hàng, bạn hỏi khách gọi món gì. Bạn sẽ nói gì?",
+    "options": [
+      "何になさいますか？",
+      "いただきましょうか？",
+      ""
+    ],
+    "options_vi": [
+      "Quý khách dùng món gì ạ?",
+      "Chúng ta dùng bữa nhé?",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 「何になさいますか？」 là cách nói lịch sự và chuẩn mực để nhân viên nhà hàng hỏi khách muốn gọi món gì. 「なさいますか」 là kính ngữ của 「しますか」. Câu 2 「いただきましょうか？」 là lời gợi ý cùng ăn hoặc nhận gì đó, không dùng để hỏi gọi món. Câu 3 không có trong audio.",
+    "q": 18
+  },
+  {
+    "situation": "映画館で席が空いているかどうか聞きます。何と言いますか？",
+    "situation_vi": "Bạn muốn hỏi xem có ghế trống trong rạp chiếu phim không. Bạn sẽ nói gì?",
+    "options": [
+      "ちょっと開けましょうか？",
+      "ここどなたかいらっしゃいますか？",
+      "あの、座っていただけませんか？"
+    ],
+    "options_vi": [
+      "Tôi mở ra một chút nhé?",
+      "Chỗ này có ai ngồi không ạ?",
+      "À, bạn có thể ngồi xuống được không ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Để hỏi xem một chỗ ngồi có trống không, cách lịch sự nhất là hỏi 'Chỗ này có ai ngồi không ạ?' (ここどなたかいらっしゃいますか？). Nếu không có ai, tức là ghế trống. Câu 1 là đề nghị mở cái gì đó. Câu 3 là yêu cầu người khác ngồi xuống.",
+    "q": 19
+  },
+  {
+    "situation": "机の上の資料が見たいです。課長に何と言いますか？",
+    "situation_vi": "Bạn muốn xem tài liệu trên bàn. Bạn sẽ nói gì với trưởng phòng?",
+    "options": [
+      "その資料をお借りできますか？",
+      "その資料を持ちましょうか？",
+      "その資料をご覧ください。"
+    ],
+    "options_vi": [
+      "Tôi có thể mượn tài liệu đó được không ạ?",
+      "Tôi mang tài liệu đó đi nhé?",
+      "Xin hãy xem tài liệu đó."
+    ],
+    "answer": 1,
+    "explanation": "Để xin phép xem tài liệu, bạn nên dùng cách nói lịch sự là 'Tôi có thể mượn tài liệu đó được không ạ?' (その資料をお借りできますか？). 'お借りする' là cách nói khiêm nhường của 'mượn'. Câu 2 là đề nghị mang tài liệu đi. Câu 3 là yêu cầu người khác xem tài liệu.",
+    "q": 20
+  },
+  {
+    "situation": "結婚するので、部長に知らせます。何と言いますか？",
+    "situation_vi": "Vì bạn sắp kết hôn, bạn sẽ thông báo cho trưởng phòng. Bạn sẽ nói gì?",
+    "options": [
+      "結婚されるそうですよ。",
+      "結婚式には必ず伺います。"
+    ],
+    "options_vi": [
+      "Nghe nói là anh/chị ấy sắp kết hôn đấy ạ.",
+      "Tôi nhất định sẽ đến dự lễ cưới."
+    ],
+    "answer": 3,
+    "explanation": "Cả hai lựa chọn 1 và 2 đều không phù hợp để thông báo việc kết hôn của bản thân cho cấp trên. Lựa chọn 1 là thông báo về việc kết hôn của người khác. Lựa chọn 2 là chấp nhận lời mời dự đám cưới. Lựa chọn đúng (thường là lựa chọn 3 trong các bài thi chuẩn) sẽ là một câu thông báo trực tiếp về việc kết hôn của mình, ví dụ: 「私事ですが、この度結婚することになりました。」 (Đây là chuyện riêng tư, nhưng tôi sắp kết hôn.) hoặc 「結婚することになりましたので、ご報告させていただきます。」 (Tôi xin phép báo cáo là tôi sắp kết hôn.). Do đoạn audio chỉ cung cấp hai lựa chọn và thiếu lựa chọn thứ 3, không thể chọn đáp án chính xác từ các lựa chọn được cung cấp. Tuy nhiên, để tuân thủ định dạng JSON, tôi chọn 3 và giải thích rằng lựa chọn này bị thiếu trong audio nhưng sẽ là đáp án đúng nếu có.",
+    "q": 21
+  },
+  {
+    "situation": "エレベーターが動いていません。後から来た人に何と言いますか？",
+    "situation_vi": "Thang máy không hoạt động. Bạn sẽ nói gì với người đến sau?",
+    "options": [
+      "お先に失礼します。",
+      "動かないでくださいね。",
+      "今、使えないようですよ。"
+    ],
+    "options_vi": [
+      "Tôi xin phép đi trước.",
+      "Xin đừng di chuyển nhé.",
+      "Hình như bây giờ không dùng được đâu."
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là thang máy không hoạt động và bạn muốn thông báo cho người đến sau. Câu 3 「今、使えないようですよ。」 (Hình như bây giờ không dùng được đâu.) là cách nói lịch sự và phù hợp nhất để thông báo về tình trạng của thang máy. Câu 1 「お先に失礼します。」 dùng khi bạn rời đi trước hoặc làm gì đó trước người khác. Câu 2 「動かないでくださいね。」 là một yêu cầu không di chuyển, không phù hợp với tình huống này.",
+    "q": 22
+  },
+  {
+    "situation": "友達のコートのボタンがありません。友達に何と言いますか？",
+    "situation_vi": "Áo khoác của bạn bạn bị mất cúc. Bạn sẽ nói gì với bạn mình?",
+    "options": [
+      "ボタン取れてるよ。",
+      "ボタンこれじゃない？",
+      "ボタンもらっとくね。"
+    ],
+    "options_vi": [
+      "Cúc áo của cậu bị tuột rồi kìa.",
+      "Đây không phải là cúc áo sao?",
+      "Tớ giữ cúc áo cho cậu nhé."
+    ],
+    "answer": 1,
+    "explanation": "Tình huống là bạn phát hiện cúc áo của bạn mình bị mất. Câu 1 「ボタン取れてるよ。」 (Cúc áo của cậu bị tuột rồi kìa.) là cách nói trực tiếp và tự nhiên nhất để thông báo cho bạn bè về việc cúc áo bị tuột. Câu 2 「ボタンこれじゃない？」 (Đây không phải là cúc áo sao?) thường dùng khi bạn tìm thấy một chiếc cúc và hỏi xem có phải của họ không. Câu 3 「ボタンもらっとくね。」 (Tớ giữ cúc áo cho cậu nhé.) cũng ngụ ý bạn đã tìm thấy cúc áo và muốn giữ hộ, nhưng tình huống chỉ nói là 'không có cúc' chứ không phải bạn đã tìm thấy nó.",
+    "q": 23
+  },
+  {
+    "situation": "図書館です。イヤホンの音がうるさいかどうか聞きたいです。隣の人に何と言いますか？",
+    "situation_vi": "Bạn đang ở thư viện. Bạn muốn hỏi xem âm thanh từ tai nghe của mình có ồn ào không. Bạn sẽ nói gì với người bên cạnh?",
+    "options": [
+      "音、大きくしましょうか？",
+      "音、気になりますか？",
+      "音、聞こえますか？"
+    ],
+    "options_vi": [
+      "Tôi tăng âm lượng lên nhé?",
+      "Âm thanh có làm phiền bạn không?",
+      "Bạn có nghe thấy âm thanh không?"
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là bạn muốn hỏi xem âm thanh từ tai nghe của mình có làm phiền người bên cạnh trong thư viện không. Câu 2 「音、気になりますか？」 (Âm thanh có làm phiền bạn không?) là cách hỏi lịch sự và trực tiếp nhất để biết liệu tiếng ồn có gây khó chịu cho người khác không. Câu 1 「音、大きくしましょうか？」 (Tôi tăng âm lượng lên nhé?) hoàn toàn ngược lại với ý định của bạn. Câu 3 「音、聞こえますか？」 (Bạn có nghe thấy âm thanh không?) chỉ hỏi liệu họ có nghe thấy không, không trực tiếp hỏi về sự phiền toái.",
+    "q": 24
+  },
+  {
+    "situation": "お客さんを工場の中に連れて行きます。何と言いますか？",
+    "situation_vi": "Bạn sẽ dẫn khách hàng vào trong nhà máy. Bạn sẽ nói gì?",
+    "options": [
+      "これからお伺いします。",
+      "では、ご案内します。",
+      "こちらを見学させてください。"
+    ],
+    "options_vi": [
+      "Từ bây giờ tôi sẽ đến thăm/hỏi.",
+      "Vậy thì, tôi sẽ hướng dẫn/dẫn đường.",
+      "Xin hãy cho phép tôi tham quan ở đây."
+    ],
+    "answer": 2,
+    "explanation": "Câu 2 \"では、ご案内します\" (Vậy thì, tôi sẽ hướng dẫn/dẫn đường) là cách nói lịch sự và phù hợp nhất khi bạn dẫn khách hàng đi tham quan. Câu 1 \"これからお伺いします\" dùng khi mình đến thăm người khác. Câu 3 \"こちらを見学させてください\" là câu khách nói khi muốn được tham quan.",
+    "q": 25
+  },
+  {
+    "situation": "道で、前を歩いている人のマフラーを拾いました。何と言いますか？",
+    "situation_vi": "Trên đường, bạn nhặt được chiếc khăn quàng cổ của người đang đi phía trước. Bạn sẽ nói gì?",
+    "options": [
+      "マフラー落としましたよ。",
+      "マフラーが置いてありますよ。",
+      "マフラーを忘れてしまったんですか？"
+    ],
+    "options_vi": [
+      "Anh/chị làm rơi khăn quàng cổ rồi đấy.",
+      "Có chiếc khăn quàng cổ được đặt ở đây đấy.",
+      "Anh/chị đã quên chiếc khăn quàng cổ à?"
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 \"マフラー落としましたよ\" (Anh/chị làm rơi khăn quàng cổ rồi đấy) là cách nói tự nhiên và trực tiếp nhất để thông báo cho người phía trước biết họ đã đánh rơi đồ. Câu 2 \"マフラーが置いてありますよ\" không phù hợp vì khăn bị rơi chứ không phải được đặt. Câu 3 \"マフラーを忘れてしまったんですか？\" là câu hỏi và không diễn tả đúng tình huống nhặt được đồ bị rơi.",
+    "q": 26
+  },
+  {
+    "situation": "後輩が郵便局へ行きます。他の書類も郵便で送ってほしいです。何と言いますか？",
+    "situation_vi": "Hậu bối của bạn sẽ đi bưu điện. Bạn muốn nhờ cậu ấy gửi thêm các tài liệu khác qua bưu điện. Bạn sẽ nói gì?",
+    "options": [
+      "この書類、持っていってあげようか？",
+      "これもついでに出してきてくれない？",
+      "この書類、郵便で送ってもらえませんか？"
+    ],
+    "options_vi": [
+      "Tôi mang tài liệu này đi cho nhé?",
+      "Tiện thể, cậu gửi cái này luôn giúp tôi được không?",
+      "Bạn có thể gửi tài liệu này qua bưu điện giúp tôi được không?"
+    ],
+    "answer": 2,
+    "explanation": "Câu 2 \"これもついでに出してきてくれない？\" (Tiện thể, cậu gửi cái này luôn giúp tôi được không?) là cách nói phù hợp nhất. \"ついでに\" (tiện thể) thể hiện rằng bạn muốn nhờ hậu bối làm thêm việc này khi cậu ấy đã đi bưu điện rồi. Câu 1 \"この書類、持っていってあげようか？\" là bạn đề nghị giúp đỡ, không phải nhờ vả. Câu 3 \"この書類、郵便で送ってもらえませんか？\" là một lời nhờ vả lịch sự nhưng không có sắc thái \"tiện thể\" như câu 2, làm cho câu 2 phù hợp hơn với ngữ cảnh \"gửi thêm các tài liệu khác\".",
+    "q": 27
+  },
+  {
+    "situation": "飛行機の中です。ペンを使いたいですが、持っていません。何と言いますか？",
+    "situation_vi": "Bạn đang ở trên máy bay. Bạn muốn dùng bút nhưng không có. Bạn sẽ nói gì?",
+    "options": [
+      "よかったらペンお貸ししましょうか？",
+      "すみませんが、ペンをお使いください。",
+      "あの、ペンをお借りできますか？"
+    ],
+    "options_vi": [
+      "Nếu được thì tôi cho bạn mượn bút nhé?",
+      "Xin lỗi, xin mời dùng bút.",
+      "À, tôi có thể mượn bút được không ạ?"
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn muốn mượn bút. Câu 3 「ペンをお借りできますか？」 (Tôi có thể mượn bút được không ạ?) là cách nói lịch sự để hỏi mượn đồ. Câu 1 và 2 là lời đề nghị cho mượn hoặc mời dùng, không phù hợp với người muốn mượn.",
+    "q": 28
+  },
+  {
+    "situation": "コンビニの機械で映画のチケットを予約します。使い方がわかりません。店員に何と言いますか？",
+    "situation_vi": "Bạn đang đặt vé xem phim bằng máy ở cửa hàng tiện lợi. Bạn không biết cách sử dụng. Bạn sẽ nói gì với nhân viên cửa hàng?",
+    "options": [
+      "予約したらどうですか？",
+      "予約はどうすればいいんですか？",
+      "どうやって予約するのか教えましょうか？"
+    ],
+    "options_vi": [
+      "Sao không đặt trước đi?",
+      "Tôi phải làm thế nào để đặt vé ạ?",
+      "Tôi chỉ cho bạn cách đặt vé nhé?"
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là bạn không biết cách sử dụng máy để đặt vé và cần sự giúp đỡ. Câu 2 「予約はどうすればいいんですか？」 (Tôi phải làm thế nào để đặt vé ạ?) là cách hỏi lịch sự để xin hướng dẫn. Câu 1 là lời gợi ý cho người khác, còn câu 3 là lời đề nghị giúp đỡ, không phải là câu hỏi của người cần giúp.",
+    "q": 29
+  },
+  {
+    "situation": "レストランで自分が注文していない料理が来ました。何と言いますか？",
+    "situation_vi": "Tại nhà hàng, món ăn bạn không gọi đã được mang ra. Bạn sẽ nói gì?",
+    "options": [
+      "それは食べないつもりなんですが。",
+      "えっと、違う料理にします。",
+      "すみません、これ、私が注文したものではないんですが。"
+    ],
+    "options_vi": [
+      "Tôi không định ăn món đó.",
+      "À, tôi sẽ chọn món khác.",
+      "Xin lỗi, đây không phải món tôi đã gọi ạ."
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn nhận được món ăn không phải của mình. Câu 3 「すみません、これ、私が注文したものではないんですが。」 (Xin lỗi, đây không phải món tôi đã gọi ạ.) là cách nói lịch sự và trực tiếp để thông báo về sự nhầm lẫn. Câu 1 nghe có vẻ như bạn từ chối món ăn vì lý do cá nhân, không phải vì nhầm lẫn. Câu 2 lại có nghĩa là bạn muốn đổi món, không phải là món bị nhầm.",
+    "q": 30
+  },
+  {
+    "situation": "通りたいですが、狭くて通れません。何と 言いますか？",
+    "situation_vi": "Tôi muốn đi qua nhưng chật quá không đi được. Bạn sẽ nói gì?",
+    "options": [
+      "あの、ちょっと通してもらえますか？",
+      "後ろを通った方がいいですか？",
+      "すみません、こっちを通ってほしいんですが。"
+    ],
+    "options_vi": [
+      "À, bạn có thể cho tôi đi qua một chút được không?",
+      "Tôi nên đi đường phía sau à?",
+      "Xin lỗi, tôi muốn bạn đi đường này."
+    ],
+    "answer": 1,
+    "explanation": "Người nói muốn đi qua nhưng đường chật. Câu (1) \"あの、ちょっと通してもらえますか？\" là cách lịch sự để hỏi người khác nhường đường cho mình đi qua. Câu (2) hỏi về việc đi đường khác, không phải yêu cầu nhường đường. Câu (3) là yêu cầu người khác đi đường này, không phải mình muốn đi qua.",
+    "q": 31
+  },
+  {
+    "situation": "ここにバイクは止められません。友達に注意します。何と 言いますか？",
+    "situation_vi": "Không được đỗ xe máy ở đây. Bạn sẽ nhắc nhở bạn mình. Bạn sẽ nói gì?",
+    "options": [
+      "ここに置いちゃいけないんじゃない？",
+      "ここに駐車しなくちゃね。",
+      "ここに止めろって書いてあるよ。"
+    ],
+    "options_vi": [
+      "Không được để ở đây đâu nhỉ?",
+      "Phải đỗ xe ở đây nhỉ.",
+      "Có ghi là đỗ ở đây này."
+    ],
+    "answer": 1,
+    "explanation": "Tình huống là không được đỗ xe máy ở đây và cần nhắc nhở bạn. Câu (1) \"ここに置いちゃいけないんじゃない？\" là cách nói nhẹ nhàng, mang tính gợi ý để nhắc nhở bạn bè rằng không nên để xe ở đây. Câu (2) và (3) đều mang ý nghĩa là được phép hoặc phải đỗ xe ở đây, trái ngược với tình huống.",
+    "q": 32
+  },
+  {
+    "situation": "机の上に友達の傘があります。友達は今帰るところです。何と言いますか？",
+    "situation_vi": "Trên bàn có ô của bạn. Bạn của bạn đang chuẩn bị về. Bạn sẽ nói gì?",
+    "options": [
+      "傘、忘れてるよ。",
+      "傘、持ってこなかったの？",
+      "傘、ここに置いたら？"
+    ],
+    "options_vi": [
+      "Bạn quên ô kìa.",
+      "Bạn không mang ô à?",
+      "Hay để ô ở đây đi?"
+    ],
+    "answer": 1,
+    "explanation": "Cần nhắc bạn rằng họ đang để quên ô, nên 「傘、忘れてるよ」 là tự nhiên nhất.",
+    "q": 33
+  },
+  {
+    "situation": "写真を撮ってほしいです。近くにいる人に何と言いますか？",
+    "situation_vi": "Bạn muốn nhờ người ở gần chụp ảnh giúp. Bạn sẽ nói gì?",
+    "options": [
+      "すみません、写真を撮っていただけませんか？",
+      "あの、写真を撮ってもよろしいですか？",
+      "よければ、写真をお撮りしましょうか？"
+    ],
+    "options_vi": [
+      "Xin lỗi, anh/chị có thể chụp ảnh giúp tôi được không?",
+      "Tôi có thể chụp ảnh được không?",
+      "Nếu được thì để tôi chụp ảnh cho nhé?"
+    ],
+    "answer": 1,
+    "explanation": "Muốn nhờ người khác chụp giúp thì dùng mẫu lịch sự 「撮っていただけませんか」.",
+    "q": 34
+  },
+  {
+    "situation": "おしゃれな店を見つけました。友達を誘って、一緒に入りたいです。何と言いますか？",
+    "situation_vi": "Bạn thấy một cửa hàng đẹp và muốn rủ bạn vào cùng. Bạn sẽ nói gì?",
+    "options": [
+      "ここ、行かなきゃいけない？",
+      "ここ、この前入ったよね。",
+      "ここ、ちょっと見ていかない？"
+    ],
+    "options_vi": [
+      "Mình phải vào đây à?",
+      "Chỗ này lần trước mình vào rồi nhỉ.",
+      "Hay mình ghé xem chỗ này một chút nhé?"
+    ],
+    "answer": 3,
+    "explanation": "Để rủ bạn vào xem cửa hàng, 「ここ、ちょっと見ていかない？」 là lời mời tự nhiên nhất.",
+    "q": 35,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "situation": "辞書を忘れたので、友達の辞書を借りたいです。何と言いますか？",
+    "situation_vi": "Bạn quên từ điển nên muốn mượn từ điển của bạn. Bạn sẽ nói gì?",
+    "options": [
+      "ぜひその辞書使って。",
+      "その辞書、ちょっと使わせてもらってもいい？",
+      "その辞書使ってみるといいよ。"
+    ],
+    "options_vi": [
+      "Nhất định hãy dùng quyển từ điển đó đi.",
+      "Cho mình dùng nhờ quyển từ điển đó một chút được không?",
+      "Bạn thử dùng quyển từ điển đó xem."
+    ],
+    "answer": 2,
+    "explanation": "Muốn xin phép mượn/dùng đồ của bạn thì 「使わせてもらってもいい？」 là cách nói phù hợp.",
+    "q": 36,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "situation": "パソコンが使えなくて後輩が困っています。後輩に何と言いますか？",
+    "situation_vi": "Hậu bối đang gặp khó khăn vì không sử dụng được máy tính. Bạn sẽ nói gì với hậu bối?",
+    "options": [
+      "使い方教えようか？",
+      "これ、教えてくれる？",
+      "使ってもいいよ。"
+    ],
+    "options_vi": [
+      "Tôi dạy cách dùng cho nhé?",
+      "Cái này, bạn dạy cho tôi được không?",
+      "Dùng cũng được đấy."
+    ],
+    "answer": 1,
+    "explanation": "Hậu bối đang gặp khó khăn khi sử dụng máy tính. Câu 1 là lời đề nghị giúp đỡ, phù hợp với vai trò của người tiền bối. Câu 2 là nhờ hậu bối dạy mình, không đúng tình huống. Câu 3 là cho phép sử dụng, nhưng vấn đề của hậu bối là không biết cách dùng chứ không phải không được phép dùng.",
+    "q": 37
+  },
+  {
+    "situation": "アレルギーで卵が食べられません。ケーキに卵が入っているかどうか知りたいです。店の人に何と言いますか？",
+    "situation_vi": "Tôi bị dị ứng nên không ăn được trứng. Tôi muốn biết trong bánh kem có trứng hay không. Bạn sẽ nói gì với nhân viên cửa hàng?",
+    "options": [
+      "卵を入れなくていいですか？",
+      "このケーキは卵を使っていますか？",
+      "卵を食べなきゃならないんですか？"
+    ],
+    "options_vi": [
+      "Không cần cho trứng vào có được không?",
+      "Bánh kem này có dùng trứng không?",
+      "Tôi phải ăn trứng sao?"
+    ],
+    "answer": 2,
+    "explanation": "Người nói muốn hỏi xem bánh kem có trứng không vì bị dị ứng. Câu 2 là câu hỏi trực tiếp và lịch sự để xác nhận thành phần của bánh. Câu 1 là yêu cầu không cho trứng vào, không phải câu hỏi về thành phần hiện có. Câu 3 là câu hỏi mang tính chất bị ép buộc, không phù hợp.",
+    "q": 38
+  },
+  {
+    "situation": "書類に部長のサインが欲しいです。部長に何と言いますか？",
+    "situation_vi": "Tôi muốn có chữ ký của trưởng phòng trên tài liệu. Bạn sẽ nói gì với trưởng phòng?",
+    "options": [
+      "サインをもらってきてくださいませんか？",
+      "こちらにサインをいただきたいんですが。",
+      ""
+    ],
+    "options_vi": [
+      "Anh/chị có thể lấy chữ ký giúp tôi được không?",
+      "Tôi muốn nhận chữ ký ở đây ạ.",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "Người nói muốn trưởng phòng ký vào tài liệu. Câu 2 là cách nói lịch sự để yêu cầu trưởng phòng ký tên vào tài liệu. Câu 1 là nhờ trưởng phòng đi lấy chữ ký từ người khác, không phải chữ ký của chính trưởng phòng. (Lựa chọn 3 không có trong audio).",
+    "q": 39
+  },
+  {
+    "situation": "電車に乗りま。出発しそうです。友達に何と言いますか？",
+    "situation_vi": "Bạn sắp lên tàu điện. Tàu sắp khởi hành. Bạn sẽ nói gì với bạn của mình?",
+    "options": [
+      "ねえ、急がないと。",
+      "さっき出発したところだよ。",
+      "もう行っちゃったね。"
+    ],
+    "options_vi": [
+      "Này, phải nhanh lên thôi.",
+      "Vừa mới khởi hành lúc nãy rồi đấy.",
+      "Đi mất rồi nhỉ."
+    ],
+    "answer": 1,
+    "explanation": "Tình huống là tàu sắp khởi hành và bạn cần giục bạn mình nhanh lên. Câu 1 「急がないと」 (isoganai to) có nghĩa là 'phải nhanh lên thôi' hoặc 'nếu không nhanh thì...', rất phù hợp để thúc giục. Câu 2 và 3 đều nói rằng tàu đã khởi hành hoặc đã đi mất, trái ngược với tình huống 'sắp khởi hành'.",
+    "q": 40
+  },
+  {
+    "situation": "自分たちの写真を撮ってほしいです。近くにいる人に何と言いますか？",
+    "situation_vi": "Bạn muốn nhờ người khác chụp ảnh cho mình. Bạn sẽ nói gì với người ở gần đó?",
+    "options": [
+      "あの、写真を撮ってもよろしいでしょうか。",
+      "あの、写真を撮っていただけませんか。",
+      "あの、写真をお撮りしましょうか。"
+    ],
+    "options_vi": [
+      "Xin lỗi, tôi chụp ảnh có được không ạ?",
+      "Xin lỗi, bạn có thể chụp ảnh giúp tôi được không ạ?",
+      "Xin lỗi, tôi chụp ảnh giúp bạn nhé?"
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là bạn muốn nhờ người khác chụp ảnh cho mình. Câu 2 「写真を撮っていただけませんか」 là cách nói lịch sự để nhờ ai đó làm gì đó cho mình (chụp ảnh giúp). Câu 1 là xin phép mình được chụp ảnh. Câu 3 là đề nghị mình chụp ảnh cho người khác.",
+    "q": 41
+  },
+  {
+    "situation": "友達が教室を出ます。椅子のところに友達の傘があります。何と言いますか？",
+    "situation_vi": "Bạn của bạn đang rời khỏi lớp học. Có một chiếc ô của bạn ấy ở chỗ cái ghế. Bạn sẽ nói gì?",
+    "options": [
+      "ねえ、傘忘れてるんじゃない？",
+      "ねえ、傘持って行かないでよ。",
+      "ねえ、傘貸してあげるよ。"
+    ],
+    "options_vi": [
+      "Này, cậu không phải là quên ô rồi sao?",
+      "Này, đừng mang ô đi chứ.",
+      "Này, tớ cho cậu mượn ô nhé."
+    ],
+    "answer": 1,
+    "explanation": "Tình huống là bạn thấy bạn mình quên ô khi rời đi và muốn nhắc nhở. Câu 1 「傘忘れてるんじゃない？」 là cách nói tự nhiên để hỏi hoặc nhắc nhở ai đó có thể đã quên thứ gì đó. Câu 2 「傘持って行かないでよ」 có nghĩa là 'đừng mang ô đi', không phù hợp vì bạn ấy nên mang ô của mình. Câu 3 「傘貸してあげるよ」 là 'tớ cho cậu mượn ô', cũng không phù hợp vì bạn ấy đã có ô của mình ở đó.",
+    "q": 42
+  },
+  {
+    "situation": "店に入りましたが、店員がいません。店員を呼びたいです。何と言いますか？",
+    "situation_vi": "Bạn vào một cửa hàng nhưng không thấy nhân viên nào. Bạn muốn gọi nhân viên. Bạn sẽ nói gì?",
+    "options": [
+      "すみませんが、どちら様でしょうか？",
+      "あの、こちらはどうですか？",
+      "すみません、どなたかいらっしゃいませんか？"
+    ],
+    "options_vi": [
+      "Xin lỗi, quý khách là ai ạ?",
+      "À, cái này thì sao ạ?",
+      "Xin lỗi, có ai ở đây không ạ?"
+    ],
+    "answer": 3,
+    "explanation": "Khi muốn gọi nhân viên trong cửa hàng mà không thấy ai, câu \"すみません、どなたかいらっしゃいませんか？\" (Xin lỗi, có ai ở đây không ạ?) là cách nói lịch sự và phù hợp nhất. Câu 1 \"どちら様でしょうか？\" dùng để hỏi danh tính của ai đó. Câu 2 \"こちらはどうですか？\" dùng để hỏi ý kiến về một món đồ.",
+    "q": 43
+  },
+  {
+    "situation": "会議が終わりました。女の人が片付けているパソコンを今から使います。何と言いますか？",
+    "situation_vi": "Cuộc họp đã kết thúc. Bạn muốn sử dụng máy tính mà người phụ nữ đang dọn dẹp. Bạn sẽ nói gì?",
+    "options": [
+      "片付けていってくれませんか？",
+      "そのままにしておいてください。",
+      "パソコンを使ってもらえますか？"
+    ],
+    "options_vi": [
+      "Bạn có thể dọn dẹp rồi đi được không?",
+      "Xin hãy để nguyên như vậy.",
+      "Tôi có thể dùng máy tính được không?"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là 2. \"そのままにしておいてください。\" là cách nói lịch sự để yêu cầu người khác dừng việc đang làm và giữ nguyên trạng thái của vật đó, vì người nói muốn sử dụng ngay. Lựa chọn 1 \"片付けていってくれませんか？\" có nghĩa là \"Bạn dọn dẹp rồi đi giúp tôi được không?\", hoàn toàn ngược lại với ý muốn sử dụng máy tính. Lựa chọn 3 \"パソコンを使ってもらえますか？\" có nghĩa là \"Bạn có thể dùng máy tính giúp tôi được không?\", không phải là bạn muốn dùng máy tính.",
+    "q": 44,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "situation": "レストランで客に注文を聞きます。客に何と言いますか？",
+    "situation_vi": "Trong nhà hàng, bạn hỏi khách hàng về món gọi. Bạn sẽ nói gì với khách hàng?",
+    "options": [
+      "注文を聞いてもらえますか？",
+      "ご注文はお決まりになりましたか？",
+      "何かお飲み物はいかがですか？"
+    ],
+    "options_vi": [
+      "Bạn có thể nghe gọi món giúp tôi được không?",
+      "Quý khách đã quyết định món gọi chưa ạ?",
+      "Quý khách có muốn dùng đồ uống gì không ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Khi là nhân viên nhà hàng và muốn hỏi khách đã chọn món xong chưa, câu \"ご注文はお決まりになりましたか？\" (Quý khách đã quyết định món gọi chưa ạ?) là cách nói lịch sự và chuẩn mực nhất. Câu 1 \"注文を聞いてもらえますか？\" là câu khách hàng nói với nhân viên. Câu 3 \"何かお飲み物はいかがですか？\" là hỏi về đồ uống cụ thể, không phải hỏi về toàn bộ món gọi.",
+    "q": 45
+  },
+  {
+    "situation": "公園で鳥に食べ物をやってはいけません。友達が食べ物をやっているので注意します。何と言いますか？",
+    "situation_vi": "Không được cho chim ăn ở công viên. Bạn đang cho chim ăn nên bạn muốn nhắc nhở. Bạn sẽ nói gì?",
+    "options": [
+      "食べ物やっちゃだめだよ。",
+      "食べ物気をつけてやって。",
+      "食べ物やるなって書いてないよ。"
+    ],
+    "options_vi": [
+      "Không được cho chim ăn đâu.",
+      "Hãy cẩn thận khi cho chim ăn.",
+      "Không có ghi là không được cho chim ăn đâu."
+    ],
+    "answer": 1,
+    "explanation": "Tình huống là bạn muốn nhắc nhở bạn bè không được cho chim ăn vì đó là quy định. Câu 1 \"食べ物やっちゃだめだよ。\" (Không được cho chim ăn đâu.) là cách nói trực tiếp và thân mật để nhắc nhở bạn bè. Câu 2 \"食べ物気をつけてやって。\" (Hãy cẩn thận khi cho chim ăn.) ngụ ý rằng việc cho ăn là được phép, chỉ cần cẩn thận, điều này trái với quy định. Câu 3 \"食べ物やるなって書いてないよ。\" (Không có ghi là không được cho chim ăn đâu.) là một câu hỏi hoặc phản bác, không phải lời nhắc nhở.",
+    "q": 46
+  },
+  {
+    "situation": "客に工場を案内します。何と言いますか？",
+    "situation_vi": "Bạn sẽ hướng dẫn khách tham quan nhà máy. Bạn sẽ nói gì?",
+    "options": [
+      "工場の中を案内していただきます。",
+      "工場の中をご案内します。",
+      "工場の中の案内をお願いします。"
+    ],
+    "options_vi": [
+      "Tôi sẽ được hướng dẫn tham quan bên trong nhà máy.",
+      "Tôi sẽ hướng dẫn quý vị tham quan bên trong nhà máy.",
+      "Xin hãy hướng dẫn tôi tham quan bên trong nhà máy."
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là người nói sẽ hướng dẫn khách tham quan nhà máy. Câu 2 \"工場の中をご案内します。\" (Tôi sẽ hướng dẫn quý vị tham quan bên trong nhà máy.) sử dụng kính ngữ \"ご案内します\" (go-annai shimasu) để thể hiện hành động của người nói một cách lịch sự với khách hàng, hoàn toàn phù hợp. Câu 1 \"案内していただきます。\" (annai shite itadakimasu) có nghĩa là người nói được người khác hướng dẫn. Câu 3 \"案内をお願いします。\" (annai o onegai shimasu) có nghĩa là người nói đang yêu cầu người khác hướng dẫn mình.",
+    "q": 47
+  },
+  {
+    "situation": "友達みんなの写真を撮ります。みんなにカメラの方を見てほしいです。何と言いますか？",
+    "situation_vi": "Bạn sẽ chụp ảnh cho tất cả bạn bè. Bạn muốn mọi người nhìn vào máy ảnh. Bạn sẽ nói gì?",
+    "options": [
+      "ねえ、写真撮って。",
+      "僕、映ってる？",
+      "はい、チーズ。"
+    ],
+    "options_vi": [
+      "Này, chụp ảnh đi.",
+      "Tớ có vào ảnh không?",
+      "Nào, \"cheese\"!"
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn đang chụp ảnh cho bạn bè và muốn mọi người nhìn vào máy ảnh. Câu 3 \"はい、チーズ。\" (Nào, \"cheese\"!) là câu nói phổ biến mà người chụp ảnh thường dùng để mọi người cười và nhìn vào máy ảnh trước khi chụp. Câu 1 \"ねえ、写真撮って。\" (Này, chụp ảnh đi.) là lời yêu cầu người khác chụp ảnh cho mình. Câu 2 \"僕、映ってる？\" (Tớ có vào ảnh không?) là câu hỏi của người được chụp ảnh.",
+    "q": 48
+  },
+  {
+    "situation": "駐車場がとても混んでいます。車が止められるかどうかわかりません。係の人に何と言いますか？",
+    "situation_vi": "Bãi đỗ xe rất đông. Bạn không biết có đỗ được xe không. Bạn sẽ nói gì với nhân viên phụ trách?",
+    "options": [
+      "あの、空いているとこありませんか？",
+      "あの、ここに車を置くことにしませんか？",
+      "あの、ちょっと止まってもらえませんか？"
+    ],
+    "options_vi": [
+      "À, có chỗ trống nào không ạ?",
+      "À, hay là mình đỗ xe ở đây đi ạ?",
+      "À, bạn có thể dừng lại một chút được không?"
+    ],
+    "answer": 1,
+    "explanation": "Trong tình huống bãi đỗ xe đông và bạn không biết có chỗ đỗ không, câu hỏi 「空いているとこありませんか？」 (Có chỗ trống nào không ạ?) là cách hỏi lịch sự và phù hợp nhất để tìm chỗ đỗ. Câu 2 「ここに車を置くことにしませんか？」 (Hay là mình đỗ xe ở đây đi ạ?) mang ý đề xuất, không phù hợp khi bạn đang cần tìm chỗ. Câu 3 「ちょっと止まってもらえませんか？」 (Bạn có thể dừng lại một chút được không?) là yêu cầu người khác dừng lại, không liên quan đến việc tìm chỗ đỗ xe.",
+    "q": 49
+  },
+  {
+    "situation": "友達の家に見たことがないゲームがあります。今、借りてやりたいです。何と言いますか？",
+    "situation_vi": "Ở nhà bạn có một trò chơi mà bạn chưa từng thấy. Bây giờ bạn muốn mượn và chơi. Bạn sẽ nói gì?",
+    "options": [
+      "ねえ、これ、もらいたいんだけど。",
+      "ねえ、ゲームやる？",
+      "ねえ、このゲームやってみたい。"
+    ],
+    "options_vi": [
+      "Này, tớ muốn lấy cái này.",
+      "Này, chơi game không?",
+      "Này, tớ muốn thử chơi trò game này."
+    ],
+    "answer": 3,
+    "explanation": "Khi bạn muốn mượn và chơi một trò chơi mà bạn chưa từng thấy, cách thể hiện sự quan tâm và mong muốn được chơi là 「このゲームやってみたい」 (Tớ muốn thử chơi trò game này). Câu 1 「これ、もらいたいんだけど」 (Tớ muốn lấy cái này) có nghĩa là muốn sở hữu, không phải mượn. Câu 2 「ゲームやる？」 (Chơi game không?) là lời mời chơi cùng, không phải thể hiện mong muốn được chơi thử trò cụ thể đó.",
+    "q": 50
+  },
+  {
+    "situation": "コンビニの機械でコンサートのチケットを予約します。使い方がわかりません。店員に何と言いますか？",
+    "situation_vi": "Bạn muốn đặt vé concert bằng máy ở cửa hàng tiện lợi. Bạn không biết cách sử dụng. Bạn sẽ nói gì với nhân viên cửa hàng?",
+    "options": [
+      "どうやって予約するのか教えましょうか？",
+      "予約はどうすればいいですか？"
+    ],
+    "options_vi": [
+      "Để tôi chỉ cho bạn cách đặt vé nhé?",
+      "Tôi phải đặt vé như thế nào ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Trong tình huống bạn không biết cách sử dụng máy để đặt vé và cần sự giúp đỡ từ nhân viên, câu hỏi 「予約はどうすればいいですか？」 (Tôi phải đặt vé như thế nào ạ?) là cách hỏi lịch sự và trực tiếp để xin hướng dẫn. Câu 1 「どうやって予約するのか教えましょうか？」 (Để tôi chỉ cho bạn cách đặt vé nhé?) là lời đề nghị giúp đỡ từ phía bạn, trong khi bạn mới là người cần giúp đỡ, nên không phù hợp.",
+    "q": 51
+  },
+  {
+    "situation": "昨日、授業を休んだので、友達のノートをコピーしたいです。何と言いますか？",
+    "situation_vi": "Hôm qua tôi nghỉ học nên muốn chép lại vở của bạn. Bạn sẽ nói gì?",
+    "options": [
+      "悪いんだけど、昨日のノート、コピーさせて？",
+      "あの、実はノート、コピーするんだ。",
+      "ノート、コピーしたらどうでしょうか？"
+    ],
+    "options_vi": [
+      "Xin lỗi, nhưng cho tớ chép vở hôm qua được không?",
+      "À, thật ra tớ sẽ chép vở.",
+      "Hay là chép vở thì sao?"
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là cách nói lịch sự để xin phép chép vở của bạn, thể hiện sự nhờ vả. Cụm \"悪いんだけど\" (xin lỗi nhưng mà) làm cho lời nhờ vả thêm phần lịch sự. Câu 2 là một lời thông báo về ý định của bản thân, không phải lời xin phép. Câu 3 là một lời gợi ý chung chung, không phù hợp với việc muốn mượn vở của bạn để chép.",
+    "q": 52
+  },
+  {
+    "situation": "友達が車椅子で坂を登るので、手伝いたいです。友達に何と言いますか？",
+    "situation_vi": "Bạn tôi đang lên dốc bằng xe lăn và tôi muốn giúp đỡ. Bạn sẽ nói gì với bạn mình?",
+    "options": [
+      "車椅子、押してもらえる？",
+      "車椅子、押そうか？",
+      "車椅子、押すのやめようか？"
+    ],
+    "options_vi": [
+      "Bạn đẩy xe lăn giúp tôi được không?",
+      "Tôi đẩy xe lăn giúp bạn nhé?",
+      "Chúng ta dừng đẩy xe lăn nhé?"
+    ],
+    "answer": 2,
+    "explanation": "Câu 2 là cách nói để đề nghị giúp đỡ người khác một cách tự nhiên và lịch sự (\"~ようか？\"). Câu 1 là hỏi người khác đẩy xe lăn cho mình, không phải mình giúp bạn. Câu 3 là đề nghị dừng việc đẩy xe lăn, không phù hợp với tình huống muốn giúp bạn lên dốc.",
+    "q": 53
+  },
+  {
+    "situation": "工場は危ないので、ヘルメットが必要です。後輩に注意します。何と言いますか？",
+    "situation_vi": "Nhà máy nguy hiểm nên cần đội mũ bảo hiểm. Tôi sẽ nhắc nhở hậu bối. Bạn sẽ nói gì?",
+    "options": [
+      "ヘルメット、かぶらないと。",
+      "ヘルメットはそこに返して。"
+    ],
+    "options_vi": [
+      "Phải đội mũ bảo hiểm đấy. (Nếu không đội mũ bảo hiểm thì...)",
+      "Hãy trả mũ bảo hiểm về chỗ đó."
+    ],
+    "answer": 1,
+    "explanation": "Câu 1 là cách nói rút gọn của \"ヘルメットをかぶらないといけない\" (phải đội mũ bảo hiểm) hoặc \"ヘルメットをかぶらないと危ない\" (nếu không đội mũ bảo hiểm thì nguy hiểm), dùng để nhắc nhở hoặc cảnh báo về một việc cần làm. Câu 2 là yêu cầu trả mũ bảo hiểm, không phải nhắc nhở đội mũ.",
+    "q": 54
+  },
+  {
+    "situation": "客がいて通れません。客に何と言いますか？",
+    "situation_vi": "Có khách hàng đang đứng chắn đường, không thể đi qua được. Bạn sẽ nói gì với khách hàng đó?",
+    "options": [
+      "すみません、通していただけますか？",
+      "どうぞお通りください。",
+      "通してくださってありがとうございます。"
+    ],
+    "options_vi": [
+      "Xin lỗi, bạn có thể cho tôi đi qua được không?",
+      "Mời bạn đi qua.",
+      "Cảm ơn bạn đã cho tôi đi qua."
+    ],
+    "answer": 1,
+    "explanation": "Trong tình huống này, bạn muốn đi qua nhưng có người đang chắn đường. Bạn cần lịch sự yêu cầu họ nhường đường. Câu 1 「すみません、通していただけますか？」 là cách nói lịch sự để yêu cầu người khác nhường đường cho mình đi qua. Câu 2 là lời mời người khác đi qua. Câu 3 là lời cảm ơn sau khi đã được nhường đường.",
+    "q": 55
+  },
+  {
+    "situation": "友達の服にケーキのクリームがつきそうです。友達に何と言いますか？",
+    "situation_vi": "Kem bánh ngọt sắp dính vào quần áo của bạn. Bạn sẽ nói gì với bạn mình?",
+    "options": [
+      "クリームつけなくちゃ。",
+      "クリームまだついてるよ。",
+      "クリームついちゃうよ。"
+    ],
+    "options_vi": [
+      "Phải bôi kem thôi.",
+      "Kem vẫn còn dính kìa.",
+      "Kem sẽ dính vào đấy!"
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là kem *sắp* dính vào quần áo, tức là bạn muốn cảnh báo bạn mình. Câu 3 「クリームついちゃうよ。」 sử dụng cấu trúc 「～ちゃう」 (viết tắt của ～てしまう) để diễn tả một hành động không mong muốn sắp xảy ra, rất phù hợp để cảnh báo. Câu 1 có nghĩa là 'phải bôi kem' hoặc 'phải thoa kem', không liên quan đến việc cảnh báo. Câu 2 có nghĩa là 'kem vẫn còn dính', ám chỉ kem đã dính rồi chứ không phải sắp dính.",
+    "q": 56
+  },
+  {
+    "situation": "電車で友達にカバンを網棚に置くようにアドバイスします。何と言いますか？",
+    "situation_vi": "Trên tàu, bạn muốn khuyên bạn để túi lên giá hành lý. Bạn sẽ nói gì?",
+    "options": [
+      "上のカバンの方がいい？",
+      "カバン、網棚に載せたら？",
+      "カバン、網棚に置くつもり？"
+    ],
+    "options_vi": [
+      "Cái túi phía trên tốt hơn à?",
+      "Hay để túi lên giá hành lý đi?",
+      "Bạn định để túi lên giá à?"
+    ],
+    "answer": 2,
+    "explanation": "Đưa lời khuyên nhẹ nhàng thì 「〜たら？」 phù hợp; câu 2 khuyên đặt túi lên giá hành lý.",
+    "q": 57
+  },
+  {
+    "situation": "柔道の教室を見つけました。練習の様子が見たいです。何と言いますか？",
+    "situation_vi": "Bạn tìm thấy một lớp judo và muốn xem buổi luyện tập. Bạn sẽ nói gì?",
+    "options": [
+      "練習を見てくださるんですか？",
+      "練習をご覧になってください。",
+      "練習を見学させていただけませんか？"
+    ],
+    "options_vi": [
+      "Thầy/cô sẽ xem buổi luyện tập giúp tôi ạ?",
+      "Xin hãy xem buổi luyện tập.",
+      "Tôi có thể được tham quan/xem buổi luyện tập không ạ?"
+    ],
+    "answer": 3,
+    "explanation": "Muốn xin phép xem luyện tập thì dùng 「見学させていただけませんか」.",
+    "q": 58,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "situation": "オフィスで、おしゃべりをしてうるさい人がいます。注意します。何と言いますか？",
+    "situation_vi": "Trong văn phòng có người nói chuyện ồn. Bạn muốn nhắc họ. Bạn sẽ nói gì?",
+    "options": [
+      "あの、小さい声で話してもらいたいんですけど。",
+      "あの、うるさくしてしまってすみません。",
+      "あの、静かにした方がいいでしょうか？"
+    ],
+    "options_vi": [
+      "Xin lỗi, anh/chị nói nhỏ hơn giúp tôi được không?",
+      "Xin lỗi vì tôi đã làm ồn.",
+      "Tôi nên giữ yên lặng hơn phải không?"
+    ],
+    "answer": 1,
+    "explanation": "Để nhắc người đang nói ồn, câu 1 vừa đúng ý vừa mềm: muốn họ nói nhỏ lại.",
+    "q": 59,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "situation": "駐車場で止められるところを探しています。今出そうな車を見つけました。何と言いますか？",
+    "situation_vi": "Bạn đang tìm chỗ đỗ xe và thấy một chiếc xe có vẻ sắp rời đi. Bạn sẽ nói gì?",
+    "options": [
+      "そこ、空くんじゃない？",
+      "そこに車はなさそうだよ。",
+      "そこには止まってる。"
+    ],
+    "options_vi": [
+      "Chỗ đó sắp trống đấy nhỉ?",
+      "Có vẻ chỗ đó không có xe đâu.",
+      "Ở đó đang có xe đỗ."
+    ],
+    "answer": 1,
+    "explanation": "Thấy xe có vẻ sắp đi ra thì 「そこ、空くんじゃない？」 là nhận xét phù hợp.",
+    "q": 60
+  },
+  {
+    "situation": "自己紹介をします。何と言いますか？",
+    "situation_vi": "Bạn sẽ giới thiệu bản thân. Bạn sẽ nói gì?",
+    "options": [
+      "佐藤をお呼びします。",
+      "佐藤と申します。",
+      "佐藤だとおっしゃっています。"
+    ],
+    "options_vi": [
+      "Tôi sẽ gọi Sato.",
+      "Tôi tên là Sato.",
+      "Anh ấy/cô ấy nói là Sato."
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là giới thiệu bản thân. Câu 2 \"佐藤と申します\" (Tôi tên là Sato) là cách nói khiêm tốn và lịch sự để giới thiệu tên của mình. Câu 1 là gọi người khác, câu 3 là nói về người khác.",
+    "q": 61
+  },
+  {
+    "situation": "外出していましたが、会社に帰ってきました。何と言いますか？",
+    "situation_vi": "Bạn đã ra ngoài nhưng đã quay trở lại công ty. Bạn sẽ nói gì?",
+    "options": [
+      "これから外出します。",
+      "今戻りました。",
+      "どうぞお気をつけて。"
+    ],
+    "options_vi": [
+      "Từ bây giờ tôi sẽ ra ngoài.",
+      "Tôi vừa mới về.",
+      "Xin hãy cẩn thận."
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là bạn đã trở về công ty sau khi ra ngoài. Câu 2 \"今戻りました\" (Tôi vừa mới về) là câu nói phù hợp nhất để thông báo việc mình đã quay lại. Câu 1 là nói sẽ đi ra ngoài, câu 3 là lời chúc khi tiễn người khác.",
+    "q": 62
+  },
+  {
+    "situation": "友達がケーキを出してくれました。甘いものが好きではありません。友達に何と言いますか？",
+    "situation_vi": "Bạn bè đã mời bạn bánh ngọt. Bạn không thích đồ ngọt. Bạn sẽ nói gì với bạn bè?",
+    "options": [
+      "甘いものは嫌いじゃないんだ。",
+      "甘いものほど好きなものはないんだ。",
+      "申し訳ありませんが、甘いものはちょっと。"
+    ],
+    "options_vi": [
+      "Tôi không ghét đồ ngọt đâu.",
+      "Không có gì tôi thích hơn đồ ngọt đâu.",
+      "Tôi xin lỗi, nhưng đồ ngọt thì..."
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn không thích đồ ngọt nhưng được bạn bè mời bánh. Câu 3 \"申し訳ありませんが、甘いものはちょっと\" là cách từ chối lịch sự, ngụ ý rằng bạn không thể ăn hoặc không thích đồ ngọt. Câu 1 và 2 đều thể hiện sự thích hoặc không ghét đồ ngọt, trái ngược với tình huống.",
+    "q": 63
+  },
+  {
+    "situation": "工場です。後輩に一緒に機械を運んでもらいたいです。何と言いますか？",
+    "situation_vi": "Ở nhà máy. Tôi muốn hậu bối giúp tôi cùng khiêng máy móc. Tôi sẽ nói gì?",
+    "options": [
+      "よかったら、一緒に運ぶよ。",
+      "これ運ぶから、そっち持って。",
+      "運ぶの、手伝ってやろうか。"
+    ],
+    "options_vi": [
+      "Nếu được thì tôi sẽ khiêng cùng cậu.",
+      "Tôi khiêng cái này, cậu cầm bên kia nhé.",
+      "Tôi giúp cậu khiêng nhé?"
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là người nói muốn hậu bối giúp mình khiêng máy. Câu 2 là cách người nói yêu cầu hậu bối giúp đỡ bằng cách chỉ định việc cần làm (\"cậu cầm bên kia\"). Các câu 1 và 3 đều là người nói đề nghị giúp đỡ người khác, không phải là yêu cầu giúp đỡ mình.",
+    "q": 64
+  },
+  {
+    "situation": "机を運びたいのですが、とても重いです。友達に何と言いますか？",
+    "situation_vi": "Tôi muốn khiêng cái bàn nhưng nó rất nặng. Tôi sẽ nói gì với bạn bè?",
+    "options": [
+      "手伝ってくれる？",
+      "手伝おうか？",
+      "手伝ってもいいよ。"
+    ],
+    "options_vi": [
+      "Cậu giúp tớ được không?",
+      "Tớ giúp cậu nhé?",
+      "Tớ giúp cậu cũng được đấy."
+    ],
+    "answer": 1,
+    "explanation": "Tình huống là người nói cần bạn bè giúp đỡ. Câu 1 là cách hỏi trực tiếp và tự nhiên để nhờ bạn bè giúp đỡ. Các câu 2 và 3 đều là người nói đề nghị giúp đỡ người khác, không phải là yêu cầu giúp đỡ mình.",
+    "q": 65
+  },
+  {
+    "situation": "お菓子を作りました。食べてもらいたいです。何と言いますか？",
+    "situation_vi": "Tôi đã làm bánh kẹo. Tôi muốn mọi người ăn chúng. Tôi sẽ nói gì?",
+    "options": [
+      "これ、召し上がってください。",
+      "では、食べさせてください。",
+      "甘いものは、ちょっと苦手なんだ。"
+    ],
+    "options_vi": [
+      "Xin mời quý vị dùng món này ạ.",
+      "Vậy thì, xin hãy cho tôi ăn.",
+      "Tôi không giỏi ăn đồ ngọt lắm."
+    ],
+    "answer": 1,
+    "explanation": "Tình huống là người nói muốn mời người khác ăn bánh kẹo mình làm. Câu 1 là cách mời lịch sự và phù hợp nhất. Câu 2 là người nói muốn được ăn, không phải mời người khác. Câu 3 là người nói bày tỏ sự không thích đồ ngọt, không liên quan đến việc mời ăn.",
+    "q": 66
+  },
+  {
+    "situation": "もう遅い時間です。店が開いているか店員に聞きます。何と言いますか？",
+    "situation_vi": "Đã muộn rồi. Bạn hỏi nhân viên cửa hàng xem cửa hàng có mở cửa không. Bạn sẽ nói gì?",
+    "options": [
+      "買い物は終わったんですか？",
+      "もう店に入れられますか？",
+      "まだやっていますか？"
+    ],
+    "options_vi": [
+      "Việc mua sắm đã xong rồi ạ?",
+      "Bây giờ có thể vào cửa hàng được không ạ?",
+      "Vẫn còn mở cửa không ạ?"
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn muốn hỏi xem cửa hàng có còn mở cửa không vì đã muộn. Câu 3 \"まだやっていますか？\" (Vẫn còn mở cửa không ạ?) là cách nói tự nhiên và phù hợp nhất để hỏi về giờ hoạt động của cửa hàng. Câu 1 hỏi về việc mua sắm đã xong chưa, không liên quan. Câu 2 hỏi có thể vào cửa hàng được không, nhưng \"まだやっていますか\" bao hàm ý nghĩa về việc cửa hàng có còn hoạt động hay không rõ ràng hơn.",
+    "q": 67
+  },
+  {
+    "situation": "コンビニの機械でコンサートのチケットを予約します。使い方がわかりません。店員に何と言いますか？",
+    "situation_vi": "Bạn muốn đặt vé concert bằng máy ở cửa hàng tiện lợi. Bạn không biết cách sử dụng. Bạn sẽ nói gì với nhân viên cửa hàng?",
+    "options": [
+      "どうやって予約するのか教えましょうか？",
+      "予約はどうすればいいんですか？",
+      "チケットを予約したらどうでしょうか？"
+    ],
+    "options_vi": [
+      "Tôi chỉ cho bạn cách đặt chỗ nhé?",
+      "Tôi phải làm thế nào để đặt chỗ ạ?",
+      "Nếu đặt vé thì sao ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là bạn không biết cách sử dụng máy để đặt vé và cần sự hướng dẫn từ nhân viên. Câu 2 \"予約はどうすればいいんですか？\" (Tôi phải làm thế nào để đặt chỗ ạ?) là cách hỏi trực tiếp và lịch sự để yêu cầu hướng dẫn. Câu 1 là lời đề nghị giúp đỡ từ phía nhân viên, không phải câu hỏi của khách hàng. Câu 3 là hỏi ý kiến hoặc đề xuất, không phải yêu cầu hướng dẫn.",
+    "q": 68
+  },
+  {
+    "situation": "レストランでスプーンが使いたいですが、ありません。店員に何と言いますか？",
+    "situation_vi": "Ở nhà hàng, bạn muốn dùng thìa nhưng không có. Bạn sẽ nói gì với nhân viên?",
+    "options": [
+      "あの、スプーンいただけますか？",
+      "あの、スプーンお使いください。",
+      "あの、スプーンありません。"
+    ],
+    "options_vi": [
+      "Xin lỗi, tôi có thể xin một cái thìa không?",
+      "Xin mời dùng thìa.",
+      "Không có thìa."
+    ],
+    "answer": 1,
+    "explanation": "Muốn xin nhân viên mang thìa thì 「いただけますか」 là cách hỏi lịch sự.",
+    "q": 69
+  },
+  {
+    "situation": "店で友達がTシャツを探しています。友達に良さそうなTシャツを見つけました。何と言いますか？",
+    "situation_vi": "Ở cửa hàng, bạn của bạn đang tìm áo phông. Bạn đã tìm thấy một chiếc áo phông có vẻ hợp với bạn ấy. Bạn sẽ nói gì?",
+    "options": [
+      "これ、着てみていい？",
+      "これ、買わない方がいいよ。",
+      "これ、いいんじゃない？"
+    ],
+    "options_vi": [
+      "Cái này, tôi thử xem có được không?",
+      "Cái này, đừng mua thì hơn.",
+      "Cái này, được đấy chứ?"
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn tìm thấy một chiếc áo phông đẹp và muốn gợi ý cho bạn mình. Câu 3 \"これ、いいんじゃない？\" (Cái này, được đấy chứ?) là cách nói tự nhiên và phù hợp nhất để đưa ra gợi ý tích cực. Câu 1 \"これ、着てみていい？\" là bạn hỏi để tự mình thử đồ. Câu 2 \"これ、買わない方がいいよ。\" là lời khuyên tiêu cực, không phù hợp với việc tìm thấy đồ \"có vẻ hợp\".",
+    "q": 70
+  },
+  {
+    "situation": "テストを返してもらいました。先生の点数の計算に間違いがありました。何と言いますか？",
+    "situation_vi": "Bạn đã được trả lại bài kiểm tra. Có một lỗi trong việc tính điểm của giáo viên. Bạn sẽ nói gì?",
+    "options": [
+      "あの、間違っているところを教えてください。",
+      "あの、点数の計算、もうやり直しません。",
+      "あの、点数の合計が合っていないと思うんですけど。"
+    ],
+    "options_vi": [
+      "Xin lỗi, xin hãy chỉ cho tôi chỗ bị sai (của tôi).",
+      "Xin lỗi, tôi sẽ không tính lại điểm nữa đâu.",
+      "Xin lỗi, tôi nghĩ tổng điểm không đúng ạ."
+    ],
+    "answer": 3,
+    "explanation": "Tình huống là bạn phát hiện lỗi trong cách tính điểm của giáo viên và cần thông báo một cách lịch sự. Câu 3 \"あの、点数の合計が合っていないと思うんですけど。\" (Xin lỗi, tôi nghĩ tổng điểm không đúng ạ.) là cách nói gián tiếp và lịch sự nhất để chỉ ra lỗi của người khác, đặc biệt là giáo viên. Câu 1 \"間違っているところを教えてください。\" thường dùng khi bạn muốn giáo viên chỉ ra lỗi trong bài làm của bạn. Câu 2 \"もうやり直しません。\" là một câu nói thô lỗ và không phù hợp.",
+    "q": 71
+  },
+  {
+    "situation": "来月、初めの1週間、休みを取りたいです。課長に何と言いますか？",
+    "situation_vi": "Tháng tới, bạn muốn nghỉ một tuần đầu tiên. Bạn sẽ nói gì với trưởng phòng?",
+    "options": [
+      "来月、初めの1週間、休んでもらえませんか？",
+      "来月、初めの1週間、休ませていただけませんか？"
+    ],
+    "options_vi": [
+      "Tháng tới, tuần đầu tiên, sếp có thể cho tôi nghỉ được không?",
+      "Tháng tới, tuần đầu tiên, sếp có thể cho phép tôi nghỉ được không ạ?"
+    ],
+    "answer": 2,
+    "explanation": "Tình huống là bạn muốn xin phép trưởng phòng nghỉ việc. Câu 2 \"休ませていただけませんか？\" sử dụng thể sai khiến bị động (休ませていただく) kết hợp với \"いただけませんか\" là cách nói cực kỳ lịch sự và phù hợp nhất khi xin phép cấp trên. Câu 1 \"休んでもらえませんか？\" có thể hiểu là \"Sếp có thể nghỉ giúp tôi được không?\" hoặc \"Sếp có thể cho phép tôi nghỉ được không?\" nhưng cách diễn đạt này không trang trọng và rõ ràng bằng câu 2 khi xin phép cấp trên.",
+    "q": 72
+  },
+  {
+    "situation": "先輩の家に遊びに来て、今帰ります。先輩に帰る前の挨拶をします。何と言いますか？",
+    "situation_vi": "Bạn đến nhà senpai chơi, bây giờ bạn về. Bạn sẽ chào senpai trước khi về. Bạn sẽ nói gì?",
+    "options": [
+      "行ってまいります。",
+      "お邪魔しました。",
+      "お気をつけてお帰りください。"
+    ],
+    "options_vi": [
+      "Tôi đi đây (và sẽ về).",
+      "Tôi đã làm phiền rồi ạ.",
+      "Xin hãy về cẩn thận."
+    ],
+    "answer": 2,
+    "explanation": "Khi rời khỏi nhà của người khác sau khi ghé thăm, câu \"お邪魔しました\" (Ojama shimashita) là cách nói lịch sự để bày tỏ lòng biết ơn vì đã được tiếp đón và xin lỗi vì đã làm phiền. Câu 1 \"行ってまいります\" dùng khi mình rời khỏi nhà mình để đi đâu đó và sẽ quay về. Câu 3 \"お気をつけてお帰りください\" là lời chúc người khác về nhà an toàn, thường là chủ nhà nói với khách.",
+    "q": 73
+  },
+  {
+    "situation": "荷物を持っていて手が使えません。部屋に入りたいです。何と言いますか？",
+    "situation_vi": "Bạn đang mang đồ nên không dùng tay được. Bạn muốn vào phòng. Bạn sẽ nói gì?",
+    "options": [
+      "あ、ドア、ちょっと押さえててくれる？",
+      "あ、ドア、閉めてくれない？",
+      "あ、ドア開けようか？"
+    ],
+    "options_vi": [
+      "À, bạn giữ cửa giúp tôi một chút được không?",
+      "À, bạn đóng cửa giúp tôi được không?",
+      "À, tôi mở cửa nhé?"
+    ],
+    "answer": 1,
+    "explanation": "Trong tình huống tay đang bận mang đồ và muốn vào phòng, bạn cần người khác giữ cửa giúp. Câu 1 \"あ、ドア、ちょっと押さえててくれる？\" (À, bạn giữ cửa giúp tôi một chút được không?) là lời nhờ vả phù hợp nhất. Câu 2 \"あ、ドア、閉めてくれない？\" (À, bạn đóng cửa giúp tôi được không?) là nhờ đóng cửa, không phù hợp khi muốn vào. Câu 3 \"あ、ドア開けようか？\" (À, tôi mở cửa nhé?) là lời đề nghị mở cửa cho người khác, không phải lời nhờ vả cho bản thân.",
+    "q": 74
+  },
+  {
+    "situation": "用事があるので自分だけ早く店を出ます。友達に何と言いますか？",
+    "situation_vi": "Vì có việc bận nên bạn sẽ rời cửa hàng sớm hơn một mình. Bạn sẽ nói gì với bạn bè?",
+    "options": [
+      "先に言ってもいいよ。",
+      "ゆっくりしてていい？",
+      "お先に失礼します。"
+    ],
+    "options_vi": [
+      "Bạn cứ đi trước cũng được.",
+      "Bạn cứ thong thả nhé?",
+      "Tôi xin phép về trước."
+    ],
+    "answer": 3,
+    "explanation": "Khi bạn cần rời đi trước những người khác vì có việc bận, câu \"お先に失礼します\" (Osaki ni shitsurei shimasu) là cách nói lịch sự và phù hợp nhất, có nghĩa là 'Tôi xin phép về trước'. Câu 1 \"先に言ってもいいよ\" (Saki ni itte mo ii yo) là lời cho phép người khác đi trước. Câu 2 \"ゆっくりしてていい？\" (Yukkuri shitete ii?) là lời hỏi xem người khác có muốn thong thả không, không liên quan đến việc bạn phải về sớm.",
+    "q": 75
+  },
+  {
+    "situation": "スポーツクラブの会員になりたいと思っている。その前に見学したい。",
+    "situation_vi": "Tôi muốn trở thành hội viên câu lạc bộ thể thao. Trước đó, tôi muốn đến tham quan.",
+    "options": [
+      "見学して いただけますか？",
+      "見学させて ほしいんですが。",
+      "見学すれば いいですか？"
+    ],
+    "options_vi": [
+      "Bạn có thể cho tôi tham quan được không?",
+      "Tôi muốn được tham quan.",
+      "Tôi có nên tham quan không?"
+    ],
+    "answer": 2,
+    "explanation": "Đáp án đúng là lựa chọn 2: 「見学させて ほしいんですが。」. Đây là cách nói tự nhiên và lịch sự để bày tỏ mong muốn được phép tham quan/kiến tập. Cấu trúc 「～させてほしい」 thể hiện mong muốn được người khác cho phép mình làm gì đó, và 「んですが」 ở cuối câu giúp làm mềm mại yêu cầu.\n\nCác lựa chọn còn lại:\n- Lựa chọn 1: 「見学して いただけますか？」 có nghĩa là \"Anh/chị có thể tham quan giúp tôi được không?\". Nó yêu cầu người nghe thực hiện hành động, không phải người nói.\n- Lựa chọn 3: 「見学すれば いいですか？」 có nghĩa là \"Tôi tham quan thì được chứ?\" hoặc \"Tôi tham quan là được phải không?\". Nó mang sắc thái hỏi xác nhận xem việc tham quan có phải là điều nên làm hay được phép làm không, không phải là cách trực tiếp và tự nhiên nhất để bày tỏ mong muốn được tham quan.",
+    "q": 76,
+    "answer_corrected_by_circle": true
+  },
+  {
+    "situation": "高校のクラス会で卒業後、久しぶりに先生に会いました。",
+    "situation_vi": "Trong buổi họp lớp cấp 3, sau khi tốt nghiệp, tôi đã gặp lại thầy giáo sau một thời gian dài.",
+    "options": [
+      "会えるのを 楽しみにしています。",
+      "ご無沙汰させて おります。",
+      "初めて お目にかかります。"
+    ],
+    "options_vi": [
+      "Tôi mong chờ được gặp thầy.",
+      "Lâu rồi không gặp thầy.",
+      "Đây là lần đầu tiên tôi gặp thầy."
+    ],
+    "answer": 2,
+    "explanation": "Câu 2 (ご無沙汰しております) là cách nói chuẩn mực để chào hỏi khi đã lâu không gặp ai đó, đặc biệt là người lớn tuổi hoặc có địa vị cao hơn. Câu 1 diễn tả sự mong đợi, thường dùng trước khi gặp. Câu 3 sai vì đã gặp thầy rồi.",
+    "q": 77
+  },
+  {
+    "situation": "友達が教室を出るところです。椅子に友達の上着があります。何と言いますか？",
+    "situation_vi": "Bạn của bạn đang ra khỏi lớp. Trên ghế có áo khoác của bạn ấy. Bạn sẽ nói gì?",
+    "options": [
+      "上着、置いていったら？",
+      "上着、取ってくれる？",
+      "上着、忘れてるよ。"
+    ],
+    "options_vi": [
+      "Hay để áo khoác lại đi?",
+      "Lấy áo khoác giúp mình được không?",
+      "Bạn quên áo khoác kìa."
+    ],
+    "answer": 3,
+    "explanation": "Bạn cần nhắc bạn mình đang quên áo khoác, nên câu 3 đúng nhất.",
+    "q": 78
+  },
+  {
+    "situation": "靴の踵が取れてしまいました。店の人に修理してもらいたいです。何と言いますか？",
+    "situation_vi": "Gót giày của bạn bị bung ra. Bạn muốn nhờ người của cửa hàng sửa giúp. Bạn sẽ nói gì?",
+    "options": [
+      "あの、この靴、直してほしいんですが。",
+      "あの、この靴、修理しましょうか。",
+      "あの、この靴、いただけますか。"
+    ],
+    "options_vi": [
+      "Xin lỗi, tôi muốn nhờ sửa đôi giày này.",
+      "Để tôi sửa đôi giày này nhé?",
+      "Tôi có thể nhận đôi giày này không?"
+    ],
+    "answer": 1,
+    "explanation": "Muốn nhờ cửa hàng sửa giày thì câu 1 dùng 「直してほしいんですが」 là phù hợp.",
+    "q": 79
+  },
+  {
+    "situation": "友達から折り紙を習っています。ここまでの折り方が正しいかどうか聞きたいです。何と言いますか？",
+    "situation_vi": "Bạn đang học gấp giấy từ bạn mình và muốn hỏi cách gấp đến đây có đúng không. Bạn sẽ nói gì?",
+    "options": [
+      "ちょっと折ってみて。",
+      "折り紙ある？",
+      "これでいい？"
+    ],
+    "options_vi": [
+      "Bạn thử gấp một chút đi.",
+      "Bạn có giấy origami không?",
+      "Như thế này được chưa?"
+    ],
+    "answer": 3,
+    "explanation": "Muốn hỏi cách gấp hiện tại đã đúng chưa thì 「これでいい？」 là tự nhiên nhất.",
+    "q": 80,
+    "answer_corrected_by_circle": true
+  }
+]

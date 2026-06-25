@@ -177,8 +177,10 @@ def stage_extract() -> None:
 
 # ============================ Gemini helper ============================
 
-def gemini_json(system: str, user: str, logger=print, images: list[str] | None = None) -> str:
-    keys, missing = _api_key_candidates(MODEL)
+def gemini_json(system: str, user: str, logger=print, images: list[str] | None = None,
+                model: str | None = None) -> str:
+    model = model or MODEL
+    keys, missing = _api_key_candidates(model)
     if not keys:
         raise RuntimeError(f"Chưa cấu hình {missing}. Hãy đặt biến môi trường GEMINI_API_KEY rồi chạy lại.")
     if images:
@@ -191,10 +193,10 @@ def gemini_json(system: str, user: str, logger=print, images: list[str] | None =
     for round_index in range(1, 5):
         wait = 0.0
         for key_name, api_key in _rotated_api_keys(keys):
-            cli = _client_for_model(MODEL, api_key, None)
+            cli = _client_for_model(model, api_key, None)
             try:
                 resp = cli.chat.completions.create(
-                    model=MODEL, temperature=0,
+                    model=model, temperature=0,
                     messages=[{"role": "system", "content": system}, {"role": "user", "content": user_content}],
                 )
                 _mark_key_success(keys, key_name)
