@@ -376,7 +376,7 @@ def _load_items() -> dict[int, dict]:
     return items
 
 
-def render_back(x: dict, ans: int, end_img: str) -> str:
+def render_back(x: dict, ans: int, end_img: str, audio: str = "") -> str:
     opts = x.get("options", []) or []; ovi = x.get("options_vi", []) or []
     lis = []
     for i, o in enumerate(opts, 1):
@@ -384,8 +384,10 @@ def render_back(x: dict, ans: int, end_img: str) -> str:
         st = "color:#1e8449;font-weight:bold" if i == ans else ""
         lis.append(f'<li style="{st}">{_esc(o)}{" ✅" if i==ans else ""}<br><span style="color:#777;font-size:0.9em">{_esc(v)}</span></li>')
     img = f'<img src="{end_img}" style="max-width:95%;max-height:300px"><br>' if end_img else ""
+    snd = f'🎧 [sound:{audio}]<br>' if audio else ""
     return ('<div style="text-align:left;max-width:640px;margin:auto">'
             f'{img}'
+            f'{snd}'
             f'<p><b>Tình huống:</b> {_esc(x.get("situation"))}<br><span style="color:#666">{_esc(x.get("situation_vi"))}</span></p>'
             f'<ol>{"".join(lis)}</ol>'
             f'<p><b>Đáp án:</b> <span style="color:#c0392b;font-weight:bold">{ans}</span> (khoanh đỏ trong video)</p>'
@@ -411,7 +413,7 @@ def _build_note(q: int, x: dict, model: str, ff: str, bf: str) -> dict:
     ans = _official(q, x.get("answer"))
     front = (f'<img src="{sf}" style="max-width:95%;max-height:320px"><br>'
              f'🎧 [sound:{af}]<br><b>Câu {q}</b><br>Nhìn tranh, nghe tình huống, chọn câu nói phù hợp: 1 / 2 / 3')
-    return {"deckName": DECK, "modelName": model, "fields": {ff: front, bf: render_back(x, ans, ef)},
+    return {"deckName": DECK, "modelName": model, "fields": {ff: front, bf: render_back(x, ans, ef, af)},
             "tags": ["n3-choukai-m4", "yt-import"], "options": {"allowDuplicate": True}}
 
 

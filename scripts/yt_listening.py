@@ -219,7 +219,7 @@ def _copy_media(src: Path, filename: str) -> None:
         shutil.copyfile(src, _media_dir() / filename)
 
 
-def render_back(x: dict, ans: int | None = None, end_img: str = "") -> str:
+def render_back(x: dict, ans: int | None = None, end_img: str = "", audio: str = "") -> str:
     if ans is None:
         ans = x.get("answer")
     opts = x.get("options", []) or []
@@ -232,9 +232,11 @@ def render_back(x: dict, ans: int | None = None, end_img: str = "") -> str:
         mark = " ✅" if correct else ""
         lis.append(f'<li style="{style}">{_esc(o)}{mark}<br><span style="color:#777;font-size:0.9em">{_esc(vi)}</span></li>')
     img = f'<img src="{end_img}" style="max-width:95%;max-height:300px"><br>' if end_img else ""
+    snd = f'🎧 [sound:{audio}]<br>' if audio else ""
     return (
         '<div style="text-align:left;max-width:640px;margin:auto">'
         f'{img}'
+        f'{snd}'
         f'<p><b>Câu mở đầu:</b> {_esc(x.get("prompt"))}<br>'
         f'<span style="color:#666">{_esc(x.get("prompt_vi"))}</span></p>'
         f'<ol>{"".join(lis)}</ol>'
@@ -316,7 +318,7 @@ def _build_note(q: int, x: dict, front_field: str, back_field: str) -> dict:
              'Nghe và chọn câu đáp lại tự nhiên nhất: 1 / 2 / 3')
     return {
         "deckName": DECK, "modelName": _MODEL,
-        "fields": {front_field: front, back_field: render_back(x, ans, ef)},
+        "fields": {front_field: front, back_field: render_back(x, ans, ef, af)},
         "tags": ["n3-choukai-m5", "yt-import"],
         "options": {"allowDuplicate": True},
     }
